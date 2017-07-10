@@ -1,5 +1,5 @@
 # iOS-Learning-Materials
-List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that I learnt or/and planning to learn. All the resources are split into sub-categories which simlifies navigstion and management.
+List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that I learnt or/and planning to learn. All the resources are split into sub-categories which simlifies navigation and management. Feel free to use and suggest something to learn (iOS related of course 😜)
 
 ## ARKit
 - Getting started with ARKit
