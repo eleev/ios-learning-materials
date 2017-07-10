@@ -35,3 +35,14 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 ## Clean Code
 - Keeping `View Controllers` skinny and weakly-connected to models
   - https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/
+
+
+## Swift 
+- Error Handling (Swift 3)
+  - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
+
+- Bindings and KVO alternatives
+  - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
+  - http://rasic.info/bindings-generics-swift-and-mvvm/
+  - http://five.agency/solving-the-binding-problem-with-swift/
+
