@@ -35,11 +35,40 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 ## Clean Code
 - Keeping `View Controllers` skinny and weakly-connected to models
   - https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/
+- Five sighns of code smell
+  - https://cocoacasts.com/five-signs-of-code-smell-in-swift/
+- Managing View Controllers With Container View Controllers
+  - https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/
+
+## App Distribution 
+- Cannot generate iOS App archive in xcode
+  - https://stackoverflow.com/questions/10715211/cannot-generate-ios-app-archive-in-xcode
+
+## Frameworks Development 
+- An Introduction to Creating and Distributing Embedded Frameworks in iOS
+  - http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/
+- Creating iOS/OSX Frameworks: is it necessary to codesign them before distributing to other developers?
+  - https://stackoverflow.com/questions/30963294/creating-ios-osx-frameworks-is-it-necessary-to-codesign-them-before-distributin
+
+## Git
+- A successful Git branching model
+  - http://nvie.com/posts/a-successful-git-branching-model/  
+- Introducing GitFlow
+  - https://datasift.github.io/gitflow/IntroducingGitFlow.html
+- Git-flow cheatsheet
+  - https://danielkummer.github.io/git-flow-cheatsheet/ 
+- Branching
+  - https://gist.github.com/digitaljhelms/4287848
+
+## Design Patterns 
+- MVC-N
+  - https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d
 
 
 ## Swift 
 - Error Handling (Swift 3)
   - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
+  - https://news.realm.io/news/slug-marcus-zarra-exploring-mvcn-swift/
 
 - Bindings and KVO alternatives
   - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
