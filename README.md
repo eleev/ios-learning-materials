@@ -27,6 +27,8 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Line drawing App](https://github.com/lapfelix/ARKit-line-drawing)
 - [Example by Apple that demostrates how to place virtual objects in augmented reality](https://github.com/gao0122/ARKit-Example-by-Apple)
 - [Classic Tetris App](https://github.com/exyte/ARTetris)
+- [Cubes in Space](https://github.com/RPasecky/CubesInSpace)
+- [AR Trees](https://github.com/jquave/ARTrees)
 
 ## SceneKit
 - Physically Based Rendering Using the New iOS 10 SceneKit
@@ -90,6 +92,9 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - Error Handling (Swift 3)
   - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
   - https://news.realm.io/news/slug-marcus-zarra-exploring-mvcn-swift/
+- Encoding and Decoding in Swift 4
+  - https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862
+  - https://github.com/ole/whats-new-in-swift-4/blob/master/Whats-new-in-Swift-4.playground/Pages/Encoding%20and%20decoding.xcplaygroundpage/Contents.swift
 
 - Bindings and KVO alternatives
   - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
