@@ -8,6 +8,10 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - Getting started with ARKit
   - https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59
   - https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec
+- Understanding augmented reality 
+  - https://developer.apple.com/documentation/arkit/understanding_augmented_reality
+- Building a Basic AR Experience
+  - https://developer.apple.com/documentation/arkit/building_a_basic_ar_experience
 
 #### Code 
 
