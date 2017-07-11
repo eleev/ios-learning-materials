@@ -79,3 +79,9 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
   - http://rasic.info/bindings-generics-swift-and-mvvm/
   - http://five.agency/solving-the-binding-problem-with-swift/
 
+## Computer Graphics 
+- BASIC THEORY OF PHYSICALLY-BASED RENDERING
+  - https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/
+- PHYSICALLY-BASED RENDERING, AND YOU CAN TOO!
+  - https://www.marmoset.co/posts/physically-based-rendering-and-you-can-too/
+
