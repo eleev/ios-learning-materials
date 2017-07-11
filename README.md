@@ -4,13 +4,11 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 ## ARKit
 
 #### Reading 
-
 - Getting started with ARKit
   - https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59
   - https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec
 
 #### Documentation 
-
 - ARKit Official Documentation 
   - https://developer.apple.com/documentation/arkit
 - Understanding augmented reality 
@@ -21,7 +19,6 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
   - https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal
 
 #### Code 
-
 - [Lava Project](https://github.com/arirawr/ARKit-FloorIsLava)
 - [Example App with horizontal planes and physics cubes](https://github.com/markdaws/arkit-by-example)
 - [Example App that allows to draw in 3D space](https://github.com/laanlabs/ARBrush)
@@ -35,15 +32,16 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - Physically Based Rendering Using the New iOS 10 SceneKit
   - https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021
 
+## SpriteKit
+- Using SpriteKit to create animations in Swift
+  - https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift
 
 ## CoreLocation 
-
 - Magnetic Heading sample code for iOS
   - https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios
 
 
 ## CocoaPods
-
 - Installing the same Pod for multiple targets
   - https://www.natashatherobot.com/cocoapods-installing-same-pod-multiple-targets/
 
@@ -78,6 +76,14 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 ## Design Patterns 
 - MVC-N
   - https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d
+- Monad
+  - https://en.wikipedia.org/wiki/Monad_(functional_programming)
+  - http://chris.eidhof.nl/post/monads-in-swift/
+  - http://www.javiersoto.me/post/106875422394
+
+## Asset Catalog
+- Asset catalog changes in Xcode 9
+  - http://martiancraft.com/blog/2017/06/xcode9-assets/
 
 
 ## Swift 
