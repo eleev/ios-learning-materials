@@ -37,6 +37,13 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 ## SceneKit
 - Physically Based Rendering Using the New iOS 10 SceneKit
   - https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021
+- How to get the real position of a sub node in SceneKit after rotation?
+  - https://stackoverflow.com/questions/26785453/how-to-get-the-real-position-of-a-sub-node-in-scenekit-after-rotation
+- Transfer global to local node position in SceneKit
+  - https://stackoverflow.com/questions/28064427/transfer-global-to-local-node-position-in-scenekit
+- SCNNode
+  - https://developer.apple.com/documentation/scenekit/scnnode#//apple_ref/occ/instm/SCNNode/convertPosition:toNode:
+
 
 ## SpriteKit
 - Using SpriteKit to create animations in Swift
