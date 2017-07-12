@@ -50,7 +50,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 ## Clean Code
 - [Keeping `View Controllers` skinny and weakly-connected to models](https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/)
-- (Five sighns of code smell)[https://cocoacasts.com/five-signs-of-code-smell-in-swift/]
+- [Five sighns of code smell](https://cocoacasts.com/five-signs-of-code-smell-in-swift/)
 - [Managing View Controllers With Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
 
 ## App Distribution 
@@ -69,7 +69,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 ## Design Patterns 
 
 #### MVC-N
--[MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
+- [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
 
 #### Monad
 - [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
