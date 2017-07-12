@@ -45,17 +45,13 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 
 ## SpriteKit
-- Using SpriteKit to create animations in Swift
-  - https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift
+- [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
 
 ## CoreLocation 
-- Magnetic Heading sample code for iOS
-  - https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios
-
+- [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
 
 ## CocoaPods
-- Installing the same Pod for multiple targets
-  - https://www.natashatherobot.com/cocoapods-installing-same-pod-multiple-targets/
+- [Installing the same Pod for multiple targets](https://www.natashatherobot.com/cocoapods-installing-same-pod-multiple-targets/)
 
 ## Clean Code
 - Keeping `View Controllers` skinny and weakly-connected to models
@@ -114,8 +110,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
   - http://five.agency/solving-the-binding-problem-with-swift/
 
 ## Computer Graphics 
-- BASIC THEORY OF PHYSICALLY-BASED RENDERING
-  - https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/
-- PHYSICALLY-BASED RENDERING, AND YOU CAN TOO!
-  - https://www.marmoset.co/posts/physically-based-rendering-and-you-can-too/
+- [BASIC THEORY OF PHYSICALLY-BASED RENDERING](https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/)
+- [PHYSICALLY-BASED RENDERING, AND YOU CAN TOO!](https://www.marmoset.co/posts/physically-based-rendering-and-you-can-too/)
+
 
