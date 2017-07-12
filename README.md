@@ -9,14 +9,10 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
   - https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec
 
 #### Documentation 
-- ARKit Official Documentation 
-  - https://developer.apple.com/documentation/arkit
-- Understanding augmented reality 
-  - https://developer.apple.com/documentation/arkit/understanding_augmented_reality
-- Building a Basic AR Experience
-  - https://developer.apple.com/documentation/arkit/building_a_basic_ar_experience
-- Displaying an AR experience with Metal
-  - https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal
+- [ARKit Official Documentation](https://developer.apple.com/documentation/arkit)
+- [Understanding augmented reality](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
+- [Building a Basic AR Experience](https://developer.apple.com/documentation/arkit/building_a_basic_ar_experience)
+- [Displaying an AR experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal)
 
 #### Code 
 - [Lava Project](https://github.com/arirawr/ARKit-FloorIsLava)
@@ -31,8 +27,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [AR Trees](https://github.com/jquave/ARTrees)
 
 ## Vision framework
-- iOS 11 Tutorial: Vision framework
-  - https://medium.com/@kravik/ios-11-tutorial-vision-framework-3c836d5ecadd
+- [iOS 11 Tutorial: Vision framework](https://medium.com/@kravik/ios-11-tutorial-vision-framework-3c836d5ecadd)
 
 ## SceneKit
 - [Physically Based Rendering Using the New iOS 10 SceneKit](https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021)
@@ -54,45 +49,35 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Installing the same Pod for multiple targets](https://www.natashatherobot.com/cocoapods-installing-same-pod-multiple-targets/)
 
 ## Clean Code
-- Keeping `View Controllers` skinny and weakly-connected to models
-  - https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/
-- Five sighns of code smell
-  - https://cocoacasts.com/five-signs-of-code-smell-in-swift/
-- Managing View Controllers With Container View Controllers
-  - https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/
+- [Keeping `View Controllers` skinny and weakly-connected to models](https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/)
+- (Five sighns of code smell)[https://cocoacasts.com/five-signs-of-code-smell-in-swift/]
+- [Managing View Controllers With Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
 
 ## App Distribution 
-- Cannot generate iOS App archive in xcode
-  - https://stackoverflow.com/questions/10715211/cannot-generate-ios-app-archive-in-xcode
+- [Cannot generate iOS App archive in xcode](https://stackoverflow.com/questions/10715211/cannot-generate-ios-app-archive-in-xcode)
 
 ## Frameworks Development 
-- An Introduction to Creating and Distributing Embedded Frameworks in iOS
-  - http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/
-- Creating iOS/OSX Frameworks: is it necessary to codesign them before distributing to other developers?
-  - https://stackoverflow.com/questions/30963294/creating-ios-osx-frameworks-is-it-necessary-to-codesign-them-before-distributin
+- [An Introduction to Creating and Distributing Embedded Frameworks in iOS](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
+- [Creating iOS/OSX Frameworks: is it necessary to codesign them before distributing to other developers?](https://stackoverflow.com/questions/30963294/creating-ios-osx-frameworks-is-it-necessary-to-codesign-them-before-distributin)
 
 ## Git
-- A successful Git branching model
-  - http://nvie.com/posts/a-successful-git-branching-model/  
-- Introducing GitFlow
-  - https://datasift.github.io/gitflow/IntroducingGitFlow.html
-- Git-flow cheatsheet
-  - https://danielkummer.github.io/git-flow-cheatsheet/ 
-- Branching
-  - https://gist.github.com/digitaljhelms/4287848
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+- [Git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+- [Branching](https://gist.github.com/digitaljhelms/4287848)
 
 ## Design Patterns 
-- MVC-N
-  - https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d
-- Monad
-  - https://en.wikipedia.org/wiki/Monad_(functional_programming)
-  - http://chris.eidhof.nl/post/monads-in-swift/
-  - http://www.javiersoto.me/post/106875422394
+
+#### MVC-N
+-[MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
+
+#### Monad
+- [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
+- [Monads in Swift](http://chris.eidhof.nl/post/monads-in-swift/)
+- [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
 
 ## Asset Catalog
-- Asset catalog changes in Xcode 9
-  - http://martiancraft.com/blog/2017/06/xcode9-assets/
-
+- [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
 
 ## Swift 
 - Error Handling (Swift 3)
