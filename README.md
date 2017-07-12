@@ -35,14 +35,13 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
   - https://medium.com/@kravik/ios-11-tutorial-vision-framework-3c836d5ecadd
 
 ## SceneKit
-- Physically Based Rendering Using the New iOS 10 SceneKit
-  - https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021
-- How to get the real position of a sub node in SceneKit after rotation?
-  - https://stackoverflow.com/questions/26785453/how-to-get-the-real-position-of-a-sub-node-in-scenekit-after-rotation
-- Transfer global to local node position in SceneKit
-  - https://stackoverflow.com/questions/28064427/transfer-global-to-local-node-position-in-scenekit
-- SCNNode
-  - https://developer.apple.com/documentation/scenekit/scnnode#//apple_ref/occ/instm/SCNNode/convertPosition:toNode:
+- [Physically Based Rendering Using the New iOS 10 SceneKit](https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021)
+- [How to get the real position of a sub node in SceneKit after rotation?](https://stackoverflow.com/questions/26785453/how-to-get-the-real-position-of-a-sub-node-in-scenekit-after-rotation)
+- [Transfer global to local node position in SceneKit](https://stackoverflow.com/questions/28064427/transfer-global-to-local-node-position-in-scenekit)
+- [SCNNode](https://developer.apple.com/documentation/scenekit/scnnode#//apple_ref/occ/instm/SCNNode/convertPosition:toNode:)
+- [3D with SceneKit](http://ronnqvi.st/3d-with-scenekit/)
+- [The math behind transforms](http://ronnqvi.st/the-math-behind-transforms/)
+- [SceneKit game architecture](https://stackoverflow.com/questions/43081988/scenekit-game-architecture)
 
 
 ## SpriteKit
