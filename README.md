@@ -30,6 +30,10 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Cubes in Space](https://github.com/RPasecky/CubesInSpace)
 - [AR Trees](https://github.com/jquave/ARTrees)
 
+## Vision framework
+- iOS 11 Tutorial: Vision framework
+  - https://medium.com/@kravik/ios-11-tutorial-vision-framework-3c836d5ecadd
+
 ## SceneKit
 - Physically Based Rendering Using the New iOS 10 SceneKit
   - https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021
@@ -96,6 +100,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
   - https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862
   - https://github.com/ole/whats-new-in-swift-4/blob/master/Whats-new-in-Swift-4.playground/Pages/Encoding%20and%20decoding.xcplaygroundpage/Contents.swift
   - https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
+  - http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
 
 - Bindings and KVO alternatives
   - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
