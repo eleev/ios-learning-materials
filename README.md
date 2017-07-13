@@ -120,3 +120,17 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [PHYSICALLY-BASED RENDERING, AND YOU CAN TOO!](https://www.marmoset.co/posts/physically-based-rendering-and-you-can-too/)
 
 
+## Machine Learning 
+
+- [Keras: The Python Deep Learning library](https://keras.io)
+- [SET-UP YOUR MAC FOR DEEP LEARNING WITH PYTHON, TENSORFLOW AND KERAS](https://www.dataweekends.com/blog/2017/03/09/set-up-your-mac-for-deep-learning-with-python-keras-and-tensorflow)
+
+#### Tools
+- [Anaconda - is the world’s most popular and trusted data science ecosystem.](https://www.continuum.io)
+- [TensorFlow - An open-source software library for Machine Intelligence](https://www.tensorflow.org)
+- [Caffe - Caffe is a deep learning framework made with expression, speed, and modularity in mind](http://caffe.berkeleyvision.org)
+- [Keras - Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.](https://github.com/fchollet/keras)
+
+#### Videos
+- [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
+- [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
