@@ -29,6 +29,8 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
  #### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
+ - [Swift ARKit (Augmented Reality) Tutorial](https://www.youtube.com/watch?v=tgPV_cRf2hA)
+ - []()
 
 ## Vision framework
 
