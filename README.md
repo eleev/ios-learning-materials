@@ -1,5 +1,5 @@
 # iOS-Learning-Materials
-List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that I learnt or/and planning to learn. All the resources are split into sub-categories which simlifies navigation and management. Feel free to use and suggest something to learn (iOS related of course 😜). You may see some non-directly related topics such as `Computer Graphics` or `Design Patterns` - these are actually related, in some ways, to `iOS` development, but in a much broader way.
+List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that I learnt or/and planning to learn. All the resources are split into sub-categories which simlifies navigation and management. Feel free to use and suggest something to learn (iOS related of course 😜). You may see some non-directly related topics such as `Computer Graphics`, `Machine Learning` or `Design Patterns` - these are actually related, in some ways, to `iOS` development, but in a much broader way.
 
 ## ARKit
 
@@ -95,6 +95,19 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 #### MVC-N
 - [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
+
+#### MVVM-C
+- [MVVM-C with Swift](https://marcosantadev.com/mvvmc-with-swift/)
+- [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
+- [UIKonf 2016 – Day 1– Steve "Scotty" Scott – MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
+
+#### Delegate
+- [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
+
+#### Multicast Delegate
+- [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
+- [Multicast on Swift 3 and MVVM-C](https://medium.com/@ivan_m/multicast-on-swift-3-and-mvvm-c-ff74ce802bcc)
+- [GitHub Code Example](https://gist.github.com/shaulhameed/c9c512a3eed4b4776bb3a209fccd339e)
 
 #### Monad
 - [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
