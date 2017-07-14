@@ -101,6 +101,14 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 - [UIKonf 2016 – Day 1– Steve "Scotty" Scott – MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
 
+#### MVVM
+- [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
+- [An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
+- [Swift and ModelView-View-Model in Practive](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
+- [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
+- [MVVM in Swift](https://medium.com/@shenghuawu/mvvm-in-swift-bfe2b7c1d7a4)
+- []()
+
 #### Delegate
 - [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
 
