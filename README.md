@@ -153,6 +153,11 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 #### Reading 
 - [Keras: The Python Deep Learning library](https://keras.io)
 - [SET-UP YOUR MAC FOR DEEP LEARNING WITH PYTHON, TENSORFLOW AND KERAS](https://www.dataweekends.com/blog/2017/03/09/set-up-your-mac-for-deep-learning-with-python-keras-and-tensorflow)
+- [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
+- [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
+
+#### Code
+- [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
 
 #### Tools
 - [Anaconda - is the world’s most popular and trusted data science ecosystem.](https://www.continuum.io)
