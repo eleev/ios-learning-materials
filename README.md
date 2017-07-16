@@ -107,7 +107,6 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Swift and ModelView-View-Model in Practive](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
 - [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
 - [MVVM in Swift](https://medium.com/@shenghuawu/mvvm-in-swift-bfe2b7c1d7a4)
-- []()
 
 #### Delegate
 - [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
@@ -127,6 +126,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 ## UIKit
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
+- [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
 
 ## Swift 
 - Error Handling (Swift 3)
@@ -138,6 +138,8 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
   - https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
   - http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
 
+- [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
+
 - Bindings and KVO alternatives
   - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
   - http://rasic.info/bindings-generics-swift-and-mvvm/
@@ -147,6 +149,8 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [BASIC THEORY OF PHYSICALLY-BASED RENDERING](https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/)
 - [PHYSICALLY-BASED RENDERING, AND YOU CAN TOO!](https://www.marmoset.co/posts/physically-based-rendering-and-you-can-too/)
 
+## iOS Development
+- [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f)
 
 ## Machine Learning 
 
@@ -155,6 +159,8 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [SET-UP YOUR MAC FOR DEEP LEARNING WITH PYTHON, TENSORFLOW AND KERAS](https://www.dataweekends.com/blog/2017/03/09/set-up-your-mac-for-deep-learning-with-python-keras-and-tensorflow)
 - [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
 - [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
+- [Apple’s deep learning frameworks: BNNS vs. Metal CNN](http://machinethink.net/blog/apple-deep-learning-bnns-versus-metal-cnn/)
+- [Convolutional neural networks on the iPhone with VGGNet](http://machinethink.net/blog/convolutional-neural-networks-on-the-iphone-with-vggnet/)
 
 #### Code
 - [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
