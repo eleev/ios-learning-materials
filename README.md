@@ -164,3 +164,4 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 #### Videos
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 - [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
+- [Deep Learning Frameworks Compared](https://youtu.be/MDP9FfsNx60)
