@@ -161,6 +161,8 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Getting started with TensorFlow on iOS](http://machinethink.net/blog/tensorflow-on-ios/)
 - [Apple’s deep learning frameworks: BNNS vs. Metal CNN](http://machinethink.net/blog/apple-deep-learning-bnns-versus-metal-cnn/)
 - [Convolutional neural networks on the iPhone with VGGNet](http://machinethink.net/blog/convolutional-neural-networks-on-the-iphone-with-vggnet/)
+- [Getting Started with Deep MNIST and TensorFlow on iOS
+](http://www.mattrajca.com/2016/11/25/getting-started-with-deep-mnist-and-tensorflow-on-ios.html)
 
 #### Code
 - [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
