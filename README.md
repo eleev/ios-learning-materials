@@ -164,9 +164,12 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Convolutional neural networks on the iPhone with VGGNet](http://machinethink.net/blog/convolutional-neural-networks-on-the-iphone-with-vggnet/)
 - [Getting Started with Deep MNIST and TensorFlow on iOS
 ](http://www.mattrajca.com/2016/11/25/getting-started-with-deep-mnist-and-tensorflow-on-ios.html)
+- [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
+- [Develop Your First Neural Network in Python With Keras Step-By-Step](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 
 #### Code
 - [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
+- ["Hello world" in keras](https://github.com/fastforwardlabs/keras-hello-world/blob/master/kerashelloworld.ipynb)
 
 #### Tools
 - [Anaconda - is the world’s most popular and trusted data science ecosystem.](https://www.continuum.io)
@@ -174,6 +177,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Caffe - Caffe is a deep learning framework made with expression, speed, and modularity in mind](http://caffe.berkeleyvision.org)
 - [Keras - Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.](https://github.com/fchollet/keras)
 - [coremltools is a python package for creating, examining, and testing models in the .mlmodel format. ](https://pypi.python.org/pypi/coremltools)
+- [5 Genius Python Deep Learning Libraries](https://elitedatascience.com/python-deep-learning-libraries#keras)
 
 #### Videos
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
