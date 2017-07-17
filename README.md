@@ -151,6 +151,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 ## iOS Development
 - [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f)
+- [On-Demand Resources in iOS Tutorial](https://www.raywenderlich.com/160049/demand-resources-ios-tutorial)
 
 ## Machine Learning 
 
