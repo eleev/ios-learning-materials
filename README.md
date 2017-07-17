@@ -170,7 +170,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [TensorFlow - An open-source software library for Machine Intelligence](https://www.tensorflow.org)
 - [Caffe - Caffe is a deep learning framework made with expression, speed, and modularity in mind](http://caffe.berkeleyvision.org)
 - [Keras - Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.](https://github.com/fchollet/keras)
-- [coremltools in a python package for creating, examining, and testing models in the .mlmodel format. ](https://pypi.python.org/pypi/coremltools)
+- [coremltools is a python package for creating, examining, and testing models in the .mlmodel format. ](https://pypi.python.org/pypi/coremltools)
 
 #### Videos
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
