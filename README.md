@@ -3,18 +3,18 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 ## ARKit
 
-#### Reading 
+### Reading 
 - Getting started with ARKit
   - https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59
   - https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec
 
-#### Documentation 
+### Documentation 
 - [ARKit Official Documentation](https://developer.apple.com/documentation/arkit)
 - [Understanding augmented reality](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
 - [Building a Basic AR Experience](https://developer.apple.com/documentation/arkit/building_a_basic_ar_experience)
 - [Displaying an AR experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal)
 
-#### Code 
+### Code 
 - [Lava Project](https://github.com/arirawr/ARKit-FloorIsLava)
 - [Example App with horizontal planes and physics cubes](https://github.com/markdaws/arkit-by-example)
 - [Example App that allows to draw in 3D space](https://github.com/laanlabs/ARBrush)
@@ -27,26 +27,26 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [AR Trees](https://github.com/jquave/ARTrees)
 - [Create an anchor on the QR marker plane](https://github.com/eugenebokhan/ARKit-QRMarker)
 
- #### Video
+ ### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
  - [Swift ARKit (Augmented Reality) Tutorial](https://www.youtube.com/watch?v=tgPV_cRf2hA)
  - []()
 
 ## Vision framework
 
-#### Reading 
+### Reading 
 - [iOS 11 Tutorial: Vision framework](https://medium.com/@kravik/ios-11-tutorial-vision-framework-3c836d5ecadd)
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 - [Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
 - [Swift World: What’s new in iOS 11 — Vision](https://medium.com/compileswift/swift-world-whats-new-in-ios-11-vision-456ba4156bad)
 
-#### Code
+### Code
 - [Face Cropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper)
 - [Hello Vision: Vision framework example](https://github.com/SwiftBrain/HelloVision)
 - [iOS11 demo application for flower classification](https://github.com/cocoa-ai/FlowersVisionDemo)
 - [iOS11 demo application for dominant objects detection](https://github.com/cocoa-ai/InceptionVisionDemo)
 
-#### Video
+### Video
 - [Super Impressive and Easy Face Detection using Vision API in Swift 4](https://www.youtube.com/watch?v=d0U5j89M6aI)
 
 
@@ -94,30 +94,30 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 ## Design Patterns 
 
-#### MVC-N
+### MVC-N
 - [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
 
-#### MVVM-C
+### MVVM-C
 - [MVVM-C with Swift](https://marcosantadev.com/mvvmc-with-swift/)
 - [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 - [UIKonf 2016 – Day 1– Steve "Scotty" Scott – MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
 
-#### MVVM
+### MVVM
 - [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
 - [An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
 - [Swift and ModelView-View-Model in Practive](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
 - [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
 - [MVVM in Swift](https://medium.com/@shenghuawu/mvvm-in-swift-bfe2b7c1d7a4)
 
-#### Delegate
+### Delegate
 - [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
 
-#### Multicast Delegate
+### Multicast Delegate
 - [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
 - [Multicast on Swift 3 and MVVM-C](https://medium.com/@ivan_m/multicast-on-swift-3-and-mvvm-c-ff74ce802bcc)
 - [GitHub Code Example](https://gist.github.com/shaulhameed/c9c512a3eed4b4776bb3a209fccd339e)
 
-#### Monad
+### Monad
 - [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 - [Monads in Swift](http://chris.eidhof.nl/post/monads-in-swift/)
 - [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
@@ -156,7 +156,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 ## Machine Learning 
 
-#### Reading 
+### Reading 
 - [Keras: The Python Deep Learning library](https://keras.io)
 - [SET-UP YOUR MAC FOR DEEP LEARNING WITH PYTHON, TENSORFLOW AND KERAS](https://www.dataweekends.com/blog/2017/03/09/set-up-your-mac-for-deep-learning-with-python-keras-and-tensorflow)
 - [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
@@ -168,11 +168,11 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
 - [Develop Your First Neural Network in Python With Keras Step-By-Step](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 
-#### Code
+### Code
 - [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
 - ["Hello world" in keras](https://github.com/fastforwardlabs/keras-hello-world/blob/master/kerashelloworld.ipynb)
 
-#### Tools
+### Tools
 - [Anaconda - is the world’s most popular and trusted data science ecosystem.](https://www.continuum.io)
 - [TensorFlow - An open-source software library for Machine Intelligence](https://www.tensorflow.org)
 - [Caffe - Caffe is a deep learning framework made with expression, speed, and modularity in mind](http://caffe.berkeleyvision.org)
@@ -180,7 +180,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [coremltools is a python package for creating, examining, and testing models in the .mlmodel format. ](https://pypi.python.org/pypi/coremltools)
 - [5 Genius Python Deep Learning Libraries](https://elitedatascience.com/python-deep-learning-libraries#keras)
 
-#### Videos
+### Videos
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 - [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 - [Deep Learning Frameworks Compared](https://youtu.be/MDP9FfsNx60)
