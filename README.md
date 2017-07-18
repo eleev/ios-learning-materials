@@ -62,11 +62,13 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [3D with SceneKit](http://ronnqvi.st/3d-with-scenekit/)
 - [The math behind transforms](http://ronnqvi.st/the-math-behind-transforms/)
 - [SceneKit game architecture](https://stackoverflow.com/questions/43081988/scenekit-game-architecture)
+- [How to rotate object in a scene with pan gesture - SceneKit](https://stackoverflow.com/questions/35194914/how-to-rotate-object-in-a-scene-with-pan-gesture-scenekit)
 
 
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
 - [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
+- [SpriteKit with Swift: Orienting Sprites to a Location](https://dezwitter.wordpress.com/2015/02/05/spritekit-with-swift-orienting-sprites-to-a-location/)
 
 ## CoreLocation 
 - [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
