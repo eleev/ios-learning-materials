@@ -66,6 +66,7 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
+- [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
 
 ## CoreLocation 
 - [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
