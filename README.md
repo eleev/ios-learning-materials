@@ -62,6 +62,9 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [The math behind transforms](http://ronnqvi.st/the-math-behind-transforms/)
 - [SceneKit game architecture](https://stackoverflow.com/questions/43081988/scenekit-game-architecture)
 - [How to rotate object in a scene with pan gesture - SceneKit](https://stackoverflow.com/questions/35194914/how-to-rotate-object-in-a-scene-with-pan-gesture-scenekit)
+- [Introduction To SceneKit – Part 1](https://www.weheartswift.com/introduction-scenekit-part-1/)
+- [Introduction To SceneKit – Part 2](https://www.weheartswift.com/introduction-scenekit-part-2/)
+- [Introduction To SceneKit – Part 3](https://www.weheartswift.com/introduction-scenekit-part-3/)
 
 
 ## SpriteKit
