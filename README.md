@@ -30,7 +30,6 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
  ### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
  - [Swift ARKit (Augmented Reality) Tutorial](https://www.youtube.com/watch?v=tgPV_cRf2hA)
- - []()
 
 ## Vision framework
 
@@ -169,10 +168,13 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 ](http://www.mattrajca.com/2016/11/25/getting-started-with-deep-mnist-and-tensorflow-on-ios.html)
 - [Use TensorFlow and BNNS to Add Machine Learning to your Mac or iOS App](https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/)
 - [Develop Your First Neural Network in Python With Keras Step-By-Step](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+- [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
+- [Keras Deep Learning with Apple’s CoreMLTools on iOS 11](https://amundtveit.com/2017/06/07/keras-deep-learning-with-apples-coremltools-on-ios-11-part-1/)
 
 ### Code
 - [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
 - ["Hello world" in keras](https://github.com/fastforwardlabs/keras-hello-world/blob/master/kerashelloworld.ipynb)
+- [TensorFlow on iOS demo](https://github.com/hollance/TensorFlow-iOS-Example)
 
 ### Tools
 - [Anaconda - is the world’s most popular and trusted data science ecosystem.](https://www.continuum.io)
