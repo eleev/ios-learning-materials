@@ -65,6 +65,8 @@ List of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `G
 - [Introduction To SceneKit – Part 1](https://www.weheartswift.com/introduction-scenekit-part-1/)
 - [Introduction To SceneKit – Part 2](https://www.weheartswift.com/introduction-scenekit-part-2/)
 - [Introduction To SceneKit – Part 3](https://www.weheartswift.com/introduction-scenekit-part-3/)
+- [Custom SceneKit Geometry](http://ronnqvi.st/custom-scenekit-geometry/)
+- [An Introduction to SceneKit: User Interaction, Animations & Physics](https://code.tutsplus.com/tutorials/an-introduction-to-scenekit-user-interaction-animations-physics--cms-23877)
 
 
 ## SpriteKit
