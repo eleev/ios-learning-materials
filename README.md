@@ -100,6 +100,11 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Branching](https://gist.github.com/digitaljhelms/4287848)
 
+## Architecture Designs
+
+### Redux
+-[Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
+
 ## Design Patterns 
 
 ### MVC-N
@@ -129,6 +134,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 - [Monads in Swift](http://chris.eidhof.nl/post/monads-in-swift/)
 - [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
+
 
 ## Asset Catalog
 - [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
