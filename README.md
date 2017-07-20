@@ -149,9 +149,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Touches and Gestures
 - [UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial)
 - [Dragging Views with Gestures Tutorial in iOS8 with Swift](https://www.ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift)
-- [Detecting user touch of UIView inside of UIScrollView
-
-](https://stackoverflow.com/questions/25061732/xcode-swift-detecting-user-touch-of-uiview-inside-of-uiscrollview)
+- [Detecting user touch of UIView inside of UIScrollView](https://stackoverflow.com/questions/25061732/xcode-swift-detecting-user-touch-of-uiview-inside-of-uiscrollview)
 
 ## Swift 
 - Error Handling (Swift 3)
