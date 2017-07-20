@@ -140,9 +140,18 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
 
 ## UIKit
+### Collection View
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
+
+### UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
+
+### Touches and Gestures
 - [UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial)
+- [Dragging Views with Gestures Tutorial in iOS8 with Swift](https://www.ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift)
+- [Detecting user touch of UIView inside of UIScrollView
+
+](https://stackoverflow.com/questions/25061732/xcode-swift-detecting-user-touch-of-uiview-inside-of-uiscrollview)
 
 ## Swift 
 - Error Handling (Swift 3)
