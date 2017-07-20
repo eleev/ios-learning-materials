@@ -142,6 +142,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ## UIKit
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
+- [UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial)
 
 ## Swift 
 - Error Handling (Swift 3)
