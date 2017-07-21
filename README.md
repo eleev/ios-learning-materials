@@ -9,6 +9,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - Getting started with ARKit
   - https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59
   - https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec
+- [ARKit sith multiple users](https://stackoverflow.com/questions/44529350/arkit-with-multiple-users)
 
 ### Documentation 
 - [ARKit Official Documentation](https://developer.apple.com/documentation/arkit)
