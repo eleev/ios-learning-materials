@@ -103,7 +103,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ## Architecture Designs
 
 ### Redux
--[Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
+- [Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
 
 ## Design Patterns 
 
