@@ -10,6 +10,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
   - https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59
   - https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec
 - [ARKit sith multiple users](https://stackoverflow.com/questions/44529350/arkit-with-multiple-users)
+- [ARKit hide objects behind walls](https://stackoverflow.com/questions/44893320/arkit-hide-objects-behind-walls)
 
 ### Documentation 
 - [ARKit Official Documentation](https://developer.apple.com/documentation/arkit)
