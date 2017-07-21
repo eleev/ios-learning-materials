@@ -150,6 +150,11 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial)
 - [Dragging Views with Gestures Tutorial in iOS8 with Swift](https://www.ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift)
 - [Detecting user touch of UIView inside of UIScrollView](https://stackoverflow.com/questions/25061732/xcode-swift-detecting-user-touch-of-uiview-inside-of-uiscrollview)
+- [How To Rotate a 3D Object Using Touches with OpenGL](https://www.raywenderlich.com/12667/how-to-rotate-a-3d-object-using-touches-with-opengl)
+- [Event Handling Guide for UIKit Apps](https://developer.apple.com/library/content/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/index.html#//apple_ref/doc/uid/TP40009541)
+
+### Apple Pencil
+- [Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)
 
 ## Swift 
 - Error Handling (Swift 3)
