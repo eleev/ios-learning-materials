@@ -158,6 +158,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Apple Pencil
 - [Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)
 
+### Custom Components 
+- [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
+
 ## Swift 
 - Error Handling (Swift 3)
   - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
