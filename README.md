@@ -6,11 +6,11 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ## ARKit
 
 ### Reading 
-- Getting started with ARKit
-  - https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59
-  - https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec
+- [ARKit by example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
+- [ARKit getting started](https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec)
 - [ARKit sith multiple users](https://stackoverflow.com/questions/44529350/arkit-with-multiple-users)
 - [ARKit hide objects behind walls](https://stackoverflow.com/questions/44893320/arkit-hide-objects-behind-walls)
+- [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
 
 ### Documentation 
 - [ARKit Official Documentation](https://developer.apple.com/documentation/arkit)
