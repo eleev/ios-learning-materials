@@ -31,6 +31,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [AR Trees](https://github.com/jquave/ARTrees)
 - [Create an anchor on the QR marker plane](https://github.com/eugenebokhan/ARKit-QRMarker)
 - [This is an ARKit project that demonstrates drawing out a 3-dimensional box in the world, which can be rotated and resized from each of its faces](https://github.com/alunbestor/Boxify)
+- [Demo project demostrating how to build a AR measurment instrument](https://github.com/whitesmith/MeasureThings)
 
  ### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
