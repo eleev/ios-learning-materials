@@ -76,12 +76,14 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Introduction To SceneKit – Part 3](https://www.weheartswift.com/introduction-scenekit-part-3/)
 - [Custom SceneKit Geometry](http://ronnqvi.st/custom-scenekit-geometry/)
 - [An Introduction to SceneKit: User Interaction, Animations & Physics](https://code.tutsplus.com/tutorials/an-introduction-to-scenekit-user-interaction-animations-physics--cms-23877)
+- [Drag SceneKit Node Along X-Axis while maintaining velocity? Swift 3](https://stackoverflow.com/questions/41291615/drag-scenekit-node-along-x-axis-while-maintaining-velocity-swift-3)
 
 
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
 - [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
 - [SpriteKit with Swift: Orienting Sprites to a Location](https://dezwitter.wordpress.com/2015/02/05/spritekit-with-swift-orienting-sprites-to-a-location/)
+- [Drag and Drop Sprites](https://www.raywenderlich.com/96822/sprite-kit-tutorial-drag-drop-sprites)
 
 
 ## AVFoundation
