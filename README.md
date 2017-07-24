@@ -44,6 +44,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 - [Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
 - [Swift World: What’s new in iOS 11 — Vision](https://medium.com/compileswift/swift-world-whats-new-in-ios-11-vision-456ba4156bad)
+- [Using Vision Framework for Text Detection in iOS 11](http://www.appcoda.com/vision-framework-introduction/)
 
 ### Code
 - [Face Cropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper)
@@ -58,6 +59,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ## CoreML
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 - [Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
+- [IOS Introduction to Core ML: Building a Simple Image Recognition App](http://www.appcoda.com/coreml-introduction/)
+- [Creating a Simple Game With Core ML in Swift 4](http://www.appcoda.com/coreml-game/)
 
 ## SceneKit
 - [Physically Based Rendering Using the New iOS 10 SceneKit](https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021)
@@ -174,6 +177,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
   - http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
+- [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
 
 - Bindings and KVO alternatives
   - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
