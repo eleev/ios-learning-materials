@@ -83,6 +83,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
 - [SpriteKit with Swift: Orienting Sprites to a Location](https://dezwitter.wordpress.com/2015/02/05/spritekit-with-swift-orienting-sprites-to-a-location/)
 
+
+## AVFoundation
+- [Building a Full Screen Camera App Using AVFoundation](http://www.appcoda.com/avfoundation-swift-guide/)
+
 ## CoreLocation 
 - [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
 
