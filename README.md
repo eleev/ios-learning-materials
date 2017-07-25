@@ -190,22 +190,34 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
 
 ## Swift 
+
+### Error handling
 - Error Handling (Swift 3)
   - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
   - https://news.realm.io/news/slug-marcus-zarra-exploring-mvcn-swift/
+
+### Encoding and Decoding 
 - Encoding and Decoding in Swift 4
   - https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862
   - https://github.com/ole/whats-new-in-swift-4/blob/master/Whats-new-in-Swift-4.playground/Pages/Encoding%20and%20decoding.xcplaygroundpage/Contents.swift
   - https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
   - http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
 
-- [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
-- [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
+### Properties
+- [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
+- [Using lazy properties in Swift](https://medium.com/@johnsundell/using-lazy-properties-in-swift-592c777e0052)
+- [Swift Lazy Initialization with Closures](https://blog.bobthedeveloper.io/swift-lazy-initialization-with-closures-a9ef6f6312c)
 
+### KVO and Bindings
 - Bindings and KVO alternatives
   - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
   - http://rasic.info/bindings-generics-swift-and-mvvm/
   - http://five.agency/solving-the-binding-problem-with-swift/
+  
+### Other 
+- [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
+- [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
+
 
 ## Computer Graphics 
 - [BASIC THEORY OF PHYSICALLY-BASED RENDERING](https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/)
