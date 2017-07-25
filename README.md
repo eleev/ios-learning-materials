@@ -92,6 +92,17 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ## AVFoundation
 - [Building a Full Screen Camera App Using AVFoundation](http://www.appcoda.com/avfoundation-swift-guide/)
 
+## ReplayKit
+### Reading 
+- [iOS 9: An Introduction to ReplayKit](https://code.tutsplus.com/tutorials/ios-9-an-introduction-to-replaykit--cms-25458)
+- [Screen Recording Your App Using iOS ReplayKit for Bug Reporting](https://medium.com/ymedialabs-innovation/screen-recording-your-app-using-ios-replaykit-for-bug-reporting-70f998c8c1b8)
+- [ReplayKit](https://developer.apple.com/documentation/replaykit)
+- [How to record user videos using ReplayKit](https://www.hackingwithswift.com/example-code/media/how-to-record-user-videos-using-replaykit)
+
+### Video
+- [Going Social with ReplayKit and Game Center](https://developer.apple.com/videos/play/wwdc2015/605/)
+
+
 ## CoreLocation 
 - [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
 
