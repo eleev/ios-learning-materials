@@ -85,6 +85,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [An Introduction to SceneKit: User Interaction, Animations & Physics](https://code.tutsplus.com/tutorials/an-introduction-to-scenekit-user-interaction-animations-physics--cms-23877)
 - [Drag SceneKit Node Along X-Axis while maintaining velocity? Swift 3](https://stackoverflow.com/questions/41291615/drag-scenekit-node-along-x-axis-while-maintaining-velocity-swift-3)
 - [Scene Kit](https://www.objc.io/issues/18-games/scenekit/)
+- [Rotate SCNCamera node looking at an object around an imaginary sphere](https://stackoverflow.com/questions/25654772/rotate-scncamera-node-looking-at-an-object-around-an-imaginary-sphere)
+- [Position a SceneKit object in front of SCNCamera's current orientation](https://stackoverflow.com/questions/42029347/position-a-scenekit-object-in-front-of-scncameras-current-orientation)
+- [SceneKit Tutorial - From Zero to Hero Part I](http://www.rogerboesch.com:2368/scenekit-tutorial-series-from-zero-to-hero/)
 
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
