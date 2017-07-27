@@ -12,6 +12,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ARKit with multiple users](https://stackoverflow.com/questions/44529350/arkit-with-multiple-users)
 - [ARKit hide objects behind walls](https://stackoverflow.com/questions/44893320/arkit-hide-objects-behind-walls)
 - [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
+- [How do you attach an object to your camera position with ARKit Swift?](https://stackoverflow.com/questions/44531963/how-do-you-attach-an-object-to-your-camera-position-with-arkit-swift)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
@@ -83,7 +84,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Custom SceneKit Geometry](http://ronnqvi.st/custom-scenekit-geometry/)
 - [An Introduction to SceneKit: User Interaction, Animations & Physics](https://code.tutsplus.com/tutorials/an-introduction-to-scenekit-user-interaction-animations-physics--cms-23877)
 - [Drag SceneKit Node Along X-Axis while maintaining velocity? Swift 3](https://stackoverflow.com/questions/41291615/drag-scenekit-node-along-x-axis-while-maintaining-velocity-swift-3)
-
+- [Scene Kit](https://www.objc.io/issues/18-games/scenekit/)
 
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
