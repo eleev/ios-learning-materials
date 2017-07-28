@@ -39,6 +39,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Demo project demostrating how to build a AR measurment instrument](https://github.com/whitesmith/MeasureThings)
 - [Simple AR game made with ARKit and SpriteKit. Follow the tutorial at the Pusher blog](https://github.com/eh3rrera/ARKitGameSpriteKit)
 - [MeasureThings](https://github.com/whitesmith/MeasureThings)
+- [Combines the high accuracy of AR with the scale of GPS data.](https://github.com/ProjectDent/ARKit-CoreLocation)
 
  ### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
