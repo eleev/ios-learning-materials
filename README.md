@@ -170,7 +170,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
 - [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
 - [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
-- [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) MVVM with FRP Benchmark project
+- [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark)
 
 
 ### Delegate
