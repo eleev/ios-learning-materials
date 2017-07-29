@@ -166,6 +166,12 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Swift and ModelView-View-Model in Practive](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
 - [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
 - [MVVM in Swift](https://medium.com/@shenghuawu/mvvm-in-swift-bfe2b7c1d7a4)
+- [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
+- [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
+- [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
+- [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
+- [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) MVVM with FRP Benchmark project
+
 
 ### Delegate
 - [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
