@@ -186,6 +186,16 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Monads in Swift](http://chris.eidhof.nl/post/monads-in-swift/)
 - [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
 
+## Delegate
+- [Lightweight iOS View Controllers](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
+- [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
+- [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
+- [AdvancedCollectionView](https://github.com/zwaldowski/AdvancedCollectionView)
+- [iOS: UITableView controller](http://gosuwachu.io/2014/01/12/uitableview-controller/)
+- [Nestable](http://khanlou.com/2015/04/nestable/)
+- [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
+- [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
+- [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
 
 ## Asset Catalog
 - [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
