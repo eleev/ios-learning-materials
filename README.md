@@ -141,6 +141,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
 
+## Design Patterns
+- [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
+- [Promise Pattern on Swift with PromiseKit And why you should migrate your async calls to them](https://hackernoon.com/promise-pattern-on-swift-with-promisekit-620efad7a5bd)
+
 ## Architecture Designs
 
 ### Redux
@@ -204,6 +208,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
+
 
 ## Asset Catalog
 - [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
