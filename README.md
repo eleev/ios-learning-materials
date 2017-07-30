@@ -136,6 +136,11 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Branching](https://gist.github.com/digitaljhelms/4287848)
 
+## Asynchronous Programming
+
+- [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
+- [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
+
 ## Architecture Designs
 
 ### Redux
@@ -266,6 +271,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ## iOS Development
 - [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f)
 - [On-Demand Resources in iOS Tutorial](https://www.raywenderlich.com/160049/demand-resources-ios-tutorial)
+
 
 ## Machine Learning 
 
