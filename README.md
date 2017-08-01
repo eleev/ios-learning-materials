@@ -315,3 +315,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 - [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 - [Deep Learning Frameworks Compared](https://youtu.be/MDP9FfsNx60)
+
+## Git
+- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
