@@ -227,6 +227,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
 
+### Haptic Feedback
+- [Creating an Immersive User Experience with Haptic Feedback in iOS](http://www.appcoda.com/haptic-feedback/)
+
 ### Touches and Gestures
 - [UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial)
 - [Dragging Views with Gestures Tutorial in iOS8 with Swift](https://www.ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift)
