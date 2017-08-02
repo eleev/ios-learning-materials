@@ -215,6 +215,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
 
 ## UIKit
+
 ### Collection View
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
 
@@ -240,6 +241,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Apple Pencil
 - [Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)
 
+### Animations
+- [What’s New In UIKit Animations In Swift 4](https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/)
+
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
 
@@ -250,10 +254,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
+- [JSON to Swift with Decoder and Decodable](https://swiftunboxed.com/stdlib/json-decoder-decodable/)
 
 ### KVC
 - [Struct References](http://chris.eidhof.nl/post/references/)
-
 
 ### Error handling
 - Error Handling (Swift 3)
