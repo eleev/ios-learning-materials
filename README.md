@@ -251,6 +251,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
 
+### KVC
+- [Struct References](http://chris.eidhof.nl/post/references/)
+
+
 ### Error handling
 - Error Handling (Swift 3)
   - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
