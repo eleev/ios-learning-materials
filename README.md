@@ -248,6 +248,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
 
+### Standart Protocols
+- [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
+
 ### Error handling
 - Error Handling (Swift 3)
   - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
