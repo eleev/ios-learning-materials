@@ -243,6 +243,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ### Animations
 - [What’s New In UIKit Animations In Swift 4](https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/)
+- [Creating Great Animations On iOS](https://www.youtube.com/watch?v=1ANvelwta_Q)
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
