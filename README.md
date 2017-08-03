@@ -244,6 +244,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Animations
 - [What’s New In UIKit Animations In Swift 4](https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/)
 - [Creating Great Animations On iOS](https://www.youtube.com/watch?v=1ANvelwta_Q)
+- [Building a declarative animation framework in Swift — Part 1](https://medium.com/@johnsundell/building-a-declarative-animation-framework-in-swift-part-1-26e83a2b0819)
+- [Building a declarative animation framework in Swift — Part 2](https://medium.com/@johnsundell/building-a-declarative-animation-framework-in-swift-part-2-3444a55140d)
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
