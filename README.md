@@ -90,6 +90,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Position a SceneKit object in front of SCNCamera's current orientation](https://stackoverflow.com/questions/42029347/position-a-scenekit-object-in-front-of-scncameras-current-orientation)
 - [SceneKit Tutorial - From Zero to Hero Part I](http://www.rogerboesch.com:2368/scenekit-tutorial-series-from-zero-to-hero/)
 
+### Video 
+- [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
+- [Advances in SceneKit Rendering](https://developer.apple.com/videos/play/wwdc2016/609/)
+
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
 - [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
