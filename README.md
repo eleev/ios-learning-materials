@@ -93,6 +93,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Video 
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
 - [Advances in SceneKit Rendering](https://developer.apple.com/videos/play/wwdc2016/609/)
+- [Enhancements to SceneKit](https://developer.apple.com/videos/play/wwdc2015/606/)
 
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
