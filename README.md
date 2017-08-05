@@ -100,6 +100,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
 - [SpriteKit with Swift: Orienting Sprites to a Location](https://dezwitter.wordpress.com/2015/02/05/spritekit-with-swift-orienting-sprites-to-a-location/)
 - [Drag and Drop Sprites](https://www.raywenderlich.com/96822/sprite-kit-tutorial-drag-drop-sprites)
+- [An Introduction To Building A SpriteKit/UIKit Hybrid App](http://createdineden.com/blog/post/an-introduction-to-building-a-spritekit-uikit-hybrid-app/)
 
 
 ## AVFoundation
