@@ -102,6 +102,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Drag and Drop Sprites](https://www.raywenderlich.com/96822/sprite-kit-tutorial-drag-drop-sprites)
 - [An Introduction To Building A SpriteKit/UIKit Hybrid App](http://createdineden.com/blog/post/an-introduction-to-building-a-spritekit-uikit-hybrid-app/)
 
+### Video 
+- [Gesture Recognizers with SpriteKit](https://cartoonsmart.com/introduction-to-sprite-kit-with-swift-3-part-6-gesture-recognizers/)
+
+
 ## Metal 
 - [What’s the big deal with Apples Metal API?](http://renderingpipeline.com/2014/06/whats-the-big-deal-with-apples-metal-api/)
 - [Metal Tutorial with Swift 3 Part 1: Getting Started](https://www.raywenderlich.com/146414/metal-tutorial-swift-3-part-1-
