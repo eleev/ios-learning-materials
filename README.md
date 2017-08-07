@@ -172,6 +172,9 @@ getting-started)
 
 ## Design Patterns 
 
+### Coordinator
+- [An iOS Coordinator Pattern](https://will.townsend.io/2016/an-ios-coordinator-pattern)
+
 ### Resources
 - [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 
