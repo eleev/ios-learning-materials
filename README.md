@@ -365,3 +365,7 @@ getting-started)
 
 ## Git
 - [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
+## Design 
+- [App Design & Development Conference](https://www.youtube.com/channel/UCuhXJAOFp9cgbsn71rL30-w/videos)
+
