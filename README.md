@@ -162,6 +162,8 @@ getting-started)
 - [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
 - [Promise Pattern on Swift with PromiseKit And why you should migrate your async calls to them](https://hackernoon.com/promise-pattern-on-swift-with-promisekit-620efad7a5bd)
 - [Chaining Async Requests in iOS](https://medium.com/@nrewik/chaining-async-requests-in-ios-b492ad9d9b4a)
+- [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
+- [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
 
 ## Architecture Designs
 
