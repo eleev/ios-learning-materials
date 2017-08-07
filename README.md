@@ -203,6 +203,7 @@ getting-started)
 - [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
 - [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
 - [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
+- [MVVM and Coordinator Patterns Together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
 
 ### Delegate
 - [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
