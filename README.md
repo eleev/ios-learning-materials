@@ -184,7 +184,7 @@ getting-started)
 ### VIPER
 - [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
 
-## MVC
+### MVC
 - [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
 - [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
 
