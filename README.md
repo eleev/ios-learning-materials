@@ -14,6 +14,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
 - [How do you attach an object to your camera position with ARKit Swift?](https://stackoverflow.com/questions/44531963/how-do-you-attach-an-object-to-your-camera-position-with-arkit-swift)
 - [The Essential Guide To UX For AR](https://www.webdesignerdepot.com/2017/07/the-essential-guide-to-ux-for-ar/)
+- [How I'm Learning ARKit](https://hackernoon.com/how-im-learning-arkit-baee5376a6a2)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
@@ -102,9 +103,11 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SpriteKit with Swift: Orienting Sprites to a Location](https://dezwitter.wordpress.com/2015/02/05/spritekit-with-swift-orienting-sprites-to-a-location/)
 - [Drag and Drop Sprites](https://www.raywenderlich.com/96822/sprite-kit-tutorial-drag-drop-sprites)
 - [An Introduction To Building A SpriteKit/UIKit Hybrid App](http://createdineden.com/blog/post/an-introduction-to-building-a-spritekit-uikit-hybrid-app/)
+- [How To Make A Game Like Color Switch with SpriteKit and Swift](https://www.raywenderlich.com/149034/how-to-make-a-game-like-color-switch-with-spritekit-and-swift)
 
 ### Video 
 - [Gesture Recognizers with SpriteKit](https://cartoonsmart.com/introduction-to-sprite-kit-with-swift-3-part-6-gesture-recognizers/)
+- [iOS Swift Game Tutorial: SpriteKit Space Game (with Explosions)](https://www.youtube.com/watch?v=cJy61bOqQpg)
 
 
 ## Metal 
