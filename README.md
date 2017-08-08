@@ -13,6 +13,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ARKit hide objects behind walls](https://stackoverflow.com/questions/44893320/arkit-hide-objects-behind-walls)
 - [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
 - [How do you attach an object to your camera position with ARKit Swift?](https://stackoverflow.com/questions/44531963/how-do-you-attach-an-object-to-your-camera-position-with-arkit-swift)
+- [The Essential Guide To UX For AR](https://www.webdesignerdepot.com/2017/07/the-essential-guide-to-ux-for-ar/)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
