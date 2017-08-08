@@ -91,6 +91,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Rotate SCNCamera node looking at an object around an imaginary sphere](https://stackoverflow.com/questions/25654772/rotate-scncamera-node-looking-at-an-object-around-an-imaginary-sphere)
 - [Position a SceneKit object in front of SCNCamera's current orientation](https://stackoverflow.com/questions/42029347/position-a-scenekit-object-in-front-of-scncameras-current-orientation)
 - [SceneKit Tutorial - From Zero to Hero Part I](http://www.rogerboesch.com:2368/scenekit-tutorial-series-from-zero-to-hero/)
+- [How to set up SceneKit collision detection](https://stackoverflow.com/questions/27372138/how-to-set-up-scenekit-collision-detection)
 
 ### Video 
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
