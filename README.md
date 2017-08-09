@@ -164,19 +164,26 @@ getting-started)
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
 
-## Design Patterns
-- [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
-- [Promise Pattern on Swift with PromiseKit And why you should migrate your async calls to them](https://hackernoon.com/promise-pattern-on-swift-with-promisekit-620efad7a5bd)
-- [Chaining Async Requests in iOS](https://medium.com/@nrewik/chaining-async-requests-in-ios-b492ad9d9b4a)
+## Architecture & Design Patterns
+
+### Overview
 - [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
 - [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
 
-## Architecture Designs
+### Async
+- [Chaining Async Requests in iOS](https://medium.com/@nrewik/chaining-async-requests-in-ios-b492ad9d9b4a)
+
+### Protocol-Oriented Programming
+- [Introducing Protocol-Oriented Programming in Swift 3](https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming)
+- [Introduction to Protocol Oriented Programming in Swift](https://blog.bobthedeveloper.io/introduction-to-protocol-oriented-programming-in-swift-b358fe4974f)
+- [How Protocol Oriented Programming in Swift saved my day?](https://medium.com/ios-os-x-development/how-protocol-oriented-programming-in-swift-saved-my-day-75737a6af022)
+
+### Promise
+- [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
+- [Promise Pattern on Swift with PromiseKit And why you should migrate your async calls to them](https://hackernoon.com/promise-pattern-on-swift-with-promisekit-620efad7a5bd)
 
 ### Redux
 - [Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
-
-## Design Patterns 
 
 ### Coordinator
 - [An iOS Coordinator Pattern](https://will.townsend.io/2016/an-ios-coordinator-pattern)
