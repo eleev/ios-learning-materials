@@ -251,6 +251,9 @@ getting-started)
 
 ## UIKit
 
+### UISearchController
+- [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
+
 ### Collection View
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
 
