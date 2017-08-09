@@ -291,6 +291,20 @@ getting-started)
 - [Creating Great Animations On iOS](https://www.youtube.com/watch?v=1ANvelwta_Q)
 - [Building a declarative animation framework in Swift — Part 1](https://medium.com/@johnsundell/building-a-declarative-animation-framework-in-swift-part-1-26e83a2b0819)
 - [Building a declarative animation framework in Swift — Part 2](https://medium.com/@johnsundell/building-a-declarative-animation-framework-in-swift-part-2-3444a55140d)
+- [Prototyping Animated Transitions in Swift](http://mathewsanders.com/animated-transitions-in-swift/)
+- [Prototyping Animations in Swift #1](http://mathewsanders.com/prototyping-iOS-iPhone-iPad-animations-in-swift/)
+- [Prototyping Animations in Swift #2](http://mathewsanders.com/animations-in-swift-part-two/)
+
+#### Transitions 
+- [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
+- [iOS Animation Tutorial: Custom View Controller Presentation Transitions](https://www.raywenderlich.com/146692/ios-animation-tutorial-custom-view-controller-presentation-transitions-2)
+- [Creating Custom UIViewController Transitions](https://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions)
+- [INTERACTIVE TRANSITIONS](http://www.thinkandbuild.it/interactive-transitions/)
+- [View Controller Transitions #1](https://www.objc.io/issues/5-ios7/view-controller-transitions/)
+- [View Controller Transitions #2)](http://mathewsanders.com/custom-menu-transitions-in-swift/)
+- [View Controller Transitions #3](http://mathewsanders.com/interactive-transitions-in-swift/)
+
+- [View Controller Transitions](https://www.objc.io/issues/5-ios7/view-controller-transitions/)
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
