@@ -65,7 +65,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Video
 - [Super Impressive and Easy Face Detection using Vision API in Swift 4](https://www.youtube.com/watch?v=d0U5j89M6aI)
 
-
+ 
 ## CoreML
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 - [Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
