@@ -122,10 +122,11 @@ getting-started)
 - [How do I pixelate a scene with SceneKit and Metal, in Swift?](https://gamedev.stackexchange.com/questions/125489/how-do-i-pixelate-a-scene-with-scenekit-and-metal-in-swift)
 - [Instanced Rendering in Metal](http://metalbyexample.com/instanced-rendering/)
 - [Custom Metal Shaders](https://github.com/cocos2d/cocos2d-objc/wiki/Custom-Metal-Shaders)
+- [A few SCNTechnique examples](http://blog.simonrodriguez.fr/articles/26-08-2015_a_few_scntechnique_examples.html)
 
 ### Code
 - [SceneKit mesh deformed by a Metal compute shader](https://github.com/lachlanhurst/SceneKitMetalDeformableMesh)
-
+- [3D Graphics with Scene Kit](https://github.com/d-ronnqvist/SCNBook-code/tree/obj-c)
 
 ## AVFoundation
 - [Building a Full Screen Camera App Using AVFoundation](http://www.appcoda.com/avfoundation-swift-guide/)
