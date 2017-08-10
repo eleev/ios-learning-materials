@@ -119,6 +119,13 @@ getting-started)
 - [Metal Tutorial with Swift 3 Part 2: Moving to 3D](https://www.raywenderlich.com/146416/metal-tutorial-swift-3-part-2-moving-3d)
 - [LiquidFun Tutorial with Metal and Swift – Part 1](https://www.raywenderlich.com/85515/liquidfun-tutorial-1)
 - [LiquidFun Tutorial with Metal and Swift – Part 2](https://www.raywenderlich.com/90592/liquidfun-tutorial-2)
+- [How do I pixelate a scene with SceneKit and Metal, in Swift?](https://gamedev.stackexchange.com/questions/125489/how-do-i-pixelate-a-scene-with-scenekit-and-metal-in-swift)
+- [Instanced Rendering in Metal](http://metalbyexample.com/instanced-rendering/)
+- [Custom Metal Shaders](https://github.com/cocos2d/cocos2d-objc/wiki/Custom-Metal-Shaders)
+
+### Code
+- [SceneKit mesh deformed by a Metal compute shader](https://github.com/lachlanhurst/SceneKitMetalDeformableMesh)
+
 
 ## AVFoundation
 - [Building a Full Screen Camera App Using AVFoundation](http://www.appcoda.com/avfoundation-swift-guide/)
