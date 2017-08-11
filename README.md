@@ -15,6 +15,11 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [How do you attach an object to your camera position with ARKit Swift?](https://stackoverflow.com/questions/44531963/how-do-you-attach-an-object-to-your-camera-position-with-arkit-swift)
 - [The Essential Guide To UX For AR](https://www.webdesignerdepot.com/2017/07/the-essential-guide-to-ux-for-ar/)
 - [How I'm Learning ARKit](https://hackernoon.com/how-im-learning-arkit-baee5376a6a2)
+- [ARKit + Vision: An intriguing combination](https://dev.to/osterbergjordan/arkit--vision-an-intriguing-combination)
+- [Using ARKit with Metal](http://metalkit.org/2017/07/29/using-arkit-with-metal.html) 
+- [Bike ride with ARKit: How I built it](https://blog.mapbox.com/bike-ride-with-arkit-mapbox-unity-9a66f91d91b2)
+- [iOS ARKit Tutorial: Drawing in the Air with Bare Fingers](https://www.toptal.com/swift/ios-arkit-tutorial-drawing-in-air-with-fingers)
+- [Augmented Reality With ARKit For IOS](https://digitalleaves.com/blog/2017/08/augmented-reality-arkit/)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
