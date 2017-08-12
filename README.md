@@ -370,7 +370,7 @@ getting-started)
 ## iOS Development
 - [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f)
 - [On-Demand Resources in iOS Tutorial](https://www.raywenderlich.com/160049/demand-resources-ios-tutorial)
-
+- [Learning Techniques for Programmers, by Programmers](https://www.raywenderlich.com/167015/learning-techniques-programmers)
 
 ## Machine Learning 
 
