@@ -269,6 +269,13 @@ getting-started)
 
 ## UIKit
 
+### UIKit Dynamics
+- [UIKit Dynamics in Swift 2.0](https://ahmedabdurrahman.com/2015/10/22/uikit-dynamics-tutorial-in-swift-2-0/)
+- [Creating a Magnetic Effect Between UI Components](http://apprize.info/apple/ios_9/88.html)
+- [Attachment Behaviour Tutorial in iOS8 with Swift](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-tutorial-ios8-swift)
+- [How to make custom UIView animations with UISnapBehavior and UIDynamicItemBehavior](http://sweettutos.com/2015/09/17/uikit-dynamics-series-how-to-make-custom-uiview-animations-with-uisnapbehavior-and-uidynamicitembehavior/)
+- [UIKit Dynamics Guide](http://samwize.com/2016/12/19/uikit-dynamics-guide/)
+
 ### UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 
