@@ -365,6 +365,7 @@ getting-started)
 - [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
 - [Using lazy properties in Swift](https://medium.com/@johnsundell/using-lazy-properties-in-swift-592c777e0052)
 - [Swift Lazy Initialization with Closures](https://blog.bobthedeveloper.io/swift-lazy-initialization-with-closures-a9ef6f6312c)
+- [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/)
 
 ### KVO and Bindings
 - Bindings and KVO alternatives
