@@ -379,6 +379,10 @@ getting-started)
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
 
 
+## HealthKit
+- [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
+- [HealthKit Tutorial with Swift: Workouts](https://www.raywenderlich.com/162877/healthkit-tutorial-swift-workouts)
+
 ## Computer Graphics 
 - [BASIC THEORY OF PHYSICALLY-BASED RENDERING](https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/)
 - [PHYSICALLY-BASED RENDERING, AND YOU CAN TOO!](https://www.marmoset.co/posts/physically-based-rendering-and-you-can-too/)
