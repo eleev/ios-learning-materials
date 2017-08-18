@@ -432,4 +432,6 @@ getting-started)
 
 ## Design 
 - [App Design & Development Conference](https://www.youtube.com/channel/UCuhXJAOFp9cgbsn71rL30-w/videos)
+- [9 Major UI mistakes that will kill your Apps!](https://blog.prototypr.io/9-major-ui-mistakes-that-will-kill-your-apps-42b152b8c50e)
+- [The ultimate guide for mobile developers, who want to design.](https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49)
 
