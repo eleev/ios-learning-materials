@@ -268,9 +268,11 @@ getting-started)
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
 
-
 ## Asset Catalog
 - [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
+
+## Playgrounds 
+- [Adding Playgrounds to Xcode Projects](https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects/)
 
 ## UIKit
 
