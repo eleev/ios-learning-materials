@@ -304,6 +304,7 @@ getting-started)
 
 ### Haptic Feedback
 - [Creating an Immersive User Experience with Haptic Feedback in iOS](http://www.appcoda.com/haptic-feedback/)
+- [Haptic Feedback makes you vibrate!](https://engineering.nodesagency.com/articles/iOS/Haptic-feedback-makes-you-vibrate/)
 
 ### Touches and Gestures
 - [UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial)
