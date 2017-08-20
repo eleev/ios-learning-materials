@@ -63,6 +63,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Swift World: What’s new in iOS 11 — Vision](https://medium.com/compileswift/swift-world-whats-new-in-ios-11-vision-456ba4156bad)
 - [Using Vision Framework for Text Detection in iOS 11](http://www.appcoda.com/vision-framework-introduction/)
 - [Getting Started With Vision Framework](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision)
+- [FACE AND FACE’S LANDMARKS DETECTION USING VISION FRAMEWORK IN IOS 11](https://www.thedroidsonroids.com/blog/face-and-faces-landmarks-detection-using-vision-framework-in-ios-11)
 
 ### Code
 - [Face Cropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper)
