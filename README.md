@@ -81,6 +81,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [IOS Introduction to Core ML: Building a Simple Image Recognition App](http://www.appcoda.com/coreml-introduction/)
 - [Creating a Simple Game With Core ML in Swift 4](http://www.appcoda.com/coreml-game/)
 - [A Beginner’s Guide to Core ML Tools: Converting a Caffe Model to Core ML Format](http://www.appcoda.com/core-ml-tools-conversion/)
+- [Apple Machine Learning Journal](https://machinelearning.apple.com)
+- [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
+- [Bringing Machine Learning to your iOS Apps 🤖📲](https://academy.realm.io/posts/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
+- [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/)
 
 ## SceneKit
 - [Physically Based Rendering Using the New iOS 10 SceneKit](https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021)
