@@ -62,6 +62,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
 - [Swift World: What’s new in iOS 11 — Vision](https://medium.com/compileswift/swift-world-whats-new-in-ios-11-vision-456ba4156bad)
 - [Using Vision Framework for Text Detection in iOS 11](http://www.appcoda.com/vision-framework-introduction/)
+- [Getting Started With Vision Framework](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision)
 
 ### Code
 - [Face Cropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper)
