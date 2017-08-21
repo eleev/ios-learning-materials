@@ -140,6 +140,10 @@ getting-started)
 - [Instanced Rendering in Metal](http://metalbyexample.com/instanced-rendering/)
 - [Custom Metal Shaders](https://github.com/cocos2d/cocos2d-objc/wiki/Custom-Metal-Shaders)
 - [A few SCNTechnique examples](http://blog.simonrodriguez.fr/articles/26-08-2015_a_few_scntechnique_examples.html)
+- [Textures and Samplers in Metal](http://metalbyexample.com/textures-and-samplers/)
+
+### Reosurces 
+- [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
 
 ### Code
 - [SceneKit mesh deformed by a Metal compute shader](https://github.com/lachlanhurst/SceneKitMetalDeformableMesh)
