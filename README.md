@@ -138,6 +138,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SCNNode Bounding size and Scaling: Changing Size Of Physics Boulding Volume] (https://stackoverflow.com/questions/35301207/scnnode-bounding-size-and-scaling)
 - [How to convert 2D point to 3D using SceneKit's unprojectPoint without having a depth value?](https://stackoverflow.com/questions/24363430/how-to-convert-2d-point-to-3d-using-scenekits-unprojectpoint-without-having-a-d)
 - [SceneKit cube rotation with multiple UIPanGestureRecognizers](https://stackoverflow.com/questions/35736255/scenekit-cube-rotation-with-multiple-uipangesturerecognizers)
+- [SceneKit Cocoa Adding decals](https://stackoverflow.com/questions/40913688/scenekit-cocoa-adding-decals)
 
 ### Video 
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
