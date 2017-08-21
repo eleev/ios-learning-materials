@@ -1,8 +1,37 @@
 # iOS-Learning-Materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## About 
+
 Curated list of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that may help you dig a little bit deeper into iOS. All the resources are split into sub-categories which simlifies navigation and management. Feel free to use and suggest something to learn (iOS related of course 😜). 
 
 You may see some non-directly related topics such as `Computer Graphics`, `Machine Learning` or `Design Patterns` - these are actually related, in some ways, to `iOS` development, but in a much broader and more specific way. With the addition of new materials, the structure of the document will be properly maintained meaning that it will become a reference book for learning. Happy evolving 🤓:octocat:
+
+## Contnet 
+- [About](#about)
+- [ARKit](#arkit)
+- [Vision Framework](#vision-framework)
+- [CoreML](#coreml)
+- [SceneKit](#scenekit)
+- [SpriteKit](#spritekit)
+- [AVFounation](#avfoundation)
+- [ReplayKit](#replaykit)
+- [CoreLocation](#corelocation)
+- [CocoaPods](#cocoapods)
+- [Clean Code](#clean-code)
+- [App Distribution](#app-distribution)
+- [Frameworks Development](#frameworks-development)
+- [Git](#git)
+- [Asynchronous Programming](#asynchronous-programming)
+- [Architecture And Design Patterns](#architecture-and-design-patterns)
+- [Asset Catalog](#asset-catalog)
+- [Playgrounds](#playgrounds)
+- [UIKit](#uikit)
+- [Swift](#swift)
+- [HealthKit](#healthkit)
+- [Computer Graphics](#computer-graphics)
+- [iOS Development](#ios-development)
+- [Machine Learning](#machine-learning)
+- [Design](#design)
 
 ## ARKit
 
@@ -189,13 +218,14 @@ getting-started)
 - [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 - [Git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Branching](https://gist.github.com/digitaljhelms/4287848)
+- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ## Asynchronous Programming
 
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
 
-## Architecture & Design Patterns
+## Architecture And Design Patterns
 
 ### Overview
 - [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
@@ -267,7 +297,7 @@ getting-started)
 - [Monads in Swift](http://chris.eidhof.nl/post/monads-in-swift/)
 - [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
 
-## Delegate
+### Delegate
 - [Lightweight iOS View Controllers](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
 - [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
 - [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
@@ -444,9 +474,6 @@ getting-started)
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 - [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 - [Deep Learning Frameworks Compared](https://youtu.be/MDP9FfsNx60)
-
-## Git
-- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ## Design 
 - [App Design & Development Conference](https://www.youtube.com/channel/UCuhXJAOFp9cgbsn71rL30-w/videos)
