@@ -171,6 +171,8 @@ getting-started)
 - [Custom Metal Shaders](https://github.com/cocos2d/cocos2d-objc/wiki/Custom-Metal-Shaders)
 - [A few SCNTechnique examples](http://blog.simonrodriguez.fr/articles/26-08-2015_a_few_scntechnique_examples.html)
 - [Textures and Samplers in Metal](http://metalbyexample.com/textures-and-samplers/)
+- [An Introduction to 3D Graphics with Metal in Swift](https://academy.realm.io/posts/3d-graphics-metal-swift/)
+- [A Brief Tour of Metal](https://developer.apple.com/documentation/metal/a_brief_tour_of_metal)
 
 ### Reosurces 
 - [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
