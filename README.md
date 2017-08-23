@@ -373,6 +373,7 @@ getting-started)
 - [Prototyping Animated Transitions in Swift](http://mathewsanders.com/animated-transitions-in-swift/)
 - [Prototyping Animations in Swift #1](http://mathewsanders.com/prototyping-iOS-iPhone-iPad-animations-in-swift/)
 - [Prototyping Animations in Swift #2](http://mathewsanders.com/animations-in-swift-part-two/)
+- [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
 
 #### Transitions 
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
@@ -387,7 +388,6 @@ getting-started)
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
-- [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
 
 ## Swift 
 
