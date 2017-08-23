@@ -387,6 +387,7 @@ getting-started)
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
+- [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
 
 ## Swift 
 
