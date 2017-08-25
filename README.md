@@ -159,6 +159,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [iOS 7 Sprite Kit: Setting Up Correct Scene Dimensions](http://www.ymc.ch/de/blog/ios-7-sprite-kit-setting-up-correct-scene-dimensions/)
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
 - [Making a Pixel Shader for iOS8 with Sprite Kit](http://www.ymc.ch/de/blog/making-a-pixel-shader-for-ios8-with-sprite-kit/)
+- [Fragment Shaders with SpriteKit](http://chrislanguage.blogspot.ru/2015/02/fragment-shaders-with-spritekit.html)
 
 ### Video 
 - [Gesture Recognizers with SpriteKit](https://cartoonsmart.com/introduction-to-sprite-kit-with-swift-3-part-6-gesture-recognizers/)
