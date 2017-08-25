@@ -80,6 +80,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ARPaint](https://github.com/oabdelkarim/ARPaint)
 - [ARKit Occlusion](https://github.com/bjarnel/arkit-occlusion)
 - [Shell Game built with ARKit and SceneKit](https://github.com/handsomecode/arkit-shell-game)
+- [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
+- [Making a Pixel Shader for iOS8 with Sprite Kit](http://www.ymc.ch/de/blog/making-a-pixel-shader-for-ios8-with-sprite-kit/)
 
  ### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
