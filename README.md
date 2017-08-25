@@ -138,7 +138,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Position a SceneKit object in front of SCNCamera's current orientation](https://stackoverflow.com/questions/42029347/position-a-scenekit-object-in-front-of-scncameras-current-orientation)
 - [SceneKit Tutorial - From Zero to Hero Part I](http://www.rogerboesch.com:2368/scenekit-tutorial-series-from-zero-to-hero/)
 - [How to set up SceneKit collision detection](https://stackoverflow.com/questions/27372138/how-to-set-up-scenekit-collision-detection)
-- [SCNNode Bounding size and Scaling: Changing Size Of Physics Boulding Volume] (https://stackoverflow.com/questions/35301207/scnnode-bounding-size-and-scaling)
+- [SCNNode Bounding size and Scaling: Changing Size Of Physics Boulding Volume](https://stackoverflow.com/questions/35301207/scnnode-bounding-size-and-scaling)
 - [How to convert 2D point to 3D using SceneKit's unprojectPoint without having a depth value?](https://stackoverflow.com/questions/24363430/how-to-convert-2d-point-to-3d-using-scenekits-unprojectpoint-without-having-a-d)
 - [SceneKit cube rotation with multiple UIPanGestureRecognizers](https://stackoverflow.com/questions/35736255/scenekit-cube-rotation-with-multiple-uipangesturerecognizers)
 - [SceneKit Cocoa Adding decals](https://stackoverflow.com/questions/40913688/scenekit-cocoa-adding-decals)
