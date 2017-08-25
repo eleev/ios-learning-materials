@@ -13,6 +13,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [CoreML](#coreml)
 - [SceneKit](#scenekit)
 - [SpriteKit](#spritekit)
+- [Metal](#metal)
 - [AVFounation](#avfoundation)
 - [ReplayKit](#replaykit)
 - [CoreLocation](#corelocation)
@@ -168,8 +169,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## Metal 
 - [What’s the big deal with Apples Metal API?](http://renderingpipeline.com/2014/06/whats-the-big-deal-with-apples-metal-api/)
-- [Metal Tutorial with Swift 3 Part 1: Getting Started](https://www.raywenderlich.com/146414/metal-tutorial-swift-3-part-1-
-getting-started)
+- [Metal Tutorial with Swift 3 Part 1: Getting Started](https://www.raywenderlich.com/146414/metal-tutorial-swift-3-part-1-getting-started)
 - [Metal Tutorial with Swift 3 Part 2: Moving to 3D](https://www.raywenderlich.com/146416/metal-tutorial-swift-3-part-2-moving-3d)
 - [LiquidFun Tutorial with Metal and Swift – Part 1](https://www.raywenderlich.com/85515/liquidfun-tutorial-1)
 - [LiquidFun Tutorial with Metal and Swift – Part 2](https://www.raywenderlich.com/90592/liquidfun-tutorial-2)
