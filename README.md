@@ -79,6 +79,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Combines the high accuracy of AR with the scale of GPS data.](https://github.com/ProjectDent/ARKit-CoreLocation)
 - [ARPaint](https://github.com/oabdelkarim/ARPaint)
 - [ARKit Occlusion](https://github.com/bjarnel/arkit-occlusion)
+- [Shell Game built with ARKit and SceneKit](https://github.com/handsomecode/arkit-shell-game)
 
  ### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
