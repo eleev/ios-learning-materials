@@ -80,8 +80,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ARPaint](https://github.com/oabdelkarim/ARPaint)
 - [ARKit Occlusion](https://github.com/bjarnel/arkit-occlusion)
 - [Shell Game built with ARKit and SceneKit](https://github.com/handsomecode/arkit-shell-game)
-- [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
-- [Making a Pixel Shader for iOS8 with Sprite Kit](http://www.ymc.ch/de/blog/making-a-pixel-shader-for-ios8-with-sprite-kit/)
 
  ### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
@@ -158,6 +156,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [An Introduction To Building A SpriteKit/UIKit Hybrid App](http://createdineden.com/blog/post/an-introduction-to-building-a-spritekit-uikit-hybrid-app/)
 - [How To Make A Game Like Color Switch with SpriteKit and Swift](https://www.raywenderlich.com/149034/how-to-make-a-game-like-color-switch-with-spritekit-and-swift)
 - [How To Make a Game Like Cut the Rope Using SpriteKit and Swift](https://www.raywenderlich.com/82022/make-game-like-cut-rope-using-spritekit-swift)
+- [iOS 7 Sprite Kit: Setting Up Correct Scene Dimensions](http://www.ymc.ch/de/blog/ios-7-sprite-kit-setting-up-correct-scene-dimensions/)
+- [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
+- [Making a Pixel Shader for iOS8 with Sprite Kit](http://www.ymc.ch/de/blog/making-a-pixel-shader-for-ios8-with-sprite-kit/)
 
 ### Video 
 - [Gesture Recognizers with SpriteKit](https://cartoonsmart.com/introduction-to-sprite-kit-with-swift-3-part-6-gesture-recognizers/)
