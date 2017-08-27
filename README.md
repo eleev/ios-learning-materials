@@ -27,6 +27,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Asset Catalog](#asset-catalog)
 - [Playgrounds](#playgrounds)
 - [UIKit](#uikit)
+- [Core Animation](#core-animation)
 - [Swift](#swift)
 - [HealthKit](#healthkit)
 - [Computer Graphics](#computer-graphics)
@@ -382,7 +383,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Prototyping Animated Transitions in Swift](http://mathewsanders.com/animated-transitions-in-swift/)
 - [Prototyping Animations in Swift #1](http://mathewsanders.com/prototyping-iOS-iPhone-iPad-animations-in-swift/)
 - [Prototyping Animations in Swift #2](http://mathewsanders.com/animations-in-swift-part-two/)
-- [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
 
 #### Transitions 
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
@@ -392,11 +392,14 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [View Controller Transitions #1](https://www.objc.io/issues/5-ios7/view-controller-transitions/)
 - [View Controller Transitions #2)](http://mathewsanders.com/custom-menu-transitions-in-swift/)
 - [View Controller Transitions #3](http://mathewsanders.com/interactive-transitions-in-swift/)
-
 - [View Controller Transitions](https://www.objc.io/issues/5-ios7/view-controller-transitions/)
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
+
+## Core Animation 
+- [CALayer Tutorial: Getting Started](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
+- [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
 
 ## Swift 
 
