@@ -160,9 +160,12 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [How To Make A Game Like Color Switch with SpriteKit and Swift](https://www.raywenderlich.com/149034/how-to-make-a-game-like-color-switch-with-spritekit-and-swift)
 - [How To Make a Game Like Cut the Rope Using SpriteKit and Swift](https://www.raywenderlich.com/82022/make-game-like-cut-rope-using-spritekit-swift)
 - [iOS 7 Sprite Kit: Setting Up Correct Scene Dimensions](http://www.ymc.ch/de/blog/ios-7-sprite-kit-setting-up-correct-scene-dimensions/)
+
+### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
 - [Making a Pixel Shader for iOS8 with Sprite Kit](http://www.ymc.ch/de/blog/making-a-pixel-shader-for-ios8-with-sprite-kit/)
 - [Fragment Shaders with SpriteKit](http://chrislanguage.blogspot.ru/2015/02/fragment-shaders-with-spritekit.html)
+- [SpriteKit shaders](http://endlesswavesoftware.com/blog/spritekit-shaders/)
 
 ### Video 
 - [Gesture Recognizers with SpriteKit](https://cartoonsmart.com/introduction-to-sprite-kit-with-swift-3-part-6-gesture-recognizers/)
