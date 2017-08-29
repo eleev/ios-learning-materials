@@ -453,6 +453,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [BASIC THEORY OF PHYSICALLY-BASED RENDERING](https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/)
 - [PHYSICALLY-BASED RENDERING, AND YOU CAN TOO!](https://www.marmoset.co/posts/physically-based-rendering-and-you-can-too/)
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+- [OpenGL & GLSL Tutorials](https://github.com/mattdesl/lwjgl-basics/wiki)
+- [opengl-tutorial](http://www.opengl-tutorial.org)
+- [Learn OpenGL](https://learnopengl.com)
+- []()
 
 ## iOS Development
 - [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f)
