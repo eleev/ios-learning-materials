@@ -146,6 +146,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SceneKit cube rotation with multiple UIPanGestureRecognizers](https://stackoverflow.com/questions/35736255/scenekit-cube-rotation-with-multiple-uipangesturerecognizers)
 - [SceneKit Cocoa Adding decals](https://stackoverflow.com/questions/40913688/scenekit-cocoa-adding-decals)
 - [How To Add Objects In SceneKit Swift](https://stackoverflow.com/questions/33142070/how-to-added-objects-in-scenekit-swift)
+- [How To Turn Off Metal and Enable OpenGL Rendering in SceneKit](https://forums.developer.apple.com/thread/19683)
 
 ### Video 
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
