@@ -244,6 +244,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
+- [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
 
 ## Architecture And Design Patterns
 
@@ -409,6 +410,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ## Core Animation 
 - [CALayer Tutorial: Getting Started](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
 - [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
+- [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift)
 
 ## Swift 
 
