@@ -62,6 +62,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Understanding augmented reality](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
 - [Building a Basic AR Experience](https://developer.apple.com/documentation/arkit/building_a_basic_ar_experience)
 - [Displaying an AR experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal)
+- [Official Human Interface Design Guidelines For Augmented Reality](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
 
 ### Code 
 - [Lava Project](https://github.com/arirawr/ARKit-FloorIsLava)
@@ -528,4 +529,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [App Design & Development Conference](https://www.youtube.com/channel/UCuhXJAOFp9cgbsn71rL30-w/videos)
 - [9 Major UI mistakes that will kill your Apps!](https://blog.prototypr.io/9-major-ui-mistakes-that-will-kill-your-apps-42b152b8c50e)
 - [The ultimate guide for mobile developers, who want to design.](https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49)
-
+- [The designer’s guide to mobile — shifting design across platforms](https://medium.com/capsized-eight/the-designers-guide-to-mobile-shifting-design-across-platforms-9655e007f470)
+- [Getting Typography Right in Digital Design](https://medium.springboard.com/the-guide-to-getting-typography-right-in-digital-design-bb61214ff3ad)
+- [Design Principles: a guide to less shitty feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1)
