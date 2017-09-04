@@ -471,6 +471,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Volumetric Rendering: Hard & Soft Shadows](http://www.alanzucconi.com/2016/07/01/shadow/)
 - [Volumetric Rendering: Volume Raycasting](http://www.alanzucconi.com/2016/07/01/volume/)
 - [Vertex displacement with a noise function using GLSL and three.js](https://www.clicktorelease.com/blog/vertex-displacement-noise-3d-webgl-glsl-three-js/)
+- [Make a Splash With Dynamic 2D Water Effects](https://gamedevelopment.tutsplus.com/tutorials/make-a-splash-with-dynamic-2d-water-effects--gamedev-236)
 
 ### Graphics Pipeline 
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
