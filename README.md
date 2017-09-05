@@ -18,7 +18,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ReplayKit](#replaykit)
 - [CoreLocation](#corelocation)
 - [MapKit](#mapkit)
-- [CocoaPods](#cocoapods)
 - [Clean Code](#clean-code)
 - [App Distribution](#app-distribution)
 - [Frameworks Development](#frameworks-development)
@@ -34,6 +33,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Computer Graphics](#computer-graphics)
 - [iOS Development](#ios-development)
 - [Machine Learning](#machine-learning)
+- [CocoaPods](#cocoapods)
+- [Carthage](#carthage)
 - [Design](#design)
 
 ## ARKit
@@ -217,9 +218,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## MapKit
 - [MapKit Overlay View](https://www.raywenderlich.com/166182/mapkit-tutorial-overlay-views)
-
-## CocoaPods
-- [Installing the same Pod for multiple targets](https://www.natashatherobot.com/cocoapods-installing-same-pod-multiple-targets/)
 
 ## Clean Code
 - [Keeping `View Controllers` skinny and weakly-connected to models](https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/)
@@ -527,6 +525,12 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 - [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 - [Deep Learning Frameworks Compared](https://youtu.be/MDP9FfsNx60)
+
+## CocoaPods
+- [Installing the same Pod for multiple targets](https://www.natashatherobot.com/cocoapods-installing-same-pod-multiple-targets/)
+
+## Carthage
+- [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/165660/carthage-tutorial-getting-started-2)
 
 ## Design 
 - [App Design & Development Conference](https://www.youtube.com/channel/UCuhXJAOFp9cgbsn71rL30-w/videos)
