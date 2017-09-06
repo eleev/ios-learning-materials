@@ -88,6 +88,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Lovely Augmented Reality Charts for iOS](https://github.com/Boris-Em/ARCharts)
 - [ARKit Graffity](https://github.com/bjarnel/arkit-graffiti.git)
 - [FaceRecognition in ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit)
+- [CoreML in ARKit](https://github.com/hanleyweng/CoreML-in-ARKit)
 
  ### Video
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
