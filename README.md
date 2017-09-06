@@ -474,6 +474,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Vertex displacement with a noise function using GLSL and three.js](https://www.clicktorelease.com/blog/vertex-displacement-noise-3d-webgl-glsl-three-js/)
 - [Make a Splash With Dynamic 2D Water Effects](https://gamedevelopment.tutsplus.com/tutorials/make-a-splash-with-dynamic-2d-water-effects--gamedev-236)
 - [Real-time oil painting with OpenGL](http://roxlu.com/2013/012/real-time-oil-painting-with-opengl)
+- [Exploring Metaballs and Isosurfaces in 2D](https://www.gamedev.net/articles/programming/graphics/exploring-metaballs-and-isosurfaces-in-2d-r2556/)
 
 ### Graphics Pipeline 
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
