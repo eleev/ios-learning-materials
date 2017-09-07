@@ -28,6 +28,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Playgrounds](#playgrounds)
 - [UIKit](#uikit)
 - [Core Animation](#core-animation)
+- [Core Graphics](#core-graphics)
 - [Swift](#swift)
 - [HealthKit](#healthkit)
 - [Computer Graphics](#computer-graphics)
@@ -413,6 +414,12 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [CALayer Tutorial: Getting Started](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
 - [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
 - [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift)
+
+## Core Graphics 
+- [Core Graphics Tutorial Part 1: Getting Started](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started)
+- [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts)
+- [Core Graphics Tutorial Part 3: Patterns and Playgrounds](https://www.raywenderlich.com/167352/core-graphics-tutorial-part-3-patterns-playgrounds)
+
 
 ## Swift 
 
