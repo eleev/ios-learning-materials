@@ -18,12 +18,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ReplayKit](#replaykit)
 - [CoreLocation](#corelocation)
 - [MapKit](#mapkit)
-- [Clean Code](#clean-code)
-- [App Distribution](#app-distribution)
-- [Frameworks Development](#frameworks-development)
-- [Git](#git)
-- [Asynchronous Programming](#asynchronous-programming)
-- [Architecture And Design Patterns](#architecture-and-design-patterns)
 - [Asset Catalog](#asset-catalog)
 - [Playgrounds](#playgrounds)
 - [UIKit](#uikit)
@@ -31,9 +25,15 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Graphics](#core-graphics)
 - [Swift](#swift)
 - [HealthKit](#healthkit)
+- [Frameworks Development](#frameworks-development)
+- [Git](#git)
+- [Asynchronous Programming](#asynchronous-programming)
+- [Architecture And Design Patterns](#architecture-and-design-patterns)
 - [Computer Graphics](#computer-graphics)
 - [iOS Development](#ios-development)
 - [Machine Learning](#machine-learning)
+- [Clean Code](#clean-code)
+- [App Distribution](#app-distribution)
 - [CocoaPods](#cocoapods)
 - [Carthage](#carthage)
 - [Design](#design)
@@ -193,6 +193,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Textures and Samplers in Metal](http://metalbyexample.com/textures-and-samplers/)
 - [An Introduction to 3D Graphics with Metal in Swift](https://academy.realm.io/posts/3d-graphics-metal-swift/)
 - [A Brief Tour of Metal](https://developer.apple.com/documentation/metal/a_brief_tour_of_metal)
+- [DATA-PARALLEL PROGRAMMING WITH METAL AND SWIFT FOR IPHONE/IPAD GPU](http://memkite.com/blog/2014/12/15/data-parallel-programming-with-metal-and-swift-for-iphoneipad-gpu/)
+- [EXAMPLE OF SHARING MEMORY BETWEEN GPU AND CPU WITH SWIFT AND METAL FOR IOS8](http://memkite.com/blog/2014/12/30/example-of-sharing-memory-between-gpu-and-cpu-with-swift-and-metal-for-ios8/)
 
 ### Reosurces 
 - [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
@@ -222,115 +224,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ## MapKit
 - [MapKit Overlay View](https://www.raywenderlich.com/166182/mapkit-tutorial-overlay-views)
 
-## Clean Code
-- [Keeping `View Controllers` skinny and weakly-connected to models](https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/)
-- [Five sighns of code smell](https://cocoacasts.com/five-signs-of-code-smell-in-swift/)
-- [Managing View Controllers With Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
-- [Avoiding Massive View Controllers by refactoring.](https://medium.com/cocoaacademymag/avoiding-massive-view-controllers-by-refactoring-ffb6a55dfa42)
 
-
-## App Distribution 
-- [Cannot generate iOS App archive in xcode](https://stackoverflow.com/questions/10715211/cannot-generate-ios-app-archive-in-xcode)
-
-## Frameworks Development 
-- [An Introduction to Creating and Distributing Embedded Frameworks in iOS](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
-- [Creating iOS/OSX Frameworks: is it necessary to codesign them before distributing to other developers?](https://stackoverflow.com/questions/30963294/creating-ios-osx-frameworks-is-it-necessary-to-codesign-them-before-distributin)
-
-## Git
-- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-- [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
-- [Git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-- [Branching](https://gist.github.com/digitaljhelms/4287848)
-- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
-
-## Asynchronous Programming
-
-- [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
-- [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
-- [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
-
-## Architecture And Design Patterns
-
-### Overview
-- [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
-- [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
-
-### Async
-- [Chaining Async Requests in iOS](https://medium.com/@nrewik/chaining-async-requests-in-ios-b492ad9d9b4a)
-
-### Protocol-Oriented Programming
-- [Introducing Protocol-Oriented Programming in Swift 3](https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming)
-- [Introduction to Protocol Oriented Programming in Swift](https://blog.bobthedeveloper.io/introduction-to-protocol-oriented-programming-in-swift-b358fe4974f)
-- [How Protocol Oriented Programming in Swift saved my day?](https://medium.com/ios-os-x-development/how-protocol-oriented-programming-in-swift-saved-my-day-75737a6af022)
-
-### Promise
-- [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
-- [Promise Pattern on Swift with PromiseKit And why you should migrate your async calls to them](https://hackernoon.com/promise-pattern-on-swift-with-promisekit-620efad7a5bd)
-- [Under The Hood Of Futures And Promises In Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
-
-
-### Redux
-- [Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
-
-### Coordinator
-- [An iOS Coordinator Pattern](https://will.townsend.io/2016/an-ios-coordinator-pattern)
-
-### Resources
-- [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
-
-### Flow
-- [[iOS] Flow: Make your logic flow and data flow clean and human readable](https://medium.com/ios-os-x-development/ios-flow-make-your-logic-flow-and-data-flow-clean-and-human-readable-ca9cd2718980)
-
-### VIPER
-- [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
-
-### MVC
-- [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
-- [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
-
-### MVC-N
-- [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
-
-### MVVM-C
-- [MVVM-C with Swift](https://marcosantadev.com/mvvmc-with-swift/)
-- [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
-- [UIKonf 2016 – Day 1– Steve "Scotty" Scott – MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
-
-### MVVM
-- [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
-- [An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
-- [Swift and ModelView-View-Model in Practive](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
-- [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
-- [MVVM in Swift](https://medium.com/@shenghuawu/mvvm-in-swift-bfe2b7c1d7a4)
-- [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
-- [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
-- [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
-- [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
-- [MVVM and Coordinator Patterns Together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
-
-### Delegate
-- [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
-
-### Multicast Delegate
-- [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
-- [Multicast on Swift 3 and MVVM-C](https://medium.com/@ivan_m/multicast-on-swift-3-and-mvvm-c-ff74ce802bcc)
-- [GitHub Code Example](https://gist.github.com/shaulhameed/c9c512a3eed4b4776bb3a209fccd339e)
-
-### Monad
-- [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
-- [Monads in Swift](http://chris.eidhof.nl/post/monads-in-swift/)
-- [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
-
-### Delegate
-- [Lightweight iOS View Controllers](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
-- [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
-- [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
-- [AdvancedCollectionView](https://github.com/zwaldowski/AdvancedCollectionView)
-- [iOS: UITableView controller](http://gosuwachu.io/2014/01/12/uitableview-controller/)
-- [Nestable](http://khanlou.com/2015/04/nestable/)
-- [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
-- [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
-- [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
 
 ## Asset Catalog
 - [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
@@ -466,6 +360,106 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
 - [HealthKit Tutorial with Swift: Workouts](https://www.raywenderlich.com/162877/healthkit-tutorial-swift-workouts)
 
+## Frameworks Development 
+- [An Introduction to Creating and Distributing Embedded Frameworks in iOS](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
+- [Creating iOS/OSX Frameworks: is it necessary to codesign them before distributing to other developers?](https://stackoverflow.com/questions/30963294/creating-ios-osx-frameworks-is-it-necessary-to-codesign-them-before-distributin)
+
+## Git
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+- [Git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+- [Branching](https://gist.github.com/digitaljhelms/4287848)
+- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
+## Asynchronous Programming
+
+- [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
+- [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
+- [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
+
+## Architecture And Design Patterns
+
+### Overview
+- [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
+- [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
+
+### Async
+- [Chaining Async Requests in iOS](https://medium.com/@nrewik/chaining-async-requests-in-ios-b492ad9d9b4a)
+
+### Protocol-Oriented Programming
+- [Introducing Protocol-Oriented Programming in Swift 3](https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming)
+- [Introduction to Protocol Oriented Programming in Swift](https://blog.bobthedeveloper.io/introduction-to-protocol-oriented-programming-in-swift-b358fe4974f)
+- [How Protocol Oriented Programming in Swift saved my day?](https://medium.com/ios-os-x-development/how-protocol-oriented-programming-in-swift-saved-my-day-75737a6af022)
+
+### Promise
+- [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
+- [Promise Pattern on Swift with PromiseKit And why you should migrate your async calls to them](https://hackernoon.com/promise-pattern-on-swift-with-promisekit-620efad7a5bd)
+- [Under The Hood Of Futures And Promises In Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
+
+
+### Redux
+- [Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
+
+### Coordinator
+- [An iOS Coordinator Pattern](https://will.townsend.io/2016/an-ios-coordinator-pattern)
+
+### Resources
+- [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+
+### Flow
+- [[iOS] Flow: Make your logic flow and data flow clean and human readable](https://medium.com/ios-os-x-development/ios-flow-make-your-logic-flow-and-data-flow-clean-and-human-readable-ca9cd2718980)
+
+### VIPER
+- [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
+
+### MVC
+- [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
+- [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
+
+### MVC-N
+- [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
+
+### MVVM-C
+- [MVVM-C with Swift](https://marcosantadev.com/mvvmc-with-swift/)
+- [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
+- [UIKonf 2016 – Day 1– Steve "Scotty" Scott – MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
+
+### MVVM
+- [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
+- [An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
+- [Swift and ModelView-View-Model in Practive](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
+- [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
+- [MVVM in Swift](https://medium.com/@shenghuawu/mvvm-in-swift-bfe2b7c1d7a4)
+- [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
+- [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
+- [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
+- [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
+- [MVVM and Coordinator Patterns Together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
+
+### Delegate
+- [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
+
+### Multicast Delegate
+- [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
+- [Multicast on Swift 3 and MVVM-C](https://medium.com/@ivan_m/multicast-on-swift-3-and-mvvm-c-ff74ce802bcc)
+- [GitHub Code Example](https://gist.github.com/shaulhameed/c9c512a3eed4b4776bb3a209fccd339e)
+
+### Monad
+- [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
+- [Monads in Swift](http://chris.eidhof.nl/post/monads-in-swift/)
+- [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
+
+### Delegate
+- [Lightweight iOS View Controllers](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
+- [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
+- [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
+- [AdvancedCollectionView](https://github.com/zwaldowski/AdvancedCollectionView)
+- [iOS: UITableView controller](http://gosuwachu.io/2014/01/12/uitableview-controller/)
+- [Nestable](http://khanlou.com/2015/04/nestable/)
+- [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
+- [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
+- [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
+
 ## Computer Graphics 
 
 ### Rendering 
@@ -536,6 +530,15 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 - [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 - [Deep Learning Frameworks Compared](https://youtu.be/MDP9FfsNx60)
+
+## Clean Code
+- [Keeping `View Controllers` skinny and weakly-connected to models](https://cocoacasts.com/three-strategies-to-keep-view-controllers-skinny/)
+- [Five sighns of code smell](https://cocoacasts.com/five-signs-of-code-smell-in-swift/)
+- [Managing View Controllers With Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
+- [Avoiding Massive View Controllers by refactoring.](https://medium.com/cocoaacademymag/avoiding-massive-view-controllers-by-refactoring-ffb6a55dfa42)
+
+## App Distribution 
+- [Cannot generate iOS App archive in xcode](https://stackoverflow.com/questions/10715211/cannot-generate-ios-app-archive-in-xcode)
 
 ## CocoaPods
 - [Installing the same Pod for multiple targets](https://www.natashatherobot.com/cocoapods-installing-same-pod-multiple-targets/)
