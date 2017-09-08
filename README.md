@@ -350,6 +350,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
   - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
   - http://rasic.info/bindings-generics-swift-and-mvvm/
   - http://five.agency/solving-the-binding-problem-with-swift/
+- [KVO In iOS 11](http://skyefreeman.io/programming/2017/06/28/kvo-in-ios11.html)  
   
 ### Optionals
 - [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
