@@ -351,6 +351,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
   - http://rasic.info/bindings-generics-swift-and-mvvm/
   - http://five.agency/solving-the-binding-problem-with-swift/
   
+### Optionals
+- [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
+
 ### Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
@@ -461,6 +464,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
+
+### Coroutines
+- [Expressive Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines)
 
 ## Computer Graphics 
 
