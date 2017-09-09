@@ -23,8 +23,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [UIKit](#uikit)
 - [Core Animation](#core-animation)
 - [Core Graphics](#core-graphics)
-- [Swift](#swift)
 - [HealthKit](#healthkit)
+- [Swift](#swift)
 - [Frameworks Development](#frameworks-development)
 - [Git](#git)
 - [Asynchronous Programming](#asynchronous-programming)
@@ -314,6 +314,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts)
 - [Core Graphics Tutorial Part 3: Patterns and Playgrounds](https://www.raywenderlich.com/167352/core-graphics-tutorial-part-3-patterns-playgrounds)
 
+## HealthKit
+- [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
+- [HealthKit Tutorial with Swift: Workouts](https://www.raywenderlich.com/162877/healthkit-tutorial-swift-workouts)
 
 ## Swift 
 
@@ -361,11 +364,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
-
-
-## HealthKit
-- [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
-- [HealthKit Tutorial with Swift: Workouts](https://www.raywenderlich.com/162877/healthkit-tutorial-swift-workouts)
 
 ## Frameworks Development 
 - [An Introduction to Creating and Distributing Embedded Frameworks in iOS](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
