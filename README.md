@@ -317,6 +317,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## Swift 
 
+### Resources 
+- [Swift Unwrapped: Weekly Podcast Show](https://spec.fm/podcasts/swift-unwrapped)
+
 ### Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
 
