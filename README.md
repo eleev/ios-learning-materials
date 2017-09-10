@@ -316,6 +316,18 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts)
 - [Core Graphics Tutorial Part 3: Patterns and Playgrounds](https://www.raywenderlich.com/167352/core-graphics-tutorial-part-3-patterns-playgrounds)
 - [Drawing smooth lines with cocos2d ios inspired by Paper](http://merowing.info/2012/04/drawing-smooth-lines-with-cocos2d-ios-inspired-by-paper/)
+- [Smooth Freehand Drawing on iOS](https://code.tutsplus.com/tutorials/smooth-freehand-drawing-on-ios--mobile-13164)
+- [iOS: Make a real-time drawing app](https://medium.com/@jamiltz/ios-make-a-real-time-drawing-app-12f75a416698)
+- [Draw smooth curves through a set of points in iOS](https://medium.com/@ramshandilya/draw-smooth-curves-through-a-set-of-points-in-ios-34f6d73c8f9)
+- [How to draw smooth lines in iOS apps](http://blog.andolasoft.com/2013/04/how-to-draw-smooth-lines-in-ios-apps.html)
+- [How To Make A Simple Drawing App with UIKit and Swift](https://www.raywenderlich.com/87899/make-simple-drawing-app-uikit-swift)
+- [Let's build: Freehand Drawing in iOS - Part 1](http://techblog.badoo.com/blog/2015/06/15/lets-build-freehand-drawing-in-ios-part-1/)
+- [Let's build: Freehand Drawing in iOS - Part 2](http://techblog.badoo.com/blog/2015/06/29/lets-build-freehand-drawing-in-ios-part-2/)
+- [Let's build: Freehand Drawing in iOS - Part 3](https://techblog.badoo.com/blog/2015/08/18/lets-build-freehand-drawing-in-ios-part-3/)
+
+### Code 
+- [iOS Signature Capture Demo: Smooth Lines Drawing](https://github.com/jharwig/PPSSignatureView)
+- [Smooth line UIView](https://github.com/levinunnink/Smooth-Line-View)
 
 ## HealthKit
 - [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
