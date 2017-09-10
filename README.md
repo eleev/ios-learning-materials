@@ -168,7 +168,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [How To Make A Game Like Color Switch with SpriteKit and Swift](https://www.raywenderlich.com/149034/how-to-make-a-game-like-color-switch-with-spritekit-and-swift)
 - [How To Make a Game Like Cut the Rope Using SpriteKit and Swift](https://www.raywenderlich.com/82022/make-game-like-cut-rope-using-spritekit-swift)
 - [iOS 7 Sprite Kit: Setting Up Correct Scene Dimensions](http://www.ymc.ch/de/blog/ios-7-sprite-kit-setting-up-correct-scene-dimensions/)
-- [How to Make a Line Drawing Game with Sprite Kit](https://www.raywenderlich.com/61289/how-to-make-a-line-drawing-game-with-sprite-kit)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
@@ -324,6 +323,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Let's build: Freehand Drawing in iOS - Part 1](http://techblog.badoo.com/blog/2015/06/15/lets-build-freehand-drawing-in-ios-part-1/)
 - [Let's build: Freehand Drawing in iOS - Part 2](http://techblog.badoo.com/blog/2015/06/29/lets-build-freehand-drawing-in-ios-part-2/)
 - [Let's build: Freehand Drawing in iOS - Part 3](https://techblog.badoo.com/blog/2015/08/18/lets-build-freehand-drawing-in-ios-part-3/)
+- [How to Make a Line Drawing Game with Sprite Kit](https://www.raywenderlich.com/61289/how-to-make-a-line-drawing-game-with-sprite-kit)
 
 ### Code 
 - [iOS Signature Capture Demo: Smooth Lines Drawing](https://github.com/jharwig/PPSSignatureView)
