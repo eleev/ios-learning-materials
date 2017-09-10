@@ -328,6 +328,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Code 
 - [iOS Signature Capture Demo: Smooth Lines Drawing](https://github.com/jharwig/PPSSignatureView)
 - [Smooth line UIView](https://github.com/levinunnink/Smooth-Line-View)
+- [Beatiful and fast smooth line drawing algorithm for iOS](https://github.com/krzysztofzablocki/LineDrawing)
 
 ## HealthKit
 - [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
