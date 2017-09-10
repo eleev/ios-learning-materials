@@ -315,6 +315,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Graphics Tutorial Part 1: Getting Started](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started)
 - [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts)
 - [Core Graphics Tutorial Part 3: Patterns and Playgrounds](https://www.raywenderlich.com/167352/core-graphics-tutorial-part-3-patterns-playgrounds)
+- [Drawing smooth lines with cocos2d ios inspired by Paper](http://merowing.info/2012/04/drawing-smooth-lines-with-cocos2d-ios-inspired-by-paper/)
 
 ## HealthKit
 - [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
