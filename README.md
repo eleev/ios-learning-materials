@@ -283,6 +283,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ### Apple Pencil
 - [Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)
+- [FurrySketch: Hirsute Drawing with an Apple Pencil](https://dzone.com/articles/furrysketch-hirsute-drawing-with-an-apple-pencil)
 
 ### Animations
 - [What’s New In UIKit Animations In Swift 4](https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/)
