@@ -56,6 +56,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [iOS ARKit Tutorial: Drawing in the Air with Bare Fingers](https://www.toptal.com/swift/ios-arkit-tutorial-drawing-in-air-with-fingers)
 - [Augmented Reality With ARKit For IOS](https://digitalleaves.com/blog/2017/08/augmented-reality-arkit/)
 - [ARKit Super Mario Brothers](https://github.com/bjarnel/arkit-smb-homage)
+- [ARKit and CoreLocation: Part One](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-one-fc7cb2fa0150)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
