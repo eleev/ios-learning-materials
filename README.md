@@ -228,7 +228,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 
 ## Asset Catalog
-- [Asset catalog changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
+- [Asset Catalog Changes In Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
+- [Xcode 9 Vector Images And Asset Catalog Support](https://useyourloaf.com/blog/xcode-9-vector-images/)
 
 ## Playgrounds 
 - [Adding Playgrounds to Xcode Projects](https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects/)
