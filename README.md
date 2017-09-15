@@ -41,7 +41,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## ARKit
 
-### Reading 
+### Reading 📖
 - [ARKit by example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
 - [ARKit getting started](https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec)
 - [ARKit with multiple users](https://stackoverflow.com/questions/44529350/arkit-with-multiple-users)
@@ -60,14 +60,14 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
 
-### Documentation 
+### Documentation 📃
 - [ARKit Official Documentation](https://developer.apple.com/documentation/arkit)
 - [Understanding augmented reality](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
 - [Building a Basic AR Experience](https://developer.apple.com/documentation/arkit/building_a_basic_ar_experience)
 - [Displaying an AR experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal)
 - [Official Human Interface Design Guidelines For Augmented Reality](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
 
-### Code 
+### Code 💻
 - [Lava Project](https://github.com/arirawr/ARKit-FloorIsLava)
 - [Example App with horizontal planes and physics cubes](https://github.com/markdaws/arkit-by-example)
 - [Example App that allows to draw in 3D space](https://github.com/laanlabs/ARBrush)
@@ -92,13 +92,13 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [FaceRecognition in ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit)
 - [CoreML in ARKit](https://github.com/hanleyweng/CoreML-in-ARKit)
 
- ### Video
+ ### Video 📹
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
  - [Swift ARKit (Augmented Reality) Tutorial](https://www.youtube.com/watch?v=tgPV_cRf2hA)
 
 ## Vision framework
 
-### Reading 
+### Reading 📖
 - [iOS 11 Tutorial: Vision framework](https://medium.com/@kravik/ios-11-tutorial-vision-framework-3c836d5ecadd)
 - [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 - [Native Machine Learning and Machine Vision in iOS 11](https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397)
@@ -107,13 +107,13 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Getting Started With Vision Framework](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision)
 - [FACE AND FACE’S LANDMARKS DETECTION USING VISION FRAMEWORK IN IOS 11](https://www.thedroidsonroids.com/blog/face-and-faces-landmarks-detection-using-vision-framework-in-ios-11)
 
-### Code
+### Code 💻
 - [Face Cropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper)
 - [Hello Vision: Vision framework example](https://github.com/SwiftBrain/HelloVision)
 - [iOS11 demo application for flower classification](https://github.com/cocoa-ai/FlowersVisionDemo)
 - [iOS11 demo application for dominant objects detection](https://github.com/cocoa-ai/InceptionVisionDemo)
 
-### Video
+### Video 📹
 - [Super Impressive and Easy Face Detection using Vision API in Swift 4](https://www.youtube.com/watch?v=d0U5j89M6aI)
 
  
@@ -155,7 +155,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [How To Add Objects In SceneKit Swift](https://stackoverflow.com/questions/33142070/how-to-added-objects-in-scenekit-swift)
 - [How To Turn Off Metal and Enable OpenGL Rendering in SceneKit](https://forums.developer.apple.com/thread/19683)
 
-### Video 
+### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
 - [Advances in SceneKit Rendering](https://developer.apple.com/videos/play/wwdc2016/609/)
 - [Enhancements to SceneKit](https://developer.apple.com/videos/play/wwdc2015/606/)
@@ -176,7 +176,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Fragment Shaders with SpriteKit](http://chrislanguage.blogspot.ru/2015/02/fragment-shaders-with-spritekit.html)
 - [SpriteKit shaders](http://endlesswavesoftware.com/blog/spritekit-shaders/)
 
-### Video 
+### Video 📹 
 - [Gesture Recognizers with SpriteKit](https://cartoonsmart.com/introduction-to-sprite-kit-with-swift-3-part-6-gesture-recognizers/)
 - [iOS Swift Game Tutorial: SpriteKit Space Game (with Explosions)](https://www.youtube.com/watch?v=cJy61bOqQpg)
 
@@ -200,7 +200,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Reosurces 
 - [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
 
-### Code
+### Code 💻
 - [SceneKit mesh deformed by a Metal compute shader](https://github.com/lachlanhurst/SceneKitMetalDeformableMesh)
 - [3D Graphics with Scene Kit](https://github.com/d-ronnqvist/SCNBook-code/tree/obj-c)
 
@@ -208,14 +208,14 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Building a Full Screen Camera App Using AVFoundation](http://www.appcoda.com/avfoundation-swift-guide/)
 
 ## ReplayKit
-### Reading 
+### Reading 📖
 - [iOS 9: An Introduction to ReplayKit](https://code.tutsplus.com/tutorials/ios-9-an-introduction-to-replaykit--cms-25458)
 - [Screen Recording Your App Using iOS ReplayKit for Bug Reporting](https://medium.com/ymedialabs-innovation/screen-recording-your-app-using-ios-replaykit-for-bug-reporting-70f998c8c1b8)
 - [ReplayKit](https://developer.apple.com/documentation/replaykit)
 - [How to record user videos using ReplayKit](https://www.hackingwithswift.com/example-code/media/how-to-record-user-videos-using-replaykit)
 - [IOS 8 iPad App Crashes When UIActivityViewController Is Called](https://stackoverflow.com/questions/28548760/ios-8-ipad-app-crashes-when-uiactivityviewcontroller-is-called)
 
-### Video
+### Video 📹
 - [Going Social with ReplayKit and Game Center](https://developer.apple.com/videos/play/wwdc2015/605/)
 
 
@@ -329,7 +329,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Let's build: Freehand Drawing in iOS - Part 3](https://techblog.badoo.com/blog/2015/08/18/lets-build-freehand-drawing-in-ios-part-3/)
 - [How to Make a Line Drawing Game with Sprite Kit](https://www.raywenderlich.com/61289/how-to-make-a-line-drawing-game-with-sprite-kit)
 
-### Code 
+### Code 💻
 - [iOS Signature Capture Demo: Smooth Lines Drawing](https://github.com/jharwig/PPSSignatureView)
 - [Smooth line UIView](https://github.com/levinunnink/Smooth-Line-View)
 - [Beatiful and fast smooth line drawing algorithm for iOS](https://github.com/krzysztofzablocki/LineDrawing)
@@ -533,7 +533,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## Machine Learning 
 
-### Reading 
+### Reading 📖
 - [Keras: The Python Deep Learning library](https://keras.io)
 - [SET-UP YOUR MAC FOR DEEP LEARNING WITH PYTHON, TENSORFLOW AND KERAS](https://www.dataweekends.com/blog/2017/03/09/set-up-your-mac-for-deep-learning-with-python-keras-and-tensorflow)
 - [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
@@ -547,7 +547,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 - [Keras Deep Learning with Apple’s CoreMLTools on iOS 11](https://amundtveit.com/2017/06/07/keras-deep-learning-with-apples-coremltools-on-ios-11-part-1/)
 
-### Code
+### Code 💻
 - [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
 - ["Hello world" in keras](https://github.com/fastforwardlabs/keras-hello-world/blob/master/kerashelloworld.ipynb)
 - [TensorFlow on iOS demo](https://github.com/hollance/TensorFlow-iOS-Example)
@@ -560,7 +560,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [coremltools is a python package for creating, examining, and testing models in the .mlmodel format. ](https://pypi.python.org/pypi/coremltools)
 - [5 Genius Python Deep Learning Libraries](https://elitedatascience.com/python-deep-learning-libraries#keras)
 
-### Videos
+### Video 📹
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 - [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 - [Deep Learning Frameworks Compared](https://youtu.be/MDP9FfsNx60)
