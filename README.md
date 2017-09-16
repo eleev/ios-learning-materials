@@ -25,6 +25,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Graphics](#core-graphics)
 - [HealthKit](#healthkit)
 - [Swift](#swift)
+- [Networking](#networking)
 - [Frameworks Development](#frameworks-development)
 - [Debugging](#debugging)
 - [Git](#git)
@@ -387,6 +388,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
+
+## Networking
+- [Network Layers in Swift](https://medium.com/@danielemargutti/network-layers-in-swift-7fc5628ff789)
+- [How to write Networking Layer in Swift (2nd version)](http://danielemargutti.com/2017/09/10/how-to-write-networking-layer-in-swift-2nd-version/)
 
 ## Frameworks Development 
 - [An Introduction to Creating and Distributing Embedded Frameworks in iOS](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
