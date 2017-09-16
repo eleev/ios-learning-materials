@@ -388,6 +388,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
+- [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
 
 ## Networking
 - [Network Layers in Swift](https://medium.com/@danielemargutti/network-layers-in-swift-7fc5628ff789)
