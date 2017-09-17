@@ -264,6 +264,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ### UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
+- [All Thumbs, Why Reach Navigation Should Replace the Navbar in iOS Design](https://medium.com/tall-west/lets-ditch-the-nav-bar-3692cb17cc67)
 
 ### Haptic Feedback
 - [Creating an Immersive User Experience with Haptic Feedback in iOS](http://www.appcoda.com/haptic-feedback/)
