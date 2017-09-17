@@ -504,6 +504,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### Coroutines
 - [Expressive Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines)
 
+### SOLID
+- [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
+
 ## Computer Graphics 
 
 ### Rendering 
