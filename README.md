@@ -254,6 +254,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ### Collection View
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
+- [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
 
 ### Stack View
 - [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
