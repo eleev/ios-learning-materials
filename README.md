@@ -605,4 +605,5 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Creative Motion: 12 Concepts of Interface Animation.](https://uxplanet.org/creative-motion-12-concepts-of-interface-animation-2c32f674aecb)
 
 ### Resources
-- [UXPlanet](https://uxplanet.org)
+- [UXPlanet is a huge resource that contains everything you need to know about user experince.](https://uxplanet.org)
+- [Ray Wenderlich Com is a one of the biggest iOS communities out there. They have have a lot of free content as well as paid books, videos and tutorials. The quality fo the material is one of the best that you can find.](https://www.raywenderlich.com)
