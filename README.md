@@ -370,6 +370,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
   - https://github.com/ole/whats-new-in-swift-4/blob/master/Whats-new-in-Swift-4.playground/Pages/Encoding%20and%20decoding.xcplaygroundpage/Contents.swift
   - https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
   - http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
+- [Encoding, Decoding and Serialization in Swift 4](https://www.raywenderlich.com/172145/encoding-decoding-and-serialization-in-swift-4)
 
 ### Properties
 - [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
