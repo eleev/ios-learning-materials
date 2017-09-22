@@ -25,6 +25,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Graphics](#core-graphics)
 - [HealthKit](#healthkit)
 - [Swift](#swift)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Networking](#networking)
 - [Frameworks Development](#frameworks-development)
 - [Debugging](#debugging)
@@ -392,6 +393,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
 - [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
+
+## Algorithms and Data Structures
+- [Swift Algorithm Club: Minimum Spanning Tree with Prim’s Algorithm](https://www.raywenderlich.com/169392/swift-algorithm-club-minimum-spanning-tree-with-prims-algorithm)
 
 ## Networking
 - [Network Layers in Swift](https://medium.com/@danielemargutti/network-layers-in-swift-7fc5628ff789)
