@@ -39,6 +39,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [App Distribution](#app-distribution)
 - [CocoaPods](#cocoapods)
 - [Carthage](#carthage)
+- [Framworks](#framworks)
 - [Design](#design)
 
 ## ARKit
@@ -615,6 +616,17 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Design Principles: a guide to less shitty feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1)
 - [UX Design Patterns for Mobile Apps: Which and Why](https://www.raywenderlich.com/167174/design-patterns-mobile-apps-which-why)
 - [Creative Motion: 12 Concepts of Interface Animation.](https://uxplanet.org/creative-motion-12-concepts-of-interface-animation-2c32f674aecb)
+
+## Framworks
+
+### Realm 
+- [Designing the schema of Realm effectively, and other Realm tips](https://hackernoon.com/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072)
+
+### Firebase
+
+### Alamofire
+
+
 
 ### Resources
 - [UXPlanet is a huge resource that contains everything you need to know about user experince.](https://uxplanet.org)
