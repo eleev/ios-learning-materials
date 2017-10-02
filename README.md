@@ -62,6 +62,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ARKit and CoreLocation: Part One](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-one-fc7cb2fa0150)
 - [Augmented Reality and ARKit Tutorial](https://www.raywenderlich.com/172543/augmented-reality-and-arkit-tutorial)
 - [Why I Love ARKit for Apple iOS 11](https://www.raywenderlich.com/171726/why-i-love-arkit-apple-ios-11)
+- [Building a Simple ARKit Demo with SceneKit in Swift 4 and Xcode 9](https://www.appcoda.com/arkit-introduction-scenekit/)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
