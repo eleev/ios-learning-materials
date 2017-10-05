@@ -267,6 +267,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 ### UIStackView
 - [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
 
+### UIImageView
+- [How to Mask an UIImageView](https://stackoverflow.com/questions/5757386/how-to-mask-an-uiimageview)
+
 ### Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
 - [Auto Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/160527/auto-layout-tutorial-ios-11-getting-started)
@@ -629,6 +632,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ### Realm 
 - [Designing the schema of Realm effectively, and other Realm tips](https://hackernoon.com/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072)
+- [Correct way to retrieve a single object from Realm database](https://stackoverflow.com/questions/30610536/correct-way-to-retrieve-a-single-object-from-realm-database)
+- [What are Primary Keys?](https://academy.realm.io/posts/realm-primary-keys-tutorial/)
 
 ### Firebase
 
