@@ -405,6 +405,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
   
 ### Optionals
 - [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
+- [Filtering Object To Optionals](https://swiftforward.wordpress.com/2016/06/17/filtering-objects-to-optionals/)
 
 ### Collections
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
