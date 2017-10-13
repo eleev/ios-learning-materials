@@ -263,6 +263,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ### UITableView
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
+- [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/)
 
 ### UIStackView
 - [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
