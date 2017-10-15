@@ -311,7 +311,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Prototyping Animations in Swift #2](http://mathewsanders.com/animations-in-swift-part-two/)
 - [iOS Animation Tutorial: Getting Started](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
 
-#### Transitions 
+#### Transitions
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
 - [iOS Animation Tutorial: Custom View Controller Presentation Transitions](https://www.raywenderlich.com/146692/ios-animation-tutorial-custom-view-controller-presentation-transitions-2)
 - [Creating Custom UIViewController Transitions](https://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions)
@@ -320,6 +320,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [View Controller Transitions #2)](http://mathewsanders.com/custom-menu-transitions-in-swift/)
 - [View Controller Transitions #3](http://mathewsanders.com/interactive-transitions-in-swift/)
 - [View Controller Transitions](https://www.objc.io/issues/5-ios7/view-controller-transitions/)
+- [iOS Animation Tutorial: Custom View Controller Presentation Transitions](https://www.raywenderlich.com/173576/ios-animation-tutorial-custom-view-controller-presentation-transitions-3)
+- [Introduction to Custom View Controller Transitions and Animations](https://www.appcoda.com/custom-view-controller-transitions-tutorial/)
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
