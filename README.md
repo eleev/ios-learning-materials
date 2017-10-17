@@ -16,14 +16,14 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Metal](#metal)
 - [AVFounation](#avfoundation)
 - [ReplayKit](#replaykit)
-- [Core Data](#core-data)
-- [CoreLocation](#corelocation)
 - [MapKit](#mapkit)
 - [Asset Catalog](#asset-catalog)
 - [Playgrounds](#playgrounds)
 - [UIKit](#uikit)
 - [Core Animation](#core-animation)
 - [Core Graphics](#core-graphics)
+- [CoreLocation](#corelocation)
+- [Core Data](#core-data)
 - [HealthKit](#healthkit)
 - [Swift](#swift)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -227,14 +227,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Going Social with ReplayKit and Game Center](https://developer.apple.com/videos/play/wwdc2015/605/)
 
 
-## CoreLocation 
-- [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
-
 ## MapKit
 - [MapKit Overlay View](https://www.raywenderlich.com/166182/mapkit-tutorial-overlay-views)
-
-## Core Data
-- [Getting Started With Core Data](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
 
 ## Asset Catalog
 - [Asset Catalog Changes In Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
@@ -353,6 +347,12 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Let's build: Freehand Drawing in iOS - Part 2](http://techblog.badoo.com/blog/2015/06/29/lets-build-freehand-drawing-in-ios-part-2/)
 - [Let's build: Freehand Drawing in iOS - Part 3](https://techblog.badoo.com/blog/2015/08/18/lets-build-freehand-drawing-in-ios-part-3/)
 - [How to Make a Line Drawing Game with Sprite Kit](https://www.raywenderlich.com/61289/how-to-make-a-line-drawing-game-with-sprite-kit)
+
+## CoreLocation 
+- [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
+
+## Core Data
+- [Getting Started With Core Data](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
 
 ### Code 💻
 - [iOS Signature Capture Demo: Smooth Lines Drawing](https://github.com/jharwig/PPSSignatureView)
