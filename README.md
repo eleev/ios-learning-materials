@@ -18,7 +18,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ReplayKit](#replaykit)
 - [MapKit](#mapkit)
 - [Asset Catalog](#asset-catalog)
-- [Playgrounds](#playgrounds)
+- [Playgrounfds](#playgrounds)
 - [UIKit](#uikit)
 - [Core Animation](#core-animation)
 - [Core Graphics](#core-graphics)
@@ -236,6 +236,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## Playgrounds 
 - [Adding Playgrounds to Xcode Projects](https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects/)
+- [Xcode: Markup For Playgrounds](http://www.thomashanning.com/xcode-markup-for-playgrounds/)
+- [Markup Formatting Reference](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html)
 
 ## UIKit
 
