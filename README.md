@@ -547,6 +547,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## Computer Graphics 
 
+### Foundation
+- [What are normal, tangent and binormal vectors and how are they used?](https://gamedev.stackexchange.com/questions/51399/what-are-normal-tangent-and-binormal-vectors-and-how-are-they-used)
+
 ### Rendering 
 - [BASIC THEORY OF PHYSICALLY-BASED RENDERING](https://www.marmoset.co/posts/basic-theory-of-physically-based-rendering/)
 - [PHYSICALLY-BASED RENDERING, AND YOU CAN TOO!](https://www.marmoset.co/posts/physically-based-rendering-and-you-can-too/)
