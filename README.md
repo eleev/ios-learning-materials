@@ -355,6 +355,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## Core Data
 - [Getting Started With Core Data](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
+- [Multiple Managed Object Context With Code Data](https://www.raywenderlich.com/174082/multiple-managed-object-contexts-with-core-data-tutorial)
 
 ### Code 💻
 - [iOS Signature Capture Demo: Smooth Lines Drawing](https://github.com/jharwig/PPSSignatureView)
