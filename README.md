@@ -177,6 +177,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [How To Make A Game Like Color Switch with SpriteKit and Swift](https://www.raywenderlich.com/149034/how-to-make-a-game-like-color-switch-with-spritekit-and-swift)
 - [How To Make a Game Like Cut the Rope Using SpriteKit and Swift](https://www.raywenderlich.com/82022/make-game-like-cut-rope-using-spritekit-swift)
 - [iOS 7 Sprite Kit: Setting Up Correct Scene Dimensions](http://www.ymc.ch/de/blog/ios-7-sprite-kit-setting-up-correct-scene-dimensions/)
+- [Touch event and physics field](http://www.bytearray.org/?p=5336)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
