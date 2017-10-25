@@ -22,7 +22,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [UIKit](#uikit)
 - [Core Animation](#core-animation)
 - [Core Graphics](#core-graphics)
-- [CoreLocation](#corelocation)
+- [Core Location](#core-location)
+- [Core Motion ](#core-motion)
 - [Core Data](#core-data)
 - [HealthKit](#healthkit)
 - [Swift](#swift)
@@ -351,12 +352,15 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Let's build: Freehand Drawing in iOS - Part 3](https://techblog.badoo.com/blog/2015/08/18/lets-build-freehand-drawing-in-ios-part-3/)
 - [How to Make a Line Drawing Game with Sprite Kit](https://www.raywenderlich.com/61289/how-to-make-a-line-drawing-game-with-sprite-kit)
 
-## CoreLocation 
+## Core Location 
 - [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
 
 ## Core Data
 - [Getting Started With Core Data](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
 - [Multiple Managed Object Context With Code Data](https://www.raywenderlich.com/174082/multiple-managed-object-contexts-with-core-data-tutorial)
+
+## Core Motion 
+- [IOS DEVICE MOTION: APPS WITH ATTITUDE](https://www.forestgiant.com/articles/ios-core-motion/)
 
 ### Code 💻
 - [iOS Signature Capture Demo: Smooth Lines Drawing](https://github.com/jharwig/PPSSignatureView)
