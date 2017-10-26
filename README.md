@@ -62,9 +62,15 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Augmented Reality With ARKit For IOS](https://digitalleaves.com/blog/2017/08/augmented-reality-arkit/)
 - [ARKit Super Mario Brothers](https://github.com/bjarnel/arkit-smb-homage)
 - [ARKit and CoreLocation: Part One](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-one-fc7cb2fa0150)
+- [ARKit and CoreLocation: Part Two -
+Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-two-7b045fb1d7a1)
+- [ARKit Adventures Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/aarkit-adventures-697dfbe7779e)
 - [Augmented Reality and ARKit Tutorial](https://www.raywenderlich.com/172543/augmented-reality-and-arkit-tutorial)
 - [Why I Love ARKit for Apple iOS 11](https://www.raywenderlich.com/171726/why-i-love-arkit-apple-ios-11)
 - [Building a Simple ARKit Demo with SceneKit in Swift 4 and Xcode 9](https://www.appcoda.com/arkit-introduction-scenekit/)
+- [Building an AR app with ARKit and Scenekit](https://blog.pusher.com/building-an-ar-app-with-arkit-and-scenekit/)
+- [Build ARKit Application with Unity](https://medium.com/@davidguandev/build-arkit-application-with-unity-10af4a5e3b05)
+- [Augmented Reality With ARKit: Detecting Planes](https://digitalleaves.com/blog/2017/10/augmented-reality-with-arkit-detecting-planes/)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
