@@ -592,6 +592,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Real-time oil painting with OpenGL](http://roxlu.com/2013/012/real-time-oil-painting-with-opengl)
 - [Exploring Metaballs and Isosurfaces in 2D](https://www.gamedev.net/articles/programming/graphics/exploring-metaballs-and-isosurfaces-in-2d-r2556/)
 
+### Algorithms and Approaches
+- [Metaballs and Marching Squares](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/)
+
 ### Graphics Pipeline 
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 
