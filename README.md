@@ -344,6 +344,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
+- [Building a Tinder-esque Card Interface](https://medium.com/@phillfarrugia/building-a-tinder-esque-card-interface-5afa63c6d3db)
 
 ### Drag & Drop
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
