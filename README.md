@@ -297,6 +297,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
 - [All Thumbs, Why Reach Navigation Should Replace the Navbar in iOS Design](https://medium.com/tall-west/lets-ditch-the-nav-bar-3692cb17cc67)
+- [Development Tutorial for iPhone X](https://www.raywenderlich.com/173928/develop-design-iphone-x)
 
 ### Haptic Feedback
 - [Creating an Immersive User Experience with Haptic Feedback in iOS](http://www.appcoda.com/haptic-feedback/)
