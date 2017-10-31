@@ -201,6 +201,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Touch event and physics field](http://www.bytearray.org/?p=5336)
 - [SpriteKit game scene transitions with shaders](http://www.dbotha.com/2015/07/18/spritekit-game-scene-transitions-with-shaders/)
 - [SpriteKit Tutorial: Create an Interactive Children’s Book with SpriteKit and Swift 3](https://www.raywenderlich.com/148670/spritekit-tutorial-create-interactive-childrens-book-sprite-kit-swift-3)
+- [https://www.raywenderlich.com/125046/card-game-mechanics-in-sprite-kit-with-swift](SpriteKit Tutorial: Create an Interactive Children’s Book with SpriteKit and Swift 3)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
