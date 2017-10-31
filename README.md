@@ -199,6 +199,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [How To Make a Game Like Cut the Rope Using SpriteKit and Swift](https://www.raywenderlich.com/82022/make-game-like-cut-rope-using-spritekit-swift)
 - [iOS 7 Sprite Kit: Setting Up Correct Scene Dimensions](http://www.ymc.ch/de/blog/ios-7-sprite-kit-setting-up-correct-scene-dimensions/)
 - [Touch event and physics field](http://www.bytearray.org/?p=5336)
+- [SpriteKit game scene transitions with shaders](http://www.dbotha.com/2015/07/18/spritekit-game-scene-transitions-with-shaders/)
+- [SpriteKit Tutorial: Create an Interactive Children’s Book with SpriteKit and Swift 3](https://www.raywenderlich.com/148670/spritekit-tutorial-create-interactive-childrens-book-sprite-kit-swift-3)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
