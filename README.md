@@ -18,7 +18,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [ReplayKit](#replaykit)
 - [MapKit](#mapkit)
 - [Asset Catalog](#asset-catalog)
-- [Playgrounfds](#playgrounds)
+- [Playground](#playground)
 - [UIKit](#uikit)
 - [Core Animation](#core-animation)
 - [Core Graphics](#core-graphics)
@@ -260,7 +260,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Asset Catalog Changes In Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/)
 - [Xcode 9 Vector Images And Asset Catalog Support](https://useyourloaf.com/blog/xcode-9-vector-images/)
 
-## Playgrounds 
+## Playground
 - [Adding Playgrounds to Xcode Projects](https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects/)
 - [Xcode: Markup For Playgrounds](http://www.thomashanning.com/xcode-markup-for-playgrounds/)
 - [Markup Formatting Reference](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html)
