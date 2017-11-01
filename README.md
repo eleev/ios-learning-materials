@@ -184,6 +184,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [How To Add Objects In SceneKit Swift](https://stackoverflow.com/questions/33142070/how-to-added-objects-in-scenekit-swift)
 - [How To Turn Off Metal and Enable OpenGL Rendering in SceneKit](https://forums.developer.apple.com/thread/19683)
 - [How to Make a Game Like Can Knockdown](https://www.raywenderlich.com/138712/make-game-like-can-knockdown)
+- [SceneKit: Deformable Terrain](http://sound-of-silence.com/?article=20161108)
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
@@ -203,6 +204,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [SpriteKit game scene transitions with shaders](http://www.dbotha.com/2015/07/18/spritekit-game-scene-transitions-with-shaders/)
 - [SpriteKit Tutorial: Create an Interactive Children’s Book with SpriteKit and Swift 3](https://www.raywenderlich.com/148670/spritekit-tutorial-create-interactive-childrens-book-sprite-kit-swift-3)
 - [Createa An Interactive Childrend's Book With SpriteKit and Swift 3](https://www.raywenderlich.com/125046/card-game-mechanics-in-sprite-kit-with-swift)
+- [SpriteKit Text Disintegration](http://sound-of-silence.com/?article=20170205)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
