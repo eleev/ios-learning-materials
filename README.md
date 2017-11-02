@@ -185,6 +185,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [How To Turn Off Metal and Enable OpenGL Rendering in SceneKit](https://forums.developer.apple.com/thread/19683)
 - [How to Make a Game Like Can Knockdown](https://www.raywenderlich.com/138712/make-game-like-can-knockdown)
 - [SceneKit: Deformable Terrain](http://sound-of-silence.com/?article=20161108)
+- [Dynamically load Collada files in SceneKit at runtime](https://the-nerd.be/2014/11/07/dynamically-load-collada-files-in-scenekit-at-runtime/)
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
