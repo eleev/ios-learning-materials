@@ -26,6 +26,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Motion ](#core-motion)
 - [Core Data](#core-data)
 - [HealthKit](#healthkit)
+- [CloudKit](#cloudkit)
 - [Swift](#swift)
 - [Xcode](#xcode)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -399,6 +400,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ## HealthKit
 - [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
 - [HealthKit Tutorial with Swift: Workouts](https://www.raywenderlich.com/162877/healthkit-tutorial-swift-workouts)
+
+## CloudKit
+- [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
 
 ## Swift 
 
