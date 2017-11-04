@@ -417,6 +417,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
 - [JSON to Swift with Decoder and Decodable](https://swiftunboxed.com/stdlib/json-decoder-decodable/)
 
+### Advances In Protocols
+- [Injecting forEach into chained method calls](https://oleb.net/blog/2017/10/chained-foreach/)
+
 ### KVC
 - [Struct References](http://chris.eidhof.nl/post/references/)
 
