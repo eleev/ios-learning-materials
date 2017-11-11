@@ -591,9 +591,6 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
 - [MVVM and Coordinator Patterns Together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
 
-### Delegate
-- [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
-
 ### Multicast Delegate
 - [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
 - [Multicast on Swift 3 and MVVM-C](https://medium.com/@ivan_m/multicast-on-swift-3-and-mvvm-c-ff74ce802bcc)
@@ -614,6 +611,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
+- [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
 
 ### Dependency Injection
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
