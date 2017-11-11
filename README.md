@@ -615,6 +615,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
 
+### Dependency Injection
+- [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
+
 ### Coroutines
 - [Expressive Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines)
 
