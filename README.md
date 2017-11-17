@@ -73,6 +73,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Building an AR app with ARKit and Scenekit](https://blog.pusher.com/building-an-ar-app-with-arkit-and-scenekit/)
 - [Build ARKit Application with Unity](https://medium.com/@davidguandev/build-arkit-application-with-unity-10af4a5e3b05)
 - [Augmented Reality With ARKit: Detecting Planes](https://digitalleaves.com/blog/2017/10/augmented-reality-with-arkit-detecting-planes/)
+- [ARKit Tutorial: Understanding and Implementing 3D Objects](https://www.appcoda.com/arkit-3d-object/)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
