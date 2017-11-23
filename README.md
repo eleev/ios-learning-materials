@@ -6,7 +6,7 @@ Curated list of articles, web-resources, tutorials, `Stack Overflow` and `Quora`
 
 You may see some non-directly related topics such as `Computer Graphics`, `Machine Learning` or `Design Patterns` - these are actually related, in some ways, to `iOS` development, but in a much broader and more specific way. With the addition of new materials, the structure of the document will be properly maintained meaning that it will become a reference book for learning. Happy evolving 🤓:octocat:
 
-## Contnet 
+## Content 
 - [About](#about)
 - [ARKit](#arkit)
 - [Vision Framework](#vision-framework)
