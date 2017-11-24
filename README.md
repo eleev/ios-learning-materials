@@ -577,6 +577,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### MVC
 - [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
 - [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
+- [MVC](http://codeplease.io/2017/11/19/mvc/]
 
 ### MVC-N
 - [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
