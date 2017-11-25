@@ -539,6 +539,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Overview
 - [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
 - [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
+- [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 
 ### Singleton
 - [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift)
