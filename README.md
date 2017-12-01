@@ -508,6 +508,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 #### Graph 
 - [Swift Algorithm Club: Minimum Spanning Tree with Prim’s Algorithm](https://www.raywenderlich.com/169392/swift-algorithm-club-minimum-spanning-tree-with-prims-algorithm)
+- [Swift Algorithm Club: Swift Dijkstra’s Algorithm](https://www.raywenderlich.com/178761/swift-algorithm-club-siwft-dijkstras-algorithm)
 
 
 ## Networking
