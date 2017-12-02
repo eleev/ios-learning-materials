@@ -45,6 +45,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Carthage](#carthage)
 - [Framworks](#framworks)
 - [Design](#design)
+- [UX](#ux)
 - [Interview](#interview)
 - [Other](#other)
 
@@ -731,7 +732,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ## Carthage
 - [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/165660/carthage-tutorial-getting-started-2)
 
-## Design 
+## Design
 - [App Design & Development Conference](https://www.youtube.com/channel/UCuhXJAOFp9cgbsn71rL30-w/videos)
 - [9 Major UI mistakes that will kill your Apps!](https://blog.prototypr.io/9-major-ui-mistakes-that-will-kill-your-apps-42b152b8c50e)
 - [The ultimate guide for mobile developers, who want to design.](https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49)
@@ -740,6 +741,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Design Principles: a guide to less shitty feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1)
 - [UX Design Patterns for Mobile Apps: Which and Why](https://www.raywenderlich.com/167174/design-patterns-mobile-apps-which-why)
 - [Creative Motion: 12 Concepts of Interface Animation.](https://uxplanet.org/creative-motion-12-concepts-of-interface-animation-2c32f674aecb)
+
+## UX
+- [Honing Your Mobile Apps With Savvy User Research](https://www.raywenderlich.com/173788/honing-mobile-apps-user-research)
 
 ## Framworks
 
