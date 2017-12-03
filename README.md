@@ -423,6 +423,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Swift Unwrapped: Weekly Podcast Show](https://spec.fm/podcasts/swift-unwrapped)
 - [Srdan Rasic: A software Engineer](http://rasic.info)
 
+### Strings
+- [Strings In Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
+
 ### Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
 
