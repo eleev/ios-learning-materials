@@ -35,6 +35,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Debugging](#debugging)
 - [Git](#git)
 - [Asynchronous Programming](#asynchronous-programming)
+- [Functional Programming](#functional-programming)
+- [Protocol-Oriented Programming](#protocol-oriented-programming)
 - [Architecture And Design Patterns](#architecture-and-design-patterns)
 - [Computer Graphics](#computer-graphics)
 - [iOS Development](#ios-development)
@@ -540,6 +542,14 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
 - [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
 
+## Functional Programming 
+- [Lenses and Prisms in Swift: a pragmatic approach](https://broomburgo.github.io/fun-ios/post/lenses-and-prisms-in-swift-a-pragmatic-approach/)
+
+## Protocol-Oriented Programming
+- [Introducing Protocol-Oriented Programming in Swift 3](https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming)
+- [Introduction to Protocol Oriented Programming in Swift](https://blog.bobthedeveloper.io/introduction-to-protocol-oriented-programming-in-swift-b358fe4974f)
+- [How Protocol Oriented Programming in Swift saved my day?](https://medium.com/ios-os-x-development/how-protocol-oriented-programming-in-swift-saved-my-day-75737a6af022)
+
 ## Architecture And Design Patterns
 
 ### Overview
@@ -552,11 +562,6 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### Async
 - [Chaining Async Requests in iOS](https://medium.com/@nrewik/chaining-async-requests-in-ios-b492ad9d9b4a)
-
-### Protocol-Oriented Programming
-- [Introducing Protocol-Oriented Programming in Swift 3](https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming)
-- [Introduction to Protocol Oriented Programming in Swift](https://blog.bobthedeveloper.io/introduction-to-protocol-oriented-programming-in-swift-b358fe4974f)
-- [How Protocol Oriented Programming in Swift saved my day?](https://medium.com/ios-os-x-development/how-protocol-oriented-programming-in-swift-saved-my-day-75737a6af022)
 
 ### Promise
 - [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
