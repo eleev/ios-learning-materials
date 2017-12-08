@@ -129,6 +129,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [AR-FlatWeatherDiplay](https://github.com/nagam11/ARKit-Projects/tree/master/Project%2002%20-%20ARFlatWeather)
 - [AR-Planes](https://github.com/Hack-the-North-2017/AR-Planes)
 - [Solar System with ARKit on Swift](https://github.com/emadhegab/ARSolar)
+- [This library uses ARKit Face Tracking in order to catch a user's smile.](https://github.com/rsrbk/SmileToUnlock]
 
  ### Video 📹
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
