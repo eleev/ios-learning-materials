@@ -131,6 +131,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Solar System with ARKit on Swift](https://github.com/emadhegab/ARSolar)
 - [This library uses ARKit Face Tracking in order to catch a user's smile.](https://github.com/rsrbk/SmileToUnlock]
 - [Make your ARKit experiment compatible with mobile VR/AR headsets*. An example setup using SceneKit. Useful for playing with head-worn Mixed Reality, Augmented Reality, Virtual Reality with headtracking, or a mix of everything.](https://github.com/hanleyweng/iOS-ARKit-Headset-View]
+- [Findme. Using ARKit to find me](https://github.com/mmoaay/Findme)
 
  ### Video 📹
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
