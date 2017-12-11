@@ -129,8 +129,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [AR-FlatWeatherDiplay](https://github.com/nagam11/ARKit-Projects/tree/master/Project%2002%20-%20ARFlatWeather)
 - [AR-Planes](https://github.com/Hack-the-North-2017/AR-Planes)
 - [Solar System with ARKit on Swift](https://github.com/emadhegab/ARSolar)
-- [This library uses ARKit Face Tracking in order to catch a user's smile.](https://github.com/rsrbk/SmileToUnlock]
-- [Make your ARKit experiment compatible with mobile VR/AR headsets*. An example setup using SceneKit. Useful for playing with head-worn Mixed Reality, Augmented Reality, Virtual Reality with headtracking, or a mix of everything.](https://github.com/hanleyweng/iOS-ARKit-Headset-View]
+- [This library uses ARKit Face Tracking in order to catch a user's smile.](https://github.com/rsrbk/SmileToUnlock)
+- [Make your ARKit experiment compatible with mobile VR/AR headsets*. An example setup using SceneKit. Useful for playing with head-worn Mixed Reality, Augmented Reality, Virtual Reality with headtracking, or a mix of everything](https://github.com/hanleyweng/iOS-ARKit-Headset-View)
 - [Findme. Using ARKit to find me](https://github.com/mmoaay/Findme)
 
  ### Video 📹
