@@ -311,6 +311,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### UIImageView
 - [How to Mask an UIImageView](https://stackoverflow.com/questions/5757386/how-to-mask-an-uiimageview)
 
+## UISplitViewController
+- [UISplitViewController Tutorial: Getting Started](https://www.raywenderlich.com/173753/uisplitviewcontroller-tutorial-getting-started-2)
+
 ### Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
 - [Auto Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/160527/auto-layout-tutorial-ios-11-getting-started)
