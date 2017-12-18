@@ -367,6 +367,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [View Controller Transitions](https://www.objc.io/issues/5-ios7/view-controller-transitions/)
 - [iOS Animation Tutorial: Custom View Controller Presentation Transitions](https://www.raywenderlich.com/173576/ios-animation-tutorial-custom-view-controller-presentation-transitions-3)
 - [Introduction to Custom View Controller Transitions and Animations](https://www.appcoda.com/custom-view-controller-transitions-tutorial/)
+- [How To Make A UIViewController Transition Animation Like in the Ping App](https://www.raywenderlich.com/167198/make-uiviewcontroller-transition-animation-like-ping-app)
 
 ### Custom Components 
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
