@@ -219,6 +219,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [SpriteKit Tutorial: Create an Interactive Children’s Book with SpriteKit and Swift 3](https://www.raywenderlich.com/148670/spritekit-tutorial-create-interactive-childrens-book-sprite-kit-swift-3)
 - [Createa An Interactive Childrend's Book With SpriteKit and Swift 3](https://www.raywenderlich.com/125046/card-game-mechanics-in-sprite-kit-with-swift)
 - [SpriteKit Text Disintegration](http://sound-of-silence.com/?article=20170205)
+- [Drawing gradients in SpriteKit](https://augmentedcode.io/2017/11/12/drawing-gradients-in-spritekit/)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
