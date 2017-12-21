@@ -189,6 +189,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Rotate SCNCamera node looking at an object around an imaginary sphere](https://stackoverflow.com/questions/25654772/rotate-scncamera-node-looking-at-an-object-around-an-imaginary-sphere)
 - [Position a SceneKit object in front of SCNCamera's current orientation](https://stackoverflow.com/questions/42029347/position-a-scenekit-object-in-front-of-scncameras-current-orientation)
 - [SceneKit Tutorial - From Zero to Hero Part I](http://www.rogerboesch.com:2368/scenekit-tutorial-series-from-zero-to-hero/)
+- [SceneKit - From Zero to Hero, Part II](https://rogerboesch.github.io/scenekit/tutorial/games/2016/10/26/scenekit-zerotohero-II.html)
 - [How to set up SceneKit collision detection](https://stackoverflow.com/questions/27372138/how-to-set-up-scenekit-collision-detection)
 - [SCNNode Bounding size and Scaling: Changing Size Of Physics Boulding Volume](https://stackoverflow.com/questions/35301207/scnnode-bounding-size-and-scaling)
 - [How to convert 2D point to 3D using SceneKit's unprojectPoint without having a depth value?](https://stackoverflow.com/questions/24363430/how-to-convert-2d-point-to-3d-using-scenekits-unprojectpoint-without-having-a-d)
@@ -199,11 +200,16 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [How to Make a Game Like Can Knockdown](https://www.raywenderlich.com/138712/make-game-like-can-knockdown)
 - [SceneKit: Deformable Terrain](http://sound-of-silence.com/?article=20161108)
 - [Dynamically load Collada files in SceneKit at runtime](https://the-nerd.be/2014/11/07/dynamically-load-collada-files-in-scenekit-at-runtime/)
+- [How do I efficiently map a high-res SKScene in SceneKit?](https://stackoverflow.com/questions/41652185/how-do-i-efficiently-map-a-high-res-skscene-in-scenekit)
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
 - [Advances in SceneKit Rendering](https://developer.apple.com/videos/play/wwdc2016/609/)
 - [Enhancements to SceneKit](https://developer.apple.com/videos/play/wwdc2015/606/)
+
+### Code 💻
+- [SpriteKitHills - Dynamic generated hills](https://github.com/rogerboesch/SpriteKitHills)
+- [Tanks - Gameplay example with SpriteKit](https://github.com/rogerboesch/SceneKitTutorial)
 
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
