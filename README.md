@@ -226,6 +226,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Createa An Interactive Childrend's Book With SpriteKit and Swift 3](https://www.raywenderlich.com/125046/card-game-mechanics-in-sprite-kit-with-swift)
 - [SpriteKit Text Disintegration](http://sound-of-silence.com/?article=20170205)
 - [Drawing gradients in SpriteKit](https://augmentedcode.io/2017/11/12/drawing-gradients-in-spritekit/)
+- [How to handle a lot of textures in memory](https://stackoverflow.com/questions/37825039/swift-how-to-handle-a-lot-of-textures-in-memory)
+
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
