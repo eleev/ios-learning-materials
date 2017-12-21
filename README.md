@@ -201,6 +201,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [SceneKit: Deformable Terrain](http://sound-of-silence.com/?article=20161108)
 - [Dynamically load Collada files in SceneKit at runtime](https://the-nerd.be/2014/11/07/dynamically-load-collada-files-in-scenekit-at-runtime/)
 - [How do I efficiently map a high-res SKScene in SceneKit?](https://stackoverflow.com/questions/41652185/how-do-i-efficiently-map-a-high-res-skscene-in-scenekit)
+- [SCNCamera limit arcball rotation](https://stackoverflow.com/questions/33967838/scncamera-limit-arcball-rotation)
+- [Rotate SCNCamera node looking at an object around an imaginary sphere](https://stackoverflow.com/questions/25654772/rotate-scncamera-node-looking-at-an-object-around-an-imaginary-sphere)
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
