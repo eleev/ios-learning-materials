@@ -203,6 +203,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [How do I efficiently map a high-res SKScene in SceneKit?](https://stackoverflow.com/questions/41652185/how-do-i-efficiently-map-a-high-res-skscene-in-scenekit)
 - [SCNCamera limit arcball rotation](https://stackoverflow.com/questions/33967838/scncamera-limit-arcball-rotation)
 - [Rotate SCNCamera node looking at an object around an imaginary sphere](https://stackoverflow.com/questions/25654772/rotate-scncamera-node-looking-at-an-object-around-an-imaginary-sphere)
+- [Getting Started with 2048!](https://www.makeschool.com/online-courses/tutorials/build-your-own-2048-with-spritebuilder-and-swift/getting-started)
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
