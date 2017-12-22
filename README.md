@@ -204,6 +204,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [SCNCamera limit arcball rotation](https://stackoverflow.com/questions/33967838/scncamera-limit-arcball-rotation)
 - [Rotate SCNCamera node looking at an object around an imaginary sphere](https://stackoverflow.com/questions/25654772/rotate-scncamera-node-looking-at-an-object-around-an-imaginary-sphere)
 - [Getting Started with 2048!](https://www.makeschool.com/online-courses/tutorials/build-your-own-2048-with-spritebuilder-and-swift/getting-started)
+- [Changing programmatically the text of a 3D TextNode in SceneKit using Swift](https://stackoverflow.com/questions/45580843/changing-programmatically-the-text-of-a-3d-textnode-in-scenekit-using-swift)
+- [SCN shader modifier in metal - pass uniform to shader](https://stackoverflow.com/questions/39522370/scn-shader-modifier-in-metal-pass-uniform-to-shader)
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
