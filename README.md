@@ -81,6 +81,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [ARKit Tutorial: Understanding and Implementing 3D Objects](https://www.appcoda.com/arkit-3d-object/)
 - [Animating a 3D model in AR with ARKit and Mixamo](https://blog.pusher.com/animating-3d-model-ar-arkit-mixamo/)
 - [Importing 3D Models for ARKit](https://medium.com/bpxl-craft/importing-3d-models-for-arkit-aa1728697e2)
+- [ARKit Tutorial: Detecting Horizontal Planes and Adding 3D Objects with SceneKit](https://www.appcoda.com/arkit-horizontal-plane/)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
