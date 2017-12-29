@@ -29,6 +29,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [CloudKit](#cloudkit)
 - [Swift](#swift)
 - [Xcode](#xcode)
+- [Internationalization](#internationalization)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Networking](#networking)
 - [Frameworks Development](#frameworks-development)
@@ -519,6 +520,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## Xcode
 - [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/)
+
+## Internationalization 
+- [Internationalizing Your iOS App: Getting Started](https://www.raywenderlich.com/180356/ios-internationalization)
 
 ## Algorithms and Data Structures
 
