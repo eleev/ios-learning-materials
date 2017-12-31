@@ -27,6 +27,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Data](#core-data)
 - [HealthKit](#healthkit)
 - [CloudKit](#cloudkit)
+- [NLP](#nlp)
 - [Swift](#swift)
 - [Xcode](#xcode)
 - [Internationalization](#internationalization)
@@ -444,6 +445,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## CloudKit
 - [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
+
+## NLP
+- [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/)
 
 ## Swift 
 
