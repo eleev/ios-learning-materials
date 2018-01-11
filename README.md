@@ -136,6 +136,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [This library uses ARKit Face Tracking in order to catch a user's smile.](https://github.com/rsrbk/SmileToUnlock)
 - [Make your ARKit experiment compatible with mobile VR/AR headsets*. An example setup using SceneKit](https://github.com/hanleyweng/iOS-ARKit-Headset-View)
 - [Findme. Using ARKit to find me](https://github.com/mmoaay/Findme)
+- [ARBottleJump](https://github.com/songkuixi/ARBottleJump)
 
  ### Video 📹
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
