@@ -610,6 +610,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Factory Method 
 - [Using The Factory Method Pattern To Avoid Shaded State In Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift)
 
+### Command
+- [Rethinking Design Patterns in Swift: The Command Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-command-pattern/)
+
 ### Redux
 - [Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
 
