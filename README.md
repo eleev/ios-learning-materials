@@ -138,6 +138,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Make your ARKit experiment compatible with mobile VR/AR headsets*. An example setup using SceneKit](https://github.com/hanleyweng/iOS-ARKit-Headset-View)
 - [Findme. Using ARKit to find me](https://github.com/mmoaay/Findme)
 - [ARBottleJump](https://github.com/songkuixi/ARBottleJump)
+- [Superimposes your image into a 3D world using Metal+Arkit](https://github.com/montaguegabe/arkit-virtual-backdrop)
 
  ### Video 📹
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
