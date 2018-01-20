@@ -620,6 +620,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Coordinator
 - [An iOS Coordinator Pattern](https://will.townsend.io/2016/an-ios-coordinator-pattern)
 
+### Strategy
+- [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
+
 ### Resources
 - [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 
