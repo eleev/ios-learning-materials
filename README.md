@@ -175,6 +175,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
 - [Bringing Machine Learning to your iOS Apps 🤖📲](https://academy.realm.io/posts/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
 - [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/)
+- [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
 
 ## SceneKit
 - [Physically Based Rendering Using the New iOS 10 SceneKit](https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021)
