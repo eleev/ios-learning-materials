@@ -213,6 +213,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Getting Started with 2048!](https://www.makeschool.com/online-courses/tutorials/build-your-own-2048-with-spritebuilder-and-swift/getting-started)
 - [Changing programmatically the text of a 3D TextNode in SceneKit using Swift](https://stackoverflow.com/questions/45580843/changing-programmatically-the-text-of-a-3d-textnode-in-scenekit-using-swift)
 - [SCN shader modifier in metal - pass uniform to shader](https://stackoverflow.com/questions/39522370/scn-shader-modifier-in-metal-pass-uniform-to-shader)
+- [Crossfade material property textures](https://stackoverflow.com/questions/33235058/scenekit-crossfade-material-property-textures/33357397)
+
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
