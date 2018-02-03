@@ -803,6 +803,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## UX
 - [Honing Your Mobile Apps With Savvy User Research](https://www.raywenderlich.com/173788/honing-mobile-apps-user-research)
+- [UXPlanet is a huge resource that contains everything you need to know about user experince.](https://uxplanet.org)
+- [Ray Wenderlich is a one of the biggest iOS communities out there. They have a lot of free content as well as paid books, videos and tutorials. The quality of the material is one of the best that you can find.](https://www.raywenderlich.com)
 
 ## Framworks
 
@@ -811,9 +813,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Correct way to retrieve a single object from Realm database](https://stackoverflow.com/questions/30610536/correct-way-to-retrieve-a-single-object-from-realm-database)
 - [What are Primary Keys?](https://academy.realm.io/posts/realm-primary-keys-tutorial/)
 
-### Resources
-- [UXPlanet is a huge resource that contains everything you need to know about user experince.](https://uxplanet.org)
-- [Ray Wenderlich is a one of the biggest iOS communities out there. They have a lot of free content as well as paid books, videos and tutorials. The quality of the material is one of the best that you can find.](https://www.raywenderlich.com)
+### Firebase
+- [Firebase Tutorial: iOS A/B Testing](https://www.raywenderlich.com/176492/firebase-tutorial-ios-b-testing)
 
 ## Interview
 - [Software Engineering: Interviews](https://medium.com/@AndyyHope/software-engineering-interviews-744380f4f2af)
