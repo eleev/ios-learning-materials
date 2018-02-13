@@ -762,6 +762,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Develop Your First Neural Network in Python With Keras Step-By-Step](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 - [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 - [Keras Deep Learning with Apple’s CoreMLTools on iOS 11](https://amundtveit.com/2017/06/07/keras-deep-learning-with-apples-coremltools-on-ios-11-part-1/)
+- [Beginning Machine Learning with scikit-learn](https://www.raywenderlich.com/180830/beginning-machine-learning-scikit-learn)
 
 ### Code 💻
 - [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
