@@ -273,6 +273,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [DATA-PARALLEL PROGRAMMING WITH METAL AND SWIFT FOR IPHONE/IPAD GPU](http://memkite.com/blog/2014/12/15/data-parallel-programming-with-metal-and-swift-for-iphoneipad-gpu/)
 - [EXAMPLE OF SHARING MEMORY BETWEEN GPU AND CPU WITH SWIFT AND METAL FOR IOS8](http://memkite.com/blog/2014/12/30/example-of-sharing-memory-between-gpu-and-cpu-with-swift-and-metal-for-ios8/)
 - [Metal Performance Shaders in Swift](http://metalbyexample.com/metal-performance-shaders-in-swift/)
+- [Do I need multiple RenderPipelines to have multiple shaders?](https://stackoverflow.com/questions/47468458/metal-do-i-need-multiple-renderpipelines-to-have-multiple-shaders)
+
 
 ### Reosurces 
 - [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
