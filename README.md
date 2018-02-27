@@ -829,6 +829,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Chameleon
 - [Chameleon on iOS: Getting Started](https://www.raywenderlich.com/179287/using-chameleon-framework-ios)
 
+### AWS Pinpoint 
+- [AWS Pinpoint Tutorial for iOS: Getting Started](https://www.raywenderlich.com/181656/aws-pinpoint-tutorial-ios-getting-started)
+
 ## Interview
 - [Software Engineering: Interviews](https://medium.com/@AndyyHope/software-engineering-interviews-744380f4f2af)
 - [Creator of Pixaki and Full-Time Indie iOS Dev: A Top Dev Interview With Luke Rogers](https://www.raywenderlich.com/179643/creator-pixaki-full-time-indie-ios-dev-top-dev-interview-luke-rogers)
