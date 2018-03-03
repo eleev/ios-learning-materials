@@ -695,6 +695,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 - [Complex table view state changes made easy](https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974#.raaqvz1yi)
 - [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
+- [Understanding Delegates and Delegation in Swift 4](https://www.appcoda.com/swift-delegate/)
 
 ### Dependency Injection
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
