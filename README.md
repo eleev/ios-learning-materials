@@ -560,6 +560,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 #### Sorting
 - [Swift Algorithm Club: Swift Merge Sort](https://www.raywenderlich.com/154256/swift-algorithm-club-swift-merge-sort)
+- [Algorithms for Beginners — Bubble Sort, Insertion Sort, Merge Sort](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48)
 
 #### Searching 
 - [Swift Algorithm Club: Boyer Moore String Search Algorithm](https://www.raywenderlich.com/163964/swift-algorithm-club-booyer-moore-string-search-algorithm)
