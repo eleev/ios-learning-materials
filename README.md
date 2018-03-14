@@ -31,6 +31,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Swift](#swift)
 - [Xcode](#xcode)
 - [Internationalization](#internationalization)
+- [Security](#security)
 - [Payments](#payments)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Networking](#networking)
@@ -541,6 +542,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## Internationalization 
 - [Internationalizing Your iOS App: Getting Started](https://www.raywenderlich.com/180356/ios-internationalization)
+
+## Security
+- [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
 
 ## Payments
 - [Accepting Credit Cards In Your iOS App Using Stripe](https://www.raywenderlich.com/179260/accept-credit-cards-ios-apps-using-stripe)
