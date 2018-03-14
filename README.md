@@ -37,6 +37,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Networking](#networking)
 - [Frameworks Development](#frameworks-development)
 - [Debugging](#debugging)
+- [App Submission](#app-submission)
 - [Git](#git)
 - [Asynchronous Programming](#asynchronous-programming)
 - [Functional Programming](#functional-programming)
@@ -586,6 +587,10 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## Debugging 
 - [Instruments Tutorial with Swift: Getting Started](https://www.raywenderlich.com/166125/instruments-tutorial-swift-getting-started)
+
+## App Submission 
+- [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/184709/submit-app-apple-no-account-app-store-part-1)
+- [How to Submit An App to Apple: From No Account to App Store – Part 2](https://www.raywenderlich.com/184825/submit-app-apple-no-account-app-store-part-2)
 
 ## Git
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
