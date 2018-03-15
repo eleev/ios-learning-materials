@@ -27,6 +27,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Data](#core-data)
 - [HealthKit](#healthkit)
 - [CloudKit](#cloudkit)
+- [In-App Purchase](#in-app-purchase)
 - [NLP](#nlp)
 - [Swift](#swift)
 - [Xcode](#xcode)
@@ -461,6 +462,11 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## CloudKit
 - [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
+
+## In-App Purchase
+- [In-App Purchase](https://developer.apple.com/in-app-purchase/)
+- [In-App Purchase Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Introduction.html#//apple_ref/doc/uid/TP40008267-CH1-SW1)
+- [Workflow for configuring in-app purchases](http://help.apple.com/itunes-connect/developer/#/devb57be10e7)
 
 ## NLP
 - [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/)
