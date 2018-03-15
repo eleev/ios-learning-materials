@@ -464,6 +464,10 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
 
 ## In-App Purchase
+- [In-App Purchase Tutorial: Getting Started](https://www.raywenderlich.com/122144/in-app-purchase-tutorial)
+- [In App Purchases Tutorial: Consumables](https://www.raywenderlich.com/127423/in-app-purchases-tutorial)
+
+### Official Documentation 
 - [In-App Purchase](https://developer.apple.com/in-app-purchase/)
 - [In-App Purchase Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Introduction.html#//apple_ref/doc/uid/TP40008267-CH1-SW1)
 - [Workflow for configuring in-app purchases](http://help.apple.com/itunes-connect/developer/#/devb57be10e7)
