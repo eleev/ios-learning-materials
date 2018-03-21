@@ -589,14 +589,17 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ## Networking
 - [Network Layers in Swift](https://medium.com/@danielemargutti/network-layers-in-swift-7fc5628ff789)
 - [How to write Networking Layer in Swift (2nd version)](http://danielemargutti.com/2017/09/10/how-to-write-networking-layer-in-swift-2nd-version/)
+- [Getting Started with Moya](https://medium.com/flawless-app-stories/getting-started-with-moya-f559c406e990)
 
 ## Frameworks Development 
 - [An Introduction to Creating and Distributing Embedded Frameworks in iOS](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
 - [Creating iOS/OSX Frameworks: is it necessary to codesign them before distributing to other developers?](https://stackoverflow.com/questions/30963294/creating-ios-osx-frameworks-is-it-necessary-to-codesign-them-before-distributin)
 - [Conditionally embed your dynamic frameworks](http://ppinera.es/2017/09/13/xcodembed.html)
+- [Getting Started with Reusable Frameworks for iOS Development](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11)
 
 ## Debugging 
 - [Instruments Tutorial with Swift: Getting Started](https://www.raywenderlich.com/166125/instruments-tutorial-swift-getting-started)
+- [Debugging Swift code with LLDB](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
 
 ## App Submission 
 - [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/184709/submit-app-apple-no-account-app-store-part-1)
@@ -610,7 +613,6 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ## Asynchronous Programming
-
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
 - [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
@@ -672,7 +674,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### MVC
 - [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
 - [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
-- [MVC](http://codeplease.io/2017/11/19/mvc/]
+- [MVC](http://codeplease.io/2017/11/19/mvc/)
 
 ### MVC-N
 - [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
