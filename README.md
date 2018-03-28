@@ -22,6 +22,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [UIKit](#uikit)
 - [Core Animation](#core-animation)
 - [Core Graphics](#core-graphics)
+- [Core Image](#core-image)
 - [Core Location](#core-location)
 - [Core Motion ](#core-motion)
 - [Core Data](#core-data)
@@ -439,6 +440,11 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Let's build: Freehand Drawing in iOS - Part 2](http://techblog.badoo.com/blog/2015/06/29/lets-build-freehand-drawing-in-ios-part-2/)
 - [Let's build: Freehand Drawing in iOS - Part 3](https://techblog.badoo.com/blog/2015/08/18/lets-build-freehand-drawing-in-ios-part-3/)
 - [How to Make a Line Drawing Game with Sprite Kit](https://www.raywenderlich.com/61289/how-to-make-a-line-drawing-game-with-sprite-kit)
+
+## Core Image 
+- [Core Image Introduction: Applying Image Filters to Photos](https://www.appcoda.com/core-image-introduction/)
+- [Core Image Tutorial: Getting Started](https://www.raywenderlich.com/76285/beginning-core-image-swift)
+- []()
 
 ## Core Location 
 - [Magnetic Heading sample code for iOS](https://stackoverflow.com/questions/41080571/magnetic-heading-sample-code-for-ios)
