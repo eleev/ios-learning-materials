@@ -341,6 +341,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
 - [Creating A Custom UICollectionViewLayout in Swift	](https://stablekernel.com/creating-a-custom-uicollectionviewlayout-in-swift/)
 - [UICollectionView Custom Layout Tutorial: A Spinning Wheel](https://www.raywenderlich.com/107687/uicollectionview-custom-layout-tutorial-spinning-wheel)
+- [UICollectionViewLayout](https://developer.apple.com/documentation/uikit/uicollectionviewlayout)
+- [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
 
 ### UITableView
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
