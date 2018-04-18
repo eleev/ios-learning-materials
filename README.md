@@ -754,6 +754,12 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Composition
 - [Reusability and Composition in Swift](https://theswiftpost.co/reusability-composition-swift/)
 
+### Proxy 
+- [Swift World: Design Patterns — Proxy](https://medium.com/@NilStack/swift-world-design-patterns-proxy-6e2239532a88)
+- [A Design Pattern Story in Swift – Chapter 12: Proxy](http://audreyli.me/2015/07/07/a-design-pattern-story-in-swift-chapter-12-proxy/)
+- [Protection Proxy](https://github.com/ochococo/Design-Patterns-In-Swift#-protection-proxy)
+- [Virtual Proxy](https://github.com/ochococo/Design-Patterns-In-Swift#-virtual-proxy)
+
 ## Computer Graphics 
 
 ### Foundation
