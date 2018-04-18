@@ -91,6 +91,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [ARKit Tutorial: Detecting Horizontal Planes and Adding 3D Objects with SceneKit](https://www.appcoda.com/arkit-horizontal-plane/)
 - [ARKit Tutorial: Understanding Physics by Launching a Rocketship](https://www.appcoda.com/arkit-physics-scenekit/)
 - [ARKit Tutorial: Light Estimation with Ambient Intensity and Color Temperature](https://www.appcoda.com/arkit-light-estimation/)
+- [ARKit Tutorial: Working with 2D Image Recognition](https://www.appcoda.com/arkit-image-recognition/)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
