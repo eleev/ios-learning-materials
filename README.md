@@ -761,6 +761,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Protection Proxy](https://github.com/ochococo/Design-Patterns-In-Swift#-protection-proxy)
 - [Virtual Proxy](https://github.com/ochococo/Design-Patterns-In-Swift#-virtual-proxy)
 
+### Observer
+- [Observers in Swift - Part 1](https://www.swiftbysundell.com/posts/observers-in-swift-part-1)
+
 ## Computer Graphics 
 
 ### Foundation
