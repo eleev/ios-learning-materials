@@ -558,8 +558,11 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Floating Point
 - [Floating Point Swift ulp And epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/)
 
-## Closures
+### Closures
 - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
+
+### Attributes
+- [More Swift Attributes](http://www.russbishop.net/more-swift-attributes)
 
 ### Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
