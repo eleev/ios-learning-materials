@@ -686,6 +686,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [An iOS Coordinator Pattern](https://will.townsend.io/2016/an-ios-coordinator-pattern)
 - [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/177538/coordinator-tutorial-ios-getting-started)
 - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
+- [MVVM and Coordinator pattern together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
 
 ### Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
