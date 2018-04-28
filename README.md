@@ -345,6 +345,10 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [UICollectionViewLayout](https://developer.apple.com/documentation/uikit/uicollectionviewlayout)
 - [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
 
+### UITableView & UICollectionView
+- [https://medium.com/capital-one-developers/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f](Smooth Scrolling in UITableView and UICollectionView)
+- [Boost Smooth Scrolling with iOS 10 Pre-Fetching API](Boost Smooth Scrolling with iOS 10 Pre-Fetching API)
+
 ### UITableView
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
 - [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/)
