@@ -656,6 +656,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### Decoupling 
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
+- [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
 
 ### Overview
 - [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
@@ -687,6 +688,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/177538/coordinator-tutorial-ios-getting-started)
 - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
 - [MVVM and Coordinator pattern together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
+- [How to use the coordinator pattern in iOS apps](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)
 
 ### Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
