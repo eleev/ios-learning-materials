@@ -503,6 +503,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Swift Unwrapped: Weekly Podcast Show](https://spec.fm/podcasts/swift-unwrapped)
 - [Srdan Rasic: A software Engineer](http://rasic.info)
 
+### Directives 
+- [#warning It seems that Swift can’t do this!](https://medium.com/rocknnull/warning-it-seems-that-swift-cant-do-this-def0c9c9d0f7)
+
 ### Strings
 - [Strings In Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
 
