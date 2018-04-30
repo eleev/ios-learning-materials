@@ -575,6 +575,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
 - [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
+- [Swift Get Class Name](http://ioschefs.com/swift-get-class-name/)
 
 ## Xcode
 - [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/)
