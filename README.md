@@ -733,6 +733,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Simplification Of IOS View Controllers: MVVM Or Presentation Controls?](http://blog.xebia.com/simplification-of-ios-view-controllers-mvvm-or-presentation-controls/)
 - [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
 - [MVVM and Coordinator Patterns Together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
+- [Design Patterns by Tutorials: MVVM](https://www.raywenderlich.com/192471/design-patterns-by-tutorials-mvvm)
 
 ### Multicast Delegate
 - [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
