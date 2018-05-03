@@ -901,6 +901,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### Firebase
 - [Firebase Tutorial: iOS A/B Testing](https://www.raywenderlich.com/176492/firebase-tutorial-ios-b-testing)
+- [Firebase Tutorial: Getting Started](https://www.raywenderlich.com/187417/firebase-tutorial-getting-started-3)
 
 ### Chameleon
 - [Chameleon on iOS: Getting Started](https://www.raywenderlich.com/179287/using-chameleon-framework-ios)
