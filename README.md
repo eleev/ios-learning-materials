@@ -8,6 +8,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## Content 
 - [About](#about)
+- [Amazing Resources](#amazing-resources)
 - [ARKit](#arkit)
 - [Vision Framework](#vision-framework)
 - [CoreML](#coreml)
@@ -57,6 +58,56 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [UX](#ux)
 - [Interview](#interview)
 - [Other](#other)
+
+## Amazing Resources
+
+### Websites
+
+- [Apple Developer](https://developer.apple.com) - Centralized resource that makes available various materials related to software development. 
+- [GitHub](https://github.com/) - Yes, that is right! `GitHub` is one of your best friends. Here you can find a ton of examples, projects and learn from them. 
+- [Ray Wenderlich](https://www.raywenderlich.com/) - Is one of the most trusted and well known resources for iOS, macOS, Android, Game Development (and the list goes on). 
+- [AppCoda](https://www.appcoda.com/)
+- [objc io](https://www.objc.io)
+- [NSHipster](http://nshipster.com)
+- [Natasha The Robot](https://www.natashatherobot.com) - [Natasha Murashev](https://github.com/NatashaTheRobot)'s iOS development blog. 
+- [iOS Goodies](http://ios-goodies.com) - Curated weekly iOS newsletter. 
+- [We ❤️ Swift](https://www.weheartswift.com) - Swift and iOS  tutorials, articles, books and more.
+- [Hacking with Swift](https://www.hackingwithswift.com/) - Maintained by [Paul Hudson](https://github.com/twostraws), `Hacking with Swift` is a regularly updated resource for learning all kinds of amazing things. 
+- [Swift Forward](https://swiftforward.wordpress.com) - Blog by Lammert Westerhoff about Swift and iOS.
+- [Medium: iOS and OSX Development](https://medium.com/ios-os-x-development)
+- [Swift by Sundell](https://www.swiftbysundell.com/) - Swift By Sundell is a weekly blog about Swift development.
+- [Sound of Silence](http://sound-of-silence.com) - iOS/macOS blog by Matt Reagan.
+- [Metal by Example](http://metalbyexample.com) - High-performance graphics and compute programming for iOS.
+- [Image Metalling](https://imagemetalling.wordpress.com) - (The blog is in Russian language) High-performance programming for iOS and OSX.
+- [Khanlou](http://khanlou.com) - Swift and Objective C blog bt Soroush Khanlou.
+- [Swift Weekly](https://swiftweekly.github.io) - A community-driven weekly newsletter about what's happening in the Swift open source projects at Swift.org
+- [Swift Org](https://swift.org) 
+
+### iTunes Podcasts
+
+- [CartoonSmart Tutorials](https://itunes.apple.com/ru/podcast/cartoonsmart-tutorials/id1108725455?l=en&mt=2)
+- [Stacktrace](https://itunes.apple.com/ru/podcast/stacktrace/id1359435443?l=en&mt=2)
+- [Swift by Sundell](https://itunes.apple.com/ru/podcast/swift-by-sundell/id1267161825?l=en&mt=2)
+- [SwiftCoders: Interviews with Swift Developers](https://itunes.apple.com/ru/podcast/swiftcoders-interviews-with-swift-developers/id1082937962?l=en&mt=2)
+- [Swift Unwrapped](https://itunes.apple.com/ru/podcast/swift-unwrapped/id1209817203?l=en&mt=2)
+
+### Youtube
+
+- [Sean Allen](https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw)
+- [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+- [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
+- [Jared Davidson](https://www.youtube.com/user/Archetapp)
+- [Mark Moeykens](https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg/featured)
+- [David Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA)
+- [Devslopes](https://www.youtube.com/channel/UClLXKYEEM8OBBx85DOa6-cg)
+- [CodeWithChris](https://www.youtube.com/user/CodeWithChris/featured)
+
+### Assets 
+
+- [Game Art 2D](https://www.gameart2d.com/) 
+- [Kenney](https://kenney.nl/)
+- [Icons8](https://icons8.com)
+
 
 ## ARKit
 
