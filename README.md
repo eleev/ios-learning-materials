@@ -304,7 +304,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Crashy Plane - Game](https://www.hackingwithswift.com/read/36/overview)
 - [SpriteKit Animations and Texture Atlases in Swift](GKGridGraphNode)
 - [Background music with SKAudioNode, an intro, plus game over](https://www.hackingwithswift.com/read/36/6/background-music-with-skaudionode-an-intro-plus-game-over)
-
+- [What's the best way to handle multiple SKScenes?](https://stackoverflow.com/questions/35404455/whats-the-best-way-to-handle-multiple-skscenes)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
