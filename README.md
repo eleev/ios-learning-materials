@@ -83,6 +83,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Swift Weekly](https://swiftweekly.github.io) - A community-driven weekly newsletter about what's happening in the Swift open source projects at Swift.org
 - [Swift Org](https://swift.org) 
 - [The Swift Dev](https://theswiftdev.com) - Learn all about the Swift programming language.
+- [Apple Machine Learning Journal](https://machinelearning.apple.com)
+- [INVASIVECODE](https://www.invasivecode.com/weblog/?doing_wp_cron=1525779118.2550129890441894531250)
 
 ### iTunes Podcasts
 
