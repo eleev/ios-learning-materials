@@ -79,14 +79,22 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Medium: iOS and OSX Development](https://medium.com/ios-os-x-development)
 - [Swift by Sundell](https://www.swiftbysundell.com/) - Swift By Sundell is a weekly blog about Swift development.
 - [Sound of Silence](http://sound-of-silence.com) - iOS/macOS blog by Matt Reagan.
-- [Metal by Example](http://metalbyexample.com) - High-performance graphics and compute programming for iOS.
-- [Image Metalling](https://imagemetalling.wordpress.com) - (The blog is in Russian language) High-performance programming for iOS and OSX.
 - [Khanlou](http://khanlou.com) - Swift and Objective C blog bt Soroush Khanlou.
 - [Swift Weekly](https://swiftweekly.github.io) - A community-driven weekly newsletter about what's happening in the Swift open source projects at Swift.org
 - [Swift Org](https://swift.org) 
 - [The Swift Dev](https://theswiftdev.com) - Learn all about the Swift programming language.
-- [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [INVASIVECODE](https://www.invasivecode.com/weblog/?doing_wp_cron=1525779118.2550129890441894531250)
+
+#### Machine Learning
+
+- [Apple Machine Learning Journal](https://machinelearning.apple.com)
+- [MATTHIJS HOLLEMANS - Machine Learning](http://machinethink.net/blog/)
+- [Pete Warden's blog](https://petewarden.com)
+
+#### Metal 
+- [MetalKit](http://metalkit.org/) - Graphics programming using Metal API.
+- [Metal by Example](http://metalbyexample.com) - High-performance graphics and compute programming for iOS.
+- [Image Metalling](https://imagemetalling.wordpress.com) - (The blog is in Russian language) High-performance programming for iOS and OSX.
 
 ### iTunes Podcasts
 
