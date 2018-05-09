@@ -146,6 +146,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [ARKit Tutorial: Understanding Physics by Launching a Rocketship](https://www.appcoda.com/arkit-physics-scenekit/)
 - [ARKit Tutorial: Light Estimation with Ambient Intensity and Color Temperature](https://www.appcoda.com/arkit-light-estimation/)
 - [ARKit Tutorial: Working with 2D Image Recognition](https://www.appcoda.com/arkit-image-recognition/)
+- [Behind The Magic: How We Built The ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
