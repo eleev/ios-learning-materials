@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 09/May/2018.**
+**Last Update: 16/May/2018.**
 
 ## About 
 
@@ -493,6 +493,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Building a Tinder-esque Card Interface](https://medium.com/@phillfarrugia/building-a-tinder-esque-card-interface-5afa63c6d3db)
 - [Stop Xcode from constantly rebuilding your project because of @IBDesignable](http://holko.pl/2017/11/15/rebuilding-ibdesignables/)
 - [How to Create Your Own Slide-Out Navigation Panel in Swift](https://www.raywenderlich.com/177353/create-slide-navigation-panel-swift)
+- [Create your own custom overlay view in Swift](http://zappdesigntemplates.com/create-your-own-overlay-view-in-swift/)
 
 ### Drag & Drop
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
