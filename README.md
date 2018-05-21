@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 16/May/2018.**
+**Last Update: 21/May/2018.**
 
 ## About 
 
@@ -423,6 +423,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### UIStackView
 - [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
+- [How StackView help your iOS app to be more dynamic](https://blog.customerly.io/engineering/2018/05/14/how-stackview-help-your-ios-app-to-be-more-dynamic)
 
 ### UIImageView
 - [How to Mask an UIImageView](https://stackoverflow.com/questions/5757386/how-to-mask-an-uiimageview)
