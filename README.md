@@ -63,7 +63,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ## Amazing Resources
 
-### Websites
+### Websites and Blogs
 
 - [Apple Developer](https://developer.apple.com) - Centralized resource that makes available various materials related to software development. 
 - [GitHub](https://github.com/) - Yes, that is right! `GitHub` is one of your best friends. Here you can find a ton of examples, projects and learn from them. 
@@ -85,13 +85,13 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [The Swift Dev](https://theswiftdev.com) - Learn all about the Swift programming language.
 - [INVASIVECODE](https://www.invasivecode.com/weblog/?doing_wp_cron=1525779118.2550129890441894531250)
 
-#### Machine Learning
+#### Machine Learning Blogs
 
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [MATTHIJS HOLLEMANS - Machine Learning](http://machinethink.net/blog/)
 - [Pete Warden's blog](https://petewarden.com)
 
-#### Metal 
+#### Metal Blogs
 - [MetalKit](http://metalkit.org/) - Graphics programming using Metal API.
 - [Metal by Example](http://metalbyexample.com) - High-performance graphics and compute programming for iOS.
 - [Image Metalling](https://imagemetalling.wordpress.com) - (The blog is in Russian language) High-performance programming for iOS and OSX.
@@ -104,7 +104,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SwiftCoders: Interviews with Swift Developers](https://itunes.apple.com/ru/podcast/swiftcoders-interviews-with-swift-developers/id1082937962?l=en&mt=2)
 - [Swift Unwrapped](https://itunes.apple.com/ru/podcast/swift-unwrapped/id1209817203?l=en&mt=2)
 
-### Youtube
+### Youtube Channels
 
 - [Sean Allen](https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw)
 - [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
