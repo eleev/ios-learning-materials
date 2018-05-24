@@ -413,6 +413,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [UICollectionViewLayout](https://developer.apple.com/documentation/uikit/uicollectionviewlayout)
 - [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
 
+### UIPageViewController
+- [How to create a page curl effect using UIPageViewController](https://www.hackingwithswift.com/example-code/uikit/how-to-create-a-page-curl-effect-using-uipageviewcontroller)
+
 ### UITableView & UICollectionView
 - [https://medium.com/capital-one-developers/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f](Smooth Scrolling in UITableView and UICollectionView)
 - [Boost Smooth Scrolling with iOS 10 Pre-Fetching API](Boost Smooth Scrolling with iOS 10 Pre-Fetching API)
