@@ -584,6 +584,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### Standard Data Structures
 - [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html)
+- [Five useful methods of dictionaries](https://www.hackingwithswift.com/articles/109/five-useful-methods-of-dictionaries)
 
 ### Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
