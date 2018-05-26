@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 25/May/2018.**
+**Last Update: 26/May/2018.**
 
 ## About 
 
@@ -584,6 +584,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### Strings
 - [Strings In Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
+
+### Regular Expressions
+- [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
 
 ### Standard Data Structures
 - [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html)
