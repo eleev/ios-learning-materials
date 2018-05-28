@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 27/May/2018.**
+**Last Update: 28/May/2018.**
 
 ## About 
 
@@ -399,6 +399,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [How to make custom UIView animations with UISnapBehavior and UIDynamicItemBehavior](http://sweettutos.com/2015/09/17/uikit-dynamics-series-how-to-make-custom-uiview-animations-with-uisnapbehavior-and-uidynamicitembehavior/)
 - [UIKit Dynamics Guide](http://samwize.com/2016/12/19/uikit-dynamics-guide/)
 
+### UIViewController
+- [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
+
 ### UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 
@@ -444,6 +447,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
 - [Auto Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/160527/auto-layout-tutorial-ios-11-getting-started)
+- [iOS Auto Layout tutorial programmatically](https://theswiftdev.com/2017/10/31/ios-auto-layout-tutorial-programmatically/)
+- [Swift | Adding constraints programmatically](https://stackoverflow.com/questions/26180822/swift-adding-constraints-programmatically)
 
 ### UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
