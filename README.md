@@ -486,6 +486,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Prototyping Animations in Swift #1](http://mathewsanders.com/prototyping-iOS-iPhone-iPad-animations-in-swift/)
 - [Prototyping Animations in Swift #2](http://mathewsanders.com/animations-in-swift-part-two/)
 - [iOS Animation Tutorial: Getting Started](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
+- [How to animate views using animate(withDuration:)](https://www.hackingwithswift.com/example-code/uikit/how-to-animate-views-using-animatewithduration)
+- [UIView Animation Sequencing and Grouping Techniques](https://www.raizlabs.com/dev/2015/01/uiview-animation-sequencing-and-grouping-techniques/)
 
 #### Transitions
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
