@@ -413,11 +413,12 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
 - [Creating A Custom UICollectionViewLayout in Swift	](https://stablekernel.com/creating-a-custom-uicollectionviewlayout-in-swift/)
 - [UICollectionView Custom Layout Tutorial: A Spinning Wheel](https://www.raywenderlich.com/107687/uicollectionview-custom-layout-tutorial-spinning-wheel)
-- [UICollectionViewLayout](https://developer.apple.com/documentation/uikit/uicollectionviewlayout)
+- [UICollectionViewLayout](https://deAddveloper.apple.com/documentation/uikit/uicollectionviewlayout)
 - [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
 
 ### UIPageViewController
 - [How to create a page curl effect using UIPageViewController](https://www.hackingwithswift.com/example-code/uikit/how-to-create-a-page-curl-effect-using-uipageviewcontroller)
+- [How To Create UIPageViewController Using Storyboard](https://www.appcoda.com/uipageviewcontroller-storyboard-tutorial/)
 
 ### UITableView & UICollectionView
 - [https://medium.com/capital-one-developers/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f](Smooth Scrolling in UITableView and UICollectionView)
