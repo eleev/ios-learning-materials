@@ -415,6 +415,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [UICollectionView Custom Layout Tutorial: A Spinning Wheel](https://www.raywenderlich.com/107687/uicollectionview-custom-layout-tutorial-spinning-wheel)
 - [UICollectionViewLayout](https://deAddveloper.apple.com/documentation/uikit/uicollectionviewlayout)
 - [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
+- [Practical Introduction to Custom UICollectionView Layouts](https://www.netguru.co/codestories/practical-introduction-to-custom-uicollectionview-layouts?utm_campaign=Codestories&utm_source=iosgoodies)
 
 ### UIPageViewController
 - [How to create a page curl effect using UIPageViewController](https://www.hackingwithswift.com/example-code/uikit/how-to-create-a-page-curl-effect-using-uipageviewcontroller)
