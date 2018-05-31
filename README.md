@@ -944,7 +944,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Beginning Machine Learning with scikit-learn](https://www.raywenderlich.com/180830/beginning-machine-learning-scikit-learn)
 
 ### Code 💻
-- [Code exmaple uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
+- [Code example uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
 - ["Hello world" in keras](https://github.com/fastforwardlabs/keras-hello-world/blob/master/kerashelloworld.ipynb)
 - [TensorFlow on iOS demo](https://github.com/hollance/TensorFlow-iOS-Example)
 
