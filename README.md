@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 30/May/2018.**
+**Last Update: 31/May/2018.**
 
 ## About 
 
@@ -347,7 +347,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [EXAMPLE OF SHARING MEMORY BETWEEN GPU AND CPU WITH SWIFT AND METAL FOR IOS8](http://memkite.com/blog/2014/12/30/example-of-sharing-memory-between-gpu-and-cpu-with-swift-and-metal-for-ios8/)
 - [Metal Performance Shaders in Swift](http://metalbyexample.com/metal-performance-shaders-in-swift/)
 - [Do I need multiple RenderPipelines to have multiple shaders?](https://stackoverflow.com/questions/47468458/metal-do-i-need-multiple-renderpipelines-to-have-multiple-shaders)
-
+- [Metal Rendering Pipeline Tutorial](https://www.raywenderlich.com/195167/metal-rendering-pipeline-tutorial)
 
 ### Reosurces 
 - [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
