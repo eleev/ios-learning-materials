@@ -674,6 +674,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Optimizations
 - [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
 
+### Copy-On-Write
+- [Use Copy-On-Write With Swift Value Types](https://marcosantadev.com/copy-write-swift-value-types/)
+
 ### Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
