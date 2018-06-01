@@ -251,8 +251,11 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
 - [Bringing Machine Learning to your iOS Apps 🤖📲](https://academy.realm.io/posts/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
 - [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/)
-- [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
 - [Beginning Machine Learning with Keras & Core ML](https://www.raywenderlich.com/181760/beginning-machine-learning-keras-core-ml)
+
+### CoreML + Turi Create
+- [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
+- [Machine Learning in iOS: Turi Create and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26)
 
 ## SceneKit
 - [Physically Based Rendering Using the New iOS 10 SceneKit](https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021)
@@ -848,7 +851,11 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Multicast Delegate
 - [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
 - [Multicast on Swift 3 and MVVM-C](https://medium.com/@ivan_m/multicast-on-swift-3-and-mvvm-c-ff74ce802bcc)
+- [Multicast Delegate and Delegates Composition](http://www.vadimbulavin.com/multicast-delegate/)
+
+#### Code
 - [GitHub Code Example](https://gist.github.com/shaulhameed/c9c512a3eed4b4776bb3a209fccd339e)
+- [MulticastDelegate - An elegant multicast delegate written in swift](https://github.com/jonasman/MulticastDelegate)
 
 ### Monad
 - [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
