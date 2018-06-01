@@ -85,6 +85,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [The Swift Dev](https://theswiftdev.com) - Learn all about the Swift programming language.
 - [INVASIVECODE](https://www.invasivecode.com/weblog/?doing_wp_cron=1525779118.2550129890441894531250)
 - [What's new in Swift?](https://www.whatsnewinswift.com) - Learn what's new in Swift with hands-on code examples, all in one place and with no clutter.
+- [Marco Santa Developer](https://marcosantadev.com) - Personal blog about programming by Marco Santarossa.
 
 #### Machine Learning Blogs
 
