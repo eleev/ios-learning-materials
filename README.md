@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 31/May/2018.**
+**Last Update: 01/June/2018.**
 
 ## About 
 
@@ -670,6 +670,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### Hashable
 - [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
+
+### Optimizations
+- [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
 
 ### Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
