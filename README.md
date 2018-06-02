@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 01/June/2018.**
+**Last Update: 02/June/2018.**
 
 ## About 
 
@@ -87,7 +87,8 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [What's new in Swift?](https://www.whatsnewinswift.com) - Learn what's new in Swift with hands-on code examples, all in one place and with no clutter.
 - [Marco Santa Developer](https://marcosantadev.com) - Personal blog about programming by Marco Santarossa.
 - [Yet another Swift blog](http://www.vadimbulavin.com) - Personal blog about Swift by Vadim Bulavin.
-
+- [Brian Advent](https://www.brianadvent.com) - Tutorials For iOS Developers.
+- [Let's Build App](https://www.letsbuildthatapp.com) - High quality iOS tutorials and traning.
 
 #### Machine Learning Blogs
 
