@@ -454,6 +454,11 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### UIScrollView
 - [Is it possible for UIStackView to UIScrollView?](https://stackoverflow.com/questions/31668970/is-it-possible-for-uistackview-to-scroll)
 
+### UIImagePickerController 
+- [Using UIImagePickerController in landscape orientation](https://stackoverflow.com/questions/19374237/using-uiimagepickercontroller-in-landscape-orientation)
+- [Choosing Images with UIImagePickerController in Swift](http://www.codingexplorer.com/choosing-images-with-uiimagepickercontroller-in-swift/)
+- [How to Use UIImagePickerController for a Camera and Photo Library in Swift 3.0.](https://makeapppie.com/2016/06/28/how-to-use-uiimagepickercontroller-for-a-camera-and-photo-library-in-swift-3-0/)
+
 ### Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
 - [Auto Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/160527/auto-layout-tutorial-ios-11-getting-started)
