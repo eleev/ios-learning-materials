@@ -642,6 +642,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Encoding, Decoding and Serialization in Swift 4](https://www.raywenderlich.com/172145/encoding-decoding-and-serialization-in-swift-4)
 - [Single Value Codable](http://www.russbishop.net/singlevaluecodable)
 - [Using Swift Codable With Property Lists](https://useyourloaf.com/blog/using-swift-codable-with-property-lists/)
+- [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
 
 ### Properties
 - [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
