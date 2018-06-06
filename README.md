@@ -328,6 +328,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [SpriteKit Animations and Texture Atlases in Swift](GKGridGraphNode)
 - [Background music with SKAudioNode, an intro, plus game over](https://www.hackingwithswift.com/read/36/6/background-music-with-skaudionode-an-intro-plus-game-over)
 - [What's the best way to handle multiple SKScenes?](https://stackoverflow.com/questions/35404455/whats-the-best-way-to-handle-multiple-skscenes)
+- [How to move enemy towards a moving player?](https://stackoverflow.com/questions/36230619/how-to-move-enemy-towards-a-moving-player/36235426#36235426)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
