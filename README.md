@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 05/June/2018.**
+**Last Update: 06/June/2018.**
 
 ## About 
 
@@ -38,6 +38,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Internationalization](#internationalization)
 - [Security](#security)
 - [Payments](#payments)
+- [Document Based Apps](#document-based-apps)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Networking](#networking)
 - [Frameworks Development](#frameworks-development)
@@ -712,6 +713,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## Payments
 - [Accepting Credit Cards In Your iOS App Using Stripe](https://www.raywenderlich.com/179260/accept-credit-cards-ios-apps-using-stripe)
+
+## Document Based Apps
+- [How to Integrate Your App with Files App in iOS 11](https://www.appcoda.com/files-app-integration/)
 
 ## Algorithms and Data Structures
 
