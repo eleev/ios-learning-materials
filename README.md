@@ -164,6 +164,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [ARKit Tutorial: Light Estimation with Ambient Intensity and Color Temperature](https://www.appcoda.com/arkit-light-estimation/)
 - [ARKit Tutorial: Working with 2D Image Recognition](https://www.appcoda.com/arkit-image-recognition/)
 - [Behind The Magic: How We Built The ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
+ - [Exploring ARKit: ARSCNPlaneGeometry](https://medium.com/@chris.webb5249/exploring-arkit-f188eb7a0152)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
