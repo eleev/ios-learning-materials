@@ -16,6 +16,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [CoreML](#coreml)
 - [SceneKit](#scenekit)
 - [SpriteKit](#spritekit)
+- [GamepleyKit](#gameplaykit)
 - [Metal](#metal)
 - [AVFounation](#avfoundation)
 - [ReplayKit](#replaykit)
@@ -336,6 +337,9 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [How To Make a Game Like Space Invaders with SpriteKit and Swift: Part 2](https://www.raywenderlich.com/124006/make-game-like-space-invaders-sprite-kit-swift-tutorial-part-2)
 - [Trigonometry for Game Programming – SpriteKit and Swift Tutorial: Part 1/2](https://www.raywenderlich.com/188941/trigonometry-for-game-programming-part-1-2)
 - [Trigonometry for Game Programming – SpriteKit and Swift Tutorial: Part 2/2](https://www.raywenderlich.com/188943/trigonometry-for-game-programming-part-2-2)
+- [How to color an SKSpriteNode using colorBlendFactor](https://www.hackingwithswift.com/example-code/games/how-to-color-an-skspritenode-using-colorblendfactor)
+- [SpriteKit Tile Maps Intro](http://theliquidfire.com/2018/02/12/spritekit-tile-maps-intro/)
+- [What’s New In SpriteKit on iOS 10: A Look At Tile Maps](https://www.raywenderlich.com/137216/whats-new-spritekit-ios-10-look-tile-maps)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
@@ -346,7 +350,10 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Video 📹 
 - [Gesture Recognizers with SpriteKit](https://cartoonsmart.com/introduction-to-sprite-kit-with-swift-3-part-6-gesture-recognizers/)
 - [iOS Swift Game Tutorial: SpriteKit Space Game (with Explosions)](https://www.youtube.com/watch?v=cJy61bOqQpg)
+- [How to Create a Virtual Joystick with Sprite Kit and Swift 1.2](https://vimeo.com/126616019)
 
+## GameplayKit
+- [Pathfinding on Tilemap with GameplayKit](https://stackoverflow.com/questions/42071040/pathfinding-on-tilemap-with-gameplaykit)
 
 ## Metal 
 - [What’s the big deal with Apples Metal API?](http://renderingpipeline.com/2014/06/whats-the-big-deal-with-apples-metal-api/)
