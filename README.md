@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 06/June/2018.**
+**Last Update: 08/June/2018.**
 
 ## About 
 
@@ -329,6 +329,10 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Background music with SKAudioNode, an intro, plus game over](https://www.hackingwithswift.com/read/36/6/background-music-with-skaudionode-an-intro-plus-game-over)
 - [What's the best way to handle multiple SKScenes?](https://stackoverflow.com/questions/35404455/whats-the-best-way-to-handle-multiple-skscenes)
 - [How to move enemy towards a moving player?](https://stackoverflow.com/questions/36230619/how-to-move-enemy-towards-a-moving-player/36235426#36235426)
+- [Getting started with Sushi Neko!](https://www.makeschool.com/online-courses/tutorials/learn-to-clone-timberman-with-spritekit-and-swift-3/getting-started)
+- [SpriteKit Tutorial for Beginners](https://www.raywenderlich.com/187645/spritekit-tutorial-for-beginners-2)
+- [How To Make a Game Like Space Invaders with SpriteKit and Swift: Part 1](https://www.raywenderlich.com/124005/make-game-like-space-invaders-sprite-kit-swift-tutorial-part-1)
+- [How To Make a Game Like Space Invaders with SpriteKit and Swift: Part 2](https://www.raywenderlich.com/124006/make-game-like-space-invaders-sprite-kit-swift-tutorial-part-2)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
