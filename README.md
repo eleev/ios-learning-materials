@@ -333,6 +333,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [SpriteKit Tutorial for Beginners](https://www.raywenderlich.com/187645/spritekit-tutorial-for-beginners-2)
 - [How To Make a Game Like Space Invaders with SpriteKit and Swift: Part 1](https://www.raywenderlich.com/124005/make-game-like-space-invaders-sprite-kit-swift-tutorial-part-1)
 - [How To Make a Game Like Space Invaders with SpriteKit and Swift: Part 2](https://www.raywenderlich.com/124006/make-game-like-space-invaders-sprite-kit-swift-tutorial-part-2)
+- [Trigonometry for Game Programming – SpriteKit and Swift Tutorial: Part 1/2](https://www.raywenderlich.com/188941/trigonometry-for-game-programming-part-1-2)
+- [Trigonometry for Game Programming – SpriteKit and Swift Tutorial: Part 2/2](https://www.raywenderlich.com/188943/trigonometry-for-game-programming-part-2-2)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
