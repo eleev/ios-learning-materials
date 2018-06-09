@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 08/June/2018.**
+**Last Update: 09/June/2018.**
 
 ## About 
 
@@ -16,7 +16,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [CoreML](#coreml)
 - [SceneKit](#scenekit)
 - [SpriteKit](#spritekit)
-- [GamepleyKit](#gameplaykit)
+- [GameplayKit](#gameplaykit)
 - [Metal](#metal)
 - [AVFounation](#avfoundation)
 - [ReplayKit](#replaykit)
@@ -68,7 +68,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 ### Websites and Blogs
 
-- [Apple Developer](https://developer.apple.com) - Centralized resource that makes available various materials related to software development. 
+- [Apple Developer](https://developer.apple.com) - Centralized resource that makes available various materials related to software development for Apple Ecosystem.
 - [GitHub](https://github.com/) - Yes, that is right! `GitHub` is one of your best friends. Here you can find a ton of examples, projects and learn from them. 
 - [Ray Wenderlich](https://www.raywenderlich.com/) - Is one of the most trusted and well known resources for iOS, macOS, Android, Game Development (and the list goes on). 
 - [AppCoda](https://www.appcoda.com/)
