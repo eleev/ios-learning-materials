@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 09/June/2018.**
+**Last Update: 11/June/2018.**
 
 ## About 
 
@@ -44,6 +44,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Networking](#networking)
 - [Frameworks Development](#frameworks-development)
 - [Debugging](#debugging)
+- [Testing](#testing)
 - [App Submission](#app-submission)
 - [Git](#git)
 - [Asynchronous Programming](#asynchronous-programming)
@@ -553,6 +554,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [CALayer Tutorial: Getting Started](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
 - [Controlling Animation Timing](http://ronnqvi.st/controlling-animation-timing)
 - [Mesh Transforms](http://ciechanowski.me/blog/2014/05/14/mesh-transforms/)
+- [A more Swifty Core Animation](https://www.swiftbysundell.com/daily-wwdc/a-more-swifty-core-animation)
 
 ## Core Graphics 
 - [Core Graphics Tutorial Part 1: Getting Started](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started)
@@ -635,11 +637,14 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
 
-### Standart Protocols
+### Protocols
+- [Synthesized conditional conformances in Swift 4.2](https://www.swiftbysundell.com/daily-wwdc/synthesized-conditional-conformances-in-swift-42)
+
+#### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
 - [JSON to Swift with Decoder and Decodable](https://swiftunboxed.com/stdlib/json-decoder-decodable/)
 
-### Advances In Protocols
+#### Advances In Protocols
 - [Injecting forEach into chained method calls](https://oleb.net/blog/2017/10/chained-foreach/)
 
 ### KVC
@@ -757,7 +762,6 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Swift Algorithm Club: Minimum Spanning Tree with Prim’s Algorithm](https://www.raywenderlich.com/169392/swift-algorithm-club-minimum-spanning-tree-with-prims-algorithm)
 - [Swift Algorithm Club: Swift Dijkstra’s Algorithm](https://www.raywenderlich.com/178761/swift-algorithm-club-siwft-dijkstras-algorithm)
 
-
 ## Networking
 - [Network Layers in Swift](https://medium.com/@danielemargutti/network-layers-in-swift-7fc5628ff789)
 - [How to write Networking Layer in Swift (2nd version)](http://danielemargutti.com/2017/09/10/how-to-write-networking-layer-in-swift-2nd-version/)
@@ -772,6 +776,10 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ## Debugging 
 - [Instruments Tutorial with Swift: Getting Started](https://www.raywenderlich.com/166125/instruments-tutorial-swift-getting-started)
 - [Debugging Swift code with LLDB](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
+- [Getting started with signposts](https://www.swiftbysundell.com/daily-wwdc/getting-started-with-signposts)
+
+## Testing
+- [Faster and more robust tests with Xcode 10](https://www.swiftbysundell.com/daily-wwdc/faster-and-more-robust-tests-with-xcode-10)
 
 ## App Submission 
 - [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/184709/submit-app-apple-no-account-app-store-part-1)
@@ -827,6 +835,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### Factory Method 
 - [Using The Factory Method Pattern To Avoid Shaded State In Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift)
+- [Static factory methods in Swift](https://www.swiftbysundell.com/posts/static-factory-methods-in-swift)
 
 ### Command
 - [Rethinking Design Patterns in Swift: The Command Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-command-pattern/)
