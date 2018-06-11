@@ -71,6 +71,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 - [Apple Developer](https://developer.apple.com) - Centralized resource that makes available various materials related to software development for Apple Ecosystem.
 - [GitHub](https://github.com/) - Yes, that is right! `GitHub` is one of your best friends. Here you can find a ton of examples, projects and learn from them. 
+- [The Clean Code Blog](http://blog.cleancoder.com) - Not directly related, The Clean Code Blog by Robert C. Martin aka Uncle Bob is a must have resource for Apply Ecosystem developer. 
 - [Ray Wenderlich](https://www.raywenderlich.com/) - Is one of the most trusted and well known resources for iOS, macOS, Android, Game Development (and the list goes on). 
 - [AppCoda](https://www.appcoda.com/)
 - [objc io](https://www.objc.io)
@@ -93,6 +94,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Yet another Swift blog](http://www.vadimbulavin.com) - Personal blog about Swift by Vadim Bulavin.
 - [Brian Advent](https://www.brianadvent.com) - Tutorials For iOS Developers.
 - [Let's Build App](https://www.letsbuildthatapp.com) - High quality iOS tutorials and traning.
+- [Ole Begemann](https://oleb.net/blog/) - Persoanl blog and website about Swift and iOS by Ole Begemann.
 
 #### Machine Learning Blogs
 
