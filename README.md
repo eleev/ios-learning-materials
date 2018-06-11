@@ -95,6 +95,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Brian Advent](https://www.brianadvent.com) - Tutorials For iOS Developers.
 - [Let's Build App](https://www.letsbuildthatapp.com) - High quality iOS tutorials and traning.
 - [Ole Begemann](https://oleb.net/blog/) - Persoanl blog and website about Swift and iOS by Ole Begemann.
+- [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) - iOS Blog from Big Nerd Ranch.
 
 #### Machine Learning Blogs
 
