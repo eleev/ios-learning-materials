@@ -486,6 +486,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Auto Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/160527/auto-layout-tutorial-ios-11-getting-started)
 - [iOS Auto Layout tutorial programmatically](https://theswiftdev.com/2017/10/31/ios-auto-layout-tutorial-programmatically/)
 - [Swift | Adding constraints programmatically](https://stackoverflow.com/questions/26180822/swift-adding-constraints-programmatically)
+- [Apple's Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)
+- [Auto Layout life cycle](https://www.vadimbulavin.com/view-auto-layout-life-cycle/)
 
 ### UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
