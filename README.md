@@ -268,7 +268,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
 - [Machine Learning in iOS: Turi Create and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26)
 
-## CreteML 
+## CreateML 
 - [Create ML Tutorial: Getting Started](https://www.raywenderlich.com/196233/create-ml-tutorial-getting-started)
 
 ## SceneKit
