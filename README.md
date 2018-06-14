@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 11/June/2018.**
+**Last Update: 14/June/2018.**
 
 ## About 
 
@@ -224,6 +224,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Findme. Using ARKit to find me](https://github.com/mmoaay/Findme)
 - [ARBottleJump](https://github.com/songkuixi/ARBottleJump)
 - [Superimposes your image into a 3D world using Metal+Arkit](https://github.com/montaguegabe/arkit-virtual-backdrop)
+- [An ARKit App that can help your friends to find you](https://github.com/mmoaay/Findme)
 
  ### Video 📹
  - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
