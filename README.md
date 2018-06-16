@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 14/June/2018.**
+**Last Update: 16/June/2018.**
 
 ## About 
 
@@ -95,8 +95,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Yet another Swift blog](http://www.vadimbulavin.com) - Personal blog about Swift by Vadim Bulavin.
 - [Brian Advent](https://www.brianadvent.com) - Tutorials For iOS Developers.
 - [Let's Build App](https://www.letsbuildthatapp.com) - High quality iOS tutorials and traning.
-- [Ole Begemann](https://oleb.net/blog/) - Persoanl blog and website about Swift and iOS by Ole Begemann.
+- [Ole Begemann](https://oleb.net/blog/) - Personal blog and website about Swift and iOS by Ole Begemann.
 - [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) - iOS Blog from Big Nerd Ranch.
+- [Swift Unboxed](https://swiftunboxed.com) - Blog about Swift programming language by Greg Heo.
 
 #### Machine Learning Blogs
 
