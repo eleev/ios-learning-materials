@@ -19,7 +19,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SpriteKit](Lists/SpriteKit.md)
 - [GameplayKit](Lists/GameplayKit.md)
 - [Metal](Lists/Metal.md)
-- [AVFounation](Lists/AVfoundation.md)
+- [AVFounation](Lists/AVFoundation.md)
 - [ReplayKit](Lists/ReplayKit.md)
 - [MapKit](Lists/MapKit.md)
 - [Asset Catalog](Lists/AssetCatalog.md)
