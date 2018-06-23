@@ -1,0 +1,9 @@
+## Core Animation 
+- [CALayer Tutorial: Getting Started](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
+- [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
+- [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift)
+- [Building your own chart in iOS — Part 1: Bar chart](https://medium.com/@leonardnguyen/build-your-own-chart-in-ios-part-1-bar-chart-e1b7f4789d70)
+- [CALayer Tutorial: Getting Started](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
+- [Controlling Animation Timing](http://ronnqvi.st/controlling-animation-timing)
+- [Mesh Transforms](http://ciechanowski.me/blog/2014/05/14/mesh-transforms/)
+- [A more Swifty Core Animation](https://www.swiftbysundell.com/daily-wwdc/a-more-swifty-core-animation)
