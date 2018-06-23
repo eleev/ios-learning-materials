@@ -365,6 +365,12 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## GameplayKit
 - [Pathfinding on Tilemap with GameplayKit](https://stackoverflow.com/questions/42071040/pathfinding-on-tilemap-with-gameplaykit)
+- [Let's build GameplayKit - Grid Based Pathfinding](http://www.jonathanfischer.net/lets-build-gameplaykit-grid-pathfinding/)
+- [An Introduction to GameplayKit: Part 1](https://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-1--cms-24483)
+- [An Introduction to GameplayKit: Part 2](https://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-2--cms-24528)
+- [An Introduction to GameplayKit: Part 3](https://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-3--cms-24611)
+- [A Look at Agents, Goals & Behaviours in GameplayKit](http://flexmonkey.blogspot.com/2015/11/a-look-at-agents-goals-behaviours-in.html)
+- [GameplayKit Programming Guide](https://developer.apple.com/library/archive/documentation/General/Conceptual/GameplayKit_Guide/index.html#//apple_ref/doc/uid/TP40015172-CH1-SW1)
 
 ## Metal 
 - [What’s the big deal with Apples Metal API?](http://renderingpipeline.com/2014/06/whats-the-big-deal-with-apples-metal-api/)
