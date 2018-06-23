@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 16/June/2018.**
+**Last Update: 23/June/2018.**
 
 ## About 
 
@@ -271,6 +271,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## CreateML 
 - [Create ML Tutorial: Getting Started](https://www.raywenderlich.com/196233/create-ml-tutorial-getting-started)
+- [Introduction to Create ML: How to Train Your Own Machine Learning Model in Xcode 10](https://www.appcoda.com/create-ml/)
 
 ## SceneKit
 - [Physically Based Rendering Using the New iOS 10 SceneKit](https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021)
@@ -436,6 +437,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ### UIViewController
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
+- [View Controller Lifecycle Explained: When to Use viewDidLayoutSubviews](https://www.appcoda.com/view-controller-lifecycle/)
 
 ### UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
@@ -463,6 +465,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### UITableView
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
 - [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/)
+- [Enum-Driven TableView Development](https://www.raywenderlich.com/188692/enum-driven-tableview-development)
 
 ### UIStackView
 - [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
@@ -631,6 +634,12 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 ### Resources 
 - [Swift Unwrapped: Weekly Podcast Show](https://spec.fm/podcasts/swift-unwrapped)
 - [Srdan Rasic: A software Engineer](http://rasic.info)
+
+### What is new
+#### Swift 4.2
+- [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
+- [What’s new in Swift 4.2?](https://www.hackingwithswift.com/articles/77/whats-new-in-swift-4-2)
+- [Playground: What’s new in Swift 4.2](https://oleb.net/blog/2018/06/whats-new-in-swift-4-2-playground/)
 
 ### Directives 
 - [#warning It seems that Swift can’t do this!](https://medium.com/rocknnull/warning-it-seems-that-swift-cant-do-this-def0c9c9d0f7)
