@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 23/June/2018.**
+**Last Update: 24/June/2018.**
 
 ## About 
 
@@ -31,17 +31,17 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Location](Lists/CoreLocation.md)
 - [Core Data](Lists/CoreData.md)
 - [Core Motion ](Lists/CoreMotion.md)
-- [HealthKit](#healthkit)
-- [CloudKit](#cloudkit)
-- [In-App Purchase](#in-app-purchase)
-- [NLP](#nlp)
-- [Swift](#swift)
-- [Xcode](#xcode)
-- [Internationalization](#internationalization)
-- [Security](#security)
-- [Payments](#payments)
-- [Document Based Apps](#document-based-apps)
-- [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [HealthKit](Lists/HealthKit.md)
+- [CloudKit](Lists/CloudKit.md)
+- [In-App Purchase](Lists/InAppPurchase.md)
+- [NLP](Lists/NLP.md)
+- [Swift](Lists/Swift.md)
+- [Xcode](Lists/Xcode.md)
+- [Internationalization](Lists/Internationalization.md)
+- [Security](Lists/Security.md)
+- [Payments](Lists/Payments.md)
+- [Document Based Apps](Lists/DocumentBasedApps.md)
+- [Algorithms and Data Structures](Lists/AlgorithmsAndDataStructures.md)
 - [Networking](#networking)
 - [Frameworks Development](#frameworks-development)
 - [Debugging](#debugging)
@@ -68,177 +68,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 
 
-## HealthKit
-- [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
-- [HealthKit Tutorial with Swift: Workouts](https://www.raywenderlich.com/162877/healthkit-tutorial-swift-workouts)
-
-## CloudKit
-- [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
-
-## In-App Purchase
-- [In-App Purchase Tutorial: Getting Started](https://www.raywenderlich.com/122144/in-app-purchase-tutorial)
-- [In App Purchases Tutorial: Consumables](https://www.raywenderlich.com/127423/in-app-purchases-tutorial)
-
-### Official Documentation 
-- [In-App Purchase](https://developer.apple.com/in-app-purchase/)
-- [In-App Purchase Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Introduction.html#//apple_ref/doc/uid/TP40008267-CH1-SW1)
-- [Workflow for configuring in-app purchases](http://help.apple.com/itunes-connect/developer/#/devb57be10e7)
-
-## NLP
-- [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/)
-
-## Swift 
-
-### Resources 
-- [Swift Unwrapped: Weekly Podcast Show](https://spec.fm/podcasts/swift-unwrapped)
-- [Srdan Rasic: A software Engineer](http://rasic.info)
-
-### What is new
-#### Swift 4.2
-- [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
-- [What’s new in Swift 4.2?](https://www.hackingwithswift.com/articles/77/whats-new-in-swift-4-2)
-- [Playground: What’s new in Swift 4.2](https://oleb.net/blog/2018/06/whats-new-in-swift-4-2-playground/)
-
-### Directives 
-- [#warning It seems that Swift can’t do this!](https://medium.com/rocknnull/warning-it-seems-that-swift-cant-do-this-def0c9c9d0f7)
-
-### Strings
-- [Strings In Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
-
-### Regular Expressions
-- [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
-
-### Standard Data Structures
-- [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html)
-- [Five useful methods of dictionaries](https://www.hackingwithswift.com/articles/109/five-useful-methods-of-dictionaries)
-
-### Associated Types 
-- [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
-
-### Protocols
-- [Synthesized conditional conformances in Swift 4.2](https://www.swiftbysundell.com/daily-wwdc/synthesized-conditional-conformances-in-swift-42)
-
-#### Standart Protocols
-- [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
-- [JSON to Swift with Decoder and Decodable](https://swiftunboxed.com/stdlib/json-decoder-decodable/)
-
-#### Advances In Protocols
-- [Injecting forEach into chained method calls](https://oleb.net/blog/2017/10/chained-foreach/)
-
-### KVC
-- [Struct References](http://chris.eidhof.nl/post/references/)
-
-### Error handling
-- Error Handling (Swift 3)
-  - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
-  - https://news.realm.io/news/slug-marcus-zarra-exploring-mvcn-swift/
-
-### Encoding and Decoding 
-- Encoding and Decoding in Swift 4
-  - https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862
-  - https://github.com/ole/whats-new-in-swift-4/blob/master/Whats-new-in-Swift-4.playground/Pages/Encoding%20and%20decoding.xcplaygroundpage/Contents.swift
-  - https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
-  - http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
-- [Encoding, Decoding and Serialization in Swift 4](https://www.raywenderlich.com/172145/encoding-decoding-and-serialization-in-swift-4)
-- [Single Value Codable](http://www.russbishop.net/singlevaluecodable)
-- [Using Swift Codable With Property Lists](https://useyourloaf.com/blog/using-swift-codable-with-property-lists/)
-- [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
-
-### Properties
-- [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
-- [Using lazy properties in Swift](https://medium.com/@johnsundell/using-lazy-properties-in-swift-592c777e0052)
-- [Swift Lazy Initialization with Closures](https://blog.bobthedeveloper.io/swift-lazy-initialization-with-closures-a9ef6f6312c)
-- [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/)
-
-### KVO and Bindings
-- Bindings and KVO alternatives
-  - http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
-  - http://rasic.info/bindings-generics-swift-and-mvvm/
-  - http://five.agency/solving-the-binding-problem-with-swift/
-- [KVO In iOS 11](http://skyefreeman.io/programming/2017/06/28/kvo-in-ios11.html)  
-  
-### Switch 
-- [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
-  
-### Optionals
-- [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
-- [Filtering Object To Optionals](https://swiftforward.wordpress.com/2016/06/17/filtering-objects-to-optionals/)
-
-### Collections
-- [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
-
-### Floating Point
-- [Floating Point Swift ulp And epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/)
-
-### Closures
-- [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
-
-### Attributes
-- [More Swift Attributes](http://www.russbishop.net/more-swift-attributes)
-
-### Pattern Matching
-- [Pattern Matching, Part 1: switch, enums & where clauses](http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/)
-- [Pattern Matching, Part 2: tuples, ranges & types](http://alisoftware.github.io/swift/pattern-matching/2016/03/30/pattern-matching-2/)
-- [Pattern Matching, Part 3: Custom pattern matching & syntactic sugar](http://alisoftware.github.io/swift/pattern-matching/2016/04/24/pattern-matching-3/)
-- [Pattern Matching, Part 4: if case, guard case, for case](http://alisoftware.github.io/swift/pattern-matching/2016/05/16/pattern-matching-4/)
-
-### Hashable
-- [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
-
-### Optimizations
-- [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
-
-### Copy-On-Write
-- [Use Copy-On-Write With Swift Value Types](https://marcosantadev.com/copy-write-swift-value-types/)
-
-### Timer
-- [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
-
-### Other 
-- [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
-- [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
-- [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
-- [Swift Get Class Name](http://ioschefs.com/swift-get-class-name/)
-
-## Xcode
-- [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/)
-
-## Internationalization 
-- [Internationalizing Your iOS App: Getting Started](https://www.raywenderlich.com/180356/ios-internationalization)
-
-## Security
-- [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
-
-## Payments
-- [Accepting Credit Cards In Your iOS App Using Stripe](https://www.raywenderlich.com/179260/accept-credit-cards-ios-apps-using-stripe)
-
-## Document Based Apps
-- [How to Integrate Your App with Files App in iOS 11](https://www.appcoda.com/files-app-integration/)
-
-## Algorithms and Data Structures
-
-### Data Structures
-- [Swift Algorithm Club: Swift Linked List Data Structure](https://www.raywenderlich.com/144083/swift-algorithm-club-swift-linked-list-data-structure)
-- [Swift Algorithm Club: Swift Queue Data Structure](https://www.raywenderlich.com/148141/swift-algorithm-club-swift-queue-data-structure)
-- [Swift Algorithm Club: Swift Trie Data Structure](https://www.raywenderlich.com/139410/swift-algorithm-club-swift-trie-data-structure)
-- [Swift Algorithm Club: Swift Stack Data Structure](https://www.raywenderlich.com/149213/swift-algorithm-club-swift-stack-data-structure)
-- [Swift Algorithm Club: Swift Binary Search Tree Data Structure](https://www.raywenderlich.com/139821/swift-algorithm-club-swift-binary-search-tree-data-structure)
-- [Swift Algorithm Club: Heap and Priority Queue Data Structure](https://www.raywenderlich.com/160631/swift-algorithm-club-heap-and-priority-queue-data-structure)
-- [Swift Algorithm Club: Graphs with Adjacency List](https://www.raywenderlich.com/152046/swift-algorithm-club-graphs-adjacency-list)
-
-### Algorithms
-
-#### Sorting
-- [Swift Algorithm Club: Swift Merge Sort](https://www.raywenderlich.com/154256/swift-algorithm-club-swift-merge-sort)
-- [Algorithms for Beginners — Bubble Sort, Insertion Sort, Merge Sort](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48)
-
-#### Searching 
-- [Swift Algorithm Club: Boyer Moore String Search Algorithm](https://www.raywenderlich.com/163964/swift-algorithm-club-booyer-moore-string-search-algorithm)
-- [Swift Algorithm Club: Swift Breadth First Search](https://www.raywenderlich.com/155801/swift-algorithm-club-swift-breadth-first-search)
-
-#### Graph 
-- [Swift Algorithm Club: Minimum Spanning Tree with Prim’s Algorithm](https://www.raywenderlich.com/169392/swift-algorithm-club-minimum-spanning-tree-with-prims-algorithm)
-- [Swift Algorithm Club: Swift Dijkstra’s Algorithm](https://www.raywenderlich.com/178761/swift-algorithm-club-siwft-dijkstras-algorithm)
 
 ## Networking
 - [Network Layers in Swift](https://medium.com/@danielemargutti/network-layers-in-swift-7fc5628ff789)
