@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 24/June/2018.**
+**Last Update: 26/June/2018.**
 
 ## About 
 
@@ -42,15 +42,15 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Payments](Lists/Payments.md)
 - [Document Based Apps](Lists/DocumentBasedApps.md)
 - [Algorithms and Data Structures](Lists/AlgorithmsAndDataStructures.md)
-- [Networking](#networking)
-- [Frameworks Development](#frameworks-development)
-- [Debugging](#debugging)
-- [Testing](#testing)
-- [App Submission](#app-submission)
-- [Git](#git)
-- [Asynchronous Programming](#asynchronous-programming)
-- [Functional Programming](#functional-programming)
-- [Protocol-Oriented Programming](#protocol-oriented-programming)
+- [Networking](Lists/Networking.md)
+- [Frameworks Development](Lists/FrameworksDevelopment.md)
+- [Debugging](Lists/Debugging.md)
+- [Testing](Lists/Testing.md)
+- [App Submission](Lists/AppSubmission.md)
+- [Git](Lists/Git.md)
+- [Asynchronous Programming](Lists/AsynchronousProgramming.md)
+- [Functional Programming](Lists/FunctionalProgramming.md)
+- [Protocol-Oriented Programming](Lists/ProtocolOrientedProgramming.md)
 - [Architecture And Design Patterns](Lists/ArchitectureAndDesignPatterns.md)
 - [Test Driven Development](#test-driven-development)
 - [Computer Graphics](Lists/ComputerGraphics.md)
@@ -66,54 +66,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Interview](#interview)
 - [Other](#other)
 
-
-
-
-## Networking
-- [Network Layers in Swift](https://medium.com/@danielemargutti/network-layers-in-swift-7fc5628ff789)
-- [How to write Networking Layer in Swift (2nd version)](http://danielemargutti.com/2017/09/10/how-to-write-networking-layer-in-swift-2nd-version/)
-- [Getting Started with Moya](https://medium.com/flawless-app-stories/getting-started-with-moya-f559c406e990)
-
-## Frameworks Development 
-- [An Introduction to Creating and Distributing Embedded Frameworks in iOS](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
-- [Creating iOS/OSX Frameworks: is it necessary to codesign them before distributing to other developers?](https://stackoverflow.com/questions/30963294/creating-ios-osx-frameworks-is-it-necessary-to-codesign-them-before-distributin)
-- [Conditionally embed your dynamic frameworks](http://ppinera.es/2017/09/13/xcodembed.html)
-- [Getting Started with Reusable Frameworks for iOS Development](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11)
-
-## Debugging 
-- [Instruments Tutorial with Swift: Getting Started](https://www.raywenderlich.com/166125/instruments-tutorial-swift-getting-started)
-- [Debugging Swift code with LLDB](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
-- [Getting started with signposts](https://www.swiftbysundell.com/daily-wwdc/getting-started-with-signposts)
-
-## Testing
-- [Faster and more robust tests with Xcode 10](https://www.swiftbysundell.com/daily-wwdc/faster-and-more-robust-tests-with-xcode-10)
-
-## App Submission 
-- [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/184709/submit-app-apple-no-account-app-store-part-1)
-- [How to Submit An App to Apple: From No Account to App Store – Part 2](https://www.raywenderlich.com/184825/submit-app-apple-no-account-app-store-part-2)
-
-## Git
-- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-- [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
-- [Git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-- [Branching](https://gist.github.com/digitaljhelms/4287848)
-- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
-
-## Asynchronous Programming
-- [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
-- [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
-- [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
-- [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0)
-
-## Functional Programming 
-- [Lenses and Prisms in Swift: a pragmatic approach](https://broomburgo.github.io/fun-ios/post/lenses-and-prisms-in-swift-a-pragmatic-approach/)
-
-## Protocol-Oriented Programming
-- [Introducing Protocol-Oriented Programming in Swift 3](https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming)
-- [Introduction to Protocol Oriented Programming in Swift](https://blog.bobthedeveloper.io/introduction-to-protocol-oriented-programming-in-swift-b358fe4974f)
-- [How Protocol Oriented Programming in Swift saved my day?](https://medium.com/ios-os-x-development/how-protocol-oriented-programming-in-swift-saved-my-day-75737a6af022)
-- [Separation Of Concerns Using Protocols In Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
-- [Protocol Composition In Swift](https://medium.com/@marcosantadev/protocol-composition-in-swift-e2b165ff8106)
 
 
 ## Test Driven Development 
@@ -158,8 +110,6 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Honing Your Mobile Apps With Savvy User Research](https://www.raywenderlich.com/173788/honing-mobile-apps-user-research)
 - [UXPlanet is a huge resource that contains everything you need to know about user experince.](https://uxplanet.org)
 - [Ray Wenderlich is a one of the biggest iOS communities out there. They have a lot of free content as well as paid books, videos and tutorials. The quality of the material is one of the best that you can find.](https://www.raywenderlich.com)
-
-
 
 ## Interview
 - [Software Engineering: Interviews](https://medium.com/@AndyyHope/software-engineering-interviews-744380f4f2af)
