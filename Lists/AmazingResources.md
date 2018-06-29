@@ -66,3 +66,5 @@
 - [Game Art 2D](https://www.gameart2d.com/) 
 - [Kenney](https://kenney.nl/)
 - [Icons8](https://icons8.com)
+- [Open Game Art](https://opengameart.org)
+- [Background Ninja Design](http://www.dumbmanex.com/bynd_freestuff.html)
