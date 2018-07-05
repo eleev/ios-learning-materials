@@ -60,6 +60,10 @@
 - [Using Swift Codable With Property Lists](https://useyourloaf.com/blog/using-swift-codable-with-property-lists/)
 - [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
 
+### Type Erasure 
+- [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
+- [Swift World: Type Erasure](https://medium.com/swiftworld/swift-world-type-erasure-5b720bc0318a)
+
 ### Properties
 - [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
 - [Using lazy properties in Swift](https://medium.com/@johnsundell/using-lazy-properties-in-swift-592c777e0052)
