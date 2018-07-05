@@ -10,6 +10,11 @@
 - [What’s new in Swift 4.2?](https://www.hackingwithswift.com/articles/77/whats-new-in-swift-4-2)
 - [Playground: What’s new in Swift 4.2](https://oleb.net/blog/2018/06/whats-new-in-swift-4-2-playground/)
 
+### Enumeration Type
+- [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
+- [Indirect Enums - Swift 3.0](https://jayeshkawli.ghost.io/indirect-enums-swift-3-0/)
+- [Indirect Enums And Structs](https://stackoverflow.com/questions/37533006/indirect-enums-and-structs)
+
 ### Directives 
 - [#warning It seems that Swift can’t do this!](https://medium.com/rocknnull/warning-it-seems-that-swift-cant-do-this-def0c9c9d0f7)
 
