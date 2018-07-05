@@ -71,50 +71,48 @@
 - [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/)
 
 ### KVO and Bindings
-- Bindings and KVO alternatives
-- http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html
-- http://rasic.info/bindings-generics-swift-and-mvvm/
-- http://five.agency/solving-the-binding-problem-with-swift/
+- [Bindings and KVO alternatives](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
+- [Bindings, Generics Swift and MVVM](http://rasic.info/bindings-generics-swift-and-mvvm/)
+- [Solving The Binding Problem With Swift](http://five.agency/solving-the-binding-problem-with-swift/) 
 - [KVO In iOS 11](http://skyefreeman.io/programming/2017/06/28/kvo-in-ios11.html)  
- 
- ### Switch 
+### Switch 
  - [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
- 
- ### Optionals
+ 
+### Optionals
  - [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
  - [Filtering Object To Optionals](https://swiftforward.wordpress.com/2016/06/17/filtering-objects-to-optionals/)
- 
- ### Collections
+ 
+### Collections
  - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
- 
- ### Floating Point
+ 
+### Floating Point
  - [Floating Point Swift ulp And epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/)
- 
- ### Closures
+ 
+### Closures
  - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
- 
- ### Attributes
+ 
+### Attributes
  - [More Swift Attributes](http://www.russbishop.net/more-swift-attributes)
  
- ### Pattern Matching
+### Pattern Matching
  - [Pattern Matching, Part 1: switch, enums & where clauses](http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/)
  - [Pattern Matching, Part 2: tuples, ranges & types](http://alisoftware.github.io/swift/pattern-matching/2016/03/30/pattern-matching-2/)
  - [Pattern Matching, Part 3: Custom pattern matching & syntactic sugar](http://alisoftware.github.io/swift/pattern-matching/2016/04/24/pattern-matching-3/)
  - [Pattern Matching, Part 4: if case, guard case, for case](http://alisoftware.github.io/swift/pattern-matching/2016/05/16/pattern-matching-4/)
- 
- ### Hashable
+ 
+### Hashable
  - [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
  
- ### Optimizations
+### Optimizations
  - [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
  
- ### Copy-On-Write
+### Copy-On-Write
  - [Use Copy-On-Write With Swift Value Types](https://marcosantadev.com/copy-write-swift-value-types/)
  
- ### Timer
+### Timer
  - [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
  
- ### Other 
+### Other 
  - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
  - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
  - [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
