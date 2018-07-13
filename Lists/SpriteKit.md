@@ -1,6 +1,5 @@
 ## SpriteKit
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
-- [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
 - [SpriteKit with Swift: Orienting Sprites to a Location](https://dezwitter.wordpress.com/2015/02/05/spritekit-with-swift-orienting-sprites-to-a-location/)
 - [Drag and Drop Sprites](https://www.raywenderlich.com/96822/sprite-kit-tutorial-drag-drop-sprites)
 - [An Introduction To Building A SpriteKit/UIKit Hybrid App](http://createdineden.com/blog/post/an-introduction-to-building-a-spritekit-uikit-hybrid-app/)
@@ -28,6 +27,15 @@
 - [How to color an SKSpriteNode using colorBlendFactor](https://www.hackingwithswift.com/example-code/games/how-to-color-an-skspritenode-using-colorblendfactor)
 - [SpriteKit Tile Maps Intro](http://theliquidfire.com/2018/02/12/spritekit-tile-maps-intro/)
 - [What’s New In SpriteKit on iOS 10: A Look At Tile Maps](https://www.raywenderlich.com/137216/whats-new-spritekit-ios-10-look-tile-maps)
+- [How to Add SKReferenceNode/SKScene to another SKScene in SpriteKit](https://stackoverflow.com/questions/39390375/add-skreferencenode-skscene-to-another-skscene-in-spritekit/39396685)
+
+#### Kinematics
+- [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
+
+#### Warping Geometry
+- [SKWarpGeometryGrid](https://developer.apple.com/documentation/spritekit/skwarpgeometrygrid)
+- [Spritekit | Swift3 | Applying SKWarpGeometry to nodes](https://stackoverflow.com/questions/40250935/spritekit-swift3-applying-skwarpgeometry-to-nodes)
+- [How to warp a sprite using SKWarpGeometryGrid](https://www.hackingwithswift.com/example-code/games/how-to-warp-a-sprite-using-skwarpgeometrygrid)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
