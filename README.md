@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 13/July/2018.**
+**Last Update: 17/July/2018.**
 
 ## About 
 
@@ -52,7 +52,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Functional Programming](Lists/FunctionalProgramming.md)
 - [Protocol-Oriented Programming](Lists/ProtocolOrientedProgramming.md)
 - [Architecture And Design Patterns](Lists/ArchitectureAndDesignPatterns.md)
-- [Test Driven Development](#test-driven-development)
+- [Test Driven Development](Lists/TestDrivenDevelopment.md)
 - [Computer Graphics](Lists/ComputerGraphics.md)
 - [iOS Development](Lists/iOSDevelopment.md)
 - [Machine Learning](Lists/MachineLearning.md)
@@ -65,3 +65,15 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [UX](Lists/UX.md)
 - [Interview](Lists/Interview.md)
 - [Other](Lists/Other.md)
+
+## Original Author 
+[Astemir Eleev](https://github.com/jVirus)
+
+## Contributors
+- [V8tr](https://github.com/V8tr)
+- [Semen Zhydenko](https://github.com/ss18)
+- [Lisa Dziuba](https://github.com/LisaDziuba)
+- [Zakaria Braksa](https://github.com/nsbraksa)
+
+## Licence
+The project is availabe under [MIT Licence](https://github.com/jVirus/ios-learning-materials/blob/master/LICENSE) 
