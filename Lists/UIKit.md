@@ -137,3 +137,6 @@
 
 ### Drag & Drop
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
+
+### Other 
+- [iOS 12: Notable UIKit Additions](https://medium.com/the-traveled-ios-developers-guide/ios-12-notable-uikit-additions-b50beb0e3729)
