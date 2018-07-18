@@ -5,6 +5,7 @@
 - [Srdan Rasic: A software Engineer](http://rasic.info)
 
 ### What is new
+
 #### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
 - [What’s new in Swift 4.2?](https://www.hackingwithswift.com/articles/77/whats-new-in-swift-4-2)
@@ -30,6 +31,9 @@
 
 ### Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
+
+### Structs
+- [Stop Using Structs!](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 
 ### Protocols
 - [Synthesized conditional conformances in Swift 4.2](https://www.swiftbysundell.com/daily-wwdc/synthesized-conditional-conformances-in-swift-42)
@@ -75,6 +79,7 @@
 - [Bindings, Generics Swift and MVVM](http://rasic.info/bindings-generics-swift-and-mvvm/)
 - [Solving The Binding Problem With Swift](http://five.agency/solving-the-binding-problem-with-swift/) 
 - [KVO In iOS 11](http://skyefreeman.io/programming/2017/06/28/kvo-in-ios11.html)  
+
 ### Switch 
  - [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
  
