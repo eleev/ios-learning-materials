@@ -17,6 +17,7 @@
 - [Do I need multiple RenderPipelines to have multiple shaders?](https://stackoverflow.com/questions/47468458/metal-do-i-need-multiple-renderpipelines-to-have-multiple-shaders)
 - [Metal Rendering Pipeline Tutorial](https://www.raywenderlich.com/195167/metal-rendering-pipeline-tutorial)
 - [Writing a Modern Metal App from Scratch: Part 1](http://metalbyexample.com/modern-metal-1/#comment-14828)
+- [Writing a Modern Metal App from Scratch: Part 2](http://metalbyexample.com/modern-metal-2/#comment-14849)
 
 ### Reosurces 
 - [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
