@@ -4,6 +4,9 @@
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
 
+### Legacy Code / Backward Compatability
+- [https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code](Writing backward compatible Swift code)
+
 ### Model Layer
 - [Modeling State In Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift)
 
