@@ -19,6 +19,9 @@
 ### UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 
+### UITextInput
+- [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
+
 ### UICollectionView
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
