@@ -2,13 +2,14 @@
 
 **Last Update: 1/August/2018.**
 
-## About 
+## About
 
-Curated list of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that may help you dig a little bit deeper into iOS. All the resources are split into sub-categories which simlifies navigation and management. Feel free to use and suggest something to learn (iOS related of course 😜). 
+Curated list of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that may help you dig a little bit deeper into iOS. All the resources are split into sub-categories which simlifies navigation and management. Feel free to use and suggest something to learn (iOS related of course 😜).
 
 You may see some non-directly related topics such as `Computer Graphics`, `Machine Learning` or `Design Patterns` - these are actually related, in some ways, to `iOS` development, but in a much broader and more specific way. With the addition of new materials, the structure of the document will be properly maintained meaning that it will become a reference book for learning. Happy evolving 🤓:octocat:
 
-## Content 
+## Content
+
 - [About](#about)
 - [Amazing Resources](Lists/AmazingResources.md)
 - [ARKit](Lists/ARKit.md)
@@ -19,7 +20,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SpriteKit](Lists/SpriteKit.md)
 - [GameplayKit](Lists/GameplayKit.md)
 - [Metal](Lists/Metal.md)
-- [AVFounation](Lists/AVFoundation.md)
+- [AVFoundation](Lists/AVFoundation.md)
 - [ReplayKit](Lists/ReplayKit.md)
 - [MapKit](Lists/MapKit.md)
 - [Asset Catalog](Lists/AssetCatalog.md)
@@ -66,14 +67,17 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Interview](Lists/Interview.md)
 - [Other](Lists/Other.md)
 
-## Original Author 
+## Original Author
+
 [Astemir Eleev](https://github.com/jVirus)
 
 ## Contributors
+
 - [V8tr](https://github.com/V8tr)
 - [Semen Zhydenko](https://github.com/ss18)
 - [Lisa Dziuba](https://github.com/LisaDziuba)
 - [Zakaria Braksa](https://github.com/nsbraksa)
 
 ## Licence
-The project is availabe under [MIT Licence](https://github.com/jVirus/ios-learning-materials/blob/master/LICENSE) 
+
+The project is availabe under [MIT Licence](https://github.com/jVirus/ios-learning-materials/blob/master/LICENSE)
