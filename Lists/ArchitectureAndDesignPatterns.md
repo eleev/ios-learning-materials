@@ -134,3 +134,4 @@
 - [Observers in Swift - Part 1](https://www.swiftbysundell.com/posts/observers-in-swift-part-1)
 - [Observers in Swift - Part 2](https://www.swiftbysundell.com/posts/observers-in-swift-part-2)
 - [Notification in Swift (NSNotification)](https://medium.com/@dmytro.anokhin/notification-in-swift-d47f641282fa)
+- [Using NSNotificationCenter in Swift](https://medium.com/@JoyceMatos/using-nsnotificationcenter-in-swift-eb70cf0b60fc)
