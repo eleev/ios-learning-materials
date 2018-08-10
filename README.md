@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 4/August/2018.**
+**Last Update: 10/August/2018.**
 
 ## About
 
@@ -59,8 +59,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Machine Learning](Lists/MachineLearning.md)
 - [Clean Code](Lists/CleanCode.md)
 - [App Distribution](Lists/AppDistribution.md)
-- [CocoaPods](Lists/CocoaPods.md)
-- [Carthage](Lists/Carthage.md)
+- [Dependency Management](Lists/DependencyManagement.md)
 - [Frameworks](Lists/Frameworks.md)
 - [Design](Lists/Design.md)
 - [UX](Lists/UX.md)
