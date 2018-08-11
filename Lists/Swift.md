@@ -34,6 +34,8 @@
 
 ### Structs
 - [Stop Using Structs!](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
+- [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
+- [Bidirectional associations using value types in Swift](https://medium.com/@leandromperez/bidirectional-associations-using-value-types-in-swift-548840734047)
 
 ### Protocols
 - [Synthesized conditional conformances in Swift 4.2](https://www.swiftbysundell.com/daily-wwdc/synthesized-conditional-conformances-in-swift-42)
