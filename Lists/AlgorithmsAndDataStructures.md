@@ -22,3 +22,10 @@
 #### Graph 
 - [Swift Algorithm Club: Minimum Spanning Tree with Prim’s Algorithm](https://www.raywenderlich.com/169392/swift-algorithm-club-minimum-spanning-tree-with-prims-algorithm)
 - [Swift Algorithm Club: Swift Dijkstra’s Algorithm](https://www.raywenderlich.com/178761/swift-algorithm-club-siwft-dijkstras-algorithm)
+
+
+### Time Complexity, Big O Notation
+- [Know Thy Complexities!](http://bigocheatsheet.com)
+- [Algorithms in plain English: time complexity and Big-O notation](https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c)
+- [Complexity and Big-O Notation In Swift](https://medium.com/journey-of-one-thousand-apps/complexity-and-big-o-notation-in-swift-478a67ba20e7)
+- [Algorithms and Data Structures](http://cooervo.github.io/Algorithms-DataStructures-BigONotation/)
