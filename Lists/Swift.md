@@ -1,9 +1,5 @@
 ## Swift 
 
-### Resources 
-- [Swift Unwrapped: Weekly Podcast Show](https://spec.fm/podcasts/swift-unwrapped)
-- [Srdan Rasic: A software Engineer](http://rasic.info)
-
 ### What is new
 
 #### Swift 4.2
@@ -91,6 +87,7 @@
  
 ### Collections
  - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
+ - [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
  
 ### Floating Point
  - [Floating Point Swift ulp And epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/)
@@ -124,3 +121,4 @@
  - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
  - [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
  - [Swift Get Class Name](http://ioschefs.com/swift-get-class-name/)
+ - [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
