@@ -31,6 +31,7 @@
 - [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) - iOS Blog from Big Nerd Ranch.
 - [Swift Unboxed](https://swiftunboxed.com) - Blog about Swift programming language by Greg Heo.
 - [NSBlog](https://www.mikeash.com/pyblog/) - Personal blog about Mac development by Mike Ash.
+- [Srdan Rasic](http://rasic.info) - Personal blog about iOS development by Srđan Rašić.
 
 #### Machine Learning Blogs
 
