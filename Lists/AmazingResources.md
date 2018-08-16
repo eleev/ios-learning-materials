@@ -70,3 +70,4 @@
 - [Icons8](https://icons8.com)
 - [Open Game Art](https://opengameart.org)
 - [Background Ninja Design](http://www.dumbmanex.com/bynd_freestuff.html)
+- [Keenan's 3D Model Repository](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/)
