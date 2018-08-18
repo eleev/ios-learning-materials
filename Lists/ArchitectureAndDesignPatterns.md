@@ -73,7 +73,6 @@
 - [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
 - [An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
 - [Swift and ModelView-View-Model in Practive](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
-- [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
 - [MVVM in Swift](https://medium.com/@shenghuawu/mvvm-in-swift-bfe2b7c1d7a4)
 - [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
 - [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/)
@@ -81,6 +80,13 @@
 - [On MVVM, and Architecture Questions](http://twocentstudios.com/2014/06/08/on-mvvm-and-architecture-questions/)
 - [MVVM and Coordinator Patterns Together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
 - [Design Patterns by Tutorials: MVVM](https://www.raywenderlich.com/192471/design-patterns-by-tutorials-mvvm)
+- [MVVM Pattern Sample in Swift/iOS](https://dev.to/eleazar0425/mvvm-pattern-sample-in-swiftios--58aj)
+
+#### Video 
+- [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
+
+#### Code 
+- [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
 
 ### Multicast Delegate
 - [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
