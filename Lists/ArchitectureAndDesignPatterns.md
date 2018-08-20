@@ -81,6 +81,7 @@
 - [MVVM and Coordinator Patterns Together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
 - [Design Patterns by Tutorials: MVVM](https://www.raywenderlich.com/192471/design-patterns-by-tutorials-mvvm)
 - [MVVM Pattern Sample in Swift/iOS](https://dev.to/eleazar0425/mvvm-pattern-sample-in-swiftios--58aj)
+- [From MVC to MVVM in Swift](http://rasic.info/from-mvc-to-mvvm-in-swift/)
 
 #### Video 
 - [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
