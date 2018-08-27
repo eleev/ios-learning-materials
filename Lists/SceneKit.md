@@ -35,7 +35,7 @@
 - [Changing programmatically the text of a 3D TextNode in SceneKit using Swift](https://stackoverflow.com/questions/45580843/changing-programmatically-the-text-of-a-3d-textnode-in-scenekit-using-swift)
 - [SCN shader modifier in metal - pass uniform to shader](https://stackoverflow.com/questions/39522370/scn-shader-modifier-in-metal-pass-uniform-to-shader)
 - [Crossfade material property textures](https://stackoverflow.com/questions/33235058/scenekit-crossfade-material-property-textures/33357397)
-
+- [3D Weather with SceneKit: aka Karl the Fog in AR](https://blog.mapbox.com/3d-weather-with-scenekit-aka-karl-the-fog-in-ar-931cff1c1c7c)
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
@@ -45,3 +45,4 @@
 ### Code 💻
 - [SpriteKitHills - Dynamic generated hills](https://github.com/rogerboesch/SpriteKitHills)
 - [Tanks - Gameplay example with SpriteKit](https://github.com/rogerboesch/SceneKitTutorial)
+- [SceneKit Volumetric Weather](https://github.com/mapbox/scenekit-volumetric-weather)
