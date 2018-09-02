@@ -108,6 +108,11 @@
 ### Dependency Injection
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
 
+### Iterator
+- [Design Patterns in Swift: Iterator Pattern](https://agostini.tech/2018/06/10/design-patterns-in-swift-iterator-pattern/)
+
+### Observer 
+- [Implementing the observer pattern in Swift](https://www.behindmedia.com/2017/12/23/implementing-the-observer-pattern-in-swift/)
 
 ## Architecture Patterns
 
