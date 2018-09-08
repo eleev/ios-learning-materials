@@ -114,6 +114,11 @@
 ### Observer 
 - [Implementing the observer pattern in Swift](https://www.behindmedia.com/2017/12/23/implementing-the-observer-pattern-in-swift/)
 
+### Null Object
+- [Null Object Pattern in Swift](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
+- [Null Object Design Pattern](https://gist.github.com/suprie/992ff8737eedd724e4f6)
+- [Swift Optionals and the Null Object Design Pattern](https://m.smartcloud.io/swift-optionals-and-the-null-object-design-pattern-7578b7448edf)
+
 ## Architecture Patterns
 
 ### VIPER
