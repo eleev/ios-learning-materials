@@ -2,6 +2,8 @@
 
 **Last Update: 11/September/2018.**
 
+![](logo.png)
+
 # ✍️ About
 
 Curated list of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that may help you dig a little bit deeper into iOS. All the resources are split into sub-categories which simlifies navigation and management. Feel free to use and suggest something to learn (iOS related of course 😜).
