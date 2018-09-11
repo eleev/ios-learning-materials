@@ -121,23 +121,35 @@
 
 ## Architecture Patterns
 
-### VIPER
-- [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
-
 ### MVC
+Model View Controller
 - [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
-- [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
 - [MVC](http://codeplease.io/2017/11/19/mvc/)
+- [Model-View-Controller, Apple Docs](https://developer.apple.com/library/content/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html)
+- [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
+- [A Better MVC, Part 1: The Problems](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/) :rocket:
+- [Just Controllers](http://khanlou.com/2018/02/just-controllers/)
+plugins-in-swift)
+- [Model-View-Controller without the Controller](https://www.cocoawithlove.com/blog/mvc-without-the-c.html)
+- [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-
+- [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
 
 ### MVC-N
+Model View Controller - Network
 - [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
+- [MVC-N: Isolating network calls from View Controllers](https://academy.realm.io/posts/slug-marcus-zarra-exploring-mvcn-swift/)
 
-### MVVM-C
-- [MVVM-C with Swift](https://marcosantadev.com/mvvmc-with-swift/)
-- [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
-- [UIKonf 2016 – Day 1– Steve "Scotty" Scott – MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
+#### Video 
+- [Beginning iOS Design Patterns - MVC N](https://www.youtube.com/watch?v=KxNWvW1lcHo)
+
+### MVP
+Model View Presenter
+- [Going from MVC to MVP on iOS](https://blog.moove-it.com/going-from-mvc-to-mvp-on-ios/)
+- [A dumb UI is a good UI: Using MVP in iOS with swift](http://iyadagha.com/using-mvp-ios-swift/)
+
 
 ### MVVM
+Model View View-Movel
 - [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
 - [An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
 - [Swift and ModelView-View-Model in Practive](https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/)
@@ -150,12 +162,57 @@
 - [Design Patterns by Tutorials: MVVM](https://www.raywenderlich.com/192471/design-patterns-by-tutorials-mvvm)
 - [MVVM Pattern Sample in Swift/iOS](https://dev.to/eleazar0425/mvvm-pattern-sample-in-swiftios--58aj)
 - [From MVC to MVVM in Swift](http://rasic.info/from-mvc-to-mvvm-in-swift/)
-
-### Redux
-- [Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
+- [MVVM Is Quite Okay at What It Is Supposed to Do](https://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
+- [MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
+- [MVVM in Practice - RWDevCon Session](https://www.youtube.com/watch?v=sWx8TtRBOfk)
+- [View Models at Kickstarter ](https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter)
+- [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
+- [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e)
 
 #### Video 
 - [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
 
 #### Code 
 - [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
+
+### MVVM-C
+Model View View-Model Coordinator
+- [MVVM-C with Swift](https://marcosantadev.com/mvvmc-with-swift/)
+- [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
+- [UIKonf 2016 – Day 1– Steve "Scotty" Scott – MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
+
+
+### VIP
+View Interactor Presenter
+- [Architecture Wars – A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
+- [Introducing Clean Swift Architecture (VIP)](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
+
+### VIPER
+View Interactor Presenter Entity Router
+- [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
+- [iOS Project Architecture: Using VIPER](https://www.ckl.io/blog/ios-project-architecture-using-viper/)
+- [iOSModulesArchitecture](https://github.com/JeanLebrument/iOSModulesArchitecture) Quick example of how divide an app into modules to respect the SOLID principles
+- [ARCHITECTING MOBILE APPS WITH (B)VIPER MODULES - A STRUCTURED ENGINEERING APPROACH FOR BIG MOBILE APPS](http://www.mttnow.com/blog/architecting-mobile-apps-with-bviper-modules)
+- [Clean Architecture - VIPER at Redbooth](https://speakerdeck.com/sergigracia/clean-architecture-viper) by [@sergigracia](https://twitter.com/sergigracia)
+- [VIPER to be or not to be](https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/)
+- [Clean Architecture - VIPER by Redbooth](https://www.youtube.com/watch?v=OX4rLAJC7lw)
+- [250 Days Shipping With Swift and VIPER](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
+- [IOS ARCHITECTURE: REAL LIFE VIPER](http://www.outware.com.au/insights/ios-architecture-real-life-viper/)
+- [Humble Object Pattern in Swift](https://medium.com/ios-os-x-development/humble-object-pattern-in-swift-de5efe8fe05a#.dmkvdbjoy)
+- [VIPER-S: WRITING YOUR OWN ARCHITECTURE AND UNDERSTAND ITS IMPORTANCE (PART 3)](http://www.thinkandbuild.it/viper-s-writing-your-own-architecture-and-understand-its-importance-part-3/)
+- [Facing the VIPER](https://vimeo.com/album/4786409/video/235312913)
+- [Building a Framework with VIPER](https://academy.realm.io/posts/try-swift-nyc-sonam-dhingra-building-viper-framework/)
+- [Should I use Viper architecture for my next iOS application, or it is still very new to use?](https://www.quora.com/Should-I-use-Viper-architecture-for-my-next-iOS-application-or-it-is-still-very-new-to-use)
+- [VIPER to be or not to be?](https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/)
+- [Brigade’s Experience Using an MVC Alternative](https://medium.com/brigade-engineering/brigades-experience-using-an-mvc-alternative-36ef1601a41f)
+- [First Observations on TDD with VIPER](http://iosunittesting.com/tdd-with-viper/)
+- [Building Modular iOS Apps](https://realm.io/news/modular-ios-apps/)
+- [iPhreaks Show – VIPER with Conrad Stoll and Jeff Gilbert](http://devchat.tv/iphreaks/064-iphreaks-show-viper-with-conrad-stoll-and-jeff-gilbert)
+- [Building iOS App With VIPER Architecture](https://blog.mindorks.com/building-ios-app-with-viper-architecture-8109acc72227)
+- [Viper Framework for iOS using Swift v3](https://github.com/ferranabello/Viperit)
+- [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
+
+### Redux
+Unidirectional Data Flow
+- [Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
+- [Unidirectional Data Flow Architecture (Redux) in Swift](https://medium.com/seyhunakyurek/unidirectional-data-flow-architecture-redux-in-swift-6fa2ed5c3c76)
