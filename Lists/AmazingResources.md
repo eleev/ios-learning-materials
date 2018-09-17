@@ -47,11 +47,18 @@
 
 ### iTunes Podcasts
 
-- [CartoonSmart Tutorials](https://itunes.apple.com/ru/podcast/cartoonsmart-tutorials/id1108725455?l=en&mt=2)
-- [Stacktrace](https://itunes.apple.com/ru/podcast/stacktrace/id1359435443?l=en&mt=2)
 - [Swift by Sundell](https://itunes.apple.com/ru/podcast/swift-by-sundell/id1267161825?l=en&mt=2)
-- [SwiftCoders: Interviews with Swift Developers](https://itunes.apple.com/ru/podcast/swiftcoders-interviews-with-swift-developers/id1082937962?l=en&mt=2)
 - [Swift Unwrapped](https://itunes.apple.com/ru/podcast/swift-unwrapped/id1209817203?l=en&mt=2)
+- [Inside iOS dev is a weekly show about real world iOS development by Alex Bush, Andrew Rohn](https://itunes.apple.com/ru/podcast/inside-ios-dev/id1231805301?mt=2)
+- [John Sundell and Gui Rambo discuss Apple news and rumors from a developer's perspective](https://itunes.apple.com/us/podcast/stacktrace/id1359435443?mt=2)
+- [SwiftCoders: Interviews with Swift Developers](https://itunes.apple.com/ru/podcast/swiftcoders-interviews-with-swift-developers/id1082937962?l=en&mt=2)
+- [Fireside Swift is a popular Swift programming podcast where two buddies, Zack and Steve, discuss a new Swift topic each week](https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
+- [From development and design to marketing and support, Under the Radar is all about independent app development](https://itunes.apple.com/us/podcast/under-the-radar/id1055685246?mt=2)
+- [CartoonSmart Tutorials](https://itunes.apple.com/ru/podcast/cartoonsmart-tutorials/id1108725455?l=en&mt=2)
+
+### Anchor Podcasts
+- [Swift over Coffee is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen](https://anchor.fm/swiftovercoffee)
+- [iOS Dev Discussions - Discussing the world of iOS Development and the latest news in Swift by Sean Allen](https://anchor.fm/seanallen)
 
 ### Youtube Channels
 
