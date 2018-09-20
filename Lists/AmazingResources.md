@@ -33,6 +33,8 @@
 - [NSBlog](https://www.mikeash.com/pyblog/) - Personal blog about Mac development by Mike Ash.
 - [Srdan Rasic](http://rasic.info) - Personal blog about iOS development by Srđan Rašić.
 - [Cocoa with Love](https://www.cocoawithlove.com) - Personal blog about ObjC and Swift development by Matt Gallagher.
+- [iOS Brain](http://iosbrain.com) - Personal blog about iOS development by Andrew L. Jaffee.
+- [Clean Swift](https://clean-swift.com) - Clean Architecture + TDD. Code less. Test more. Author: Raymond Law.
 
 #### Machine Learning Blogs
 
