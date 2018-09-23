@@ -64,15 +64,13 @@
 - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
 - [MVVM and Coordinator pattern together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
 - [How to use the coordinator pattern in iOS apps](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)
+- [Coordinator and FlowController ](https://github.com/onmyway133/blog/issues/106)
 
 ### Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
 
 ### Flow
 - [[iOS] Flow: Make your logic flow and data flow clean and human readable](https://medium.com/ios-os-x-development/ios-flow-make-your-logic-flow-and-data-flow-clean-and-human-readable-ca9cd2718980)
-
-### Coordinator and FlowController
-- [Coordinator and FlowController ](https://github.com/onmyway133/blog/issues/106)
 
 ### Monad
 - [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
@@ -106,7 +104,15 @@
 - [Understanding Delegates and Delegation in Swift 4](https://www.appcoda.com/swift-delegate/)
 
 ### Dependency Injection
+- [Dependency Injection Demystified](https://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html)
+- [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
+- [Dependency Injection / Objective C](https://www.objc.io/issues/15-testing/dependency-injection/)
+- [Dependency Injection in Swift](https://medium.com/ios-os-x-development/dependency-injection-in-swift-a959c6eee0ab)
+- [Dependency Injection in View Controllers](https://medium.com/ios-os-x-development/dependency-injection-in-view-controllers-9fd7d2c77e55)
+- [Safer UIViewController Creation When Using Storyboards](https://medium.com/ios-os-x-development/safer-uiviewcontroller-creation-when-using-storyboards-1915ac2b2c80)
+- [Faux Dependency Injection for Storyboards](https://thatthinginswift.com/dependency-injection-storyboards-swift/)
+- [Advanced Dependency Injection](https://clean-swift.com/advanced-dependency-injection/)
 
 ### Iterator
 - [Design Patterns in Swift: Iterator Pattern](https://agostini.tech/2018/06/10/design-patterns-in-swift-iterator-pattern/)
