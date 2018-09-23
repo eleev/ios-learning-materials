@@ -2,7 +2,7 @@
 
 **Last Update: 23/September/2018.**
 
-![](logo-alternative.png)
+![](logo-alternative.jpg)
 
 # ✍️ About
 
