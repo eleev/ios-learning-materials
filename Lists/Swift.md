@@ -2,10 +2,17 @@
 
 ### What is new
 
+#### Swift 4.0
+- [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
+
 #### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
 - [What’s new in Swift 4.2?](https://www.hackingwithswift.com/articles/77/whats-new-in-swift-4-2)
 - [Playground: What’s new in Swift 4.2](https://oleb.net/blog/2018/06/whats-new-in-swift-4-2-playground/)
+
+### Swift 5.0
+- [What will be new in Swift 5?](https://medium.com/developerinsider/what-will-be-new-in-swift-5-cee94f241b44)
+- [What’s new in Swift 5.0](https://www.hackingwithswift.com/articles/126/whats-new-in-swift-5-0)
 
 ### Enumeration Type
 - [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
@@ -79,51 +86,54 @@
 - [KVO In iOS 11](http://skyefreeman.io/programming/2017/06/28/kvo-in-ios11.html)  
 
 ### Switch 
- - [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
+- [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
  
 ### Optionals
- - [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
- - [Filtering Object To Optionals](https://swiftforward.wordpress.com/2016/06/17/filtering-objects-to-optionals/)
+- [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
+- [Filtering Object To Optionals](https://swiftforward.wordpress.com/2016/06/17/filtering-objects-to-optionals/)
  
 ### Collections
- - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
- - [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
+- [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
+- [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
  
 ### Floating Point
- - [Floating Point Swift ulp And epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/)
+- [Floating Point Swift ulp And epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/)
  
 ### Closures
- - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
+- [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
  
 ### Attributes
- - [More Swift Attributes](http://www.russbishop.net/more-swift-attributes)
- 
+- [More Swift Attributes](http://www.russbishop.net/more-swift-attributes)
+
+#### @dynamicMemberLookup
+- [Exploring @dynamicMemberLookup](http://alisoftware.github.io/swift/exploration/2018/06/14/exploring-dynamicmemberlookup/) 
+- [Thoughts on @dynamicMemberLookup](https://oleb.net/blog/2018/06/dynamic-member-lookup/)
+- [How to use Dynamic Member Lookup in Swift](https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift)
+ 
 ### Pattern Matching
- - [Pattern Matching, Part 1: switch, enums & where clauses](http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/)
- - [Pattern Matching, Part 2: tuples, ranges & types](http://alisoftware.github.io/swift/pattern-matching/2016/03/30/pattern-matching-2/)
- - [Pattern Matching, Part 3: Custom pattern matching & syntactic sugar](http://alisoftware.github.io/swift/pattern-matching/2016/04/24/pattern-matching-3/)
- - [Pattern Matching, Part 4: if case, guard case, for case](http://alisoftware.github.io/swift/pattern-matching/2016/05/16/pattern-matching-4/)
+- [Pattern Matching, Part 1: switch, enums & where clauses](http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/)
+- [Pattern Matching, Part 2: tuples, ranges & types](http://alisoftware.github.io/swift/pattern-matching/2016/03/30/pattern-matching-2/)
+- [Pattern Matching, Part 3: Custom pattern matching & syntactic sugar](http://alisoftware.github.io/swift/pattern-matching/2016/04/24/pattern-matching-3/)
+- [Pattern Matching, Part 4: if case, guard case, for case](http://alisoftware.github.io/swift/pattern-matching/2016/05/16/pattern-matching-4/)
  
 ### Hashable
- - [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
+- [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
  
 ### Optimizations
- - [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
+- [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
  
 ### Copy-On-Write
- - [Use Copy-On-Write With Swift Value Types](https://marcosantadev.com/copy-write-swift-value-types/)
+- [Use Copy-On-Write With Swift Value Types](https://marcosantadev.com/copy-write-swift-value-types/)
  
 ### Timer
- - [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
+- [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
  
 ### Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
-
 - [Dynamic Features in Swift](https://www.raywenderlich.com/5743-dynamic-features-in-swift)
  
 ### Other 
- - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
- - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
- - [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
- - [Swift Get Class Name](http://ioschefs.com/swift-get-class-name/)
- - [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
+- [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
+- [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
+- [Swift Get Class Name](http://ioschefs.com/swift-get-class-name/)
+- [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
