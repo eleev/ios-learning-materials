@@ -102,6 +102,10 @@
 ### Closures
 - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
  
+### Nonmutating
+- [The why of nonmutating](https://medium.com/swift-programming/the-why-of-nonmutating-7ecd2cf17ecf)
+- [Swift’s nonmutating Keyword](https://jasdev.me/nonmutating)
+ 
 ### Attributes
 - [More Swift Attributes](http://www.russbishop.net/more-swift-attributes)
 
