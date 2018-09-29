@@ -143,3 +143,4 @@
 
 ### Other 
 - [iOS 12: Notable UIKit Additions](https://medium.com/the-traveled-ios-developers-guide/ios-12-notable-uikit-additions-b50beb0e3729)
+- [Background Modes Tutorial: Getting Started](https://www.raywenderlich.com/5817-background-modes-tutorial-getting-started)
