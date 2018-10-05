@@ -53,7 +53,6 @@
 ### Facade
 - [Design Patterns with Swift: Facade pattern](https://wysockikamil.com/swift-facade-pattern/)
 - [Swift World: Design Patterns — Facade](https://medium.com/swiftworld/swift-world-design-patterns-facade-579ef4b3319f)
-- []()
 
 ### Command
 - [Rethinking Design Patterns in Swift: The Command Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-command-pattern/)
@@ -64,7 +63,8 @@
 - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
 - [MVVM and Coordinator pattern together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55)
 - [How to use the coordinator pattern in iOS apps](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)
-- [Coordinator and FlowController ](https://github.com/onmyway133/blog/issues/106)
+- [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106)
+- [Coordinators with Storyboards](http://www.apokrupto.com/blog-1/2016/3/17/coordinators-with)
 
 ### Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
