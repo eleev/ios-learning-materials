@@ -18,6 +18,7 @@
 - [Metal Rendering Pipeline Tutorial](https://www.raywenderlich.com/195167/metal-rendering-pipeline-tutorial)
 - [Writing a Modern Metal App from Scratch: Part 1](http://metalbyexample.com/modern-metal-1/#comment-14828)
 - [Writing a Modern Metal App from Scratch: Part 2](http://metalbyexample.com/modern-metal-2/#comment-14849)
+- [Rendering 3D Text with Core Text and libtess2](http://metalbyexample.com/text-3d/)
 
 ### Reosurces 
 - [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
