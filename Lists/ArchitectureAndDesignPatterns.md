@@ -125,6 +125,11 @@
 - [Null Object Design Pattern](https://gist.github.com/suprie/992ff8737eedd724e4f6)
 - [Swift Optionals and the Null Object Design Pattern](https://m.smartcloud.io/swift-optionals-and-the-null-object-design-pattern-7578b7448edf)
 
+### Container View Controller
+- [Custom container view controllers in Swift](https://www.swiftbysundell.com/posts/custom-container-view-controllers-in-swift)
+- [Managing View Controllers With Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
+- [Container View Controllers](https://useyourloaf.com/blog/container-view-controllers/)
+
 ## Architecture Patterns
 
 ### MVC
