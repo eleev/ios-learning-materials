@@ -25,6 +25,9 @@
 ### UICollectionView
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
+- [Dynamic Cell Sizing in UICollectionView](https://engineering.shopspring.com/dynamic-cell-sizing-in-uicollectionview-fd95f614ef80)
+- [UICollectionView with autosizing cell using autolayout in iOS 9 & 10](https://medium.com/@wasinwiwongsak/uicollectionview-with-autosizing-cell-using-autolayout-in-ios-9-10-84ab5cdf35a2)
+- [UICollectionView Self Sizing Cells with Auto Layout](https://stackoverflow.com/questions/25895311/uicollectionview-self-sizing-cells-with-auto-layout)
 
 #### UICollectionViewLayout & UICollectionViewFlowLayout
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
