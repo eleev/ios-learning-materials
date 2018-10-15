@@ -42,6 +42,7 @@
 
 ### Protocols
 - [Synthesized conditional conformances in Swift 4.2](https://www.swiftbysundell.com/daily-wwdc/synthesized-conditional-conformances-in-swift-42)
+- [Private properties in protocols](http://alisoftware.github.io/swift/protocols/2018/09/02/protocols-private-properties/)
 
 #### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
