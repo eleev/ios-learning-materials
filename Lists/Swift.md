@@ -43,18 +43,17 @@
 ### Protocols
 - [Synthesized conditional conformances in Swift 4.2](https://www.swiftbysundell.com/daily-wwdc/synthesized-conditional-conformances-in-swift-42)
 - [Private properties in protocols](http://alisoftware.github.io/swift/protocols/2018/09/02/protocols-private-properties/)
+- [Mixins over Inheritance](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
+- [Injecting forEach into chained method calls](https://oleb.net/blog/2017/10/chained-foreach/)
 
 #### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
 - [JSON to Swift with Decoder and Decodable](https://swiftunboxed.com/stdlib/json-decoder-decodable/)
 
-#### Advances In Protocols
-- [Injecting forEach into chained method calls](https://oleb.net/blog/2017/10/chained-foreach/)
-
 ### KVC
 - [Struct References](http://chris.eidhof.nl/post/references/)
 
-### Error handling
+### Error Handling
 - Error Handling (Swift 3)
 - https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
 - https://news.realm.io/news/slug-marcus-zarra-exploring-mvcn-swift/
