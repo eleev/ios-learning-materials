@@ -119,6 +119,8 @@
 - [Pattern Matching, Part 2: tuples, ranges & types](http://alisoftware.github.io/swift/pattern-matching/2016/03/30/pattern-matching-2/)
 - [Pattern Matching, Part 3: Custom pattern matching & syntactic sugar](http://alisoftware.github.io/swift/pattern-matching/2016/04/24/pattern-matching-3/)
 - [Pattern Matching, Part 4: if case, guard case, for case](http://alisoftware.github.io/swift/pattern-matching/2016/05/16/pattern-matching-4/)
+- [Pattern Matching in Swift](https://oleb.net/blog/2015/09/swift-pattern-matching/) 
+- [Custom pattern matching in Swift](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
  
 ### Hashable
 - [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
