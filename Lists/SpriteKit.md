@@ -28,6 +28,10 @@
 - [SpriteKit Tile Maps Intro](http://theliquidfire.com/2018/02/12/spritekit-tile-maps-intro/)
 - [What’s New In SpriteKit on iOS 10: A Look At Tile Maps](https://www.raywenderlich.com/137216/whats-new-spritekit-ios-10-look-tile-maps)
 - [How to Add SKReferenceNode/SKScene to another SKScene in SpriteKit](https://stackoverflow.com/questions/39390375/add-skreferencenode-skscene-to-another-skscene-in-spritekit/39396685)
+- [How To Make a Game Like Cut the Rope Using SpriteKit and Swift](https://www.raywenderlich.com/735-how-to-make-a-game-like-cut-the-rope-using-spritekit-and-swift)
+- [SpriteKit Advanced — How to build a 2,5D game (Part I)](https://medium.freecodecamp.org/spritekit-advanced-how-to-build-a-2-5d-game-part-i-2dc76c7c65e2)
+- [SpriteKit Advanced — How to build a 2,5D game (Part II)](https://medium.freecodecamp.org/spritekit-advanced-how-to-build-a-2-5d-game-part-ii-30ddb613b568)
+- [SpriteKit Advanced — How to build a 2,5D game (Part III)](https://medium.freecodecamp.org/spritekit-advanced-how-to-build-a-2-5d-game-part-iii-e058b99cfbc3)
 
 #### Kinematics
 - [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
@@ -42,6 +46,8 @@
 - [Making a Pixel Shader for iOS8 with Sprite Kit](http://www.ymc.ch/de/blog/making-a-pixel-shader-for-ios8-with-sprite-kit/)
 - [Fragment Shaders with SpriteKit](http://chrislanguage.blogspot.ru/2015/02/fragment-shaders-with-spritekit.html)
 - [SpriteKit shaders](http://endlesswavesoftware.com/blog/spritekit-shaders/)
+- [SpriteKit: Shaders & Geometry](http://sound-of-silence.com/?article=20180806)
+- [SpriteKit Shatter Effect](http://sound-of-silence.com/?article=20180801)
 
 ### Video 📹 
 - [Gesture Recognizers with SpriteKit](https://cartoonsmart.com/introduction-to-sprite-kit-with-swift-3-part-6-gesture-recognizers/)
