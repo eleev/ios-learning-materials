@@ -108,6 +108,8 @@
  
 ### Attributes
 - [More Swift Attributes](http://www.russbishop.net/more-swift-attributes)
+- [Swift + Attributes](https://medium.com/the-traveled-ios-developers-guide/swift-attributes-936f3426d5db)
+- [How to use @available attribute in Swift](https://jayeshkawli.ghost.io/how-to-use-available-attribute-in-swift/)
 
 #### @dynamicMemberLookup
 - [Exploring @dynamicMemberLookup](http://alisoftware.github.io/swift/exploration/2018/06/14/exploring-dynamicmemberlookup/) 
@@ -122,6 +124,11 @@
 - [Pattern Matching in Swift](https://oleb.net/blog/2015/09/swift-pattern-matching/) 
 - [Custom pattern matching in Swift](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
  
+### Option Set 
+- [How to create a custom OptionSet](https://www.hackingwithswift.com/example-code/language/how-to-create-a-custom-optionset)
+- [OptionSetType and enums](https://stackoverflow.com/questions/36819163/optionsettype-and-enums)
+- [Option Sets in Swift](https://oleb.net/blog/2016/09/swift-option-sets/)
+
 ### Hashable
 - [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
  
