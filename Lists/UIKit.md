@@ -70,6 +70,9 @@
 ### UIScrollView
 - [Is it possible for UIStackView to UIScrollView?](https://stackoverflow.com/questions/31668970/is-it-possible-for-uistackview-to-scroll)
 
+### UIVisualEffectView
+- [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/167-uivisualeffectview-tutorial-getting-started)
+
 ### UIImagePickerController 
 - [Using UIImagePickerController in landscape orientation](https://stackoverflow.com/questions/19374237/using-uiimagepickercontroller-in-landscape-orientation)
 - [Choosing Images with UIImagePickerController in Swift](http://www.codingexplorer.com/choosing-images-with-uiimagepickercontroller-in-swift/)
