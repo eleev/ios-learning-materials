@@ -19,6 +19,9 @@
 ### UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 
+### UIView
+- [How to Create Top/Bottom Rounded Corners for Views and Buttons](https://www.appcoda.com/rounded-corners-uiview/)
+
 ### UITextInput
 - [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
 
@@ -79,6 +82,7 @@
 - [Swift | Adding constraints programmatically](https://stackoverflow.com/questions/26180822/swift-adding-constraints-programmatically)
 - [Apple's Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)
 - [Auto Layout life cycle](https://www.vadimbulavin.com/view-auto-layout-life-cycle/)
+- [Power-Up Your Anchors](https://pedrommcarrasco.github.io/posts/power-up-your-anchors/)
 
 ### UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
