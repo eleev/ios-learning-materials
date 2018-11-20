@@ -126,6 +126,13 @@
 - [iOS Animation Tutorial: Getting Started](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
 - [How to animate views using animate(withDuration:)](https://www.hackingwithswift.com/example-code/uikit/how-to-animate-views-using-animatewithduration)
 - [UIView Animation Sequencing and Grouping Techniques](https://www.raizlabs.com/dev/2015/01/uiview-animation-sequencing-and-grouping-techniques/)
+- [Quick Guide To Property Animators](https://useyourloaf.com/blog/quick-guide-to-property-animators/)
+- [Elegantly chaining UIViewPropertyAnimators](https://twittemb.github.io/swift/animations/reactive%20programming/rxswift/2018/03/24/elegantly-chaining-uiviewpropertyanimators/)
+- [Stop nesting animation blocks](http://commandshift.co.uk/blog/2014/04/01/stop-nesting-animation-blocks/)
+- [iOS – Learn to Properly chain UIView animations with animateKeyframes](https://equaleyes.com/blog/2017/12/21/ios-learn-to-properly-chain-uiview-animations-with-animatekeyframes/)
+- [iOS UIView chained animations](https://medium.com/@ernesto.torres/ios-uiview-chained-animations-f8fadcc16be5)
+- [UIView Animation Options Reference Guide](https://medium.com/@apmason/uiview-animation-options-9510832eedba)
+- [Animatable Properties](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreAnimation_guide/AnimatableProperties/AnimatableProperties.html)
 
 #### Transitions
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
