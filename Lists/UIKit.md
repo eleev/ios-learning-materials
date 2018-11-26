@@ -21,6 +21,7 @@
 
 ### UIView
 - [How to Create Top/Bottom Rounded Corners for Views and Buttons](https://www.appcoda.com/rounded-corners-uiview/)
+- [OBJECT LIFE CYCLE: UIVIEW](https://bradbambara.wordpress.com/2015/01/18/object-life-cycle-uiview/)
 
 ### UITextInput
 - [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
