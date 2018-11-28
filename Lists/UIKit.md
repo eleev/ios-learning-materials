@@ -105,6 +105,7 @@
 - [Event Handling Guide for UIKit Apps](https://developer.apple.com/library/content/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/index.html#//apple_ref/doc/uid/TP40009541)
 - [UIGestureRecognizer Getting Started](https://www.raywenderlich.com/162745/uigesturerecognizer-tutorial-getting-started)
 - [Hit-Testing in iOS](http://smnh.me/hit-testing-in-ios/)
+- [Stopping Tap Gesture from bubbling to child controls](https://bencoding.com/2017/02/27/stopping-tap-gesture-from-bubbling-to-child-controls/)
 
 ### Notifications Framework (Local & Remote) 
 - [Introduction to User Notifications Framework in iOS 10](https://www.appcoda.com/ios10-user-notifications-guide/)
