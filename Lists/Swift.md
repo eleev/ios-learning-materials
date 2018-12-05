@@ -69,6 +69,9 @@
 - [Using Swift Codable With Property Lists](https://useyourloaf.com/blog/using-swift-codable-with-property-lists/)
 - [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
 
+### Ranges & Intervals
+- [Ranges and Intervals in Swift](https://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+
 ### Type Erasure 
 - [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
 - [Swift World: Type Erasure](https://medium.com/swiftworld/swift-world-type-erasure-5b720bc0318a)
