@@ -36,6 +36,10 @@
 - [iOS Brain](http://iosbrain.com) - Personal blog about iOS development by Andrew L. Jaffee.
 - [Clean Swift](https://clean-swift.com) - Clean Architecture + TDD. Code less. Test more. Author: Raymond Law.
 - [Crunchy Development](http://alisoftware.github.io) - Crunchy Development is a Blog about Apple’s Swift programming language. Author: Olivier Halligon.
+- [SwiftLee](https://www.avanderlee.com) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
+- [MAKING APP PIE](https://makeapppie.com) - Adventures in Swift and iOS App Development.
+- [AGOSTINI.TECH](https://agostini.tech) - THE RAVINGS OF AN IOS CROWD.
+- [The Swift Post](https://theswiftpost.co) - A blog about software development using Swift by Candost Dagdeviren, Göksel Köksal, Alp Avanoğlu.
 
 #### Machine Learning Blogs
 
