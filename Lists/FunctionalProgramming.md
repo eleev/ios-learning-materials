@@ -19,3 +19,6 @@
 
 ### Functional Composition
 - [A quick intro to function composition in Swift](https://medium.freecodecamp.org/a-quick-intro-to-function-composition-in-swift-17f5c9999cee)
+
+### Partial Application
+- [Swift Partially Applied Functions](https://paul-samuels.com/blog/2018/01/31/swift-partially-applied-functions/)
