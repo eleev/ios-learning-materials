@@ -40,6 +40,11 @@
 - [MAKING APP PIE](https://makeapppie.com) - Adventures in Swift and iOS App Development.
 - [AGOSTINI.TECH](https://agostini.tech) - THE RAVINGS OF AN IOS CROWD.
 - [The Swift Post](https://theswiftpost.co) - A blog about software development using Swift by Candost Dagdeviren, Göksel Köksal, Alp Avanoğlu.
+- [iOS Dev Recipes](https://www.iosdev.recipes) - 
+iOS Dev Recipes is a starting point for developers working on iOS apps. Built and maintained by Dave Lyon and Traboule Software.
+- [mokacoding](https://www.mokacoding.com) - A blog by Giovanni Lodi where he writes at least once a month, on software testing, productivity, and iOS development.
+- [paul-samuels.com](https://paul-samuels.com) - A blog by Paul Samuels about software development languages, tools and techniques.
+
 
 #### Machine Learning Blogs
 
