@@ -4,3 +4,4 @@
 - [Mock-free unit tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)
 - [Using Swift #file and #line Literals for Custom XCTest Assertions](https://www.iosdev.recipes/xctest/custom-assertions-file-and-line/)
 - [Test doubles in Swift: dummies, fakes, stubs, and spies.](https://www.mokacoding.com)
+- [Unit testing retain cycles](https://paul-samuels.com/blog/2018/11/20/unit-testing-retain-cycles/)
