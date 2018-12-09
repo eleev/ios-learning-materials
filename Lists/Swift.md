@@ -118,6 +118,9 @@
 - [Exploring @dynamicMemberLookup](http://alisoftware.github.io/swift/exploration/2018/06/14/exploring-dynamicmemberlookup/) 
 - [Thoughts on @dynamicMemberLookup](https://oleb.net/blog/2018/06/dynamic-member-lookup/)
 - [How to use Dynamic Member Lookup in Swift](https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift)
+
+#### @inline
+- [The Forbidden @inline Attribute in Swift](https://swiftrocks.com/the-forbidden-inline-attribute-in-swift.html)
  
 ### Pattern Matching
 - [Pattern Matching, Part 1: switch, enums & where clauses](http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/)
@@ -126,6 +129,7 @@
 - [Pattern Matching, Part 4: if case, guard case, for case](http://alisoftware.github.io/swift/pattern-matching/2016/05/16/pattern-matching-4/)
 - [Pattern Matching in Swift](https://oleb.net/blog/2015/09/swift-pattern-matching/) 
 - [Custom pattern matching in Swift](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
+- [Writing Custom Pattern Matching in Swift](https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift.html) 
  
 ### Option Set 
 - [How to create a custom OptionSet](https://www.hackingwithswift.com/example-code/language/how-to-create-a-custom-optionset)
