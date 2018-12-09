@@ -44,7 +44,8 @@
 iOS Dev Recipes is a starting point for developers working on iOS apps. Built and maintained by Dave Lyon and Traboule Software.
 - [mokacoding](https://www.mokacoding.com) - A blog by Giovanni Lodi where he writes at least once a month, on software testing, productivity, and iOS development.
 - [paul-samuels.com](https://paul-samuels.com) - A blog by Paul Samuels about software development languages, tools and techniques.
-
+- [Use Your Loaf](https://useyourloaf.com) - A blog by K. Harrison, software development veteran, about developing for iOS. 
+- [Rambo.codes](https://rambo.codes) - Guilherme Rambo writes about his coding and reverse engineering adventures.
 
 #### Machine Learning Blogs
 
