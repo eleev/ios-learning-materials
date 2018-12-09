@@ -7,3 +7,4 @@
 - [Controlling Animation Timing](http://ronnqvi.st/controlling-animation-timing)
 - [Mesh Transforms](http://ciechanowski.me/blog/2014/05/14/mesh-transforms/)
 - [A more Swifty Core Animation](https://www.swiftbysundell.com/daily-wwdc/a-more-swifty-core-animation)
+- [Animations are assets: using Core Animation archives on iOS](https://rambo.codes/ios/2018/11/11/animations-are-assets.html)
