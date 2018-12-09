@@ -65,6 +65,7 @@
 - [How to use the coordinator pattern in iOS apps](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)
 - [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106)
 - [Coordinators with Storyboards](http://www.apokrupto.com/blog-1/2016/3/17/coordinators-with)
+- [Using closures with the coordinator pattern](https://www.hackingwithswift.com/articles/132/using-closures-with-the-coordinator-pattern)
 
 ### Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
