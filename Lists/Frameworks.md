@@ -1,5 +1,8 @@
 ## Framworks
 
+### Alamofire
+- [Authentication with signed requests in Alamofire](https://www.avanderlee.com/swift/authentication-alamofire-request-adapter/)
+
 ### Realm 
 - [Designing the schema of Realm effectively, and other Realm tips](https://hackernoon.com/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072)
 - [Correct way to retrieve a single object from Realm database](https://stackoverflow.com/questions/30610536/correct-way-to-retrieve-a-single-object-from-realm-database)
