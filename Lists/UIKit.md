@@ -22,6 +22,7 @@
 ### UIView
 - [How to Create Top/Bottom Rounded Corners for Views and Buttons](https://www.appcoda.com/rounded-corners-uiview/)
 - [OBJECT LIFE CYCLE: UIVIEW](https://bradbambara.wordpress.com/2015/01/18/object-life-cycle-uiview/)
+- [View Lifecycle](https://theswiftpost.co/view-lifecycle/)
 
 ### UITextInput
 - [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
@@ -170,3 +171,5 @@
 ### Other 
 - [iOS 12: Notable UIKit Additions](https://medium.com/the-traveled-ios-developers-guide/ios-12-notable-uikit-additions-b50beb0e3729)
 - [Background Modes Tutorial: Getting Started](https://www.raywenderlich.com/5817-background-modes-tutorial-getting-started)
+- [Application Lifecycle](https://theswiftpost.co/application-lifecycle/)
+- [Upside Down and Rotating iPhones](https://useyourloaf.com/blog/upside-down-and-rotating-iphones/)
