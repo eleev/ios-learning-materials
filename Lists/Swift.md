@@ -45,6 +45,7 @@
 - [Private properties in protocols](http://alisoftware.github.io/swift/protocols/2018/09/02/protocols-private-properties/)
 - [Mixins over Inheritance](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
 - [Injecting forEach into chained method calls](https://oleb.net/blog/2017/10/chained-foreach/)
+- [Mastering Generics with Protocols: The Specification Pattern](https://medium.com/swift2go/mastering-generics-with-protocols-the-specification-pattern-5e2e303af4ca)
 
 #### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
@@ -144,7 +145,10 @@
  
 ### Copy-On-Write
 - [Use Copy-On-Write With Swift Value Types](https://marcosantadev.com/copy-write-swift-value-types/)
- 
+
+### KeyPath
+- [Swift 4 KeyPaths and You](https://www.klundberg.com/blog/swift-4-keypaths-and-you/)
+
 ### Timer
 - [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
  
