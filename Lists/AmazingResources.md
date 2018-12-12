@@ -59,6 +59,12 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Metal by Example](http://metalbyexample.com) - High-performance graphics and compute programming for iOS.
 - [Image Metalling](https://imagemetalling.wordpress.com) - (The blog is in Russian language) High-performance programming for iOS and OSX.
 
+### Swift Tips & Tricks
+- [SwiftTips](https://github.com/vincent-pradeilles/swift-tips)
+- [Swift tips and tricks](https://github.com/Luur/SwiftTips)
+- [Swift tips & tricks by John Sundell](https://github.com/JohnSundell/SwiftTips)
+- [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips)
+
 ### iTunes Podcasts
 
 - [Swift by Sundell](https://itunes.apple.com/ru/podcast/swift-by-sundell/id1267161825?l=en&mt=2)
