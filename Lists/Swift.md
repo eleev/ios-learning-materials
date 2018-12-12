@@ -55,9 +55,8 @@
 - [Struct References](http://chris.eidhof.nl/post/references/)
 
 ### Error Handling
-- Error Handling (Swift 3)
-- https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668
-- https://news.realm.io/news/slug-marcus-zarra-exploring-mvcn-swift/
+- [Intro to Error Handling in Swift](https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668)
+- [Using errors as control flow in Swift](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
 
 ### Encoding and Decoding 
 - Encoding and Decoding in Swift 4
