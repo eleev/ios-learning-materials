@@ -121,6 +121,9 @@
 ### Observer 
 - [Implementing the observer pattern in Swift](https://www.behindmedia.com/2017/12/23/implementing-the-observer-pattern-in-swift/)
 
+### Object Pool
+- [Swift object pool design pattern](https://theswiftdev.com/2018/12/09/swift-object-pool-design-pattern/)
+
 ### Null Object
 - [Null Object Pattern in Swift](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
 - [Null Object Design Pattern](https://gist.github.com/suprie/992ff8737eedd724e4f6)
