@@ -9,3 +9,24 @@
 - [Xcode and LLDB Advanced Debugging Tutorial: Part 1](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-1-31919aa149e0)
 - [Xcode and LLDB Advanced Debugging Tutorial: Part 2](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-2-8bfeae4cdfdb)
 - [Xcode and LLDB Advanced Debugging Tutorial: Part 3](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-3-8238aca63e7c)
+
+### Videos
+
+#### WWDC 2018
+- [What’s New in Energy Debugging](https://developer.apple.com/videos/play/wwdc2018/228/)
+- [Metal Shader Debugging and Profiling](https://developer.apple.com/videos/play/wwdc2018/608/)
+Metal Shader Debugging and Profiling
+- [Advanced Debugging with Xcode and LLDB](https://developer.apple.com/videos/play/wwdc2018/412/)
+
+#### WWDC 2017
+- [Debugging with Xcode 9](https://developer.apple.com/videos/play/wwdc2017/404/)
+- [Metal 2 Optimization and Debugging](https://developer.apple.com/videos/play/wwdc2017/607/)
+
+#### WWDC 2016
+- [Visual Debugging with Xcode](https://developer.apple.com/videos/play/wwdc2016/410/)
+- [Debugging Tips and Tricks](https://developer.apple.com/videos/play/wwdc2016/417/)
+
+#### WWDC 2015
+- [Advanced Debugging and the Address Sanitizer](https://developer.apple.com/videos/play/wwdc2015/413/)
+- [Debugging Energy Issues](https://developer.apple.com/videos/play/wwdc2015/708/)
+- [What's New in LLDB](https://developer.apple.com/videos/play/wwdc2015/402/)
