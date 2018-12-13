@@ -15,7 +15,6 @@
 #### WWDC 2018
 - [What’s New in Energy Debugging](https://developer.apple.com/videos/play/wwdc2018/228/)
 - [Metal Shader Debugging and Profiling](https://developer.apple.com/videos/play/wwdc2018/608/)
-Metal Shader Debugging and Profiling
 - [Advanced Debugging with Xcode and LLDB](https://developer.apple.com/videos/play/wwdc2018/412/)
 
 #### WWDC 2017
