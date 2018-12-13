@@ -5,3 +5,7 @@
 - [Advanced Swift Debugging for UIKit](https://blog.superhuman.com/advanced-swift-debugging-for-uikit-e154d1c28aaf)
 - [Measuring Performance with os_signpost](https://agostini.tech/2018/11/19/measuring-performance-with-os_signpost/)
 - [os_signpost and XCTestObservation -- detecting performance issues with your test suite](https://www.iosdev.recipes/os-signpost/)
+- [Memory Graph Debugging in Xcode](https://agostini.tech/2018/12/09/memory-graph-debugging-in-xcode/)
+- [Xcode and LLDB Advanced Debugging Tutorial: Part 1](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-1-31919aa149e0)
+- [Xcode and LLDB Advanced Debugging Tutorial: Part 2](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-2-8bfeae4cdfdb)
+- [Xcode and LLDB Advanced Debugging Tutorial: Part 3](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-3-8238aca63e7c)
