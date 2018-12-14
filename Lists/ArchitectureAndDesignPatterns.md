@@ -148,6 +148,7 @@ plugins-in-swift)
 - [Model-View-Controller without the Controller](https://www.cocoawithlove.com/blog/mvc-without-the-c.html)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-
 - [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
+- [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
 
 ### MVC-N
 Model View Controller - Network
@@ -161,7 +162,6 @@ Model View Controller - Network
 Model View Presenter
 - [Going from MVC to MVP on iOS](https://blog.moove-it.com/going-from-mvc-to-mvp-on-ios/)
 - [A dumb UI is a good UI: Using MVP in iOS with swift](http://iyadagha.com/using-mvp-ios-swift/)
-
 
 ### MVVM
 Model View View-Movel
@@ -183,6 +183,8 @@ Model View View-Movel
 - [View Models at Kickstarter ](https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter)
 - [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
 - [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e)
+- [MVVM: A non-reactive introduction](https://medium.com/@IanKeen/mvvm-a-non-reactive-introduction-5a1f33402a32)
+- [Working With Static Patterns: A Swift MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial)
 
 #### Video 
 - [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
