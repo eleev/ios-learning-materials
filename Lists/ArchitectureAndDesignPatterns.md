@@ -11,6 +11,9 @@
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
 
+### State Modeling
+- [Enum-Driven TableView Development](https://www.raywenderlich.com/5542-enum-driven-tableview-development)
+
 ### Legacy Code / Backward Compatability
 - [https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code](Writing backward compatible Swift code)
 
