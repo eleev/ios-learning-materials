@@ -22,3 +22,11 @@
 
 ### Partial Application
 - [Swift Partially Applied Functions](https://paul-samuels.com/blog/2018/01/31/swift-partially-applied-functions/)
+
+### Functional Swift Conference
+- [Functional Swift Conference 2018](http://2018.funswiftconf.com)
+- [Functional Swift Conference Fall 2017](http://2017-fall.funswiftconf.com)
+- [Functional Swift Conference 2017](http://2017.funswiftconf.com)
+- [Functional Swift Conference 2016](http://2016.funswiftconf.com)
+- [Functional Swift Conference 2015](http://2015.funswiftconf.com)
+- [Functional Swift Conference 2014](http://2014.funswiftconf.com)
