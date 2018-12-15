@@ -47,6 +47,7 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Use Your Loaf](https://useyourloaf.com) - A blog by K. Harrison, software development veteran, about developing for iOS. 
 - [Rambo.codes](https://rambo.codes) - Guilherme Rambo writes about his coding and reverse engineering adventures.
 - [SwiftRocks: NSReverseEngineering()](https://swiftrocks.com) - A blog by Bruno Rocha, Senior iOS Developer about reverse engineering and spelunking Swift and iOS.
+- [Igor Kulman](https://blog.kulman.sk) - Adventures in the world of Swift and iOS, reminiscing about the days of C#, F# and Windows development. Personal blog by Igor Kulman.
 
 #### Machine Learning Blogs
 
