@@ -42,6 +42,9 @@
 - [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
 - [Practical Introduction to Custom UICollectionView Layouts](https://www.netguru.co/codestories/practical-introduction-to-custom-uicollectionview-layouts?utm_campaign=Codestories&utm_source=iosgoodies)
 
+### UITabBarController
+- [Animating tab bar buttons on tap](https://blog.kulman.sk/animating-tab-bar-buttons/)
+
 ### UIPageViewController
 - [How to create a page curl effect using UIPageViewController](https://www.hackingwithswift.com/example-code/uikit/how-to-create-a-page-curl-effect-using-uipageviewcontroller)
 - [How To Create UIPageViewController Using Storyboard](https://www.appcoda.com/uipageviewcontroller-storyboard-tutorial/)
