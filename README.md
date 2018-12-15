@@ -67,6 +67,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Frameworks](Lists/Frameworks.md)
 - [Design](Lists/Design.md)
 - [UX](Lists/UX.md)
+- [Accessibility](Lists/Accessibility.md)
 - [Interview](Lists/Interview.md)
 - [Other](Lists/Other.md)
 
