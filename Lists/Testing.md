@@ -6,3 +6,4 @@
 - [Test doubles in Swift: dummies, fakes, stubs, and spies.](https://www.mokacoding.com)
 - [Unit testing retain cycles](https://paul-samuels.com/blog/2018/11/20/unit-testing-retain-cycles/)
 - [Improving code testability with Swift protocols](https://medium.com/flawless-app-stories/solving-dependencies-in-swift-9ee6ad4a8941)
+- [Unit Testing Dispatch Queues With Dependency Injection](http://www.tekramer.com/unit-testing-dispatch-queues-with-dependency-injection)
