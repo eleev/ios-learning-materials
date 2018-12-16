@@ -4,6 +4,7 @@
 - [Storyboards Tutorial for iOS: Part 1](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
 - [Storyboards Tutorial for iOS: Part 2](https://www.raywenderlich.com/160519/storyboards-tutorial-ios-10-getting-started-part-2)
 - [iOS 9: Staying Organized with Storyboard References](https://code.tutsplus.com/tutorials/ios-9-staying-organized-with-storyboard-references--cms-24226)
+- [Behaviors in iOS Apps](https://www.objc.io/issues/13-architecture/behaviors/)
 
 ### UIKit Dynamics
 - [UIKit Dynamics in Swift 2.0](https://ahmedabdurrahman.com/2015/10/22/uikit-dynamics-tutorial-in-swift-2-0/)
