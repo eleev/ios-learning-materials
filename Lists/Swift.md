@@ -1,18 +1,23 @@
 ## Swift 
 
 ### What is new
+The section contains materials that are dedicated to specific versions of `Swift`
 
-#### Swift 4.0
-- [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
+#### Swift 5.0
+- [What will be new in Swift 5?](https://medium.com/developerinsider/what-will-be-new-in-swift-5-cee94f241b44)
+- [What’s new in Swift 5.0](https://www.hackingwithswift.com/articles/126/whats-new-in-swift-5-0)
+- [The Beauty of Swift 5 String Interpolation](https://ericasadun.com/2018/12/12/the-beauty-of-swift-5-string-interpolation/)
+- [More fun with Swift 5 String Interpolation: Radix formatting](https://ericasadun.com/2018/12/14/more-fun-with-swift-5-string-interpolation-radix-formatting/)
+- [Swift 5 Interpolation Part 3: Dates and Number Formatters](https://ericasadun.com/2018/12/16/swift-5-interpolation-part-3-dates-and-number-formatters/)
+- [Swift 5.0 is changing optional try](https://www.hackingwithswift.com/articles/147/swift-5-is-changing-optional-try)
 
 #### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
 - [What’s new in Swift 4.2?](https://www.hackingwithswift.com/articles/77/whats-new-in-swift-4-2)
 - [Playground: What’s new in Swift 4.2](https://oleb.net/blog/2018/06/whats-new-in-swift-4-2-playground/)
 
-### Swift 5.0
-- [What will be new in Swift 5?](https://medium.com/developerinsider/what-will-be-new-in-swift-5-cee94f241b44)
-- [What’s new in Swift 5.0](https://www.hackingwithswift.com/articles/126/whats-new-in-swift-5-0)
+#### Swift 4.0
+- [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
 
 ### Enumeration Type
 - [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
