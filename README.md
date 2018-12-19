@@ -4,6 +4,8 @@
 
 ![](logo-alternative.jpg)
 
+### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
+
 # ✍️ About
 
 Curated list of articles, web-resources, tutorials, `Stack Overflow` and `Quora` Q&A, `GitHub`code repositories and useful resources that may help you dig a little bit deeper into iOS. All the resources are split into sub-categories which simlifies navigation and management. Feel free to use and suggest something to learn (iOS related of course 😜).
