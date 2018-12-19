@@ -51,6 +51,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Mixins over Inheritance](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
 - [Injecting forEach into chained method calls](https://oleb.net/blog/2017/10/chained-foreach/)
 - [Mastering Generics with Protocols: The Specification Pattern](https://medium.com/swift2go/mastering-generics-with-protocols-the-specification-pattern-5e2e303af4ca)
+- [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/)
 
 #### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
