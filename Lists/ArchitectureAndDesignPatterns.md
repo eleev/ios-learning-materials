@@ -150,11 +150,10 @@ Model View Controller
 - [MVC](http://codeplease.io/2017/11/19/mvc/)
 - [Model-View-Controller, Apple Docs](https://developer.apple.com/library/content/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html)
 - [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
-- [A Better MVC, Part 1: The Problems](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/) :rocket:
+- [A Better MVC, Part 1: The Problems](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/)
 - [Just Controllers](http://khanlou.com/2018/02/just-controllers/)
-plugins-in-swift)
 - [Model-View-Controller without the Controller](https://www.cocoawithlove.com/blog/mvc-without-the-c.html)
-- [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-
+- [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-)
 - [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
 - [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
 
