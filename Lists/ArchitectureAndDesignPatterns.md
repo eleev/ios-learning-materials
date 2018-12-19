@@ -1,4 +1,4 @@
-## Architecture And Design Patterns
+## Architecture & Design Patterns
 
 ### Overview
 - [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
@@ -6,6 +6,7 @@
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 - [Design Patterns in Swift #1: Factory Method and Singleton](https://www.appcoda.com/design-pattern-creational/)
 - [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+- [Krush iOS Architecture](https://www.teehanlax.com/blog/krush-ios-architecture/)
 
 ### Decoupling 
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
@@ -30,13 +31,14 @@
 
 ### SOLID
 - [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
+- [SOLID Principles for Becoming a Better iOS/Swift Developer](https://www.scaledrone.com/blog/solid-principles-for-becoming-a-better-ios-swift-developer/)
+- [iOSModulesArchitecture](https://github.com/JeanLebrument/iOSModulesArchitecture)
 
 ### Composition
 - [Reusability and Composition in Swift](https://theswiftpost.co/reusability-composition-swift/)
 
 ### Coroutines
 - [Expressive Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines)
-
 
 ## Design Patterns
 
@@ -191,6 +193,8 @@ Model View View-Movel
 - [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e)
 - [MVVM: A non-reactive introduction](https://medium.com/@IanKeen/mvvm-a-non-reactive-introduction-5a1f33402a32)
 - [Working With Static Patterns: A Swift MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial)
+- [Model-View-ViewModel for iOS](https://www.teehanlax.com/blog/model-view-viewmodel-for-ios/)
+- [Basic MVVM with ReactiveCocoa](https://cocoasamurai.blogspot.com/2013/03/basic-mvvm-with-reactivecocoa.html)
 
 #### Video 
 - [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
@@ -214,7 +218,6 @@ View Interactor Presenter
 View Interactor Presenter Entity Router
 - [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 - [iOS Project Architecture: Using VIPER](https://www.ckl.io/blog/ios-project-architecture-using-viper/)
-- [iOSModulesArchitecture](https://github.com/JeanLebrument/iOSModulesArchitecture) Quick example of how divide an app into modules to respect the SOLID principles
 - [ARCHITECTING MOBILE APPS WITH (B)VIPER MODULES - A STRUCTURED ENGINEERING APPROACH FOR BIG MOBILE APPS](http://www.mttnow.com/blog/architecting-mobile-apps-with-bviper-modules)
 - [Clean Architecture - VIPER at Redbooth](https://speakerdeck.com/sergigracia/clean-architecture-viper) by [@sergigracia](https://twitter.com/sergigracia)
 - [VIPER to be or not to be](https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/)
