@@ -8,6 +8,9 @@
 - [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [Krush iOS Architecture](https://www.teehanlax.com/blog/krush-ios-architecture/)
 
+### Naming
+- [Function Naming in Swift](https://www.appcoda.com/function-naming/)
+
 ### Decoupling 
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
