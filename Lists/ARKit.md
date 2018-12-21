@@ -36,6 +36,8 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Exploring ARKit: ARSCNPlaneGeometry](https://medium.com/@chris.webb5249/exploring-arkit-f188eb7a0152)
 - [An Introduction to AR Quick Look in iOS 12](https://www.appcoda.com/arkit-quick-look/)
 - [AR Face Tracking Tutorial for iOS: Getting Started](https://www.raywenderlich.com/5491-ar-face-tracking-tutorial-for-ios-getting-started)
+- [BUILDING VOICE RESPONSIVE AR APPS](https://martinmitrevski.com/2018/12/16/building-voice-responsive-ar-apps/)
+- [AUGMENTED REALITY ON IOS WITH ARKIT](https://martinmitrevski.com/2017/11/22/augmented-reality-on-ios-with-arkit/)
 
 ### Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
