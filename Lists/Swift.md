@@ -52,6 +52,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Injecting forEach into chained method calls](https://oleb.net/blog/2017/10/chained-foreach/)
 - [Mastering Generics with Protocols: The Specification Pattern](https://medium.com/swift2go/mastering-generics-with-protocols-the-specification-pattern-5e2e303af4ca)
 - [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/)
+- [How to split decision and action logic with the Swift type system](https://www.mokacoding.com/blog/how-to-split-decision-and-action-logic-with-the-swift-type-system/)
 
 #### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
@@ -160,6 +161,13 @@ The section contains materials that are dedicated to specific versions of `Swift
 ### Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [Dynamic Features in Swift](https://www.raywenderlich.com/5743-dynamic-features-in-swift)
+ 
+### Code Optimization / Performance
+- [Unbreakable reference cycles in Swift no one is talking about](https://desiatov.com/swift-reference-cycles/)
+- [Increasing Performance by Reducing Dynamic Dispatch](https://developer.apple.com/swift/blog/?id=27)
+
+#### Videos
+- [Optimizing Swift Performance](https://developer.apple.com/videos/play/wwdc2015/409/)
  
 ### Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
