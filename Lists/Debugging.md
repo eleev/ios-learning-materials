@@ -9,6 +9,7 @@
 - [Xcode and LLDB Advanced Debugging Tutorial: Part 1](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-1-31919aa149e0)
 - [Xcode and LLDB Advanced Debugging Tutorial: Part 2](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-2-8bfeae4cdfdb)
 - [Xcode and LLDB Advanced Debugging Tutorial: Part 3](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-3-8238aca63e7c)
+- [How to Use Xcode Instrument to Optimize Your Swift Code](https://www.appcoda.com/xcode-instrument/)
 
 ### Videos
 
