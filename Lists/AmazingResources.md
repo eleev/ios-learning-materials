@@ -49,6 +49,9 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [SwiftRocks: NSReverseEngineering()](https://swiftrocks.com) - A blog by Bruno Rocha, Senior iOS Developer about reverse engineering and spelunking Swift and iOS.
 - [Igor Kulman](https://blog.kulman.sk) - Adventures in the world of Swift and iOS, reminiscing about the days of C#, F# and Windows development. Personal blog by Igor Kulman.
 - [Eon's swift blog](http://eon.codes) - A personal blog about Swift development by André J.
+- [PSPDFKit - iOS Blog](https://pspdfkit.com/blog/categories/ios/) - A blog about iOS development by PSPDFKit team. 
+- [PSPDFKit - macOS Blog](https://pspdfkit.com/blog/categories/macos/) - A blog about macOS development by PSPDFKit team.
+- [MARTINMITREVSKI](https://martinmitrevski.com) - A blog about iOS/ARKit development by Martin Mitrevski.
 
 #### Machine Learning Blogs
 
@@ -66,6 +69,12 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Swift tips and tricks](https://github.com/Luur/SwiftTips)
 - [Swift tips & tricks by John Sundell](https://github.com/JohnSundell/SwiftTips)
 - [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips)
+
+### GitHub Organizations
+Unfortunately `GitHub` does not allow to follow orginizations, so we need to store them manually somehow. Here is the list of amazing `GitHub` organizations where a lof of useful and quality stuff can be found:
+
+- [Apple](https://github.com/apple)
+- [attaswift](https://github.com/attaswift) - A collection of useful Swift packages.
 
 ### iTunes Podcasts
 
