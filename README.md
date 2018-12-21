@@ -30,6 +30,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Asset Catalog](Lists/AssetCatalog.md)
 - [Playground](Lists/Playground.md)
 - [UIKit](Lists/UIKit.md)
+- [PhotoKit](Lists/PhotoKit.md)
 - [Core Animation](Lists/CoreAnimation.md)
 - [Core Graphics](Lists/CoreGraphics.md)
 - [Core Image](Lists/CoreImage.md)
