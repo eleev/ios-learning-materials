@@ -5,6 +5,7 @@
 - [Storyboards Tutorial for iOS: Part 2](https://www.raywenderlich.com/160519/storyboards-tutorial-ios-10-getting-started-part-2)
 - [iOS 9: Staying Organized with Storyboard References](https://code.tutsplus.com/tutorials/ios-9-staying-organized-with-storyboard-references--cms-24226)
 - [Behaviors in iOS Apps](https://www.objc.io/issues/13-architecture/behaviors/)
+- [iOS — Start an app without a storyboard](https://medium.com/ios-os-x-development/ios-start-an-app-without-storyboard-5f57e3251a25)
 
 ### UIKit Dynamics
 - [UIKit Dynamics in Swift 2.0](https://ahmedabdurrahman.com/2015/10/22/uikit-dynamics-tutorial-in-swift-2-0/)
@@ -24,6 +25,8 @@
 - [How to Create Top/Bottom Rounded Corners for Views and Buttons](https://www.appcoda.com/rounded-corners-uiview/)
 - [OBJECT LIFE CYCLE: UIVIEW](https://bradbambara.wordpress.com/2015/01/18/object-life-cycle-uiview/)
 - [View Lifecycle](https://theswiftpost.co/view-lifecycle/)
+- [Advanced UIView shadow effects using shadowPath](https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath)
+
 
 ### UITextInput
 - [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
@@ -58,6 +61,8 @@
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
 - [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/)
 - [Enum-Driven TableView Development](https://www.raywenderlich.com/188692/enum-driven-tableview-development)
+- [Self-Sizing Table View Cells in Practice](https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/)
+- [Slot-based UI development in Swift](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
 
 ### UIStackView
 - [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
@@ -93,6 +98,8 @@
 - [Auto Layout life cycle](https://www.vadimbulavin.com/view-auto-layout-life-cycle/)
 - [Power-Up Your Anchors](https://pedrommcarrasco.github.io/posts/power-up-your-anchors/)
 - [Mastering iOS auto layout anchors programmatically from Swift](https://theswiftdev.com/2018/06/14/mastering-ios-auto-layout-anchors-programmatically-from-swift/)
+- [Building DSLs in Swift](https://www.swiftbysundell.com/posts/building-dsls-in-swift)
+
 
 ### UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
