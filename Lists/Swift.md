@@ -1,4 +1,5 @@
 ## Swift 
+The list mostly constains Swift-related sections with a small exception related to `Foundation` framework. The `Foundation`-related articles will be moved into separete list.
 
 ### What is new
 The section contains materials that are dedicated to specific versions of `Swift`
@@ -154,6 +155,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ### KeyPath
 - [Swift 4 KeyPaths and You](https://www.klundberg.com/blog/swift-4-keypaths-and-you/)
+
+### Subscripts
+- [Handling Index Out of Range Exception the Swift Way](http://www.vadimbulavin.com/handling-out-of-bounds-exception/)
 
 ### Timer
 - [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
