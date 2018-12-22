@@ -75,6 +75,8 @@ Unfortunately `GitHub` does not allow to follow orginizations, so we need to sto
 
 - [Apple](https://github.com/apple)
 - [attaswift](https://github.com/attaswift) - A collection of useful Swift packages.
+- [SwiftJava](https://github.com/SwiftJava) - A Swift to Java Bridge.
+- [AudioKit](https://github.com/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
 
 ### iTunes Podcasts
 
