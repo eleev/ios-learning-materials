@@ -68,6 +68,12 @@
 ### Command
 - [Rethinking Design Patterns in Swift: The Command Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-command-pattern/)
 
+### State
+- [Rethinking Design Patterns in Swift: State Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-state-pattern/)
+- [Design Patterns in Swift: State Pattern](https://agostini.tech/2018/05/13/design-patterns-in-swift-state/)
+- [Applying the State Pattern in Swift](https://medium.com/@vel.is.lava/applying-the-state-pattern-in-swift-5fed17751239)
+- [How use State Design Pattern to create a Stateful ViewController?](https://medium.com/cocoaacademymag/how-use-state-design-pattern-to-create-a-stateful-viewcontroller-78c224781918)
+
 ### Coordinator
 - [An iOS Coordinator Pattern](https://will.townsend.io/2016/an-ios-coordinator-pattern)
 - [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/177538/coordinator-tutorial-ios-getting-started)
