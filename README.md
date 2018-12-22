@@ -62,6 +62,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Architecture And Design Patterns](Lists/ArchitectureAndDesignPatterns.md)
 - [Test Driven Development](Lists/TestDrivenDevelopment.md)
 - [Clean Code](Lists/CleanCode.md)
+- [Continuous Integration (CI)](Lists/ContinuousIntegration.md)
 - [Computer Graphics](Lists/ComputerGraphics.md)
 - [Machine Learning](Lists/MachineLearning.md)
 - [App Distribution](Lists/AppDistribution.md)
