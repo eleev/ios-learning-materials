@@ -53,6 +53,7 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [PSPDFKit - macOS Blog](https://pspdfkit.com/blog/categories/macos/) - A blog about macOS development by PSPDFKit team.
 - [MARTINMITREVSKI](https://martinmitrevski.com) - A blog about iOS/ARKit development by Martin Mitrevski.
 - [KHAWER KHALIQ](https://khawerkhaliq.com) - A Swift-related blog by Khawer Khaliq.
+- [Swiftjective-C](https://www.swiftjectivec.com) - A periodical on the art of modern iOS software engineering.
 
 #### Machine Learning Blogs
 
