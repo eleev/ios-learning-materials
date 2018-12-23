@@ -8,3 +8,4 @@
 - [Mesh Transforms](http://ciechanowski.me/blog/2014/05/14/mesh-transforms/)
 - [A more Swifty Core Animation](https://www.swiftbysundell.com/daily-wwdc/a-more-swifty-core-animation)
 - [Animations are assets: using Core Animation archives on iOS](https://rambo.codes/ios/2018/11/11/animations-are-assets.html)
+- [Huge Images, Small Phone](https://medium.com/frame-io-engineering/huge-images-small-phone-15414b30d39e)
