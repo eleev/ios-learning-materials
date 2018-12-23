@@ -12,3 +12,4 @@
 - [Let's build: Freehand Drawing in iOS - Part 2](http://techblog.badoo.com/blog/2015/06/29/lets-build-freehand-drawing-in-ios-part-2/)
 - [Let's build: Freehand Drawing in iOS - Part 3](https://techblog.badoo.com/blog/2015/08/18/lets-build-freehand-drawing-in-ios-part-3/)
 - [How to Make a Line Drawing Game with Sprite Kit](https://www.raywenderlich.com/61289/how-to-make-a-line-drawing-game-with-sprite-kit)
+- [Optimizing Images](https://www.swiftjectivec.com/optimizing-images/)
