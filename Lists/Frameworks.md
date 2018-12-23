@@ -26,3 +26,6 @@
 
 ### RxSwift
 - [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
+
+### zxcvbn
+- [Estimating Password Strength With zxcvbn](https://agostini.tech/2018/12/16/estimating-password-strength-with-zxcvbn/)
