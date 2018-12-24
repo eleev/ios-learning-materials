@@ -15,7 +15,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 # 📝 Content
 
 - [About](#about)
-- [Amazing Resources](Lists/AmazingResources.md)
+- [Amazing Materials](Lists/AmazingMaterials.md)
 - [ARKit](Lists/ARKit.md)
 - [SceneKit](Lists/SceneKit.md)
 - [SpriteKit](Lists/SpriteKit.md)
