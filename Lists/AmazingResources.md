@@ -1,4 +1,4 @@
-## Amazing Resources
+## Amazing Materials
 
 ### Websites and Blogs
 
@@ -54,6 +54,7 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [MARTINMITREVSKI](https://martinmitrevski.com) - A blog about iOS/ARKit development by Martin Mitrevski.
 - [KHAWER KHALIQ](https://khawerkhaliq.com) - A Swift-related blog by Khawer Khaliq.
 - [Swiftjective-C](https://www.swiftjectivec.com) - A periodical on the art of modern iOS software engineering.
+- [Medium: Swift Algorithms & Data Structures](https://medium.com/swift-algorithms-data-structures) - A book on modern code, illustrations & computer science by Wayne Bishop.
 
 #### Machine Learning Blogs
 
