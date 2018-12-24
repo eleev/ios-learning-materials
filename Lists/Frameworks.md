@@ -30,3 +30,6 @@
 
 ### zxcvbn
 - [Estimating Password Strength With zxcvbn](https://agostini.tech/2018/12/16/estimating-password-strength-with-zxcvbn/)
+
+### Fritz SDK
+- [Building your own Portrait Mode using Machine Learning in < 30 min [iOS]](https://heartbeat.fritz.ai/building-an-image-segmentation-app-in-ios-3377eb4a3e7c)
