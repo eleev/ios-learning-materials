@@ -36,6 +36,7 @@
 - [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
 - [SOLID Principles for Becoming a Better iOS/Swift Developer](https://www.scaledrone.com/blog/solid-principles-for-becoming-a-better-ios-swift-developer/)
 - [iOSModulesArchitecture](https://github.com/JeanLebrument/iOSModulesArchitecture)
+- [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-interface-segregation-principle)
 
 ### Composition
 - [Reusability and Composition in Swift](https://theswiftpost.co/reusability-composition-swift/)
@@ -131,6 +132,10 @@
 - [Safer UIViewController Creation When Using Storyboards](https://medium.com/ios-os-x-development/safer-uiviewcontroller-creation-when-using-storyboards-1915ac2b2c80)
 - [Faux Dependency Injection for Storyboards](https://thatthinginswift.com/dependency-injection-storyboards-swift/)
 - [Advanced Dependency Injection](https://clean-swift.com/advanced-dependency-injection/)
+- [Dependency Injection on iOS — part 1/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-1-4-8847f302b3d9)
+- [Dependency Injection on iOS — part 2/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-2-4-359fe6800e90)
+- [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-3-4-e85fe7e20de6)
+- [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-4-4-ce3723d819d)
 
 ### Iterator
 - [Design Patterns in Swift: Iterator Pattern](https://agostini.tech/2018/06/10/design-patterns-in-swift-iterator-pattern/)
