@@ -39,7 +39,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Metal](Lists/Metal.md)
 - [AVFoundation](Lists/AVFoundation.md)
 - [Asset Catalog](Lists/AssetCatalog.md)
-- [Playground](Lists/Playground.md)
+- [Playgrounds](Lists/Playgrounds.md)
 - [In-App Purchase](Lists/InAppPurchase.md)
 - [NLP](Lists/NLP.md)
 - [Swift](Lists/Swift.md)
