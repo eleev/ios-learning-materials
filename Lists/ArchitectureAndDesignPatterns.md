@@ -22,7 +22,7 @@
 - [Enum-Driven TableView Development](https://www.raywenderlich.com/5542-enum-driven-tableview-development)
 
 ### Legacy Code / Backward Compatability
-- [https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code](Writing backward compatible Swift code)
+- [Writing backward compatible Swift code](https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code)
 
 ### Model Layer
 - [Modeling State In Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift)
