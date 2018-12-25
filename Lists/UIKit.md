@@ -120,6 +120,10 @@
 - [Hit-Testing in iOS](http://smnh.me/hit-testing-in-ios/)
 - [Stopping Tap Gesture from bubbling to child controls](https://bencoding.com/2017/02/27/stopping-tap-gesture-from-bubbling-to-child-controls/)
 
+### UIResponder chain
+- [Open URLs using the iOS UIResponder chain in Swift](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686)
+- [Using Responders and the Responder Chain to Handle Events](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events)
+
 ### Notifications Framework (Local & Remote) 
 - [Introduction to User Notifications Framework in iOS 10](https://www.appcoda.com/ios10-user-notifications-guide/)
 - [Basic Push Notifications in iOS 10 and Swift](https://makeapppie.com/2017/01/03/basic-push-notifications-in-ios-10-and-swift/)
