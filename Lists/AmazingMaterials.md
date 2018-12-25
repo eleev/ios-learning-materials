@@ -55,6 +55,8 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [KHAWER KHALIQ](https://khawerkhaliq.com) - A Swift-related blog by Khawer Khaliq.
 - [Swiftjective-C](https://www.swiftjectivec.com) - A periodical on the art of modern iOS software engineering.
 - [Medium: Swift Algorithms & Data Structures](https://medium.com/swift-algorithms-data-structures) - A book on modern code, illustrations & computer science by Wayne Bishop.
+- [Joachim Complains About Things 😤](https://blog.cocoafrog.de) - A blog about bad software and how not to write bad software. Occasionally, about good software. Author Joachim Kurz.
+- [FlexMonkey](http://flexmonkey.blogspot.com) - Creative coding in Swift. A blog by Simon Gladman.
 
 #### Machine Learning Blogs
 
@@ -80,6 +82,11 @@ Unfortunately `GitHub` does not allow to follow orginizations, so we need to sto
 - [attaswift](https://github.com/attaswift) - A collection of useful Swift packages.
 - [SwiftJava](https://github.com/SwiftJava) - A Swift to Java Bridge.
 - [AudioKit](https://github.com/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
+- [Moya](https://github.com/Moya) - Network abstraction layer written in Swift.
+- [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
+- [Firebase](https://github.com/firebase) - A comprehensive mobile development platform.
+- [Alamofire](https://github.com/Alamofire) - Elegant Networking in Swift.
+- [Realm](https://github.com/realm) - Persistence framework.
 
 ### iTunes Podcasts
 
