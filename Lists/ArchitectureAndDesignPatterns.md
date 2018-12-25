@@ -176,6 +176,9 @@ Model View Controller
 - [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
 - [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
 
+#### Video
+- [UIKonf18 – Day 1 – Joachim Kurz – MVC is Not Your Problem](https://www.youtube.com/watch?v=A1vzcxR-Ss0&feature=youtu.be&t=1665)
+
 ### MVC-N
 Model View Controller - Network
 - [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
