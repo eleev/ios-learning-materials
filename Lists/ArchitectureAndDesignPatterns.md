@@ -91,6 +91,7 @@
 
 ### Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
+- [Strategy pattern in Swift](https://medium.com/flawless-app-stories/strategy-pattern-in-swift-1462dbddd9fe)
 
 ### Flow
 - [[iOS] Flow: Make your logic flow and data flow clean and human readable](https://medium.com/ios-os-x-development/ios-flow-make-your-logic-flow-and-data-flow-clean-and-human-readable-ca9cd2718980)
