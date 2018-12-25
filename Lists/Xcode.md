@@ -6,3 +6,4 @@
 - [Xcode Project vs. Xcode Workspace - Differences](https://stackoverflow.com/questions/21631313/xcode-project-vs-xcode-workspace-differences)
 - [Multi Project Setups](https://objectivetidbits.com/multi-project-setups-fee9d235d857)
 - [A dive into Xcode projects and workspaces](https://www.mokacoding.com/blog/xcode-projects-and-workspaces/)
+- [How to create a custom Xcode template for coordinators](https://www.hackingwithswift.com/articles/158/how-to-create-a-custom-xcode-template-for-coordinators)
