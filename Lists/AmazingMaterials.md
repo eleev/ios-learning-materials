@@ -57,6 +57,7 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Medium: Swift Algorithms & Data Structures](https://medium.com/swift-algorithms-data-structures) - A book on modern code, illustrations & computer science by Wayne Bishop.
 - [Joachim Complains About Things 😤](https://blog.cocoafrog.de) - A blog about bad software and how not to write bad software. Occasionally, about good software. Author Joachim Kurz.
 - [FlexMonkey](http://flexmonkey.blogspot.com) - Creative coding in Swift. A blog by Simon Gladman.
+- [QuickBird Studios: Blog](https://quickbirdstudios.com/blog/) - Mobile App Development Blog by QuickBird Studios.
 
 #### Machine Learning Blogs
 
