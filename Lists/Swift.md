@@ -139,6 +139,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Custom pattern matching in Swift](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
 - [Writing Custom Pattern Matching in Swift](https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift.html) 
  
+### Assertion
+- [Swift asserts - the missing manual](https://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
+ 
 ### Option Set 
 - [How to create a custom OptionSet](https://www.hackingwithswift.com/example-code/language/how-to-create-a-custom-optionset)
 - [OptionSetType and enums](https://stackoverflow.com/questions/36819163/optionsettype-and-enums)
