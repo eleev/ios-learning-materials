@@ -11,6 +11,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [More fun with Swift 5 String Interpolation: Radix formatting](https://ericasadun.com/2018/12/14/more-fun-with-swift-5-string-interpolation-radix-formatting/)
 - [Swift 5 Interpolation Part 3: Dates and Number Formatters](https://ericasadun.com/2018/12/16/swift-5-interpolation-part-3-dates-and-number-formatters/)
 - [Swift 5.0 is changing optional try](https://www.hackingwithswift.com/articles/147/swift-5-is-changing-optional-try)
+- [Swift 5 gives us Nice Things™: Custom string delimiters](https://ericasadun.com/2018/12/26/swift-5-gives-us-nice-things-custom-string-delimiters/)
 
 #### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
@@ -164,7 +165,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ### Timer
 - [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
- 
+
+### Date
+- [ISO-8601, YYYY, yyyy, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/)
+
 ### Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [Dynamic Features in Swift](https://www.raywenderlich.com/5743-dynamic-features-in-swift)
