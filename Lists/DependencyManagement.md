@@ -10,3 +10,6 @@
 
 ### Carthage
 - [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/165660/carthage-tutorial-getting-started-2)
+
+### Swift Package Manager (SPM)
+- [Why is the Swift Package Manager taking so long?](http://artsy.github.io/blog/2018/12/21/why-is-swiftpm-taking-so-long/)
