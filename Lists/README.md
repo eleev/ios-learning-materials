@@ -8,3 +8,4 @@
 - [A dive into Xcode projects and workspaces](https://www.mokacoding.com/blog/xcode-projects-and-workspaces/)
 - [How to create a custom Xcode template for coordinators](https://www.hackingwithswift.com/articles/158/how-to-create-a-custom-xcode-template-for-coordinators)
 - [Cheat sheet examples for Xcode and Swift development](https://www.avanderlee.com/workflow/cheat-sheet-xcode-swift/)
+- [Using launch arguments / environment variables to simulate in-app purchase purchased and etc](https://fluffy.es/launch-arguments-environment-variables/)
