@@ -10,6 +10,7 @@
 ### Mocking 
 - [Mocking in Swift](https://medium.com/@johnsundell/mocking-in-swift-56a913ee7484)
 - [Mock-free unit tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)
+- [Mocking With Protocols in Swift](https://www.bignerdranch.com/blog/mocking-with-protocols-in-swift/)
 
 ### UI
 - [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)
