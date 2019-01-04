@@ -63,6 +63,7 @@
 - [Enum-Driven TableView Development](https://www.raywenderlich.com/188692/enum-driven-tableview-development)
 - [Self-Sizing Table View Cells in Practice](https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/)
 - [Slot-based UI development in Swift](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
+- [Solving duplicated / repeating cells in Table view](https://fluffy.es/solve-duplicated-cells/)
 
 ### UIStackView
 - [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
