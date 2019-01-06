@@ -9,6 +9,7 @@
 - [Bringing Machine Learning to your iOS Apps 🤖📲](https://academy.realm.io/posts/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
 - [Pros and cons of iOS machine learning APIs](http://machinethink.net/blog/machine-learning-apis/)
 - [Beginning Machine Learning with Keras & Core ML](https://www.raywenderlich.com/181760/beginning-machine-learning-keras-core-ml)
+- [How to fine-tune ResNet in Keras and use it in an iOS App via Core ML](https://heartbeat.fritz.ai/how-to-fine-tune-resnet-in-keras-and-use-it-in-an-ios-app-via-core-ml-ee7fd84c1b26)
 
 ### CoreML + Turi Create
 - [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
