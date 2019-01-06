@@ -9,6 +9,7 @@
 - [Using Vision Framework for Text Detection in iOS 11](http://www.appcoda.com/vision-framework-introduction/)
 - [Getting Started With Vision Framework](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision)
 - [FACE AND FACE’S LANDMARKS DETECTION USING VISION FRAMEWORK IN IOS 11](https://www.thedroidsonroids.com/blog/face-and-faces-landmarks-detection-using-vision-framework-in-ios-11)
+- [Build Your Customized Vision App in 10 Minutes](https://medium.com/deep-learning-turkey/build-your-customized-vision-app-in-10-minutes-eb0b141c3742)
 
 ### Code 💻
 - [Face Cropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper)
