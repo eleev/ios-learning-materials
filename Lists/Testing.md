@@ -16,3 +16,4 @@
 - [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)
 - [Automated UI-Testing for iOS Apps](https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411)
 - [An introduction to UI Testing on iOS](https://medium.com/exploring-ios/an-introduction-to-ui-testing-on-ios-697526fa0fa9)
+- [UI Testing Quick Guide](https://useyourloaf.com/blog/ui-testing-quick-guide/)
