@@ -64,6 +64,7 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [MATTHIJS HOLLEMANS - Machine Learning](http://machinethink.net/blog/)
 - [Pete Warden's blog](https://petewarden.com)
+- [HeartBeat - Medium Publication on Mobile Machine Learning](https://heartbeat.fritz.ai/)
 
 #### Metal Blogs
 - [MetalKit](http://metalkit.org/) - Graphics programming using Metal API.
