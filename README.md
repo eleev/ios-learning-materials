@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 06/January/2019.**
+**Last Update: 07/January/2019.**
 
 ![](logo-alternative.jpg)
 
@@ -27,6 +27,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [HealthKit](Lists/HealthKit.md)
 - [CloudKit](Lists/CloudKit.md)
 - [TextKit](Lists/TextKit.md)
+- [StoreKit](Lists/StoreKit.md)
 - [CoreML](Lists/CoreML.md)
 - [CreateML](Lists/CreateML.md)
 - [Core Animation](Lists/CoreAnimation.md)
