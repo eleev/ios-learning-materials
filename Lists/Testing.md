@@ -12,6 +12,9 @@
 - [Mock-free unit tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)
 - [Mocking With Protocols in Swift](https://www.bignerdranch.com/blog/mocking-with-protocols-in-swift/)
 
+### Integration
+- [Integration Testing for Memory Leaks](https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks)
+
 ### UI
 - [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)
 - [Automated UI-Testing for iOS Apps](https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411)
