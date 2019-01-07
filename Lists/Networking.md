@@ -4,3 +4,4 @@
 - [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/567-urlsession-tutorial-getting-started)
 - [BUILDING A NETWORKING LAYER WITH OPERATIONS](https://williamboles.me/building-a-networking-layer-with-operations/)
 - [Functional networking in Swift](https://www.swiftbysundell.com/posts/functional-networking-in-swift)
+- [Constructing URLs in Swift](https://www.swiftbysundell.com/posts/constructing-urls-in-swift)
