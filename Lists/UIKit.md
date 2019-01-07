@@ -167,13 +167,14 @@
 - [Introduction to Custom View Controller Transitions and Animations](https://www.appcoda.com/custom-view-controller-transitions-tutorial/)
 - [How To Make A UIViewController Transition Animation Like in the Ping App](https://www.raywenderlich.com/167198/make-uiviewcontroller-transition-animation-like-ping-app)
 
-### Custom Components 
+### Custom Components
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
 - [Building a Tinder-esque Card Interface](https://medium.com/@phillfarrugia/building-a-tinder-esque-card-interface-5afa63c6d3db)
 - [Stop Xcode from constantly rebuilding your project because of @IBDesignable](http://holko.pl/2017/11/15/rebuilding-ibdesignables/)
 - [How to Create Your Own Slide-Out Navigation Panel in Swift](https://www.raywenderlich.com/177353/create-slide-navigation-panel-swift)
 - [Create your own custom overlay view in Swift](http://zappdesigntemplates.com/create-your-own-overlay-view-in-swift/)
 - [iOS Tutorial: How to make a customizable interactive slide-out menu in Swift](https://www.thorntech.com/2016/03/ios-tutorial-make-interactive-slide-menu-swift/)
+- [The iOS Menu](https://codea.io/blog/the-ios-menu/)
 
 ### Drag & Drop
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
