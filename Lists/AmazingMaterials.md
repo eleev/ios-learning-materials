@@ -60,6 +60,8 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [QuickBird Studios: Blog](https://quickbirdstudios.com/blog/) - Mobile App Development Blog by QuickBird Studios.
 - [WILLIAM BOLES - Blog](https://williamboles.me/) - A blog about iOS development by William Boles.
 - [Fluffy](https://fluffy.es) - Mostly iOS fun stuff.
+- [Swift in Depth](https://swiftindepth.com) - Swift in Depth is all about sharing practical tips and filling knowledge-gaps for the (fairly) experienced Swift developer so that you can level-up your Swift skills.
+- [SOUNDCLOUD - iOS Blog](https://developers.soundcloud.com/blog/category/ios) - A blog about iOS development.
 
 #### Machine Learning Blogs
 
