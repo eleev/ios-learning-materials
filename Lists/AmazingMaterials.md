@@ -58,6 +58,8 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Joachim Complains About Things 😤](https://blog.cocoafrog.de) - A blog about bad software and how not to write bad software. Occasionally, about good software. Author Joachim Kurz.
 - [FlexMonkey](http://flexmonkey.blogspot.com) - Creative coding in Swift. A blog by Simon Gladman.
 - [QuickBird Studios: Blog](https://quickbirdstudios.com/blog/) - Mobile App Development Blog by QuickBird Studios.
+- [WILLIAM BOLES - Blog](https://williamboles.me/) - A blog about iOS development by William Boles.
+- [Fluffy](https://fluffy.es) - Mostly iOS fun stuff.
 
 #### Machine Learning Blogs
 
