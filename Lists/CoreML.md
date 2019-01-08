@@ -14,3 +14,4 @@
 ### CoreML + Turi Create
 - [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
 - [Machine Learning in iOS: Turi Create and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26)
+- [Creating a Prisma-like App with Core ML, Style Transfer and Turi Create](https://appcoda.com/coreml-turi-create?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
