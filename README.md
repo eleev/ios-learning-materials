@@ -88,6 +88,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [V8tr](https://github.com/V8tr)
 - [YUAMING](https://github.com/yuaming)
 - [Ozgur Sahin](https://github.com/ozgurshn)
+- [Jr. Ken J.](https://github.com/kenjonesjr)
 
 # 🔖 Licence
 The project is availabe under [MIT Licence](https://github.com/jVirus/ios-learning-materials/blob/master/LICENSE)
