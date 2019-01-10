@@ -108,6 +108,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
 - [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
  
+### Import
+- [Swift Import Declarations](https://nshipster.com/import/)
+ 
 ### Floating Point
 - [Floating Point Swift ulp And epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/)
  
