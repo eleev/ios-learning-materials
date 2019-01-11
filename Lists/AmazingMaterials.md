@@ -65,6 +65,7 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [BENJAMIN SANDOFSKY](https://sandofsky.com) - Ben Sandofsky Builds Apps. Benjamin used to lead Twitter for iPhone.
 - [Simon's Sanitarium](http://simonfairbairn.com) - A blog about game/graphics development. Among another things, there you can find materials about SpriteKit, GameplayKit and other Apple related technologies.
 - [Pierre Felgines](https://felginep.github.io) - A blog about iOS development.
+- [CODEA & SHADE - Blog](https://codea.io/blog/) - Creators of Codea and Shade apps share their ideas, insights and sources for amazing developments.
 
 #### Machine Learning Blogs
 
