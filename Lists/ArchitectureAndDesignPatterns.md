@@ -35,6 +35,7 @@
 - [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
 - [Promise Pattern on Swift with PromiseKit And why you should migrate your async calls to them](https://hackernoon.com/promise-pattern-on-swift-with-promisekit-620efad7a5bd)
 - [Under The Hood Of Futures And Promises In Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
+- [Implementing Promises in Swift](https://felginep.github.io/2019-01-06/implementing-promises-in-swift)
 
 ### SOLID
 - [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
@@ -96,7 +97,7 @@
 - [Coordinators Essential tutorial. Part I](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7)
 - [Coordinators Essential tutorial. Part II](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-ii-b5ab3eb4a74)
 - [Coordinator: the missing pattern in UIKit](http://aplus.rs/2018/coordinator-missing-pattern-uikit/)
-
+- [Controller Hierarchies](https://sandofsky.com/blog/controller-hierarchies.html)
 
 ### Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
