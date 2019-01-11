@@ -62,6 +62,9 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Fluffy](https://fluffy.es) - Mostly iOS fun stuff.
 - [Swift in Depth](https://swiftindepth.com) - Swift in Depth is all about sharing practical tips and filling knowledge-gaps for the (fairly) experienced Swift developer so that you can level-up your Swift skills.
 - [SOUNDCLOUD - iOS Blog](https://developers.soundcloud.com/blog/category/ios) - A blog about iOS development.
+- [BENJAMIN SANDOFSKY](https://sandofsky.com) - Ben Sandofsky Builds Apps. Benjamin used to lead Twitter for iPhone.
+- [Simon's Sanitarium](http://simonfairbairn.com) - A blog about game/graphics development. Among another things, there you can find materials about SpriteKit, GameplayKit and other Apple related technologies.
+- [Pierre Felgines](https://felginep.github.io) - A blog about iOS development.
 
 #### Machine Learning Blogs
 
