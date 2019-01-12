@@ -120,6 +120,7 @@
 - [UIGestureRecognizer Getting Started](https://www.raywenderlich.com/162745/uigesturerecognizer-tutorial-getting-started)
 - [Hit-Testing in iOS](http://smnh.me/hit-testing-in-ios/)
 - [Stopping Tap Gesture from bubbling to child controls](https://bencoding.com/2017/02/27/stopping-tap-gesture-from-bubbling-to-child-controls/)
+- [Why is there a "lag" in iOS gesture detection near the edges of the screen?](https://blog.kulman.sk/why-ios-gestures-lag-at-the-screen-edges/)
 
 ### UIResponder chain
 - [Open URLs using the iOS UIResponder chain in Swift](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686)
@@ -175,6 +176,7 @@
 - [Create your own custom overlay view in Swift](http://zappdesigntemplates.com/create-your-own-overlay-view-in-swift/)
 - [iOS Tutorial: How to make a customizable interactive slide-out menu in Swift](https://www.thorntech.com/2016/03/ios-tutorial-make-interactive-slide-menu-swift/)
 - [The iOS Menu](https://codea.io/blog/the-ios-menu/)
+- [Detailing the iOS Menu](https://codea.io/blog/detailing-the-ios-menu/)
 
 ### Drag & Drop
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
