@@ -45,6 +45,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [NLP](Lists/NLP.md)
 - [Swift](Lists/Swift.md)
 - [Xcode](Lists/Xcode.md)
+- [Persistence](Lists/Persistence.md)
 - [Internationalization](Lists/Internationalization.md)
 - [Security](Lists/Security.md)
 - [Payments](Lists/Payments.md)
