@@ -14,6 +14,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift 5 gives us Nice Things™: Custom string delimiters](https://ericasadun.com/2018/12/26/swift-5-gives-us-nice-things-custom-string-delimiters/)
 - [How to use raw strings in Swift 5](https://www.hackingwithswift.com/articles/162/how-to-use-raw-strings-in-swift)
 - [How to use Result in Swift 5](https://www.hackingwithswift.com/articles/161/how-to-use-result-in-swift)
+- [How to use @dynamicCallable in Swift](https://www.hackingwithswift.com/articles/134/how-to-use-dynamiccallable-in-swift)
 
 #### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
