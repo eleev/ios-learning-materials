@@ -49,5 +49,8 @@ For Scaledrone Swift, please follow the [specified link](https://github.com/Scal
 - [iOS Chat Tutorial: Building A Realtime Messaging App](https://www.scaledrone.com/blog/ios-chat-tutorial/)
 - [iOS Chat Tutorial Part 2](https://www.scaledrone.com/blog/ios-chat-tutorial-part-2/)
 
+### [swift-sh](https://github.com/mxcl/swift-sh?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thechangelog+%28The+Changelog%29)
+- [swift-sh](https://nshipster.com/swift-sh/)
+
 ### Docker
 - [Docker on macOS: Getting Started](https://www.raywenderlich.com/9159-docker-on-macos-getting-started?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
