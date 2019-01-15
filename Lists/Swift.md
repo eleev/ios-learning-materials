@@ -12,6 +12,8 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift 5 Interpolation Part 3: Dates and Number Formatters](https://ericasadun.com/2018/12/16/swift-5-interpolation-part-3-dates-and-number-formatters/)
 - [Swift 5.0 is changing optional try](https://www.hackingwithswift.com/articles/147/swift-5-is-changing-optional-try)
 - [Swift 5 gives us Nice Things™: Custom string delimiters](https://ericasadun.com/2018/12/26/swift-5-gives-us-nice-things-custom-string-delimiters/)
+- [How to use raw strings in Swift 5](https://www.hackingwithswift.com/articles/162/how-to-use-raw-strings-in-swift)
+- [How to use Result in Swift 5](https://www.hackingwithswift.com/articles/161/how-to-use-result-in-swift)
 
 #### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
