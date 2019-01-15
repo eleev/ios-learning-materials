@@ -59,6 +59,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/)
 - [How to split decision and action logic with the Swift type system](https://www.mokacoding.com/blog/how-to-split-decision-and-action-logic-with-the-swift-type-system/)
 
+#### Videos
+- [Protocols with Associated Types](https://www.youtube.com/watch?v=XWoNjiSPqI8)
+
 #### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
 - [JSON to Swift with Decoder and Decodable](https://swiftunboxed.com/stdlib/json-decoder-decodable/)
