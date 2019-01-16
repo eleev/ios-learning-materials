@@ -99,6 +99,9 @@
 - [Coordinator: the missing pattern in UIKit](http://aplus.rs/2018/coordinator-missing-pattern-uikit/)
 - [Controller Hierarchies](https://sandofsky.com/blog/controller-hierarchies.html)
 
+#### Videos
+- [SwiftConf '16: Niels @nvh van Hoorn — Protocol Oriented ViewController Coordinators](https://www.youtube.com/watch?v=KDl7Czw63mM)
+
 ### Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
 - [Strategy pattern in Swift](https://medium.com/flawless-app-stories/strategy-pattern-in-swift-1462dbddd9fe)
