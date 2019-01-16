@@ -5,3 +5,4 @@
 - [BUILDING A NETWORKING LAYER WITH OPERATIONS](https://williamboles.me/building-a-networking-layer-with-operations/)
 - [Functional networking in Swift](https://www.swiftbysundell.com/posts/functional-networking-in-swift)
 - [Constructing URLs in Swift](https://www.swiftbysundell.com/posts/constructing-urls-in-swift)
+- [Detecting Internet Access on iOS 12+](https://medium.com/@rwbutler/nwpathmonitor-the-new-reachability-de101a5a8835)
