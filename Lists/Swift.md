@@ -15,6 +15,11 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [How to use raw strings in Swift 5](https://www.hackingwithswift.com/articles/162/how-to-use-raw-strings-in-swift)
 - [How to use Result in Swift 5](https://www.hackingwithswift.com/articles/161/how-to-use-result-in-swift)
 - [How to use @dynamicCallable in Swift](https://www.hackingwithswift.com/articles/134/how-to-use-dynamiccallable-in-swift)
+- []()
+- [Add Result to the Standard Library - SE0235](https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md)
+- [Contiguous Collection Protocols - SE0237](https://github.com/apple/swift-evolution/blob/master/proposals/0237-contiguous-collection.md)
+- [Customizing string interpolation - SE0238](https://github.com/apple/swift-evolution/blob/master/proposals/0228-fix-expressiblebystringinterpolation.md)
+- [Add Codable conformance to Range types - SE-0239](https://github.com/apple/swift-evolution/blob/master/proposals/0239-codable-range.md)
 
 #### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
