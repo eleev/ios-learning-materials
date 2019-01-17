@@ -182,10 +182,15 @@ The section contains materials that are dedicated to specific versions of `Swift
 ### Date
 - [ISO-8601, YYYY, yyyy, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/)
 
+### Objective-C Runtime
+#### Associated Object
+- [ASSOCIATED OBJECT](https://en.swifter.tips/associated-object/)
+- [Stored Properties In Swift Extensions](https://medium.com/@marcosantadev/stored-properties-in-swift-extensions-615d4c5a9a58)
+
 ### Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [Dynamic Features in Swift](https://www.raywenderlich.com/5743-dynamic-features-in-swift)
- 
+
 ### Code Optimization / Performance
 - [Unbreakable reference cycles in Swift no one is talking about](https://desiatov.com/swift-reference-cycles/)
 - [Increasing Performance by Reducing Dynamic Dispatch](https://developer.apple.com/swift/blog/?id=27)
