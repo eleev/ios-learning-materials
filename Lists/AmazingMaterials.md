@@ -109,6 +109,7 @@ Unfortunately `GitHub` does not allow to follow orginizations, so we need to sto
 - [Fireside Swift is a popular Swift programming podcast where two buddies, Zack and Steve, discuss a new Swift topic each week](https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 - [From development and design to marketing and support, Under the Radar is all about independent app development](https://itunes.apple.com/us/podcast/under-the-radar/id1055685246?mt=2)
 - [CartoonSmart Tutorials](https://itunes.apple.com/ru/podcast/cartoonsmart-tutorials/id1108725455?l=en&mt=2)
+- [The Swift Community Podcast](https://itunes.apple.com/ru/podcast/the-swift-community-podcast/id1449664346?l=en&mt=2)
 
 ### Anchor Podcasts
 - [Swift over Coffee is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen](https://anchor.fm/swiftovercoffee)
