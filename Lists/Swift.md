@@ -46,9 +46,6 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html)
 - [Five useful methods of dictionaries](https://www.hackingwithswift.com/articles/109/five-useful-methods-of-dictionaries)
 
-### Associated Types 
-- [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
-
 ### Structs
 - [Stop Using Structs!](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
@@ -62,6 +59,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Mastering Generics with Protocols: The Specification Pattern](https://medium.com/swift2go/mastering-generics-with-protocols-the-specification-pattern-5e2e303af4ca)
 - [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/)
 - [How to split decision and action logic with the Swift type system](https://www.mokacoding.com/blog/how-to-split-decision-and-action-logic-with-the-swift-type-system/)
+- [The subtleties of protocol extensions](https://swiftindepth.com/2019-01-13/the-subtleties-of-protocol-extensions)
+
+### Associated Types 
+- [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
 
 #### Videos
 - [Protocols with Associated Types](https://www.youtube.com/watch?v=XWoNjiSPqI8)
