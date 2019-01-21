@@ -28,6 +28,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [CloudKit](Lists/CloudKit.md)
 - [TextKit](Lists/TextKit.md)
 - [StoreKit](Lists/StoreKit.md)
+- [SiriKit](Lists/SiriKit.md)
 - [CoreML](Lists/CoreML.md)
 - [CreateML](Lists/CreateML.md)
 - [Core Animation](Lists/CoreAnimation.md)
