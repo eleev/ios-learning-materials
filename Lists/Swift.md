@@ -88,6 +88,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Single Value Codable](http://www.russbishop.net/singlevaluecodable)
 - [Using Swift Codable With Property Lists](https://useyourloaf.com/blog/using-swift-codable-with-property-lists/)
 - [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
+- [OBJECT SERIALIZATION IN IOS](https://dmtopolog.com/object-serialization-in-ios/)
 
 ### Ranges & Intervals
 - [Ranges and Intervals in Swift](https://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
