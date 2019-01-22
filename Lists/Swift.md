@@ -32,6 +32,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
 - [Indirect Enums - Swift 3.0](https://jayeshkawli.ghost.io/indirect-enums-swift-3-0/)
 - [Indirect Enums And Structs](https://stackoverflow.com/questions/37533006/indirect-enums-and-structs)
+- [https://www.avanderlee.com/swift/enumerations/](https://www.avanderlee.com/swift/enumerations/)
+
+### Typealias
+- [The power of type aliases in Swift](https://www.swiftbysundell.com/posts/the-power-of-type-aliases-in-swift)
 
 ### Directives 
 - [#warning It seems that Swift can’t do this!](https://medium.com/rocknnull/warning-it-seems-that-swift-cant-do-this-def0c9c9d0f7)
@@ -162,6 +166,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [How to create a custom OptionSet](https://www.hackingwithswift.com/example-code/language/how-to-create-a-custom-optionset)
 - [OptionSetType and enums](https://stackoverflow.com/questions/36819163/optionsettype-and-enums)
 - [Option Sets in Swift](https://oleb.net/blog/2016/09/swift-option-sets/)
+- [OptionSet usage in Swift like NS_OPTIONS](https://www.avanderlee.com/swift/optionset-swift/)
 
 ### Hashable
 - [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
