@@ -15,6 +15,7 @@
 - [Keras Deep Learning with Apple’s CoreMLTools on iOS 11](https://amundtveit.com/2017/06/07/keras-deep-learning-with-apples-coremltools-on-ios-11-part-1/)
 - [Beginning Machine Learning with scikit-learn](https://www.raywenderlich.com/180830/beginning-machine-learning-scikit-learn)
 - [Machine Learning: End-to-end Classification](https://www.raywenderlich.com/5554-machine-learning-end-to-end-classification)
+- [macOS Machine Learning in 2019](https://www.bignerdranch.com/blog/macos-machine-learning-in-2019/)
 
 ## Code 💻
 - [Code example uses TensorFlow to train a basic binary classifier on the Gender Recognition by Voice and Speech Analysis dataset](https://github.com/hollance/TensorFlow-iOS-Example)
