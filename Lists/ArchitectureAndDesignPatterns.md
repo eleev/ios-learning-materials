@@ -1,6 +1,6 @@
-## Architecture & Design Patterns
+# Architecture & Design Patterns
 
-### Overview
+## Overview
 - [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
 - [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
@@ -8,83 +8,83 @@
 - [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [Krush iOS Architecture](https://www.teehanlax.com/blog/krush-ios-architecture/)
 
-### Massive View Controller
+## Massive View Controller
 - [Avoiding Massive View Controller using Containment & Child View Controller](https://www.appcoda.com/container-view-controller/)
 - [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers)
 
-### Naming
+## Naming
 - [Function Naming in Swift](https://www.appcoda.com/function-naming/)
 
-### Decoupling 
+## Decoupling 
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
 
-### Data Driven Development
+## Data Driven Development
 - [Data-Driven Table Views](http://www.vadimbulavin.com/data-drive-table-views/)
 
-### State Modeling
+## State Modeling
 - [Enum-Driven TableView Development](https://www.raywenderlich.com/5542-enum-driven-tableview-development)
 
-### Legacy Code / Backward Compatability
+## Legacy Code / Backward Compatability
 - [Writing backward compatible Swift code](https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code)
 
-### Model Layer
+## Model Layer
 - [Modeling State In Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift)
 
-### Promise
+## Promise
 - [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
 - [Promise Pattern on Swift with PromiseKit And why you should migrate your async calls to them](https://hackernoon.com/promise-pattern-on-swift-with-promisekit-620efad7a5bd)
 - [Under The Hood Of Futures And Promises In Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
 - [Implementing Promises in Swift](https://felginep.github.io/2019-01-06/implementing-promises-in-swift)
 
-### SOLID
+## SOLID
 - [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
 - [SOLID Principles for Becoming a Better iOS/Swift Developer](https://www.scaledrone.com/blog/solid-principles-for-becoming-a-better-ios-swift-developer/)
 - [iOSModulesArchitecture](https://github.com/JeanLebrument/iOSModulesArchitecture)
 - [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-interface-segregation-principle)
 
-### Composition
+## Composition
 - [Reusability and Composition in Swift](https://theswiftpost.co/reusability-composition-swift/)
 
-### Coroutines
+## Coroutines
 - [Expressive Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines)
 
-## Design Patterns
+# Design Patterns
 
-### Multicast Delegate
+## Multicast Delegate
 - [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
 - [Multicast on Swift 3 and MVVM-C](https://medium.com/@ivan_m/multicast-on-swift-3-and-mvvm-c-ff74ce802bcc)
 - [Multicast Delegate and Delegates Composition](http://www.vadimbulavin.com/multicast-delegate/)
 
-#### Code
+### Code
 - [GitHub Code Example](https://gist.github.com/shaulhameed/c9c512a3eed4b4776bb3a209fccd339e)
 - [MulticastDelegate - An elegant multicast delegate written in swift](https://github.com/jonasman/MulticastDelegate)
 
-### Singleton
+## Singleton
 - [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift)
 
-### Factory Method 
+## Factory Method 
 - [Using The Factory Method Pattern To Avoid Shaded State In Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift)
 - [Static factory methods in Swift](https://www.swiftbysundell.com/posts/static-factory-methods-in-swift)
 
-### Facade
+## Facade
 - [Design Patterns with Swift: Facade pattern](https://wysockikamil.com/swift-facade-pattern/)
 - [Swift World: Design Patterns — Facade](https://medium.com/swiftworld/swift-world-design-patterns-facade-579ef4b3319f)
 
-### Command
+## Command
 - [Rethinking Design Patterns in Swift: The Command Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-command-pattern/)
 
-### State
+## State
 - [Rethinking Design Patterns in Swift: State Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-state-pattern/)
 - [Design Patterns in Swift: State Pattern](https://agostini.tech/2018/05/13/design-patterns-in-swift-state/)
 - [Applying the State Pattern in Swift](https://medium.com/@vel.is.lava/applying-the-state-pattern-in-swift-5fed17751239)
 - [How use State Design Pattern to create a Stateful ViewController?](https://medium.com/cocoaacademymag/how-use-state-design-pattern-to-create-a-stateful-viewcontroller-78c224781918)
 
-### Mediator
+## Mediator
 - [Design Patterns in Swift: Mediator](https://github.com/kingreza/Swift-Mediator)
 - [Swift World: Design Patterns — Mediator](https://medium.com/swiftworld/swift-world-design-patterns-mediator-e6b3c35d68b0)
 
-### Coordinator
+## Coordinator
 - [An iOS Coordinator Pattern](https://will.townsend.io/2016/an-ios-coordinator-pattern)
 - [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/177538/coordinator-tutorial-ios-getting-started)
 - [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
@@ -99,35 +99,35 @@
 - [Coordinator: the missing pattern in UIKit](http://aplus.rs/2018/coordinator-missing-pattern-uikit/)
 - [Controller Hierarchies](https://sandofsky.com/blog/controller-hierarchies.html)
 
-#### Videos
+### Videos
 - [SwiftConf '16: Niels @nvh van Hoorn — Protocol Oriented ViewController Coordinators](https://www.youtube.com/watch?v=KDl7Czw63mM)
 
-### Strategy
+## Strategy
 - [The Strategy Pattern in iOS Apps](https://medium.com/@volbap/the-strategy-pattern-in-ios-apps-346abc9e86a6)
 - [Strategy pattern in Swift](https://medium.com/flawless-app-stories/strategy-pattern-in-swift-1462dbddd9fe)
 
-### Flow
+## Flow
 - [[iOS] Flow: Make your logic flow and data flow clean and human readable](https://medium.com/ios-os-x-development/ios-flow-make-your-logic-flow-and-data-flow-clean-and-human-readable-ca9cd2718980)
 
-### Monad
+## Monad
 - [Monad Functional Programming](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 - [Monads in Swift](http://chris.eidhof.nl/post/monads-in-swift/)
 - [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
 
-### Proxy 
+## Proxy 
 - [Swift World: Design Patterns — Proxy](https://medium.com/@NilStack/swift-world-design-patterns-proxy-6e2239532a88)
 - [A Design Pattern Story in Swift – Chapter 12: Proxy](http://audreyli.me/2015/07/07/a-design-pattern-story-in-swift-chapter-12-proxy/)
 - [Protection Proxy](https://github.com/ochococo/Design-Patterns-In-Swift#-protection-proxy)
 - [Virtual Proxy](https://github.com/ochococo/Design-Patterns-In-Swift#-virtual-proxy)
 
-### Observer
+## Observer
 - [Observers in Swift - Part 1](https://www.swiftbysundell.com/posts/observers-in-swift-part-1)
 - [Observers in Swift - Part 2](https://www.swiftbysundell.com/posts/observers-in-swift-part-2)
 - [Notification in Swift (NSNotification)](https://medium.com/@dmytro.anokhin/notification-in-swift-d47f641282fa)
 - [Using NSNotificationCenter in Swift](https://medium.com/@JoyceMatos/using-nsnotificationcenter-in-swift-eb70cf0b60fc)
 - [NSNotificationCenter addObserver in Swift](https://stackoverflow.com/questions/24049020/nsnotificationcenter-addobserver-in-swift)
 
-### Delegate
+## Delegate
 - [Lightweight iOS View Controllers](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
 - [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
 - [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
@@ -140,7 +140,7 @@
 - [Why you shouldn’t use delegates in Swift](https://medium.cobeisfresh.com/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b)
 - [Understanding Delegates and Delegation in Swift 4](https://www.appcoda.com/swift-delegate/)
 
-### Dependency Injection
+## Dependency Injection
 - [Dependency Injection Demystified](https://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html)
 - [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
@@ -155,31 +155,31 @@
 - [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-3-4-e85fe7e20de6)
 - [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-4-4-ce3723d819d)
 
-### Iterator
+## Iterator
 - [Design Patterns in Swift: Iterator Pattern](https://agostini.tech/2018/06/10/design-patterns-in-swift-iterator-pattern/)
 
-### Observer 
+## Observer 
 - [Implementing the observer pattern in Swift](https://www.behindmedia.com/2017/12/23/implementing-the-observer-pattern-in-swift/)
 
-### Object Pool
+## Object Pool
 - [Swift object pool design pattern](https://theswiftdev.com/2018/12/09/swift-object-pool-design-pattern/)
 
-### Null Object
+## Null Object
 - [Null Object Pattern in Swift](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
 - [Null Object Design Pattern](https://gist.github.com/suprie/992ff8737eedd724e4f6)
 - [Swift Optionals and the Null Object Design Pattern](https://m.smartcloud.io/swift-optionals-and-the-null-object-design-pattern-7578b7448edf)
 
-### Builder
+## Builder
 - [Using the builder pattern in Swift](https://www.swiftbysundell.com/posts/using-the-builder-pattern-in-swift)
 
-### Container View Controller
+## Container View Controller
 - [Custom container view controllers in Swift](https://www.swiftbysundell.com/posts/custom-container-view-controllers-in-swift)
 - [Managing View Controllers With Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
 - [Container View Controllers](https://useyourloaf.com/blog/container-view-controllers/)
 
-## Architecture Patterns
+# Architectural Patterns
 
-### MVC
+## MVC
 Model View Controller
 - [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html)
 - [MVC](http://codeplease.io/2017/11/19/mvc/)
@@ -192,23 +192,23 @@ Model View Controller
 - [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
 - [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
 
-#### Video
+### Video
 - [UIKonf18 – Day 1 – Joachim Kurz – MVC is Not Your Problem](https://www.youtube.com/watch?v=A1vzcxR-Ss0&feature=youtu.be&t=1665)
 
-### MVC-N
+## MVC-N
 Model View Controller - Network
 - [MVC-N why did use it instead of MVC traditional](https://medium.com/@tuyenbq/mvc-n-why-did-use-it-instead-mvc-traditional-34e8363f5c9d)
 - [MVC-N: Isolating network calls from View Controllers](https://academy.realm.io/posts/slug-marcus-zarra-exploring-mvcn-swift/)
 
-#### Video 
+### Video 
 - [Beginning iOS Design Patterns - MVC N](https://www.youtube.com/watch?v=KxNWvW1lcHo)
 
-### MVP
+## MVP
 Model View Presenter
 - [Going from MVC to MVP on iOS](https://blog.moove-it.com/going-from-mvc-to-mvp-on-ios/)
 - [A dumb UI is a good UI: Using MVP in iOS with swift](http://iyadagha.com/using-mvp-ios-swift/)
 
-### MVVM
+## MVVM
 Model View View-Movel
 - [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
 - [An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
@@ -233,25 +233,24 @@ Model View View-Movel
 - [Model-View-ViewModel for iOS](https://www.teehanlax.com/blog/model-view-viewmodel-for-ios/)
 - [Basic MVVM with ReactiveCocoa](https://cocoasamurai.blogspot.com/2013/03/basic-mvvm-with-reactivecocoa.html)
 
-#### Video 
+### Video 
 - [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
 
-#### Code 
+### Code 
 - [Sample application using MVVM in Swift](https://github.com/jalehman/todolist-mvvm)
 
-### MVVM-C
+## MVVM-C
 Model View View-Model Coordinator
 - [MVVM-C with Swift](https://marcosantadev.com/mvvmc-with-swift/)
 - [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 - [UIKonf 2016 – Day 1– Steve "Scotty" Scott – MVVM-C In Practice](https://www.youtube.com/watch?v=9VojuJpUuE8)
 
-
-### VIP
+## VIP
 View Interactor Presenter
 - [Architecture Wars – A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
 - [Introducing Clean Swift Architecture (VIP)](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
 
-### VIPER
+## VIPER
 View Interactor Presenter Entity Router
 - [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 - [iOS Project Architecture: Using VIPER](https://www.ckl.io/blog/ios-project-architecture-using-viper/)
@@ -276,7 +275,7 @@ View Interactor Presenter Entity Router
 - [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
 - [iOS Project Architecture: Using VIPER](https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/)
 
-### Redux
+## Redux
 Unidirectional Data Flow
 - [Introduction to ReSwift that is a small framework that helps you to create Redux-like architectures in Swift](https://www.raywenderlich.com/155815/reswift-tutorial-memory-game-app)
 - [Unidirectional Data Flow Architecture (Redux) in Swift](https://medium.com/seyhunakyurek/unidirectional-data-flow-architecture-redux-in-swift-6fa2ed5c3c76)
