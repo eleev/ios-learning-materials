@@ -1,6 +1,6 @@
-## Amazing Materials
+# Amazing Materials
 
-### Websites and Blogs
+## Websites and Blogs
 
 - [Apple Developer](https://developer.apple.com) - Centralized resource that makes available various materials related to software development for Apple Ecosystem.
 - [GitHub](https://github.com/) - Yes, that is right! `GitHub` is one of your best friends. Here you can find a ton of examples, projects and learn from them. 
@@ -67,25 +67,25 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Pierre Felgines](https://felginep.github.io) - A blog about iOS development.
 - [CODEA & SHADE - Blog](https://codea.io/blog/) - Creators of Codea and Shade apps share their ideas, insights and sources for amazing developments.
 
-#### Machine Learning Blogs
+### Machine Learning Blogs
 
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [MATTHIJS HOLLEMANS - Machine Learning](http://machinethink.net/blog/)
 - [Pete Warden's blog](https://petewarden.com)
 - [HeartBeat - Medium Publication on Mobile Machine Learning](https://heartbeat.fritz.ai/)
 
-#### Metal Blogs
+### Metal Blogs
 - [MetalKit](http://metalkit.org/) - Graphics programming using Metal API.
 - [Metal by Example](http://metalbyexample.com) - High-performance graphics and compute programming for iOS.
 - [Image Metalling](https://imagemetalling.wordpress.com) - (The blog is in Russian language) High-performance programming for iOS and OSX.
 
-### Swift Tips & Tricks
+## Swift Tips & Tricks
 - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips)
 - [Swift tips and tricks](https://github.com/Luur/SwiftTips)
 - [Swift tips & tricks by John Sundell](https://github.com/JohnSundell/SwiftTips)
 - [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips)
 
-### GitHub Organizations
+## GitHub Organizations
 Unfortunately `GitHub` does not allow to follow orginizations, so we need to store them manually somehow. Here is the list of amazing `GitHub` organizations where a lof of useful and quality stuff can be found:
 
 - [Apple](https://github.com/apple)
@@ -99,7 +99,7 @@ Unfortunately `GitHub` does not allow to follow orginizations, so we need to sto
 - [Realm](https://github.com/realm) - Persistence framework.
 - [Mapbox](https://github.com/mapbox) - Mapbox is the location data platform for mobile and web applications. We're changing the way people move around cities and explore our world.
 
-### iTunes Podcasts
+## iTunes Podcasts
 
 - [Swift by Sundell](https://itunes.apple.com/ru/podcast/swift-by-sundell/id1267161825?l=en&mt=2)
 - [Swift Unwrapped](https://itunes.apple.com/ru/podcast/swift-unwrapped/id1209817203?l=en&mt=2)
@@ -111,11 +111,11 @@ Unfortunately `GitHub` does not allow to follow orginizations, so we need to sto
 - [CartoonSmart Tutorials](https://itunes.apple.com/ru/podcast/cartoonsmart-tutorials/id1108725455?l=en&mt=2)
 - [The Swift Community Podcast](https://itunes.apple.com/ru/podcast/the-swift-community-podcast/id1449664346?l=en&mt=2)
 
-### Anchor Podcasts
+## Anchor Podcasts
 - [Swift over Coffee is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen](https://anchor.fm/swiftovercoffee)
 - [iOS Dev Discussions - Discussing the world of iOS Development and the latest news in Swift by Sean Allen](https://anchor.fm/seanallen)
 
-### Youtube Channels
+## Youtube Channels
 
 - [Sean Allen](https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw)
 - [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
@@ -126,7 +126,7 @@ Unfortunately `GitHub` does not allow to follow orginizations, so we need to sto
 - [Devslopes](https://www.youtube.com/channel/UClLXKYEEM8OBBx85DOa6-cg)
 - [CodeWithChris](https://www.youtube.com/user/CodeWithChris/featured)
 
-### Assets 
+## Assets 
 
 - [Game Art 2D](https://www.gameart2d.com/) 
 - [Kenney](https://kenney.nl/)
