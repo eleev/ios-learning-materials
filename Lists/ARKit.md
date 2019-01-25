@@ -1,6 +1,6 @@
-## ARKit
+# ARKit
 
-### Reading 📖
+## Reading 📖
 - [ARKit by example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
 - [ARKit getting started](https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec)
 - [ARKit with multiple users](https://stackoverflow.com/questions/44529350/arkit-with-multiple-users)
@@ -39,17 +39,17 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [BUILDING VOICE RESPONSIVE AR APPS](https://martinmitrevski.com/2018/12/16/building-voice-responsive-ar-apps/)
 - [AUGMENTED REALITY ON IOS WITH ARKIT](https://martinmitrevski.com/2017/11/22/augmented-reality-on-ios-with-arkit/)
 
-### Resources
+## Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
 
-### Documentation 📃
+## Documentation 📃
 - [ARKit Official Documentation](https://developer.apple.com/documentation/arkit)
 - [Understanding augmented reality](https://developer.apple.com/documentation/arkit/understanding_augmented_reality)
 - [Building a Basic AR Experience](https://developer.apple.com/documentation/arkit/building_a_basic_ar_experience)
 - [Displaying an AR experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal)
 - [Official Human Interface Design Guidelines For Augmented Reality](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
 
-### Code 💻
+## Code 💻
 - [Lava Project](https://github.com/arirawr/ARKit-FloorIsLava)
 - [Example App with horizontal planes and physics cubes](https://github.com/markdaws/arkit-by-example)
 - [Example App that allows to draw in 3D space](https://github.com/laanlabs/ARBrush)
@@ -96,6 +96,6 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Reimagining the power of Xcode's View Debugger for live debugging of AR or SceneKit apps](https://github.com/p-sun/ARPowerPanels)
 - [Building a Museum App with ARKit 2](https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2)
 
-### Video 📹
+## Video 📹
 - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
 - [Swift ARKit (Augmented Reality) Tutorial](https://www.youtube.com/watch?v=tgPV_cRf2hA)
