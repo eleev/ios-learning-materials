@@ -64,6 +64,8 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/)
 - [How to split decision and action logic with the Swift type system](https://www.mokacoding.com/blog/how-to-split-decision-and-action-logic-with-the-swift-type-system/)
 - [The subtleties of protocol extensions](https://swiftindepth.com/2019-01-13/the-subtleties-of-protocol-extensions)
+- [Using protocols as composable extensions](https://mecid.github.io/2019/01/17/using-protocols-as-composable-extensions/)
+- [Refactoring With Protocols](https://useyourloaf.com/blog/refactoring-with-protocols/)
 
 ## Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
@@ -129,6 +131,12 @@ The section contains materials that are dedicated to specific versions of `Swift
  
 ## Floating Point
 - [Floating Point Swift ulp And epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/)
+
+## Where
+- [Where usage in Swift](https://www.avanderlee.com/swift/where-using-swift/)
+
+## Loops (for, while, repeat)
+- [For loop, for each, while, and repeat. Iterating in Swift](https://www.avanderlee.com/swift/loops-swift/)
  
 ## Closures
 - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
