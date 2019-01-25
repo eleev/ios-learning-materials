@@ -176,6 +176,11 @@
 - [iOS Tutorial: How to make a customizable interactive slide-out menu in Swift](https://www.thorntech.com/2016/03/ios-tutorial-make-interactive-slide-menu-swift/)
 - [The iOS Menu](https://codea.io/blog/the-ios-menu/)
 - [Detailing the iOS Menu](https://codea.io/blog/detailing-the-ios-menu/)
+- [Custom Controls](https://www.objc.io/issues/3-views/custom-controls/)
+
+### Custom View from XIB/NIB
+- [Swift 3 — Creating a custom view from a xib](https://medium.com/@brianclouser/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
+- [iOS | Swift: Creating a Custom View with xib.(https://medium.com/@umairhassanbaig/ios-swift-creating-a-custom-view-with-xib-ace878cd41c5)
 
 ## Drag & Drop
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
