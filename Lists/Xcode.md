@@ -1,4 +1,4 @@
-## Xcode
+# Xcode
 - [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/)
 - [Create Xcode file templates and share them with your team](https://www.lordcodes.com/posts/create-xcode-file-templates)
 - [Dividing and Conquering Your Xcode Projects with Targets](https://www.appcoda.com/xcode-targets/)
@@ -9,3 +9,4 @@
 - [How to create a custom Xcode template for coordinators](https://www.hackingwithswift.com/articles/158/how-to-create-a-custom-xcode-template-for-coordinators)
 - [Cheat sheet examples for Xcode and Swift development](https://www.avanderlee.com/workflow/cheat-sheet-xcode-swift/)
 - [Using launch arguments / environment variables to simulate in-app purchase purchased and etc](https://fluffy.es/launch-arguments-environment-variables/)
+- [Fixing Vague Swift Error Logs](https://kristina.io/fixing-vague-swift-error-logs/)
