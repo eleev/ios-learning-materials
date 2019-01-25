@@ -24,6 +24,7 @@
 
 ## State Modeling
 - [Enum-Driven TableView Development](https://www.raywenderlich.com/5542-enum-driven-tableview-development)
+- [Maintaining State in Your ViewControllers](https://mecid.github.io/2019/01/23/maintaining-state-in-view-controllers/)
 
 ## Legacy Code / Backward Compatability
 - [Writing backward compatible Swift code](https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code)
