@@ -1,4 +1,4 @@
-## Testing
+# Testing
 - [Faster and more robust tests with Xcode 10](https://www.swiftbysundell.com/daily-wwdc/faster-and-more-robust-tests-with-xcode-10)
 - [Using Swift #file and #line Literals for Custom XCTest Assertions](https://www.iosdev.recipes/xctest/custom-assertions-file-and-line/)
 - [Test doubles in Swift: dummies, fakes, stubs, and spies.](https://www.mokacoding.com)
@@ -8,15 +8,15 @@
 - [How to test iOS networking code the easy way](https://www.hackingwithswift.com/articles/153/how-to-test-ios-networking-code-the-easy-way)
 - [Swift Codable Testing](https://paul-samuels.com/blog/2019/01/07/swift-codable-testing/)
 
-### Mocking 
+## Mocking 
 - [Mocking in Swift](https://medium.com/@johnsundell/mocking-in-swift-56a913ee7484)
 - [Mock-free unit tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)
 - [Mocking With Protocols in Swift](https://www.bignerdranch.com/blog/mocking-with-protocols-in-swift/)
 
-### Integration
+## Integration
 - [Integration Testing for Memory Leaks](https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks)
 
-### UI
+## UI
 - [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)
 - [Automated UI-Testing for iOS Apps](https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411)
 - [An introduction to UI Testing on iOS](https://medium.com/exploring-ios/an-introduction-to-ui-testing-on-ios-697526fa0fa9)
