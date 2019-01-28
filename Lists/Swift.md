@@ -19,6 +19,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Contiguous Collection Protocols - SE0237](https://github.com/apple/swift-evolution/blob/master/proposals/0237-contiguous-collection.md)
 - [Customizing string interpolation - SE0238](https://github.com/apple/swift-evolution/blob/master/proposals/0228-fix-expressiblebystringinterpolation.md)
 - [Add Codable conformance to Range types - SE-0239](https://github.com/apple/swift-evolution/blob/master/proposals/0239-codable-range.md)
+- [Swift 5 Release Notes for Xcode 10.2 beta](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes/swift_5_release_notes_for_xcode_10_2_beta)
 
 ### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
@@ -66,6 +67,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [The subtleties of protocol extensions](https://swiftindepth.com/2019-01-13/the-subtleties-of-protocol-extensions)
 - [Using protocols as composable extensions](https://mecid.github.io/2019/01/17/using-protocols-as-composable-extensions/)
 - [Refactoring With Protocols](https://useyourloaf.com/blog/refactoring-with-protocols/)
+- [Exploring Existential Types With Swift](https://medium.com/@dogwith1eye/exploring-existential-types-with-swift-c86142d7bd1c)
 
 ## Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
