@@ -233,6 +233,7 @@ Model View View-Movel
 - [Working With Static Patterns: A Swift MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial)
 - [Model-View-ViewModel for iOS](https://www.teehanlax.com/blog/model-view-viewmodel-for-ios/)
 - [Basic MVVM with ReactiveCocoa](https://cocoasamurai.blogspot.com/2013/03/basic-mvvm-with-reactivecocoa.html)
+- [Mastering MVVM on iOS](https://mecid.github.io/2018/01/11/mastering-mvvm-on-ios/)
 
 ### Video 
 - [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
