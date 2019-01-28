@@ -7,6 +7,7 @@
 - [Unit Testing Dispatch Queues With Dependency Injection](http://www.tekramer.com/unit-testing-dispatch-queues-with-dependency-injection)
 - [How to test iOS networking code the easy way](https://www.hackingwithswift.com/articles/153/how-to-test-ios-networking-code-the-easy-way)
 - [Swift Codable Testing](https://paul-samuels.com/blog/2019/01/07/swift-codable-testing/)
+- [Testing error code paths in Swift](https://www.swiftbysundell.com/posts/testing-error-code-paths-in-swift)
 
 ## Mocking 
 - [Mocking in Swift](https://medium.com/@johnsundell/mocking-in-swift-56a913ee7484)
