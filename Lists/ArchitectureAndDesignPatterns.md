@@ -187,13 +187,17 @@ Model View Controller
 - [Model-View-Controller, Apple Docs](https://developer.apple.com/library/content/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html)
 - [Do MVC like it’s 1979](https://badootech.badoo.com/do-mvc-like-its-1979-da62304f6568)
 - [A Better MVC, Part 1: The Problems](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/)
+- [A Better MVC, Part 2: Fixing Encapsulation](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-2-fixing-encapsulation/)
+- [A Better MVC, Part 3: Fixing Massive View Controller](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-3-fixing-massive-view-controller/)
+- [A Better MVC, Part 4: Future Directions](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-4-future-directions/)
+- [A Better MVC, Part 5: An Evolution](https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/)
 - [Just Controllers](http://khanlou.com/2018/02/just-controllers/)
 - [Model-View-Controller without the Controller](https://www.cocoawithlove.com/blog/mvc-without-the-c.html)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-)
-- [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
 - [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
 
 ### Video
+- [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
 - [UIKonf18 – Day 1 – Joachim Kurz – MVC is Not Your Problem](https://www.youtube.com/watch?v=A1vzcxR-Ss0&feature=youtu.be&t=1665)
 
 ## MVC-N
