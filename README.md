@@ -71,7 +71,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [App Distribution](Lists/AppDistribution.md)
 - [Dependency Management](Lists/DependencyManagement.md)
 - [Physics Engines](Lists/PhysicsEngines.md)
-- [Frameworks](Lists/Frameworks.md)
+- [Frameworks, Libraries, Platforms](Lists/FrameworksLibrariesPlatforms.md)
 - [Design](Lists/Design.md)
 - [UX](Lists/UX.md)
 - [Accessibility](Lists/Accessibility.md)
