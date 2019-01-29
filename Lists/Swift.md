@@ -74,6 +74,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ### Videos
 - [Protocols with Associated Types](https://www.youtube.com/watch?v=XWoNjiSPqI8)
+- [Alexis Gallagher - Protocols with Associated Types](https://www.youtube.com/watch?v=XWoNjiSPqI8)
 
 ### Standart Protocols
 - [Identifying Objects In Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift)
