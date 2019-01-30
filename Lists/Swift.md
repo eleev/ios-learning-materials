@@ -105,6 +105,11 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Type Erasure 
 - [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
 - [Swift World: Type Erasure](https://medium.com/swiftworld/swift-world-type-erasure-5b720bc0318a)
+- [Swift: Accomplishing Dynamic Dispatch on PATs (Protocol with Associated Types)](https://medium.com/@kahseng.lee123/accomplishing-dynamic-dispatch-on-pats-protocol-with-associated-types-b29d1242e939)
+- [Type Erasure in Swift](https://medium.com/@chris_dus/type-erasure-in-swift-84480c807534)
+- [Breaking Down Type Erasure in Swift](https://www.bignerdranch.com/blog/breaking-down-type-erasures-in-swift/)
+- [A “Type Erasure” Pattern that Works in Swift](https://blog.jayway.com/2017/05/12/a-type-erasure-pattern-that-works-in-swift/)
+- [Swift: Attempting to Understand Type Erasure](https://www.natashatherobot.com/swift-type-erasure/)
 
 ## Properties
 - [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
