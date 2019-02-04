@@ -36,6 +36,7 @@
 - [SCN shader modifier in metal - pass uniform to shader](https://stackoverflow.com/questions/39522370/scn-shader-modifier-in-metal-pass-uniform-to-shader)
 - [Crossfade material property textures](https://stackoverflow.com/questions/33235058/scenekit-crossfade-material-property-textures/33357397)
 - [3D Weather with SceneKit: aka Karl the Fog in AR](https://blog.mapbox.com/3d-weather-with-scenekit-aka-karl-the-fog-in-ar-931cff1c1c7c)
+- [Adding the finishing touches to 3D models in Xcode](https://blog.novoda.com/adding-the-finishing-touches-to-3d-models-in-xcode/)
 
 ### Video 📹
 - [Building a Game with SceneKit](https://developer.apple.com/videos/play/wwdc2014/610/)
