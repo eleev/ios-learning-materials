@@ -7,6 +7,7 @@
 - [Design Patterns in Swift #1: Factory Method and Singleton](https://www.appcoda.com/design-pattern-creational/)
 - [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [Krush iOS Architecture](https://www.teehanlax.com/blog/krush-ios-architecture/)
+- [Encapsulating Domain Data, Logic and Business Rules With Value Types in Swift](https://khawerkhaliq.com/blog/swift-domain-logic-business-rules-value-types/)
 
 ## Massive View Controller
 - [Avoiding Massive View Controller using Containment & Child View Controller](https://www.appcoda.com/container-view-controller/)
