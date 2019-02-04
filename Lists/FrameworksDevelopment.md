@@ -6,6 +6,7 @@
 - [It Looks Like You're Still Trying to Use a Framework](https://www.bignerdranch.com/blog/it-looks-like-you're-still-trying-to-use-a-framework/)
 - [Distributing Swift Frameworks via Cocoapods](https://medium.com/onfido-tech/distributing-swift-frameworks-via-cocoapods-152002b41783)
 - [Reusing code with Swift frameworks](https://medium.com/onfido-tech/reusing-code-with-swift-frameworks-cf60f5fa288a)
+- [Creating DSL in Swift](https://mecid.github.io/2019/01/30/creating-dsl-in-swift/)
 
 ## Cross platform frameworks
 - [SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)
