@@ -6,3 +6,5 @@
 - [Functional networking in Swift](https://www.swiftbysundell.com/posts/functional-networking-in-swift)
 - [Constructing URLs in Swift](https://www.swiftbysundell.com/posts/constructing-urls-in-swift)
 - [Detecting Internet Access on iOS 12+](https://medium.com/@rwbutler/nwpathmonitor-the-new-reachability-de101a5a8835)
+- [Alamofire vs URLSession: a comparison for networking in Swift](https://www.avanderlee.com/swift/alamofire-vs-urlsession/)
+- [Debugging iOS network traffic](https://blog.kulman.sk/debugging-ios-network-traffic/)
