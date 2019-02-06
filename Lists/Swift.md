@@ -22,6 +22,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift 5 Release Notes for Xcode 10.2 beta](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes/swift_5_release_notes_for_xcode_10_2_beta)
 - [How to use the result type to handle errors in Swift 5?](https://theswiftdev.com/2019/01/28/how-to-use-the-result-type-to-handle-errors-in-swift/)
 - [Character Properties in Swift 5](https://useyourloaf.com/blog/character-properties-in-swift-5/)
+- [Swift 5 Exclusivity Enforcement](https://swift.org/blog/swift-5-exclusivity/)
 
 ### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
@@ -176,6 +177,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Pattern Matching in Swift](https://oleb.net/blog/2015/09/swift-pattern-matching/) 
 - [Custom pattern matching in Swift](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
 - [Writing Custom Pattern Matching in Swift](https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift.html) 
+- [Pattern Matching with case let](https://mecid.github.io/2019/02/06/pattern-matching-with-case-let/)
  
 ## Assertion
 - [Swift asserts - the missing manual](https://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
