@@ -96,6 +96,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [An ARKit App that can help your friends to find you](https://github.com/mmoaay/Findme)
 - [Reimagining the power of Xcode's View Debugger for live debugging of AR or SceneKit apps](https://github.com/p-sun/ARPowerPanels)
 - [Building a Museum App with ARKit 2](https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2)
+- [A crash course in Augmented Reality on iOS with ARKit](https://infinum.co/the-capsized-eight/crash-course-in-augmented-reality-on-ios-with-arkit)
 
 ## Video 📹
 - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
