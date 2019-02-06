@@ -21,6 +21,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Add Codable conformance to Range types - SE-0239](https://github.com/apple/swift-evolution/blob/master/proposals/0239-codable-range.md)
 - [Swift 5 Release Notes for Xcode 10.2 beta](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_release_notes/swift_5_release_notes_for_xcode_10_2_beta)
 - [How to use the result type to handle errors in Swift 5?](https://theswiftdev.com/2019/01/28/how-to-use-the-result-type-to-handle-errors-in-swift/)
+- [Character Properties in Swift 5](https://useyourloaf.com/blog/character-properties-in-swift-5/)
 
 ### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
