@@ -9,11 +9,16 @@
 - [Grand Central Dispatch Tutorial for Swift 4: Part 2/2](https://www.raywenderlich.com/5371-grand-central-dispatch-tutorial-for-swift-4-part-2-2)
 - [Dispatch Barriers in Swift 3](https://medium.com/@oyalhi/dispatch-barriers-in-swift-3-6c4a295215d6)
 - [Grand Central Dispatch in Swift](https://www.netguru.com/codestories/grand-central-dispatch-in-swift)
+- [Ultimate Grand Central Dispatch tutorial in Swift](https://theswiftdev.com/2018/07/10/ultimate-grand-central-dispatch-tutorial-in-swift/)
+- [A deep dive into Grand Central Dispatch in Swift](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
 
 ### Futures & Promises
 - [Back To The Futures](https://academy.realm.io/posts/swift-summit-javier-soto-futures/)
 - [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
 - [Chaining Async Requests in iOS](https://medium.com/@nrewik/chaining-async-requests-in-ios-b492ad9d9b4a)
+
+### Tasks
+- [Task-based concurrency in Swift](https://www.swiftbysundell.com/posts/task-based-concurrency-in-swift)
 
 ### Other
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
@@ -21,3 +26,4 @@
 - [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
 - [Concurrency](https://theswiftpost.co/concurrency/)
 - [BUILDING EXPECTATIONS](https://pfandrade.me/blog/building-expectations/)
+- [Avoiding race conditions in Swift](https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26)
