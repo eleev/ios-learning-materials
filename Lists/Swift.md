@@ -37,6 +37,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Indirect Enums - Swift 3.0](https://jayeshkawli.ghost.io/indirect-enums-swift-3-0/)
 - [Indirect Enums And Structs](https://stackoverflow.com/questions/37533006/indirect-enums-and-structs)
 - [https://www.avanderlee.com/swift/enumerations/](https://www.avanderlee.com/swift/enumerations/)
+- [Unknown Enum Cases](https://www.latenightswift.com/2019/02/04/unknown-enum-cases/)
 
 ## Typealias
 - [The power of type aliases in Swift](https://www.swiftbysundell.com/posts/the-power-of-type-aliases-in-swift)
