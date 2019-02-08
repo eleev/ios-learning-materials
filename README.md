@@ -56,6 +56,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Debugging](Lists/Debugging.md)
 - [Testing](Lists/Testing.md)
 - [App Submission](Lists/AppSubmission.md)
+- [App Extensions](Lists/AppExtensions.md)
 - [Git](Lists/Git.md)
 - [iOS Development](Lists/iOSDevelopment.md)
 - [Algorithms and Data Structures](Lists/AlgorithmsAndDataStructures.md)
