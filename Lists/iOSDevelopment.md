@@ -4,6 +4,8 @@
 - [Learning Techniques for Programmers, by Programmers](https://www.raywenderlich.com/167015/learning-techniques-programmers)
 - [Projecting A Dynamic Decal onto a 3D Mesh](https://pompidev.net/2014/12/02/projecting-a-dynamic-decal-on-a-3d-mesh/)
 - [Analysis of the Nest app for iOS](https://blog.timac.org/2018/1211-analysis-of-the-nest-app-for-ios/)
+- [Get Your iOS App Featured on the App Store with These 11 Tips](https://appfigures.com/resources/get-your-ios-app-featured-on-the-app-store)
+- [Phased vs Regular Update Adoption Rates](https://david-smith.org/blog/2019/01/22/phased-vs-regular-update-adoption-rates/)
 
 ### Productivity
 - [What I Learned from Working 32 Hours a Week](https://spin.atomicobject.com/2019/01/04/32-hours-lessons/)
