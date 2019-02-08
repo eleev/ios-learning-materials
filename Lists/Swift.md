@@ -47,6 +47,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Strings
 - [Strings In Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
+- [Dive deep into Swift String](https://flawlessapp.io/blog/dive-deep-into-swift-string/)
 
 ## Regular Expressions
 - [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
