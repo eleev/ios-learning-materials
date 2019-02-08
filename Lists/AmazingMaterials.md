@@ -67,6 +67,8 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Pierre Felgines](https://felginep.github.io) - A blog about iOS development.
 - [CODEA & SHADE - Blog](https://codea.io/blog/) - Creators of Codea and Shade apps share their ideas, insights and sources for amazing developments.
 - [Majid's Blog](https://mecid.github.io) - A blog about Swift development by Majid.
+- [The Always Right Institute. Almost always sometimes definitely right.](http://www.alwaysrightinstitute.com) - A blog about Swift development by the former Apple engineer with over 25 years of experience - Helge Heß.
+- [Late Night Swift](https://www.latenightswift.com) - A Swift and iOS Development Blog.
 
 ### Machine Learning Blogs
 
