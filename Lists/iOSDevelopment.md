@@ -7,5 +7,8 @@
 - [Get Your iOS App Featured on the App Store with These 11 Tips](https://appfigures.com/resources/get-your-ios-app-featured-on-the-app-store)
 - [Phased vs Regular Update Adoption Rates](https://david-smith.org/blog/2019/01/22/phased-vs-regular-update-adoption-rates/)
 
+### Documentation
+- [Generate & Host your iOS Documentation](https://medium.com/@jonathan2457/generate-host-your-ios-documentation-39e21b382ce8)
+
 ### Productivity
 - [What I Learned from Working 32 Hours a Week](https://spin.atomicobject.com/2019/01/04/32-hours-lessons/)
