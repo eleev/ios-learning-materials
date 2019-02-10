@@ -1,4 +1,4 @@
-## Core Graphics 
+# Core Graphics 
 - [Core Graphics Tutorial Part 1: Getting Started](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started)
 - [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts)
 - [Core Graphics Tutorial Part 3: Patterns and Playgrounds](https://www.raywenderlich.com/167352/core-graphics-tutorial-part-3-patterns-playgrounds)
@@ -13,3 +13,6 @@
 - [Let's build: Freehand Drawing in iOS - Part 3](https://techblog.badoo.com/blog/2015/08/18/lets-build-freehand-drawing-in-ios-part-3/)
 - [How to Make a Line Drawing Game with Sprite Kit](https://www.raywenderlich.com/61289/how-to-make-a-line-drawing-game-with-sprite-kit)
 - [Optimizing Images](https://www.swiftjectivec.com/optimizing-images/)
+- [Core Graphics Tutorial: Patterns](https://nshipster.com/expressiblebystringinterpolation/)
+- [Core Graphics Tutorial: Shadows and Gloss](https://www.raywenderlich.com/9506-core-graphics-tutorial-shadows-and-gloss)
+- [Core Graphics Tutorial: Arcs and Paths](https://www.raywenderlich.com/349664-core-graphics-tutorial-arcs-and-paths)
