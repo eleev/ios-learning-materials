@@ -23,6 +23,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [How to use the result type to handle errors in Swift 5?](https://theswiftdev.com/2019/01/28/how-to-use-the-result-type-to-handle-errors-in-swift/)
 - [Character Properties in Swift 5](https://useyourloaf.com/blog/character-properties-in-swift-5/)
 - [Swift 5 Exclusivity Enforcement](https://swift.org/blog/swift-5-exclusivity/)
+- [Expressible By String Interpolation](https://nshipster.com/expressiblebystringinterpolation/)
 
 ### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
