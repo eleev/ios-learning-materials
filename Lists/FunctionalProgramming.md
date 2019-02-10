@@ -3,6 +3,7 @@
 ### Other
 - [Intro to Swift Functional Programming with Bob](https://www.bobthedeveloper.io/blog/intro-to-swift-functional-programming-with-bob)
 - [Functional Swift](https://medium.com/@geisonfgfg/functional-swift-41f1bed646d)
+- [Beginners guide to functional Swift](https://theswiftdev.com/2019/02/05/beginners-guide-to-functional-swift/)
 
 ### Lenses
 - [Lenses and Prisms in Swift: a pragmatic approach](https://broomburgo.github.io/fun-ios/post/lenses-and-prisms-in-swift-a-pragmatic-approach/)
