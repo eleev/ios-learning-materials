@@ -24,6 +24,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Character Properties in Swift 5](https://useyourloaf.com/blog/character-properties-in-swift-5/)
 - [Swift 5 Exclusivity Enforcement](https://swift.org/blog/swift-5-exclusivity/)
 - [Expressible By String Interpolation](https://nshipster.com/expressiblebystringinterpolation/)
+- [ABI Stability and More](https://swift.org/blog/abi-stability-and-more/)
 
 ### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
@@ -206,6 +207,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Subscripts
 - [Handling Index Out of Range Exception the Swift Way](http://www.vadimbulavin.com/handling-out-of-bounds-exception/)
 
+## Defer
+- [guard & defer](https://nshipster.com/guard-and-defer/)
+- [Defer usage in Swift](https://github.com/jVirus/ios-learning-materials/edit/master/Lists/Swift.md)
+
 ## Timer
 - [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
 
@@ -220,6 +225,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [Dynamic Features in Swift](https://www.raywenderlich.com/5743-dynamic-features-in-swift)
+- [Reflection In Swift](https://www.swiftbysundell.com/posts/reflection-in-swift)
 
 ## Code Optimization / Performance
 - [Unbreakable reference cycles in Swift no one is talking about](https://desiatov.com/swift-reference-cycles/)
