@@ -191,6 +191,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [OptionSetType and enums](https://stackoverflow.com/questions/36819163/optionsettype-and-enums)
 - [Option Sets in Swift](https://oleb.net/blog/2016/09/swift-option-sets/)
 - [OptionSet usage in Swift like NS_OPTIONS](https://www.avanderlee.com/swift/optionset-swift/)
+- [Option Set](https://nshipster.com/optionset/)
 
 ## Hashable
 - [Swift 4.2 improves Hashable with a new Hasher struct](https://www.hackingwithswift.com/articles/115/swift-4-2-improves-hashable-with-a-new-hasher-struct)
@@ -218,9 +219,15 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [ISO-8601, YYYY, yyyy, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/)
 
 ## Objective-C Runtime
+- [Swift & the Objective-C Runtime](https://nshipster.com/swift-objc-runtime/)
+
 ### Associated Object
 - [ASSOCIATED OBJECT](https://en.swifter.tips/associated-object/)
 - [Stored Properties In Swift Extensions](https://medium.com/@marcosantadev/stored-properties-in-swift-extensions-615d4c5a9a58)
+
+### Method Swizzling
+- [Method swizzling in iOS swift](https://medium.com/@abhimuralidharan/method-swizzling-in-ios-swift-1f38edaf984f)
+- [Code Injection](http://www.vadimbulavin.com/code-injection-swift/)
 
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
