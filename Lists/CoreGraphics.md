@@ -16,3 +16,4 @@
 - [Core Graphics Tutorial: Patterns](https://nshipster.com/expressiblebystringinterpolation/)
 - [Core Graphics Tutorial: Shadows and Gloss](https://www.raywenderlich.com/9506-core-graphics-tutorial-shadows-and-gloss)
 - [Core Graphics Tutorial: Arcs and Paths](https://www.raywenderlich.com/349664-core-graphics-tutorial-arcs-and-paths)
+- [Core Graphics Tutorial: Lines, Rectangles, and Gradients](https://www.raywenderlich.com/475829-core-graphics-tutorial-lines-rectangles-and-gradients)
