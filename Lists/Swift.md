@@ -53,6 +53,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Regular Expressions
 - [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
+- [Regular Expressions in Swift](https://nshipster.com/swift-regular-expressions/)
 
 ## Standard Data Structures
 - [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html)
