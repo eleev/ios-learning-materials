@@ -12,3 +12,4 @@
 
 ### Productivity
 - [What I Learned from Working 32 Hours a Week](https://spin.atomicobject.com/2019/01/04/32-hours-lessons/)
+- [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/)
