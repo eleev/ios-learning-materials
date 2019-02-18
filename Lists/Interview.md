@@ -7,3 +7,5 @@
 - [I interviewed at six top companies in Silicon Valley in six days, and stumbled into six job offers](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996)
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
 - [How Artsy Hires Engineers](http://artsy.github.io/blog/2019/01/23/artsy-engineering-hiring/)
+- [How to take your iOS career to the next level](https://medium.com/skills-matter/how-to-take-your-mobile-development-career-to-the-next-level-e8d12d8e1543)
+- [TECHNICAL INTERVIEW PROTIPS](https://martiancraft.com/blog/2018/05/technical-interview-protips/)
