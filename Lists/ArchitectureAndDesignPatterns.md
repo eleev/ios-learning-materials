@@ -1,6 +1,6 @@
 # Architecture & Design Patterns
 
-## Overview
+## Other
 - [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12)
 - [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
@@ -8,6 +8,7 @@
 - [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [Krush iOS Architecture](https://www.teehanlax.com/blog/krush-ios-architecture/)
 - [Encapsulating Domain Data, Logic and Business Rules With Value Types in Swift](https://khawerkhaliq.com/blog/swift-domain-logic-business-rules-value-types/)
+- [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/)
 
 ## Massive View Controller
 - [Avoiding Massive View Controller using Containment & Child View Controller](https://www.appcoda.com/container-view-controller/)
