@@ -28,7 +28,6 @@
 - [View Lifecycle](https://theswiftpost.co/view-lifecycle/)
 - [Advanced UIView shadow effects using shadowPath](https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath)
 
-
 ## UITextInput
 - [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
 
@@ -167,6 +166,12 @@
 - [iOS Animation Tutorial: Custom View Controller Presentation Transitions](https://www.raywenderlich.com/173576/ios-animation-tutorial-custom-view-controller-presentation-transitions-3)
 - [Introduction to Custom View Controller Transitions and Animations](https://www.appcoda.com/custom-view-controller-transitions-tutorial/)
 - [How To Make A UIViewController Transition Animation Like in the Ping App](https://www.raywenderlich.com/167198/make-uiviewcontroller-transition-animation-like-ping-app)
+
+## UIPresentationController
+- [Custom Presentations and Transitions](https://kylebashour.com/posts/custom-view-controller-presentation-tips)
+- [Custom presentations using UIPresentationController in Swift](http://zappdesigntemplates.com/custom-presentations-using-uipresentationcontroller-swift/)
+- [UIPresentationController Tutorial: Getting Started](https://www.raywenderlich.com/915-uipresentationcontroller-tutorial-getting-started)
+- [UIPresentationController](https://developer.apple.com/documentation/uikit/uipresentationcontroller)
 
 ## Custom Components
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
