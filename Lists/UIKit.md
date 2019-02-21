@@ -71,6 +71,7 @@
 
 ## UIImageView
 - [How to Mask an UIImageView](https://stackoverflow.com/questions/5757386/how-to-mask-an-uiimageview)
+- [How to implement rounded corner image view with shadow](https://fluffy.es/rounded-corner-shadow/)
 
 ## UISplitViewController
 - [UISplitViewController Tutorial: Getting Started](https://www.raywenderlich.com/173753/uisplitviewcontroller-tutorial-getting-started-2)
@@ -105,6 +106,7 @@
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
 - [All Thumbs, Why Reach Navigation Should Replace the Navbar in iOS Design](https://medium.com/tall-west/lets-ditch-the-nav-bar-3692cb17cc67)
 - [Development Tutorial for iPhone X](https://www.raywenderlich.com/173928/develop-design-iphone-x)
+- [How to fix wrong status bar orientation in iOS](https://medium.com/fantageek/how-to-fix-wrong-status-bar-orientation-in-ios-f044f840b9ed)
 
 ## Haptic Feedback
 - [Creating an Immersive User Experience with Haptic Feedback in iOS](http://www.appcoda.com/haptic-feedback/)
@@ -202,3 +204,4 @@
 - [Background Modes Tutorial: Getting Started](https://www.raywenderlich.com/5817-background-modes-tutorial-getting-started)
 - [Application Lifecycle](https://theswiftpost.co/application-lifecycle/)
 - [Upside Down and Rotating iPhones](https://useyourloaf.com/blog/upside-down-and-rotating-iphones/)
+- [Quick Trick to Make Your App Snappier](https://medium.com/@michael.eisel/quick-trick-to-make-your-app-snappier-f2413bf78318)
