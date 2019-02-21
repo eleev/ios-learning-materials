@@ -248,3 +248,4 @@ Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [Swift Get Class Name](http://ioschefs.com/swift-get-class-name/)
 - [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
 - [Debouncing in Swift while your iOS app is in the background](http://blog.hellocode.co/post/debounce-swift/)
+- [Inline types and functions in Swift](https://www.swiftbysundell.com/posts/inline-types-and-functions-in-swift)
