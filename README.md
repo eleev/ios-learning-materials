@@ -47,7 +47,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Swift](Lists/Swift.md)
 - [Xcode](Lists/Xcode.md)
 - [Persistence](Lists/Persistence.md)
-- [Internationalization](Lists/Internationalization.md)
+- [Internationalization & Localization](Lists/InternationalizationAndLocalization.md)
 - [Security](Lists/Security.md)
 - [Payments](Lists/Payments.md)
 - [Document Based Apps](Lists/DocumentBasedApps.md)
