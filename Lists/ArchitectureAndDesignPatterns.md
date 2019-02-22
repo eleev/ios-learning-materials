@@ -52,6 +52,9 @@
 ## Coroutines
 - [Expressive Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines)
 
+## Data Flow between View Controllers
+- [Passing Data Between View Controllers in iOS: The Definitive Guide](https://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other/)
+
 # Design Patterns
 
 ## Multicast Delegate
@@ -243,6 +246,7 @@ Model View View-Movel
 - [Model-View-ViewModel for iOS](https://www.teehanlax.com/blog/model-view-viewmodel-for-ios/)
 - [Basic MVVM with ReactiveCocoa](https://cocoasamurai.blogspot.com/2013/03/basic-mvvm-with-reactivecocoa.html)
 - [Mastering MVVM on iOS](https://mecid.github.io/2018/01/11/mastering-mvvm-on-ios/)
+- [Practical MVVM + RxSwift](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693)
 
 ### Video 
 - [Swift: How to Migrate MVC to MVVM & Intro Unit Testing](https://www.youtube.com/watch?v=n06RE9A_8Ks)
