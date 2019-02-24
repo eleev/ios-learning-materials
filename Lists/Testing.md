@@ -9,6 +9,12 @@
 - [Swift Codable Testing](https://paul-samuels.com/blog/2019/01/07/swift-codable-testing/)
 - [Testing error code paths in Swift](https://www.swiftbysundell.com/posts/testing-error-code-paths-in-swift)
 
+## Expectations / Async Testing
+- [INVERTED EXPECTATIONS](https://pfandrade.me/blog/inverted-expectations/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B392)
+- [Testing Asynchronous Operations with Expectations](https://developer.apple.com/documentation/xctest/asynchronous_tests_and_expectations/testing_asynchronous_operations_with_expectations)
+- [XCTest​Case / XCTest​Expectation / measure​Block()](https://nshipster.com/xctestcase/)
+- [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
+
 ## Mocking 
 - [Mocking in Swift](https://medium.com/@johnsundell/mocking-in-swift-56a913ee7484)
 - [Mock-free unit tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)
