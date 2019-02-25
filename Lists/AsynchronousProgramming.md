@@ -27,3 +27,4 @@
 - [Concurrency](https://theswiftpost.co/concurrency/)
 - [BUILDING EXPECTATIONS](https://pfandrade.me/blog/building-expectations/)
 - [Avoiding race conditions in Swift](https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26)
+- [Prioritize Work with Quality of Service Classes](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/EnergyGuide-iOS/PrioritizeWorkWithQoS.html#//apple_ref/doc/uid/TP40015243-CH39-SW1)
