@@ -122,6 +122,7 @@
 - [Hit-Testing in iOS](http://smnh.me/hit-testing-in-ios/)
 - [Stopping Tap Gesture from bubbling to child controls](https://bencoding.com/2017/02/27/stopping-tap-gesture-from-bubbling-to-child-controls/)
 - [Why is there a "lag" in iOS gesture detection near the edges of the screen?](https://blog.kulman.sk/why-ios-gestures-lag-at-the-screen-edges/)
+- [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
 
 ## UIResponder chain
 - [Open URLs using the iOS UIResponder chain in Swift](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686)
