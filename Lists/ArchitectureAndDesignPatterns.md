@@ -11,8 +11,11 @@
 - [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/)
 
 ## Massive View Controller
-- [Avoiding Massive View Controller using Containment & Child View Controller](https://www.appcoda.com/container-view-controller/)
 - [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers)
+
+## Containment & Child View Controller
+- [Avoiding Massive View Controller using Containment & Child View Controller](https://www.appcoda.com/container-view-controller/)
+- [Building complex screens with Child ViewControllers](https://mecid.github.io/2019/02/27/building-complex-screens-with-child-viewcontrollers/)
 
 ## Naming
 - [Function Naming in Swift](https://www.appcoda.com/function-naming/)
