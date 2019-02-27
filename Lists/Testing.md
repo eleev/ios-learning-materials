@@ -8,6 +8,7 @@
 - [How to test iOS networking code the easy way](https://www.hackingwithswift.com/articles/153/how-to-test-ios-networking-code-the-easy-way)
 - [Swift Codable Testing](https://paul-samuels.com/blog/2019/01/07/swift-codable-testing/)
 - [Testing error code paths in Swift](https://www.swiftbysundell.com/posts/testing-error-code-paths-in-swift)
+- [Swift weak reference assertion](https://medium.com/@londeix/swift-weak-reference-assertion-cf04fef6c334?sk=4c53201908a22bed1245b38a7f3c5227)
 
 ## Expectations / Async Testing
 - [INVERTED EXPECTATIONS](https://pfandrade.me/blog/inverted-expectations/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B392)
