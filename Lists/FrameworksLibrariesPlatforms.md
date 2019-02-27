@@ -60,6 +60,7 @@ For Scaledrone Swift, please follow the [specified link](https://github.com/Scal
 
 ## [Swift Package Manager]()
 - [All about the Swift Package Manager and the Swift toolchain](https://theswiftdev.com/2019/01/14/all-about-the-swift-package-manager-and-the-swift-toolchain/)
+- [Swift Package Manager builds iOS frameworks](https://badootech.badoo.com/swift-package-manager-builds-ios-frameworks-updated-xcode-10-2-beta-19b3e6741bda)
 
 ## Docker
 - [Docker on macOS: Getting Started](https://www.raywenderlich.com/9159-docker-on-macos-getting-started?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
