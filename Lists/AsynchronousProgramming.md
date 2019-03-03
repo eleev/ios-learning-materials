@@ -11,6 +11,7 @@
 - [Grand Central Dispatch in Swift](https://www.netguru.com/codestories/grand-central-dispatch-in-swift)
 - [Ultimate Grand Central Dispatch tutorial in Swift](https://theswiftdev.com/2018/07/10/ultimate-grand-central-dispatch-tutorial-in-swift/)
 - [A deep dive into Grand Central Dispatch in Swift](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
+- [Cancelling Background Tasks](http://jordansmith.io/cancelling-background-tasks/)
 
 ### Futures & Promises
 - [Back To The Futures](https://academy.realm.io/posts/swift-summit-javier-soto-futures/)
