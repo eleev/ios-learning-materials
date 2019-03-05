@@ -186,6 +186,7 @@
 - [The iOS Menu](https://codea.io/blog/the-ios-menu/)
 - [Detailing the iOS Menu](https://codea.io/blog/detailing-the-ios-menu/)
 - [Custom Controls](https://www.objc.io/issues/3-views/custom-controls/)
+- [Functional views](https://medium.com/izettle-engineering/functional-views-d4fbedd105da)
 
 ### Custom View from XIB/NIB
 - [Swift 3 — Creating a custom view from a xib](https://medium.com/@brianclouser/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
