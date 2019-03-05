@@ -9,3 +9,4 @@
 - [How Artsy Hires Engineers](http://artsy.github.io/blog/2019/01/23/artsy-engineering-hiring/)
 - [How to take your iOS career to the next level](https://medium.com/skills-matter/how-to-take-your-mobile-development-career-to-the-next-level-e8d12d8e1543)
 - [TECHNICAL INTERVIEW PROTIPS](https://martiancraft.com/blog/2018/05/technical-interview-protips/)
+- [Interview: Antoine van der Lee](https://www.hackingwithswift.com/articles/180/interview-antoine-van-der-lee)
