@@ -20,9 +20,10 @@
 ## Naming
 - [Function Naming in Swift](https://www.appcoda.com/function-naming/)
 
-## Decoupling 
+## Decoupling / Segregation
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
+- [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/)
 
 ## Data Driven Development
 - [Data-Driven Table Views](http://www.vadimbulavin.com/data-drive-table-views/)
