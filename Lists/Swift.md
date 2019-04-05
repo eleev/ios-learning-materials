@@ -96,11 +96,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Using errors as control flow in Swift](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
 
 ## Encoding and Decoding 
-- Encoding and Decoding in Swift 4
-- https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862
-- https://github.com/ole/whats-new-in-swift-4/blob/master/Whats-new-in-Swift-4.playground/Pages/Encoding%20and%20decoding.xcplaygroundpage/Contents.swift
-- https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
-- http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
+- [Encoding and Decoding in Swift 4](https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862)
+- [Encoding and Decoding](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
+- [JSON Parsing with Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/)
 - [Encoding, Decoding and Serialization in Swift 4](https://www.raywenderlich.com/172145/encoding-decoding-and-serialization-in-swift-4)
 - [Single Value Codable](http://www.russbishop.net/singlevaluecodable)
 - [Using Swift Codable With Property Lists](https://useyourloaf.com/blog/using-swift-codable-with-property-lists/)
