@@ -21,6 +21,9 @@
 ### Tasks
 - [Task-based concurrency in Swift](https://www.swiftbysundell.com/posts/task-based-concurrency-in-swift)
 
+### Syncronization Primitives
+- [Concurrency in Swift: Reader Writer Lock](https://medium.com/@dmytro.anokhin/concurrency-in-swift-reader-writer-lock-4f255ae73422)
+
 ### Other
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
