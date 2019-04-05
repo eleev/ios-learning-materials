@@ -130,6 +130,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Bindings, Generics Swift and MVVM](http://rasic.info/bindings-generics-swift-and-mvvm/)
 - [Solving The Binding Problem With Swift](http://five.agency/solving-the-binding-problem-with-swift/) 
 - [KVO In iOS 11](http://skyefreeman.io/programming/2017/06/28/kvo-in-ios11.html)  
+- [Swift Tip: Bindings with KVO and Key Pathss](https://www.objc.io/blog/2018/04/24/bindings-with-kvo-and-keypaths/)
 
 ## Switch 
 - [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
