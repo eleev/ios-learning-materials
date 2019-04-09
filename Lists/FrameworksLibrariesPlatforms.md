@@ -33,6 +33,10 @@
 - [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
 - [Strong-typed Notifications in Swift. Making Notifications type-safe and reactive with RxSwift.](https://medium.com/flawless-app-stories/strong-typed-notifications-in-swift-a5de8f7f58e0)
 - [Get started with RxSwift and reactive programming](https://agostini.tech/2019/02/04/get-started-with-rxswift-and-reactive-programming/)
+- [Magic of RxSwift. Rx Operators](https://agostini.tech/2019/03/10/magic-of-rxswift-rx-operators/)
+
+## [ReSwift](http://reswift.github.io/ReSwift/master/)
+- [Intro to ReSwift](https://agostini.tech/2019/03/03/intro-to-reswift/)
 
 ## [HoneyBee](http://honeybee.link/2.7.0/docs/index.html)
 - [Advanced Concurrency in Swift with HoneyBee](https://www.toptal.com/swift/advanced-concurrency-in-swift-with-honeybee)

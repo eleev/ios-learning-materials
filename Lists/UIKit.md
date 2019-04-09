@@ -27,6 +27,7 @@
 - [OBJECT LIFE CYCLE: UIVIEW](https://bradbambara.wordpress.com/2015/01/18/object-life-cycle-uiview/)
 - [View Lifecycle](https://theswiftpost.co/view-lifecycle/)
 - [Advanced UIView shadow effects using shadowPath](https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath)
+- [UIView styling with functions](https://felginep.github.io/2019-02-19/uiview-styling-with-functions)
 
 ## UITextInput
 - [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
@@ -101,6 +102,7 @@
 - [Power-Up Your Anchors](https://pedrommcarrasco.github.io/posts/power-up-your-anchors/)
 - [Mastering iOS auto layout anchors programmatically from Swift](https://theswiftdev.com/2018/06/14/mastering-ios-auto-layout-anchors-programmatically-from-swift/)
 - [Building DSLs in Swift](https://www.swiftbysundell.com/posts/building-dsls-in-swift)
+- [Dynamic Text Resizing in Swift](https://medium.com/@joncardasis/dynamic-text-resizing-in-swift-3da55887beb3)
 
 ## UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)

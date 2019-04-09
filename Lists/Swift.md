@@ -34,6 +34,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 ### Swift 4.0
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
 
+## Initialization
+- [Swift init patterns](https://theswiftdev.com/2017/10/10/swift-4-init-patterns/)
+
 ## Enumeration Type
 - [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
 - [Indirect Enums - Swift 3.0](https://jayeshkawli.ghost.io/indirect-enums-swift-3-0/)
@@ -231,12 +234,14 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
+
 - [Dynamic Features in Swift](https://www.raywenderlich.com/5743-dynamic-features-in-swift)
 - [Reflection In Swift](https://www.swiftbysundell.com/posts/reflection-in-swift)
 
 ## Code Optimization / Performance
 - [Unbreakable reference cycles in Swift no one is talking about](https://desiatov.com/swift-reference-cycles/)
 - [Increasing Performance by Reducing Dynamic Dispatch](https://developer.apple.com/swift/blog/?id=27)
+- [Why using isEmpty is faster than checking count == 0](https://www.hackingwithswift.com/articles/181/why-using-isempty-is-faster-than-checking-count-0)
 
 ### Videos
 - [Optimizing Swift Performance](https://developer.apple.com/videos/play/wwdc2015/409/)
@@ -248,3 +253,4 @@ Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
 - [Debouncing in Swift while your iOS app is in the background](http://blog.hellocode.co/post/debounce-swift/)
 - [Inline types and functions in Swift](https://www.swiftbysundell.com/posts/inline-types-and-functions-in-swift)
+- [Chris Lattner on the origins of Swift](https://oleb.net/2019/chris-lattner-swift-origins/)

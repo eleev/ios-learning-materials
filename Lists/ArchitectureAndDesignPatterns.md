@@ -109,6 +109,7 @@
 - [Coordinator: the missing pattern in UIKit](http://aplus.rs/2018/coordinator-missing-pattern-uikit/)
 - [Controller Hierarchies](https://sandofsky.com/blog/controller-hierarchies.html)
 - [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios)
+- [Introduction to Coordinator pattern in Swift](https://benoitpasquier.com/coordinator-pattern-swift/)
 
 ### Videos
 - [SwiftConf '16: Niels @nvh van Hoorn — Protocol Oriented ViewController Coordinators](https://www.youtube.com/watch?v=KDl7Czw63mM)
