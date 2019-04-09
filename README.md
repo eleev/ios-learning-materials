@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 05/April/2019.**
+**Last Update: 09/April/2019.**
 
 ![](logo-alternative.jpg)
 
@@ -37,6 +37,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Core Location](Lists/CoreLocation.md)
 - [Core Data](Lists/CoreData.md)
 - [Core Motion](Lists/CoreMotion.md)
+- [CoreNFC](Lists/CoreNFC.md)
 - [Vision Framework](Lists/Vision.md)
 - [Metal](Lists/Metal.md)
 - [AVFoundation](Lists/AVFoundation.md)
@@ -77,7 +78,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [UX](Lists/UX.md)
 - [Accessibility](Lists/Accessibility.md)
 - [Interview](Lists/Interview.md)
-- [Other](Lists/Other.md)
+- [Business](Lists/Business.md)
 
 # 👨‍💻 Author
 
