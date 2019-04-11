@@ -25,6 +25,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift 5 Exclusivity Enforcement](https://swift.org/blog/swift-5-exclusivity/)
 - [Expressible By String Interpolation](https://nshipster.com/expressiblebystringinterpolation/)
 - [ABI Stability and More](https://swift.org/blog/abi-stability-and-more/)
+- [Super-powered string interpolation in Swift 5.0](https://www.hackingwithswift.com/articles/178/super-powered-string-interpolation-in-swift-5-0)
 
 ### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
@@ -43,6 +44,11 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Indirect Enums And Structs](https://stackoverflow.com/questions/37533006/indirect-enums-and-structs)
 - [https://www.avanderlee.com/swift/enumerations/](https://www.avanderlee.com/swift/enumerations/)
 - [Unknown Enum Cases](https://www.latenightswift.com/2019/02/04/unknown-enum-cases/)
+- [SERIALISATION OF ENUM WITH ASSOCIATED TYPE](https://dmtopolog.com/serialisation-of-enum-with-associated-type/)
+- [@unknown default usage with enums in Swift](https://www.avanderlee.com/swift/unknown-default-enums-in-swift/)
+- [Swift 5 Frozen enums](https://useyourloaf.com/blog/swift-5-frozen-enums/)
+- [Make the most of enumerations in Swift](https://benoitpasquier.com/enumerations-in-swift/)
+- [Inclusive enums with OptionSet](https://mecid.github.io/2019/04/10/inclusive-enums-with-optionset/)
 
 ## Typealias
 - [The power of type aliases in Swift](https://www.swiftbysundell.com/posts/the-power-of-type-aliases-in-swift)
@@ -185,6 +191,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Custom pattern matching in Swift](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
 - [Writing Custom Pattern Matching in Swift](https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift.html) 
 - [Pattern Matching with case let](https://mecid.github.io/2019/02/06/pattern-matching-with-case-let/)
+- [Pattern matching in Swift](https://www.swiftbysundell.com/posts/pattern-matching-in-swift)
  
 ## Assertion
 - [Swift asserts - the missing manual](https://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
