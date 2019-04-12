@@ -50,6 +50,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Make the most of enumerations in Swift](https://benoitpasquier.com/enumerations-in-swift/)
 - [Inclusive enums with OptionSet](https://mecid.github.io/2019/04/10/inclusive-enums-with-optionset/)
 
+## Access Control / Accessors
+- [Fileprivate vs private in Swift: The differences explained](https://www.avanderlee.com/swift/fileprivate-private-differences-explained/)
+
 ## Typealias
 - [The power of type aliases in Swift](https://www.swiftbysundell.com/posts/the-power-of-type-aliases-in-swift)
 
@@ -59,6 +62,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Strings
 - [Strings In Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
 - [Dive deep into Swift String](https://flawlessapp.io/blog/dive-deep-into-swift-string/)
+- [String literals in Swift](https://www.swiftbysundell.com/posts/string-literals-in-swift)
 
 ## Regular Expressions
 - [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
@@ -149,7 +153,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Collections
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
 - [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
- 
+
+## Required
+- [Required keyword usage in Swift classes and structs](https://www.avanderlee.com/swift/required-keyword/)
+
 ## Import
 - [Swift Import Declarations](https://nshipster.com/import/)
  
@@ -164,7 +171,10 @@ The section contains materials that are dedicated to specific versions of `Swift
  
 ## Closures
 - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
- 
+
+### Capture List
+- [Capture lists in Swift: what’s the difference between weak, strong, and unowned references?](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
+
 ## Nonmutating
 - [The why of nonmutating](https://medium.com/swift-programming/the-why-of-nonmutating-7ecd2cf17ecf)
 - [Swift’s nonmutating Keyword](https://jasdev.me/nonmutating)
