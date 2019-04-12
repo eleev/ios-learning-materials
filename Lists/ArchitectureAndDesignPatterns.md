@@ -190,6 +190,9 @@
 - [Managing View Controllers With Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
 - [Container View Controllers](https://useyourloaf.com/blog/container-view-controllers/)
 
+## Binding
+- [Bindable values in Swift](https://www.swiftbysundell.com/posts/bindable-values-in-swift)
+
 # Architectural Patterns
 
 ## MVC
