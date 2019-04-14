@@ -24,6 +24,7 @@
 
 ## Integration
 - [Integration Testing for Memory Leaks](https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks)
+- [Integration tests in Swift](https://www.swiftbysundell.com/posts/integration-tests-in-swift)
 
 ## UI
 - [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)

@@ -7,6 +7,7 @@
 - [Behaviors in iOS Apps](https://www.objc.io/issues/13-architecture/behaviors/)
 - [iOS — Start an app without a storyboard](https://medium.com/ios-os-x-development/ios-start-an-app-without-storyboard-5f57e3251a25)
 - [How Do Unwind Segues Work](https://cocoacasts.com/how-do-unwind-segues-work)
+- [Unwind Segues Step-by-Step (and 4 Reasons to Use Them)](https://matteomanferdini.com/unwind-segue/)
 
 ## UIKit Dynamics
 - [UIKit Dynamics in Swift 2.0](https://ahmedabdurrahman.com/2015/10/22/uikit-dynamics-tutorial-in-swift-2-0/)
@@ -21,6 +22,9 @@
 
 ## UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
+
+## UIApplication
+- [Open settings app using openSettingsURLString](https://fluffy.es/open-settings-app/)
 
 ## UIView
 - [How to Create Top/Bottom Rounded Corners for Views and Buttons](https://www.appcoda.com/rounded-corners-uiview/)
@@ -158,6 +162,8 @@
 - [iOS UIView chained animations](https://medium.com/@ernesto.torres/ios-uiview-chained-animations-f8fadcc16be5)
 - [UIView Animation Options Reference Guide](https://medium.com/@apmason/uiview-animation-options-9510832eedba)
 - [Animatable Properties](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreAnimation_guide/AnimatableProperties/AnimatableProperties.html)
+- [Animating changes in UITableView and UICollectionView](https://mecid.github.io/2019/03/13/animating-changes-in-uitableview-and-uicollectionview/)
+- [Adding a wiggle animation to a UIBarButtonItem](http://blog.hellocode.co/post/wiggle-animation-uibarbuttonitem/)
 
 ### Transitions
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)

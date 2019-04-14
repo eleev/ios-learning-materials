@@ -1,4 +1,4 @@
-## Core Animation 
+# Core Animation 
 - [CALayer Tutorial: Getting Started](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
 - [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
 - [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift)
@@ -9,3 +9,4 @@
 - [A more Swifty Core Animation](https://www.swiftbysundell.com/daily-wwdc/a-more-swifty-core-animation)
 - [Animations are assets: using Core Animation archives on iOS](https://rambo.codes/ios/2018/11/11/animations-are-assets.html)
 - [Huge Images, Small Phone](https://medium.com/frame-io-engineering/huge-images-small-phone-15414b30d39e)
+- [Particle systems: a Christmas story](https://badootech.badoo.com/ios-particle-systems-a-christmas-story-270c1844fd50)

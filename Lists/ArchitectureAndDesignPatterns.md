@@ -25,6 +25,9 @@
 - [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
 - [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/)
 
+## OOP / Object Oriented Paradigm
+- [Styling by subclassing](https://theswiftdev.com/2019/02/19/styling-by-subclassing/)
+
 ## Data Driven Development
 - [Data-Driven Table Views](http://www.vadimbulavin.com/data-drive-table-views/)
 
@@ -167,6 +170,7 @@
 - [Dependency Injection on iOS — part 2/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-2-4-359fe6800e90)
 - [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-3-4-e85fe7e20de6)
 - [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-4-4-ce3723d819d)
+- [Dependency Injection in Swift with Protocols](https://mecid.github.io/2019/03/06/dependency-injection-in-swift-with-protocols/)
 
 ## Iterator
 - [Design Patterns in Swift: Iterator Pattern](https://agostini.tech/2018/06/10/design-patterns-in-swift-iterator-pattern/)
