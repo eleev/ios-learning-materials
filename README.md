@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 12/April/2019.**
+**Last Update: 14/April/2019.**
 
 ![](logo-alternative.jpg)
 
@@ -44,7 +44,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Asset Catalog](Lists/AssetCatalog.md)
 - [Playgrounds](Lists/Playgrounds.md)
 - [In-App Purchase](Lists/InAppPurchase.md)
+- [Auto Fill](Lists/AutoFill.md)
 - [NLP](Lists/NLP.md)
+- [Foundation](Lists/Foundation.md)
 - [Swift](Lists/Swift.md)
 - [Xcode](Lists/Xcode.md)
 - [Persistence](Lists/Persistence.md)
