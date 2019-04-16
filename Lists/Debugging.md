@@ -13,6 +13,7 @@
 - [Clear and searchable logging in Swift with OSLog](https://www.lordcodes.com/posts/clear-and-searchable-logging-in-swift-with-oslog)
 - [Debugging Out of Memory Issues: Catching Layout Feedback Loop with the Runtime Magic](https://www.appcoda.com/layout-feedback-loop/)
 - [Debugging Tips&Tricks](https://agostini.tech/2019/01/27/debugging-tipstricks/)
+- [Improving the iOS development cycle with breakpoints](https://www.dcordero.me/posts/improving_the_ios_development_cycle_with_breakpoints.html)
 
 ## Videos
 
