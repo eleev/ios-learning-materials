@@ -245,6 +245,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [ASSOCIATED OBJECT](https://en.swifter.tips/associated-object/)
 - [Stored Properties In Swift Extensions](https://medium.com/@marcosantadev/stored-properties-in-swift-extensions-615d4c5a9a58)
 
+## Generics
+- [Improving the UI of generics](https://forums.swift.org/t/improving-the-ui-of-generics/22814)
+- [Advanced Generics and protocols in Swift](https://blog.usejournal.com/advanced-generics-and-protocols-in-swift-c30020fd5ded)
+
 ### Method Swizzling
 - [Method swizzling in iOS swift](https://medium.com/@abhimuralidharan/method-swizzling-in-ios-swift-1f38edaf984f)
 - [Code Injection](http://www.vadimbulavin.com/code-injection-swift/)
