@@ -10,20 +10,25 @@
 - [Encapsulating Domain Data, Logic and Business Rules With Value Types in Swift](https://khawerkhaliq.com/blog/swift-domain-logic-business-rules-value-types/)
 - [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/)
 
+## Designing APIs
+- [Designing Swift APIs](https://www.swiftbysundell.com/posts/designing-swift-apis)
+
+### Naming
+- [Function Naming in Swift](https://www.appcoda.com/function-naming/)
+
+## Refactoring 
+
+### Decoupling / Segregation
+- [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
+- [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
+- [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/)
+
 ## Massive View Controller
 - [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers)
 
 ## Containment & Child View Controller
 - [Avoiding Massive View Controller using Containment & Child View Controller](https://www.appcoda.com/container-view-controller/)
 - [Building complex screens with Child ViewControllers](https://mecid.github.io/2019/02/27/building-complex-screens-with-child-viewcontrollers/)
-
-## Naming
-- [Function Naming in Swift](https://www.appcoda.com/function-naming/)
-
-## Decoupling / Segregation
-- [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
-- [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
-- [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/)
 
 ## OOP / Object Oriented Paradigm
 - [Styling by subclassing](https://theswiftdev.com/2019/02/19/styling-by-subclassing/)
