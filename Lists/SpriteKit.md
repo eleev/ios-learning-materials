@@ -47,6 +47,7 @@
 - [Using Different Assets for iPhones and iPads with SpriteKit](http://simonfairbairn.com/different-assets-iphones-ipads-spritekit/)
 - [Creating a Generic Node Component in SpriteKit](http://simonfairbairn.com/generic-node-component-spritekit/)
 - [Refactoring Components in SpriteKit](http://simonfairbairn.com/refactoring-components-in-spritekit/)
+- [15 tips to optimize your SpriteKit game](https://www.hackingwithswift.com/articles/184/tips-to-optimize-your-spritekit-game)
 
 #### Kinematics
 - [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
