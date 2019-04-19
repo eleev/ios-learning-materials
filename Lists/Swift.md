@@ -26,6 +26,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Expressible By String Interpolation](https://nshipster.com/expressiblebystringinterpolation/)
 - [ABI Stability and More](https://swift.org/blog/abi-stability-and-more/)
 - [Super-powered string interpolation in Swift 5.0](https://www.hackingwithswift.com/articles/178/super-powered-string-interpolation-in-swift-5-0)
+- [Swift 5.0: How to migrate your project and frameworks](https://www.avanderlee.com/swift/updating-swift-5/)
 
 ### Swift 4.2
 - [What’s New in Swift 4.2?](https://www.raywenderlich.com/194066/whats-new-in-swift-4-2)
@@ -103,6 +104,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## KVC
 - [Struct References](http://chris.eidhof.nl/post/references/)
+- [Making the Most of Swift.KeyPath](https://edit.theappbusiness.com/making-the-most-of-swift-keypath-1c3d8c8c1d25)
 
 ## Error Handling
 - [Intro to Error Handling in Swift](https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668)
