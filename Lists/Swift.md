@@ -137,6 +137,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Using lazy properties in Swift](https://medium.com/@johnsundell/using-lazy-properties-in-swift-592c777e0052)
 - [Swift Lazy Initialization with Closures](https://blog.bobthedeveloper.io/swift-lazy-initialization-with-closures-a9ef6f6312c)
 - [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/)
+- [Property observers in Swift](https://www.swiftbysundell.com/posts/property-observers-in-swift)
 
 ## KVO and Bindings
 - [Bindings and KVO alternatives](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
