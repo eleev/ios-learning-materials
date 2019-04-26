@@ -42,6 +42,7 @@
 - [Dynamic Cell Sizing in UICollectionView](https://engineering.shopspring.com/dynamic-cell-sizing-in-uicollectionview-fd95f614ef80)
 - [UICollectionView with autosizing cell using autolayout in iOS 9 & 10](https://medium.com/@wasinwiwongsak/uicollectionview-with-autosizing-cell-using-autolayout-in-ios-9-10-84ab5cdf35a2)
 - [UICollectionView Self Sizing Cells with Auto Layout](https://stackoverflow.com/questions/25895311/uicollectionview-self-sizing-cells-with-auto-layout)
+- [An easier way to dequeue cells in iOS](https://medium.com/over-engineering/an-easier-way-to-dequeue-cells-in-ios-5c8b8de4dfed)
 
 ### UICollectionViewLayout & UICollectionViewFlowLayout
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
@@ -139,6 +140,7 @@
 - [Basic Push Notifications in iOS 10 and Swift](https://makeapppie.com/2017/01/03/basic-push-notifications-in-ios-10-and-swift/)
 - [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started)
 - [Local and Remote Notifications Overview](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/)
+- [Scheduling Local Notifications With Swift](https://learnappmaking.com/local-notifications-scheduling-swift/)
 
 ## Apple Pencil
 - [Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)
