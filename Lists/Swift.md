@@ -251,6 +251,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Generics
 - [Improving the UI of generics](https://forums.swift.org/t/improving-the-ui-of-generics/22814)
 - [Advanced Generics and protocols in Swift](https://blog.usejournal.com/advanced-generics-and-protocols-in-swift-c30020fd5ded)
+- [Swift Generics Evolution](https://www.timekl.com/blog/2019/04/14/swift-generics-evolution/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B400)
 
 ### Method Swizzling
 - [Method swizzling in iOS swift](https://medium.com/@abhimuralidharan/method-swizzling-in-ios-swift-1f38edaf984f)
