@@ -10,6 +10,7 @@
 - [Testing error code paths in Swift](https://www.swiftbysundell.com/posts/testing-error-code-paths-in-swift)
 - [Swift weak reference assertion](https://medium.com/@londeix/swift-weak-reference-assertion-cf04fef6c334?sk=4c53201908a22bed1245b38a7f3c5227)
 - [Better tests for delegates](http://www.mokacoding.com/blog/better-tests-for-delegates/)
+- [Starting Unit Testing with Model layer](https://mecid.github.io/2019/04/24/starting-unit-testing-with-model-layer/)
 
 ## Expectations / Async Testing
 - [INVERTED EXPECTATIONS](https://pfandrade.me/blog/inverted-expectations/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B392)
