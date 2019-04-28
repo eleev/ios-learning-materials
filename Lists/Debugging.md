@@ -16,6 +16,7 @@
 - [Improving the iOS development cycle with breakpoints](https://www.dcordero.me/posts/improving_the_ios_development_cycle_with_breakpoints.html)
 - [Using Memory Graph Debugger in Xcode 9](https://medium.com/@imas145/using-memory-graph-debugger-in-xcode-9-a50aa9d0243f)
 - [Memory Usage Performance Guidelines](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/ManagingMemory.html#//apple_ref/doc/uid/10000160-SW1)
+- [iOS Debugging Tips & Tricks](https://www.netguru.com/codestories/ios-debugging-tips-tricks)
 
 ## Videos
 
