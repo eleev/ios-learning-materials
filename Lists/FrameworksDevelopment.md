@@ -7,8 +7,9 @@
 - [Distributing Swift Frameworks via Cocoapods](https://medium.com/onfido-tech/distributing-swift-frameworks-via-cocoapods-152002b41783)
 - [Reusing code with Swift frameworks](https://medium.com/onfido-tech/reusing-code-with-swift-frameworks-cf60f5fa288a)
 - [Creating DSL in Swift](https://mecid.github.io/2019/01/30/creating-dsl-in-swift/)
-- [Create your own CocoaPods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589	d5cd270)
+- [Create your own CocoaPods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270)
 - [Loading Resources From A Framework](https://useyourloaf.com/blog/loading-resources-from-a-framework/)
+- [Improve your iOS team’s productivity by building features as frameworks](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5)
 
 ## Cross platform frameworks
 - [SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)
