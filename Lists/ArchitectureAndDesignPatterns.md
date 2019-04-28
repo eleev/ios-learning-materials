@@ -60,6 +60,7 @@
 
 ## Composition
 - [Reusability and Composition in Swift](https://theswiftpost.co/reusability-composition-swift/)
+- [Using Composition in iOS Architecture](https://medium.com/@dkw5877/using-composition-in-ios-development-a457a37db0bd)
 
 ## Coroutines
 - [Expressive Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines)
@@ -198,6 +199,7 @@
 - [Custom container view controllers in Swift](https://www.swiftbysundell.com/posts/custom-container-view-controllers-in-swift)
 - [Managing View Controllers With Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
 - [Container View Controllers](https://useyourloaf.com/blog/container-view-controllers/)
+- [Container View Controllers Redux](https://medium.com/flawless-app-stories/container-view-controllers-revisited-e076ef38853f)
 
 ## Binding
 - [Bindable values in Swift](https://www.swiftbysundell.com/posts/bindable-values-in-swift)
