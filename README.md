@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 28/April/2019.**
+**Last Update: 29/April/2019.**
 
 ![](logo-alternative.jpg)
 
@@ -48,6 +48,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [NLP](Lists/NLP.md)
 - [Foundation](Lists/Foundation.md)
 - [Swift](Lists/Swift.md)
+- [SwiftSyntax](Lists/SwiftSyntax.md)
 - [Xcode](Lists/Xcode.md)
 - [Persistence](Lists/Persistence.md)
 - [Internationalization & Localization](Lists/InternationalizationAndLocalization.md)
