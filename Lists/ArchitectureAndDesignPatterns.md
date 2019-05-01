@@ -16,6 +16,9 @@
 ### Naming
 - [Function Naming in Swift](https://www.appcoda.com/function-naming/)
 
+## Navigation
+- [Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift)
+
 ## Refactoring 
 
 ### Decoupling / Segregation
@@ -39,12 +42,13 @@
 ## State Modeling
 - [Enum-Driven TableView Development](https://www.raywenderlich.com/5542-enum-driven-tableview-development)
 - [Maintaining State in Your ViewControllers](https://mecid.github.io/2019/01/23/maintaining-state-in-view-controllers/)
+- [Modeling State In Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift)
 
 ## Legacy Code / Backward Compatability
 - [Writing backward compatible Swift code](https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code)
 
 ## Model Layer
-- [Modeling State In Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift)
+- [Structuring model data in Swift](https://www.swiftbysundell.com/posts/structuring-model-data-in-swift)
 
 ## Promise
 - [Promises in Swift: Asynchronous Promises: Proof of Concept in Swift](https://medium.com/@robringham/promises-in-swift-66f377c3e403)
