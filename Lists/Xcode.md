@@ -10,3 +10,4 @@
 - [Cheat sheet examples for Xcode and Swift development](https://www.avanderlee.com/workflow/cheat-sheet-xcode-swift/)
 - [Using launch arguments / environment variables to simulate in-app purchase purchased and etc](https://fluffy.es/launch-arguments-environment-variables/)
 - [Fixing Vague Swift Error Logs](https://kristina.io/fixing-vague-swift-error-logs/)
+- [Xcode Build Configuration Files](https://nshipster.com/xcconfig/)
