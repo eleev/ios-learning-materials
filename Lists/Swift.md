@@ -56,6 +56,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Typealias
 - [The power of type aliases in Swift](https://www.swiftbysundell.com/posts/the-power-of-type-aliases-in-swift)
+- [The usefulness of typealiases in swift](https://appventure.me/posts/2019-5-15-the-usefulness-of-typealiases-in-swift.html)
 
 ## Directives 
 - [#warning It seems that Swift can’t do this!](https://medium.com/rocknnull/warning-it-seems-that-swift-cant-do-this-def0c9c9d0f7)
