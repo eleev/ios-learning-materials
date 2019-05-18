@@ -21,6 +21,7 @@
 - [Rendering 3D Text with Core Text and libtess2](http://metalbyexample.com/text-3d/)
 - [Picking and Hit-Testing in Metal](http://metalbyexample.com/picking-hit-testing/)
 - [Moving from OpenGL to Metal](https://www.raywenderlich.com/9211-moving-from-opengl-to-metal)
+- [Vertex Data and Vertex Descriptors](http://metalbyexample.com/vertex-descriptors/)
 
 ### Reosurces 
 - [Metal By Example: High-performance graphics and compute programming for iOS](http://metalbyexample.com)
