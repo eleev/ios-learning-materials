@@ -8,3 +8,4 @@
 - [Detecting Internet Access on iOS 12+](https://medium.com/@rwbutler/nwpathmonitor-the-new-reachability-de101a5a8835)
 - [Alamofire vs URLSession: a comparison for networking in Swift](https://www.avanderlee.com/swift/alamofire-vs-urlsession/)
 - [Debugging iOS network traffic](https://blog.kulman.sk/debugging-ios-network-traffic/)
+- [Download files sequentially using URLSession inside OperationQueue](https://fluffy.es/download-files-sequentially/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B403)
