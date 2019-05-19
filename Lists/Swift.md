@@ -176,7 +176,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Closures
 - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
 
-### Capture List
+## Weak, Strong and Unowned References
+- [Weak self and unowned self explained in Swift](https://www.avanderlee.com/swift/weak-self/)
+
+## Capture List
 - [Capture lists in Swift: what’s the difference between weak, strong, and unowned references?](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
 
 ## Nonmutating
@@ -245,7 +248,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Objective-C Runtime
 - [Swift & the Objective-C Runtime](https://nshipster.com/swift-objc-runtime/)
 
-### Associated Object
+## Associated Object
 - [ASSOCIATED OBJECT](https://en.swifter.tips/associated-object/)
 - [Stored Properties In Swift Extensions](https://medium.com/@marcosantadev/stored-properties-in-swift-extensions-615d4c5a9a58)
 
@@ -257,6 +260,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 ### Method Swizzling
 - [Method swizzling in iOS swift](https://medium.com/@abhimuralidharan/method-swizzling-in-ios-swift-1f38edaf984f)
 - [Code Injection](http://www.vadimbulavin.com/code-injection-swift/)
+
+## ARC
+- [Understand ARC](https://makeapppie.com/2019/05/08/understand-arc/)
 
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
