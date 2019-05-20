@@ -25,6 +25,7 @@
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [How to move view code out of your view controllers](https://www.hackingwithswift.com/articles/89/how-to-move-view-code-out-of-your-view-controllers)
 - [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/)
+- [Extracting view controller actions in Swift](https://www.swiftbysundell.com/posts/extracting-view-controller-actions-in-swift)
 
 ## Massive View Controller
 - [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers)
