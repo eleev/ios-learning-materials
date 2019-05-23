@@ -17,6 +17,10 @@
 - [Using Memory Graph Debugger in Xcode 9](https://medium.com/@imas145/using-memory-graph-debugger-in-xcode-9-a50aa9d0243f)
 - [Memory Usage Performance Guidelines](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/ManagingMemory.html#//apple_ref/doc/uid/10000160-SW1)
 - [iOS Debugging Tips & Tricks](https://www.netguru.com/codestories/ios-debugging-tips-tricks)
+- [Xcode: Advanced Breakpoint Usages](https://marcosantadev.com/xcode-advanced-breakpoint-usages/)
+
+## Documentation 
+- [GDB and LLDB Command Examples](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-command-examples.html#//apple_ref/doc/uid/TP40012917-CH3-SW1)
 
 ## Videos
 
