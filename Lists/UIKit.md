@@ -97,6 +97,9 @@
 - [Choosing Images with UIImagePickerController in Swift](http://www.codingexplorer.com/choosing-images-with-uiimagepickercontroller-in-swift/)
 - [How to Use UIImagePickerController for a Camera and Photo Library in Swift 3.0.](https://makeapppie.com/2016/06/28/how-to-use-uiimagepickercontroller-for-a-camera-and-photo-library-in-swift-3-0/)
 
+## UIMotionEffect
+- [UIMotionEffect: Easily adding depth to your UI](https://nachbaur.com/2019/04/24/uimotioneffects/)
+
 ## Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
 - [Auto Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/160527/auto-layout-tutorial-ios-11-getting-started)
