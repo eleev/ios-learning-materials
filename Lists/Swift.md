@@ -284,6 +284,9 @@ Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 ### Videos
 - [Optimizing Swift Performance](https://developer.apple.com/videos/play/wwdc2015/409/)
  
+## Namespacing
+- [The Power of Namespacing in Swift](http://www.vadimbulavin.com/the-power-of-namespacing-in-swift/)
+ 
 ## Other 
 - [Swift + Keywords (V 3.0.1)](https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c)
 - [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/)
