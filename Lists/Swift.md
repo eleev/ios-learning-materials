@@ -7,6 +7,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ### Swift 5.1
 - [What’s new in Swift 5.1](https://www.hackingwithswift.com/articles/182/whats-new-in-swift-5-1)
 - [How to use opaque return types in Swift 5.1](https://www.hackingwithswift.com/articles/187/how-to-use-opaque-return-types-in-swift-5-1)
+- [Ordered Collection Diffing](https://thoughtbot.com/blog/ordered-collection-diffing)
 
 ### Swift 5.0
 - [What will be new in Swift 5?](https://medium.com/developerinsider/what-will-be-new-in-swift-5-cee94f241b44)
@@ -69,6 +70,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Strings In Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
 - [Dive deep into Swift String](https://flawlessapp.io/blog/dive-deep-into-swift-string/)
 - [String literals in Swift](https://www.swiftbysundell.com/posts/string-literals-in-swift)
+- [Empty Strings in Swift](https://useyourloaf.com/blog/empty-strings-in-swift/)
 
 ## Regular Expressions
 - [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
