@@ -136,9 +136,10 @@
 - [Why is there a "lag" in iOS gesture detection near the edges of the screen?](https://blog.kulman.sk/why-ios-gestures-lag-at-the-screen-edges/)
 - [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
 
-## UIResponder chain
+## UIResponder / Responder Chain
 - [Open URLs using the iOS UIResponder chain in Swift](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686)
 - [Using Responders and the Responder Chain to Handle Events](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events)
+- [Using The Responder Chain](https://useyourloaf.com/blog/using-the-responder-chain/)
 
 ## Notifications Framework (Local & Remote) 
 - [Introduction to User Notifications Framework in iOS 10](https://www.appcoda.com/ios10-user-notifications-guide/)
@@ -216,6 +217,7 @@
 
 ## State Restoration
 - [Restoring Your UI With State Restoration](https://agostini.tech/2018/11/25/restoring-your-ui-with-state-restoration/)
+- [State Restoration With Swift Structs](https://useyourloaf.com/blog/state-restoration-with-swift-structs/)
 
 ## Other 
 - [iOS 12: Notable UIKit Additions](https://medium.com/the-traveled-ios-developers-guide/ios-12-notable-uikit-additions-b50beb0e3729)
