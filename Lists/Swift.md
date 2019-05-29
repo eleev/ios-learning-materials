@@ -253,6 +253,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Objective-C Runtime
 - [Swift & the Objective-C Runtime](https://nshipster.com/swift-objc-runtime/)
+- [@autoreleasepool uses in 2019 Swift](https://swiftrocks.com/autoreleasepool-in-2019-swift.html)
 
 ## Associated Object
 - [ASSOCIATED OBJECT](https://en.swifter.tips/associated-object/)
@@ -269,6 +270,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## ARC
 - [Understand ARC](https://makeapppie.com/2019/05/08/understand-arc/)
+- [ARC and Memory Management in Swift](https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift)
 
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
@@ -295,3 +297,4 @@ Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [Debouncing in Swift while your iOS app is in the background](http://blog.hellocode.co/post/debounce-swift/)
 - [Inline types and functions in Swift](https://www.swiftbysundell.com/posts/inline-types-and-functions-in-swift)
 - [Chris Lattner on the origins of Swift](https://oleb.net/2019/chris-lattner-swift-origins/)
+- [Exploring the Swift standard library source code](https://useyourloaf.com/blog/exploring-the-swift-standard-library-source-code/)
