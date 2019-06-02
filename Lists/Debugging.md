@@ -19,6 +19,7 @@
 - [iOS Debugging Tips & Tricks](https://www.netguru.com/codestories/ios-debugging-tips-tricks)
 - [Xcode: Advanced Breakpoint Usages](https://marcosantadev.com/xcode-advanced-breakpoint-usages/)
 - [What Is EXC_BAD_ACCESS and How to Debug It](https://code.tutsplus.com/tutorials/what-is-exc_bad_access-and-how-to-debug-it--cms-24544)
+- [Advanced Debugging with Xcode](https://medium.com/headout-engineering/advanced-debugging-with-xcode-9eba2845232a)
 
 ## Documentation 
 - [GDB and LLDB Command Examples](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-command-examples.html#//apple_ref/doc/uid/TP40012917-CH3-SW1)
