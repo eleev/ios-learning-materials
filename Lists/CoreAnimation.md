@@ -10,3 +10,4 @@
 - [Animations are assets: using Core Animation archives on iOS](https://rambo.codes/ios/2018/11/11/animations-are-assets.html)
 - [Huge Images, Small Phone](https://medium.com/frame-io-engineering/huge-images-small-phone-15414b30d39e)
 - [Particle systems: a Christmas story](https://badootech.badoo.com/ios-particle-systems-a-christmas-story-270c1844fd50)
+- [Animated Gradients on iOS](https://medium.com/@rwbutler/animated-gradients-on-ios-aa117551e533)
