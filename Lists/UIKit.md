@@ -185,6 +185,10 @@
 - [iOS Animation Tutorial: Custom View Controller Presentation Transitions](https://www.raywenderlich.com/173576/ios-animation-tutorial-custom-view-controller-presentation-transitions-3)
 - [Introduction to Custom View Controller Transitions and Animations](https://www.appcoda.com/custom-view-controller-transitions-tutorial/)
 - [How To Make A UIViewController Transition Animation Like in the Ping App](https://www.raywenderlich.com/167198/make-uiviewcontroller-transition-animation-like-ping-app)
+- [Custom Navigation Transitions, Part I: An Introduction](https://devsign.co/notes/navigation-transitions-1)
+- [Custom Navigation Transitions, Part II: A Simple Modal](https://devsign.co/notes/navigation-transitions-2)
+- [Custom Navigation Transitions, Part III: A Complex Push/Pop Animation](https://devsign.co/notes/navigation-transitions-iii)
+- [Custom Navigation Transitions, Part IV: An Interactive Pop Transition](https://devsign.co/notes/navigation-transitions-iv)
 
 ## UIPresentationController
 - [Custom Presentations and Transitions](https://kylebashour.com/posts/custom-view-controller-presentation-tips)
