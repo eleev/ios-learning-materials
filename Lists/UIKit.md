@@ -36,7 +36,9 @@
 ## UITextInput
 - [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
 
-## UICollectionView
+## UICollectionView & UITableView
+
+### UICollectionView
 - [Custom UICollectionViewLayout with Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
 - [Dynamic Cell Sizing in UICollectionView](https://engineering.shopspring.com/dynamic-cell-sizing-in-uicollectionview-fd95f614ef80)
@@ -44,13 +46,24 @@
 - [UICollectionView Self Sizing Cells with Auto Layout](https://stackoverflow.com/questions/25895311/uicollectionview-self-sizing-cells-with-auto-layout)
 - [An easier way to dequeue cells in iOS](https://medium.com/over-engineering/an-easier-way-to-dequeue-cells-in-ios-5c8b8de4dfed)
 
-### UICollectionViewLayout & UICollectionViewFlowLayout
+#### UICollectionViewLayout & UICollectionViewFlowLayout
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
 - [Creating A Custom UICollectionViewLayout in Swift    ](https://stablekernel.com/creating-a-custom-uicollectionviewlayout-in-swift/)
 - [UICollectionView Custom Layout Tutorial: A Spinning Wheel](https://www.raywenderlich.com/107687/uicollectionview-custom-layout-tutorial-spinning-wheel)
 - [UICollectionViewLayout](https://deAddveloper.apple.com/documentation/uikit/uicollectionviewlayout)
 - [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
 - [Practical Introduction to Custom UICollectionView Layouts](https://www.netguru.co/codestories/practical-introduction-to-custom-uicollectionview-layouts?utm_campaign=Codestories&utm_source=iosgoodies)
+
+### UITableView
+- [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
+- [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/)
+- [Enum-Driven TableView Development](https://www.raywenderlich.com/188692/enum-driven-tableview-development)
+- [Self-Sizing Table View Cells in Practice](https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/)
+- [Slot-based UI development in Swift](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
+- [Solving duplicated / repeating cells in Table view](https://fluffy.es/solve-duplicated-cells/)
+
+### Data Sources 
+- [A first look at the new diffable data sources for table views and collection views](https://wwdcbysundell.com/2019/diffable-data-sources-first-look/)
 
 ## UITabBarController
 - [Animating tab bar buttons on tap](https://blog.kulman.sk/animating-tab-bar-buttons/)
@@ -62,14 +75,6 @@
 ## UITableView & UICollectionView
 - [Smooth Scrolling in UITableView and UICollectionView](https://medium.com/capital-one-developers/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f)
 - [Boost Smooth Scrolling with iOS 10 Pre-Fetching API](https://medium.com/capital-one-developers/boost-smooth-scrolling-with-ios-10-pre-fetching-api-818c25cd9c5d)
-
-## UITableView
-- [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
-- [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/)
-- [Enum-Driven TableView Development](https://www.raywenderlich.com/188692/enum-driven-tableview-development)
-- [Self-Sizing Table View Cells in Practice](https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/)
-- [Slot-based UI development in Swift](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
-- [Solving duplicated / repeating cells in Table view](https://fluffy.es/solve-duplicated-cells/)
 
 ## UIStackView
 - [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
