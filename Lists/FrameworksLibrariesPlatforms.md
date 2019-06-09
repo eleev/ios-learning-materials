@@ -62,10 +62,6 @@ For Scaledrone Swift, please follow the [specified link](https://github.com/Scal
 ## [swift-sh](https://github.com/mxcl/swift-sh?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thechangelog+%28The+Changelog%29)
 - [swift-sh](https://nshipster.com/swift-sh/)
 
-## [Swift Package Manager](https://github.com/apple/swift-package-manager)
-- [All about the Swift Package Manager and the Swift toolchain](https://theswiftdev.com/2019/01/14/all-about-the-swift-package-manager-and-the-swift-toolchain/)
-- [Swift Package Manager builds iOS frameworks](https://badootech.badoo.com/swift-package-manager-builds-ios-frameworks-updated-xcode-10-2-beta-19b3e6741bda)
-
 ## [Codecov](https://codecov.io)
 - [Code Coverage With codecov](https://agostini.tech/2017/07/16/code-coverage-with-codecov/)
 
