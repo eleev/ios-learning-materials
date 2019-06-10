@@ -62,3 +62,4 @@
 - [SwiftUI = Mind-blow | WWDC iOS developer reaction](https://www.youtube.com/watch?v=fbuOxKqC5wQ)
 - [SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes)
 - [Good Things: SwiftUI on Mojave in iOS Playgrounds](https://ericasadun.com/2019/06/06/good-things-swiftui-on-mojave-in-ios-playgrounds/)
+- [SwiftUI Fetching JSON and Image Data with BindableObject](https://www.youtube.com/watch?v=xT4wGOc2jd4&feature=youtu.be)
