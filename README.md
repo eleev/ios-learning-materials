@@ -44,6 +44,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Metal](Lists/Metal.md)
 - [Vision](Lists/Vision.md)
 - [AVFoundation](Lists/AVFoundation.md)
+- [Project Catalyst](Lists/ProjectCatalyst.md)
 - [Asset Catalog](Lists/AssetCatalog.md)
 - [Playgrounds](Lists/Playgrounds.md)
 - [In-App Purchase](Lists/InAppPurchase.md)
