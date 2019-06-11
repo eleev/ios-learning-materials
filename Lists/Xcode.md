@@ -12,3 +12,4 @@
 - [Fixing Vague Swift Error Logs](https://kristina.io/fixing-vague-swift-error-logs/)
 - [Xcode Build Configuration Files](https://nshipster.com/xcconfig/)
 - [How Xcode Indexing Works and How You Can Fix IDE Problems with Your Projects](https://pspdfkit.com/blog/2019/how-xcode-indexing-works-and-how-to-solve-problems/)
+- [What's new in Xcode 11](https://www.hackingwithswift.com/articles/192/whats-new-in-xcode-11)
