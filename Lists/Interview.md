@@ -11,7 +11,11 @@
 - [TECHNICAL INTERVIEW PROTIPS](https://martiancraft.com/blog/2018/05/technical-interview-protips/)
 - [Interview: Antoine van der Lee](https://www.hackingwithswift.com/articles/180/interview-antoine-van-der-lee)
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
+- [How to get the first job as an iOS developer](https://medium.com/flawless-app-stories/14-resources-to-help-you-get-your-ios-engineering-job-1cca22cedafe)
 
 ## Preperation
 - [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [Ninety-Nine Swift Problems](https://www.enekoalonso.com/projects/99-swift-problems/)
+
+# Career 
+- [Why iOS Developers Feel Stuck In Their Careers & What To Do](https://medium.com/essential-developer-ios/why-ios-developers-feel-stuck-in-their-careers-what-to-do-d800a50470a2)
