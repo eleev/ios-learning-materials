@@ -21,7 +21,12 @@
 - [SwiftUI Are we saying goodbye to IB(UIStoryboard)?](https://medium.com/@themedo8000/swiftui-are-we-saying-goodbye-to-ib-718035e83b07)
 - [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986)
 - [SwiftUI for React Native Developers](https://medium.com/@rorogadget/swiftui-for-react-native-developers-2072a21c22fb)
+- [SwiftUI Will Change More Than How We Code](https://www.prolificinteractive.com/2019/06/07/swiftui-will-change-more-than-how-we-code/)
+- [What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4)
+- [SwiftUI vs Interface Builder and storyboards](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards)
+- [SwiftUI Basics: List Fetching](https://medium.com/@matschmidy/swiftui-basics-list-fetching-9b03fb145d85?postPublishedType=initial)
 - [MVVM in SwiftUI](https://medium.com/@azamsharp/mvvm-in-swiftui-8a2e9cc2964a)
+
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -64,3 +69,6 @@
 - [Good Things: SwiftUI on Mojave in iOS Playgrounds](https://ericasadun.com/2019/06/06/good-things-swiftui-on-mojave-in-ios-playgrounds/)
 - [SwiftUI Fetching JSON and Image Data with BindableObject](https://www.youtube.com/watch?v=xT4wGOc2jd4&feature=youtu.be)
 - [SwiftUI lets us build declarative user interfaces in Swift](https://www.hackingwithswift.com/articles/191/swiftui-lets-us-build-declarative-user-interfaces-in-swift)
+- [SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)
+- [SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)
+
