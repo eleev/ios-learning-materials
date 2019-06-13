@@ -21,7 +21,7 @@
 - [SwiftUI Are we saying goodbye to IB(UIStoryboard)?](https://medium.com/@themedo8000/swiftui-are-we-saying-goodbye-to-ib-718035e83b07)
 - [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986)
 - [SwiftUI for React Native Developers](https://medium.com/@rorogadget/swiftui-for-react-native-developers-2072a21c22fb)
-
+- [MVVM in SwiftUI](https://medium.com/@azamsharp/mvvm-in-swiftui-8a2e9cc2964a)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
