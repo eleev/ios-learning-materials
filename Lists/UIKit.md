@@ -1,5 +1,8 @@
 # UIKit
 
+## Dark Mode
+- [How To Adopt Dark Mode In Your iOS App ](https://www.fivestars.blog/code/ios-dark-mode-how-to.html)
+
 ## Storyboards
 - [Storyboards Tutorial for iOS: Part 1](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
 - [Storyboards Tutorial for iOS: Part 2](https://www.raywenderlich.com/160519/storyboards-tutorial-ios-10-getting-started-part-2)
@@ -96,6 +99,7 @@
 
 ## UIVisualEffectView
 - [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/167-uivisualeffectview-tutorial-getting-started)
+- [UIVisualEffect – Swift Tutorial](http://nikolakirev.com/blog/uivisualeffect-swift-tutorial)
 
 ## UIImagePickerController 
 - [Using UIImagePickerController in landscape orientation](https://stackoverflow.com/questions/19374237/using-uiimagepickercontroller-in-landscape-orientation)
@@ -117,6 +121,7 @@
 - [Building DSLs in Swift](https://www.swiftbysundell.com/posts/building-dsls-in-swift)
 - [Dynamic Text Resizing in Swift](https://medium.com/@joncardasis/dynamic-text-resizing-in-swift-3da55887beb3)
 - [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f)
+- [Demystifying iOS Layout](http://tech.gc.com/demystifying-ios-layout/)
 
 ## UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
@@ -234,3 +239,6 @@
 - [Application Lifecycle](https://theswiftpost.co/application-lifecycle/)
 - [Upside Down and Rotating iPhones](https://useyourloaf.com/blog/upside-down-and-rotating-iphones/)
 - [Quick Trick to Make Your App Snappier](https://medium.com/@michael.eisel/quick-trick-to-make-your-app-snappier-f2413bf78318)
+- [iOS 11: Notable UIKit Additions](https://www.swiftjectivec.com/ios-11-notable-uikit-additions/)
+- [iOS 12: Notable UIKit Additions](https://www.swiftjectivec.com/ios-12-notable-uikit-additions/)
+- [iOS 13: Notable UIKit Additions](https://www.swiftjectivec.com/ios-13-notable-uikit-additions/)
