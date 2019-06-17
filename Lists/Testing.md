@@ -18,6 +18,9 @@
 - [XCTest​Case / XCTest​Expectation / measure​Block()](https://nshipster.com/xctestcase/)
 - [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
 
+## UIViewController, UICollectionView, UITableView Testing
+- [Unit Test - UICollectionView in UIViewController with example](https://zaccc123.github.io/blog/2017/unit-testing-uicollectionview-in-uiviewcontroller-with-example/)
+
 ## Mocking 
 - [Mocking in Swift](https://medium.com/@johnsundell/mocking-in-swift-56a913ee7484)
 - [Mock-free unit tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)
