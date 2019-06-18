@@ -148,6 +148,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/)
 - [Property observers in Swift](https://www.swiftbysundell.com/posts/property-observers-in-swift)
 
+## Property Wrappers
+- [Property wrappers to remove boilerplate code in Swift](https://www.avanderlee.com/swift/property-wrappers/)
+
 ## KVO and Bindings
 - [Bindings and KVO alternatives](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
 - [Bindings, Generics Swift and MVVM](http://rasic.info/bindings-generics-swift-and-mvvm/)
@@ -203,6 +206,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Exploring @dynamicMemberLookup](http://alisoftware.github.io/swift/exploration/2018/06/14/exploring-dynamicmemberlookup/) 
 - [Thoughts on @dynamicMemberLookup](https://oleb.net/blog/2018/06/dynamic-member-lookup/)
 - [How to use Dynamic Member Lookup in Swift](https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift)
+- [Dynamic Member Lookup combined with key paths in Swift](https://www.avanderlee.com/swift/dynamic-member-lookup/)
 
 ### @inline
 - [The Forbidden @inline Attribute in Swift](https://swiftrocks.com/the-forbidden-inline-attribute-in-swift.html)
