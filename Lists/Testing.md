@@ -11,6 +11,7 @@
 - [Swift weak reference assertion](https://medium.com/@londeix/swift-weak-reference-assertion-cf04fef6c334?sk=4c53201908a22bed1245b38a7f3c5227)
 - [Better tests for delegates](http://www.mokacoding.com/blog/better-tests-for-delegates/)
 - [Starting Unit Testing with Model layer](https://mecid.github.io/2019/04/24/starting-unit-testing-with-model-layer/)
+- [Tips and tricks on unit testing iOS apps](https://www.kairadiagne.com/2019/05/31/ios-testing-tips-and-tricks)
 
 ## Expectations / Async Testing
 - [INVERTED EXPECTATIONS](https://pfandrade.me/blog/inverted-expectations/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B392)
@@ -35,3 +36,4 @@
 - [Automated UI-Testing for iOS Apps](https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411)
 - [An introduction to UI Testing on iOS](https://medium.com/exploring-ios/an-introduction-to-ui-testing-on-ios-697526fa0fa9)
 - [UI Testing Quick Guide](https://useyourloaf.com/blog/ui-testing-quick-guide/)
+- [Easy UITests for your iOS app](https://treatwell.engineering/easy-uitests-for-your-ios-app-6af7aa3457)
