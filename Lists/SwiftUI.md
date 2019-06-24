@@ -28,6 +28,9 @@
 - [MVVM in SwiftUI](https://medium.com/@azamsharp/mvvm-in-swiftui-8a2e9cc2964a)
 - [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/)
 - [The Swift 5.1 features that power SwiftUI’s API](https://www.swiftbysundell.com/posts/the-swift-51-features-that-power-swiftuis-api)
+- [Learn SwiftUI with free tutorials](https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials)
+- [SwiftUI Introduction. Preface](https://appventure.me/guides/swiftui/preface.html)
+- [SwiftUI Introduction. Declarative Programming](https://appventure.me/guides/swiftui/overview.html)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
