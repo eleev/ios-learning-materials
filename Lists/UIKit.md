@@ -86,6 +86,7 @@
 ## UIImageView
 - [How to Mask an UIImageView](https://stackoverflow.com/questions/5757386/how-to-mask-an-uiimageview)
 - [How to implement rounded corner image view with shadow](https://fluffy.es/rounded-corner-shadow/)
+- [Animated launch screen using a GIF in iOS](https://www.amerhukic.com/animating-launch-screen-using-gif)
 
 ## UISplitViewController
 - [UISplitViewController Tutorial: Getting Started](https://www.raywenderlich.com/173753/uisplitviewcontroller-tutorial-getting-started-2)
