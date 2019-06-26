@@ -31,6 +31,8 @@
 - [Learn SwiftUI with free tutorials](https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials)
 - [SwiftUI Introduction. Preface](https://appventure.me/guides/swiftui/preface.html)
 - [SwiftUI Introduction. Declarative Programming](https://appventure.me/guides/swiftui/overview.html)
+- [SwiftUI: Modified Content, Type Erasure, and Type Debugging](https://ericasadun.com/2019/06/23/swiftui-modified-content-type-erasure-and-type-debugging/)
+- [Using Xcode Previews with existing views without using SwiftUI](https://www.avanderlee.com/xcode/xcode-previews/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
