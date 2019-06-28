@@ -9,3 +9,4 @@
 - [Core Data Programming Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1)
 - [Multiple Managed Object Contexts with Core Data Tutorial](https://www.raywenderlich.com/7586-multiple-managed-object-contexts-with-core-data-tutorial)
 - [Core Data Relationships](https://hackernoon.com/core-data-relationships-d813ed66ba8c)
+- [Apple’s New CloudKit-Based Core Data Sync](https://medium.com/@drewmccormack/apples-new-cloudkit-based-core-data-sync-4c1f334044bc)
