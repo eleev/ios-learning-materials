@@ -11,6 +11,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [The Swift 5.1 features that power SwiftUI’s API](https://www.swiftbysundell.com/posts/the-swift-51-features-that-power-swiftuis-api)
 - [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/)
 - [Shifting paradigms in Swift](https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift)
+- [Swift Property Wrappers](https://nshipster.com/propertywrapper/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B410)
 
 ### Swift 5.0
 - [What will be new in Swift 5?](https://medium.com/developerinsider/what-will-be-new-in-swift-5-cee94f241b44)
