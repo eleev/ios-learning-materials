@@ -1,6 +1,6 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Last Update: 01/July/2019.**
+**Last Update: 02/July/2019.**
 
 ![](logo-alternative.jpg)
 
@@ -103,6 +103,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [YUAMING](https://github.com/yuaming)
 - [Ozgur Sahin](https://github.com/ozgurshn)
 - [Jr. Ken J.](https://github.com/kenjonesjr)
+- [Umar Haroon](https://github.com/Umar-M-Haroon)
 
 # 🔖 Licence
 The project is availabe under [MIT Licence](https://github.com/jVirus/ios-learning-materials/blob/master/LICENSE)
