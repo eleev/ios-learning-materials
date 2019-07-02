@@ -6,15 +6,18 @@
 - [Reactive Programming + Combine](https://arvindravi.com/reactive-programming-combine/)
 - [Hello, Combine: Part I](https://arvindravi.com/hello-combine-part-i/)
 - [Combine and RxSwift Overview](https://www.caseyliss.com/2019/6/21/rxswift-vs-combine-wrap-up)
+
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
-- [Receiving and Handling Events in Combine (https://developer.apple.com/documentation/combine/receiving_and_handling_events_with_combine)
-## Videos
+- [Receiving and Handling Events in Combine](https://developer.apple.com/documentation/combine/receiving_and_handling_events_with_combine)
 
 ## Books
 - [Using Combine](https://heckj.github.io/swiftui-notes/feedback.html)
-## Other Resources
+
+## Code 
 - [CombineSwiftPlayground](https://github.com/AvdLee/CombineSwiftPlayground)
+
+## Videos
 ### WWDC
 - [Introducing Combine](https://developer.apple.com/videos/play/wwdc2019/722)
 - [Introducing Combine and Advances in Foundation](https://developer.apple.com/videos/play/wwdc2019/711)
