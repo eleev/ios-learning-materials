@@ -56,6 +56,8 @@
 - [UICollectionViewLayout](https://deAddveloper.apple.com/documentation/uikit/uicollectionviewlayout)
 - [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
 - [Practical Introduction to Custom UICollectionView Layouts](https://www.netguru.co/codestories/practical-introduction-to-custom-uicollectionview-layouts?utm_campaign=Codestories&utm_source=iosgoodies)
+- [Custom Collection View Layouts](https://www.objc.io/issues/3-views/collection-view-layouts/)
+- [Expanding Cells in iOS Collection Views](https://www.raywenderlich.com/7246-expanding-cells-in-ios-collection-views)
 
 ### UITableView
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
