@@ -35,6 +35,7 @@
 - [Using Xcode Previews with existing views without using SwiftUI](https://www.avanderlee.com/xcode/xcode-previews/)
 - [Inside SwiftUI’s Declarative Syntax’s Compiler Magic](https://medium.com/swift2go/inside-swiftuis-declarative-syntax-s-compiler-magic-df9336d640f3)
 - [Crash course in Swift's 'function builders' with SwiftUI](https://blog.vihan.org/swift-function-builders/)
+- [Gosh Darn SwiftUI](https://goshdarnswiftui.com/#text)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
