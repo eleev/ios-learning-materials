@@ -117,11 +117,14 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Struct References](http://chris.eidhof.nl/post/references/)
 - [Making the Most of Swift.KeyPath](https://edit.theappbusiness.com/making-the-most-of-swift-keypath-1c3d8c8c1d25)
 
+### Documentation
+- [About Key-Value Coding](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html#//apple_ref/doc/uid/10000107-SW1)
+
 ## Error Handling
 - [Intro to Error Handling in Swift](https://blog.bobthedeveloper.io/intro-to-error-handling-in-swift-3-edb2ce6a6668)
 - [Using errors as control flow in Swift](https://www.swiftbysundell.com/posts/using-errors-as-control-flow-in-swift)
 
-## Encoding and Decoding 
+## Encoding and Decoding (Codable)
 - [Encoding and Decoding in Swift 4](https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862)
 - [Encoding and Decoding](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
 - [JSON Parsing with Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/)
@@ -130,6 +133,11 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Using Swift Codable With Property Lists](https://useyourloaf.com/blog/using-swift-codable-with-property-lists/)
 - [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
 - [OBJECT SERIALIZATION IN IOS](https://dmtopolog.com/object-serialization-in-ios/)
+- [Encoding and Decoding in Swift](https://www.raywenderlich.com/3418439-encoding-and-decoding-in-swift)
+
+### Documentation
+- [Encoding and Decoding Custom Types](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
+- [Using JSON with Custom Types](https://developer.apple.com/documentation/foundation/archives_and_serialization/using_json_with_custom_types)
 
 ## Ranges & Intervals
 - [Ranges and Intervals in Swift](https://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
