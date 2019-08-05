@@ -84,6 +84,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html)
 - [Five useful methods of dictionaries](https://www.hackingwithswift.com/articles/109/five-useful-methods-of-dictionaries)
 
+## Value Semantics
+- [Utilizing value semantics in Swift](https://www.swiftbysundell.com/posts/utilizing-value-semantics-in-swift)
+
 ## Structs
 - [Stop Using Structs!](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
