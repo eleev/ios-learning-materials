@@ -77,6 +77,9 @@
 
 # Design Patterns
 
+## Type Erasure
+- [Learn & Master ⚔️ Type Erasure in 6 Minutes](https://medium.com/swlh/learn-master-%EF%B8%8F-type-erasure-in-6-minutes-f04d7535fb82)
+
 ## Multicast Delegate
 - [Multicast Delegates in Swift](http://www.gregread.com/2016/02/23/multicast-delegates-in-swift/)
 - [Multicast on Swift 3 and MVVM-C](https://medium.com/@ivan_m/multicast-on-swift-3-and-mvvm-c-ff74ce802bcc)
