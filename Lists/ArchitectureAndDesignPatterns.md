@@ -19,6 +19,9 @@
 ## Navigation
 - [Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift)
 
+## Rule-Based Logic
+- [Rule-based logic in Swift](https://www.swiftbysundell.com/posts/rule-based-logic-in-swift)
+
 ## Refactoring 
 
 ### Decoupling / Segregation
