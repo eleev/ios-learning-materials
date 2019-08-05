@@ -27,6 +27,7 @@
 - [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/)
 - [Extracting view controller actions in Swift](https://www.swiftbysundell.com/posts/extracting-view-controller-actions-in-swift)
 - [Configurable types in Swift](https://www.swiftbysundell.com/posts/configurable-types-in-swift)
+- [Layered Architecture to Design iOS Apps](https://www.vadimbulavin.com/layered-architecture-ios/)
 
 ## Massive View Controller
 - [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers)
@@ -183,6 +184,7 @@
 - [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-3-4-e85fe7e20de6)
 - [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-4-4-ce3723d819d)
 - [Dependency Injection in Swift with Protocols](https://mecid.github.io/2019/03/06/dependency-injection-in-swift-with-protocols/)
+- [Looser dependencies with Swift](https://juripakaste.fi/dependency_protocols_structs.html)
 
 ## Iterator
 - [Design Patterns in Swift: Iterator Pattern](https://agostini.tech/2018/06/10/design-patterns-in-swift-iterator-pattern/)
