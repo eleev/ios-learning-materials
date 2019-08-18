@@ -36,6 +36,9 @@
 - [Inside SwiftUI’s Declarative Syntax’s Compiler Magic](https://medium.com/swift2go/inside-swiftuis-declarative-syntax-s-compiler-magic-df9336d640f3)
 - [Crash course in Swift's 'function builders' with SwiftUI](https://blog.vihan.org/swift-function-builders/)
 - [Gosh Darn SwiftUI](https://goshdarnswiftui.com/#text)
+- [Create a Side menu with SwiftUI](https://medium.com/programming-with-swift/create-a-side-menu-with-swiftui-4225c8842d26)
+- [Build a Stopwatch app with SwiftUI](https://medium.com/programming-with-swift/build-a-stopwatch-app-with-swiftui-7fe83ad11c24)
+- [ViewModifiers in SwiftUI](https://mecid.github.io/2019/08/07/viewmodifiers-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
