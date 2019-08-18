@@ -1,9 +1,10 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Language](https://img.shields.io/badge/language-Swift-green.svg)]()
-[![Founded](https://img.shields.io/badge/founded-August_2017-ff69b4)]()
-[![Materials](https://img.shields.io/badge/materials-1531-important)]()
-[![Contributors](https://img.shields.io/badge/contributors-8-informational)]()
+[![Founded](https://img.shields.io/badge/founded-August_2017-ff69b4.svg)]()
+[![Materials](https://img.shields.io/badge/materials-1531-important.svg)]()
+[![MajorTopics](https://img.shields.io/badge/major_topics-75-red.svg)]()
+[![Contributors](https://img.shields.io/badge/contributors-8-informational.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
 **Last Update: 18/August/2019.**
