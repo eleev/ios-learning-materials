@@ -20,26 +20,34 @@
 - [Xcode: Advanced Breakpoint Usages](https://marcosantadev.com/xcode-advanced-breakpoint-usages/)
 - [What Is EXC_BAD_ACCESS and How to Debug It](https://code.tutsplus.com/tutorials/what-is-exc_bad_access-and-how-to-debug-it--cms-24544)
 - [Advanced Debugging with Xcode](https://medium.com/headout-engineering/advanced-debugging-with-xcode-9eba2845232a)
+- [Discovering & using OSLog output console with SwiftyBeaver on iOS](https://medium.com/back-market-engineering/discovering-using-oslog-output-console-with-swiftybeaver-on-ios-54d7bfbe3b97)
+- [Advanced lldb tricks for Swift - Injecting and changing code on the fly](https://swiftrocks.com/using-lldb-manually-xcode-console-tricks.html?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B416)
 
 ## Documentation 
 - [GDB and LLDB Command Examples](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-command-examples.html#//apple_ref/doc/uid/TP40012917-CH3-SW1)
 
 ## Videos
 
-### WWDC 2018
+### WWDC
+
+#### WWDC 2018
 - [What’s New in Energy Debugging](https://developer.apple.com/videos/play/wwdc2018/228/)
 - [Metal Shader Debugging and Profiling](https://developer.apple.com/videos/play/wwdc2018/608/)
 - [Advanced Debugging with Xcode and LLDB](https://developer.apple.com/videos/play/wwdc2018/412/)
 
-### WWDC 2017
+#### WWDC 2017
 - [Debugging with Xcode 9](https://developer.apple.com/videos/play/wwdc2017/404/)
 - [Metal 2 Optimization and Debugging](https://developer.apple.com/videos/play/wwdc2017/607/)
 
-### WWDC 2016
+#### WWDC 2016
 - [Visual Debugging with Xcode](https://developer.apple.com/videos/play/wwdc2016/410/)
 - [Debugging Tips and Tricks](https://developer.apple.com/videos/play/wwdc2016/417/)
 
-### WWDC 2015
+#### WWDC 2015
 - [Advanced Debugging and the Address Sanitizer](https://developer.apple.com/videos/play/wwdc2015/413/)
 - [Debugging Energy Issues](https://developer.apple.com/videos/play/wwdc2015/708/)
 - [What's New in LLDB](https://developer.apple.com/videos/play/wwdc2015/402/)
+
+### Other
+- [Debug like a Pro](https://drobinin.com/talks/2018/debug-like-a-pro/)
+- [Debug like a Pro v2](https://drobinin.com/talks/2019/debug-like-a-pro-v2/)
