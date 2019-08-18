@@ -322,6 +322,8 @@ View Interactor Presenter Entity Router
 - [Viper Framework for iOS using Swift v3](https://github.com/ferranabello/Viperit)
 - [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
 - [iOS Project Architecture: Using VIPER](https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/)
+- [Mastering the VIPER architecture](https://theswiftdev.com/2019/03/19/mastering-the-viper-architecture/)
+- [VIPER best practices for iOS developers](https://theswiftdev.com/2019/03/11/viper-best-practices-for-ios-developers/)
 
 ## Redux
 Unidirectional Data Flow
