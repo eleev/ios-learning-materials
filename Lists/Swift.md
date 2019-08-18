@@ -59,6 +59,17 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift 5 Frozen enums](https://useyourloaf.com/blog/swift-5-frozen-enums/)
 - [Make the most of enumerations in Swift](https://benoitpasquier.com/enumerations-in-swift/)
 - [Inclusive enums with OptionSet](https://mecid.github.io/2019/04/10/inclusive-enums-with-optionset/)
+- [Swift: Using Enums to Write Safer Code](https://bruno.ph/blog/articles/swift-enums-for-safer-code/)
+- [Swift: Using Enums to Write Safer Code — Part Two](https://bruno.ph/blog/articles/swift-enums-for-safer-code-part-2/)
+- [Advanced Enum (Enumerations) by Example - Swift Programming Language](https://developerinsider.co/advanced-enum-enumerations-by-example-swift-programming-language/)
+
+## Functional Builder (Swift 5.1)
+
+## Articles
+- [Digging deeper into the Swift behind SwiftUI](https://davidbeck.co/posts/2019-06-11-digging-deeper-into-the-swift-behind-swiftui)
+
+### Videos
+- [The Swift Behind SwiftUI – Daniel Steinberg at Hacking with Swift Live 2019](https://swiftui.map4b.com/2019/07/the-swift-behind-swiftui-daniel-steinberg-at-hacking-with-swift-live-2019/)
 
 ## Access Control / Accessors
 - [Fileprivate vs private in Swift: The differences explained](https://www.avanderlee.com/swift/fileprivate-private-differences-explained/)
@@ -119,6 +130,8 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## KVC
 - [Struct References](http://chris.eidhof.nl/post/references/)
 - [Making the Most of Swift.KeyPath](https://edit.theappbusiness.com/making-the-most-of-swift-keypath-1c3d8c8c1d25)
+- [Swift 4 KeyPaths and You](https://www.klundberg.com/blog/swift-4-keypaths-and-you/)
+- [The power of key paths in Swift](https://www.swiftbysundell.com/posts/the-power-of-key-paths-in-swift)
 
 ### Documentation
 - [About Key-Value Coding](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html#//apple_ref/doc/uid/10000107-SW1)
@@ -167,6 +180,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift Lazy Initialization with Closures](https://blog.bobthedeveloper.io/swift-lazy-initialization-with-closures-a9ef6f6312c)
 - [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/)
 - [Property observers in Swift](https://www.swiftbysundell.com/posts/property-observers-in-swift)
+- [Computed properties in Swift](https://www.swiftbysundell.com/posts/computed-properties-in-swift)
 
 ## Property Wrappers
 - [Property wrappers to remove boilerplate code in Swift](https://www.avanderlee.com/swift/property-wrappers/)
@@ -188,6 +202,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Collections
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
 - [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
+- [Array vs Set: Fundamentals in Swift explained](https://www.avanderlee.com/swift/array-vs-set-differences-explained/)
 
 ## Required
 - [Required keyword usage in Swift classes and structs](https://www.avanderlee.com/swift/required-keyword/)
