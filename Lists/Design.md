@@ -7,3 +7,4 @@
 - [Design Principles: a guide to less shitty feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1)
 - [UX Design Patterns for Mobile Apps: Which and Why](https://www.raywenderlich.com/167174/design-patterns-mobile-apps-which-why)
 - [Creative Motion: 12 Concepts of Interface Animation.](https://uxplanet.org/creative-motion-12-concepts-of-interface-animation-2c32f674aecb)
+- [8 Tips for Dark Theme Design](https://uxplanet.org/8-tips-for-dark-theme-design-8dfc2f8f7ab6)
