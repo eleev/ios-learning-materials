@@ -71,6 +71,7 @@ iOS Dev Recipes is a starting point for developers working on iOS apps. Built an
 - [Late Night Swift](https://www.latenightswift.com) - A Swift and iOS Development Blog.
 - [Kyle Bashour](https://kylebashour.com) - A blog about Swift and iOS development by Kyle Bashour - who works at Lyft.
 - [iOS Creator](https://www.ioscreator.com) - iOS tutorials.
+- [Liss is More](https://www.caseyliss.com) - A blog by By Casey Liss.
 
 ### Machine Learning Blogs
 
