@@ -164,6 +164,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Ranges & Intervals
 - [Ranges and Intervals in Swift](https://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+- [4 ways to check if a range contains a value in Swift](https://medium.com/@dzungnguyen.hcm/4-ways-to-check-if-a-range-contains-a-value-in-swift-239fdc841f06)
 
 ## Type Erasure 
 - [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
