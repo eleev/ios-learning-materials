@@ -10,6 +10,10 @@
 - [Multiple Managed Object Contexts with Core Data Tutorial](https://www.raywenderlich.com/7586-multiple-managed-object-contexts-with-core-data-tutorial)
 - [Core Data Relationships](https://hackernoon.com/core-data-relationships-d813ed66ba8c)
 - [Order your Core Data entities the right way for maximum speed](https://www.appsdissected.com/order-core-data-entities-maximum-speed/)
+- [Importing Large Data Sets](https://www.objc.io/issues/4-core-data/importing-large-data-sets-into-core-data/)
+- [How to make a copy of a Core Data SQLite database](https://oleb.net/blog/2018/03/core-data-sqlite-backup/)
+- [Core Data on iOS 10, a brief overview with an Example](https://revs.runtime-revolution.com/core-data-on-ios-10-a-brief-overview-with-an-example-dc6e0ce844a5)
+- [Moving Core Data Files](https://useyourloaf.com/blog/moving-core-data-files/)
 
 ## Integration with CloudKit
 - [Apple’s New CloudKit-Based Core Data Sync](https://medium.com/@drewmccormack/apples-new-cloudkit-based-core-data-sync-4c1f334044bc)
