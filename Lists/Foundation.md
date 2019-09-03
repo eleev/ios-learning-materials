@@ -12,6 +12,7 @@
 - [UIDocument](https://developer.apple.com/documentation/uikit/uidocument)
 - [Creating NSDocument using Folder Bundles and UTI Identifiers](http://paulsolt.com/blog/2012/02/creating-nsdocument-using-folder-bundles-and-uti-identifiers)
 - [UIDocument From Scratch](https://www.raywenderlich.com/1809473-uidocument-from-scratch)
+- [UIDocument & NSFileWrapper - large files taking a long time to save, despite incremental changes](https://stackoverflow.com/questions/15230818/uidocument-nsfilewrapper-large-files-taking-a-long-time-to-save-despite-inc)
 
 ## App Extension Support 
 
