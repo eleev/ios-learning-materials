@@ -281,6 +281,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## KeyPath
 - [Swift 4 KeyPaths and You](https://www.klundberg.com/blog/swift-4-keypaths-and-you/)
+- [The power of key paths in Swift](https://www.swiftbysundell.com/articles/the-power-of-key-paths-in-swift/)
 
 ## Subscripts
 - [Handling Index Out of Range Exception the Swift Way](http://www.vadimbulavin.com/handling-out-of-bounds-exception/)
