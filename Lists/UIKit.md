@@ -22,6 +22,17 @@
 - [Attachment Behaviour Tutorial in iOS8 with Swift](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-tutorial-ios8-swift)
 - [How to make custom UIView animations with UISnapBehavior and UIDynamicItemBehavior](http://sweettutos.com/2015/09/17/uikit-dynamics-series-how-to-make-custom-uiview-animations-with-uisnapbehavior-and-uidynamicitembehavior/)
 - [UIKit Dynamics Guide](http://samwize.com/2016/12/19/uikit-dynamics-guide/)
+- [UIKit Dynamics Tutorial: Getting Started](https://www.raywenderlich.com/2326-uikit-dynamics-tutorial-getting-started)
+- [UIAttachmentBehavior](https://developer.apple.com/documentation/uikit/uiattachmentbehavior)
+- [Creating a Custom Dragging Behavior with UIDynamicAnimator](https://www.programming-books.io/essential/ios/creating-a-custom-dragging-behavior-with-uidynamicanimator-f8374e536d994a40bac91bd872d8eb60)
+- [UIKit Dynamics Attachment Behaviour iOS Tutorial](https://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)
+- [Implement UIKitDynamics for dragging view off screen](https://stackoverflow.com/questions/21325057/implement-uikitdynamics-for-dragging-view-off-screen)
+- [Adding Animated Effects to iOS App Using UIKit Dynamics](https://www.appcoda.com/intro-uikit-dynamics-tutorial/)
+- [[UIKit Dynamics Series] How to make custom UIView animations with UISnapBehavior and UIDynamicItemBehavior](https://sweettutos.com/2015/09/17/uikit-dynamics-series-how-to-make-custom-uiview-animations-with-uisnapbehavior-and-uidynamicitembehavior/)
+- [UIKit Dynamics Tutorial](https://www.raywenderlich.com/2650-uikit-dynamics-tutorial)
+- [UIDynamicItemBehavior](https://developer.apple.com/documentation/uikit/uidynamicitembehavior)
+- [UIKit Dynamics and Swift Tutorial: Tossing Views](https://www.raywenderlich.com/1860-uikit-dynamics-and-swift-tutorial-tossing-views)
+- [UIKit Dynamics: A Guide to Making Things Move](https://arvindravi.com/uikit-dynamics/)
 
 ## UIViewController
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
