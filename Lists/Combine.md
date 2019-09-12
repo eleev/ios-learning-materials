@@ -28,5 +28,4 @@
 ## Videos
 ### WWDC
 - [Introducing Combine](https://developer.apple.com/videos/play/wwdc2019/722)
-- [Introducing Combine and Advances in Foundation](https://developer.apple.com/videos/play/wwdc2019/711)
 - [Combine in Practice](https://developer.apple.com/videos/play/wwdc2019/721)
