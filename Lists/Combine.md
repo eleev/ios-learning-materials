@@ -11,6 +11,9 @@
 - [Building a custom `sample` operator](http://trycombine.com/posts/more-simple-custom-combine-operators-with-sample/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B416)
 - [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/)
 - [Custom binding operator in Combine](http://riteshhh.com/combine/custom-binding-operator-in-combine/)
+- [Property wrappers in Swift 5.1: the missing @Published implementation](https://medium.com/genetec-tech/property-wrappers-in-swift-5-1-the-missing-published-implementation-1a466ebcf660)
+- [MVVM with Combine Tutorial for iOS](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
+- [Reducers in Swift](https://www.swiftbysundell.com/articles/reducers-in-swift/)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
