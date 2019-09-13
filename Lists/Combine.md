@@ -14,6 +14,7 @@
 - [Property wrappers in Swift 5.1: the missing @Published implementation](https://medium.com/genetec-tech/property-wrappers-in-swift-5-1-the-missing-published-implementation-1a466ebcf660)
 - [MVVM with Combine Tutorial for iOS](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
 - [Reducers in Swift](https://www.swiftbysundell.com/articles/reducers-in-swift/)
+- [Combine first example](https://dev.to/gualtierofr/combine-first-example-3ie9)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
