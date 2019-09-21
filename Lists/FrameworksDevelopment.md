@@ -14,3 +14,10 @@
 ## Cross platform frameworks
 - [SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)
 - [Building Cross-Platform Universal Frameworks using Swift](https://appracatappra.com/2018/03/building-cross-platform-universal-frameworks-using-swift/)
+
+## Binary Frameworks
+- [Binary Frameworks in Swift](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)
+- [Shipping Binary Frameworks With Swift 5.0](https://developer.squareup.com/blog/shipping-binary-frameworks-with-swift-5-0/)
+
+### Videos
+- [Binary Frameworks in Swift](https://developer.apple.com/videos/play/wwdc2019/416/)
