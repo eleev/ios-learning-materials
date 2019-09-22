@@ -200,6 +200,7 @@
 - [Animatable Properties](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreAnimation_guide/AnimatableProperties/AnimatableProperties.html)
 - [Animating changes in UITableView and UICollectionView](https://mecid.github.io/2019/03/13/animating-changes-in-uitableview-and-uicollectionview/)
 - [Adding a wiggle animation to a UIBarButtonItem](http://blog.hellocode.co/post/wiggle-animation-uibarbuttonitem/)
+- [THE DIFFERENCE BETWEEN ANIMATEWITHDURATION AND TRANSITIONWITHVIEW](http://www.developerdave.co.uk/2015/09/the-difference-between-animatewithduration-and-transitionwithview/)
 
 ### Transitions
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
