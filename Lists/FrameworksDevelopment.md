@@ -11,6 +11,9 @@
 - [Loading Resources From A Framework](https://useyourloaf.com/blog/loading-resources-from-a-framework/)
 - [Improve your iOS team’s productivity by building features as frameworks](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5)
 
+## Data Model in frameworks
+- [Sharing a Core Data Model with a Swift Framework — Updated to Swift 5.1 & Xcode 11](https://medium.com/@yoellev8/sharing-a-core-data-model-with-a-swift-framework-5d191ccec99e)
+
 ## Cross platform frameworks
 - [SwiftCrossPlatformFramework](https://github.com/TofPlay/SwiftCrossPlatformFramework)
 - [Building Cross-Platform Universal Frameworks using Swift](https://appracatappra.com/2018/03/building-cross-platform-universal-frameworks-using-swift/)
