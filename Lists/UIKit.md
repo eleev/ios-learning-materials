@@ -74,6 +74,10 @@
 - [Custom Collection View Layouts](https://www.objc.io/issues/3-views/collection-view-layouts/)
 - [Expanding Cells in iOS Collection Views](https://www.raywenderlich.com/7246-expanding-cells-in-ios-collection-views)
 
+#### UICompositionalLayout
+- [Diffable Data Sources & Compositional Layouts Part 1/2](https://medium.com/@yoellev8/diffable-data-sources-compositional-layouts-part-1-2-90f53f120fdc)
+- [Diffable Data Sources & Compositional Layouts Part 2](https://medium.com/@yoellev8/diffable-data-sources-compositional-layouts-part-2-b0c8d2021ef6)
+
 ### UITableView
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
 - [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/)
