@@ -162,7 +162,7 @@
 - [Using NSNotificationCenter in Swift](https://medium.com/@JoyceMatos/using-nsnotificationcenter-in-swift-eb70cf0b60fc)
 - [NSNotificationCenter addObserver in Swift](https://stackoverflow.com/questions/24049020/nsnotificationcenter-addobserver-in-swift)
 
-## Delegate
+## Delegation
 - [Lightweight iOS View Controllers](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
 - [Apple’s Take on App Architecture](http://oleb.net/blog/2014/06/apples-take-on-app-architecture/)
 - [Fluent Pagination - no more jumpy scrolling](http://www.iosnomad.com/blog/2014/4/21/fluent-pagination)
@@ -217,6 +217,11 @@
 
 ## Binding
 - [Bindable values in Swift](https://www.swiftbysundell.com/posts/bindable-values-in-swift)
+
+## DTO (Data Transfer Object)
+- [What is Data Transfer Object?](https://stackoverflow.com/questions/1051182/what-is-data-transfer-object)
+- [LocalDTO](https://martinfowler.com/bliki/LocalDTO.html)
+- [Why Model Objects Shouldn’t Implement Swift’s Decodable or Encodable Protocols](https://medium.com/better-programming/why-model-objects-shouldnt-implement-swift-s-decodable-or-encodable-protocols-1249cb44d4b3)
 
 # Architectural Patterns
 
