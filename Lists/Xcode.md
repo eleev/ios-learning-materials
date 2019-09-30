@@ -14,6 +14,7 @@
 - [one small change for xcode, one giant leap for productivity](https://mohsen.dev/2019/05/19/one-small-change-for-xcode-one-giant-leap-for-productivity.html?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B409)
 - [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up/)
 - [Xcode Hacks to Make Your Life Easier](https://medium.com/better-programming/xcode-hacks-cf32434cbc2)
+- [Improve your Xcode (Swift) Compile Time](https://medium.com/flawless-app-stories/improve-your-xcode-swift-compile-time-d9c1d3786473)
 
 ## What's New
 - [What's new in Xcode 11](https://www.hackingwithswift.com/articles/192/whats-new-in-xcode-11)
