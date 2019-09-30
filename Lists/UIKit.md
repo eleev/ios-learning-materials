@@ -77,6 +77,7 @@
 #### UICompositionalLayout
 - [Diffable Data Sources & Compositional Layouts Part 1/2](https://medium.com/@yoellev8/diffable-data-sources-compositional-layouts-part-1-2-90f53f120fdc)
 - [Diffable Data Sources & Compositional Layouts Part 2](https://medium.com/@yoellev8/diffable-data-sources-compositional-layouts-part-2-b0c8d2021ef6)
+- [All you need to know about UICollectionViewCompositionalLayout](https://medium.com/flawless-app-stories/all-what-you-need-to-know-about-uicollectionviewcompositionallayout-f3b2f590bdbe)
 
 ### UITableView
 - [iOS: How to build a Table View with multiple cell types](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-multiple-cell-types-2df91a206429)
