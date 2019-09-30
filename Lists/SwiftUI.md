@@ -40,6 +40,7 @@
 - [Build a Stopwatch app with SwiftUI](https://medium.com/programming-with-swift/build-a-stopwatch-app-with-swiftui-7fe83ad11c24)
 - [ViewModifiers in SwiftUI](https://mecid.github.io/2019/08/07/viewmodifiers-in-swiftui/)
 - [SwiftUI - The If Statement's Sharp Edges](https://jasonzurita.com/swiftui-if-statement/)
+- [Accessibility in SwiftUI](https://mecid.github.io/2019/09/10/accessibility-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
