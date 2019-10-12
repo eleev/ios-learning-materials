@@ -78,6 +78,9 @@
 ## Data Flow between View Controllers
 - [Passing Data Between View Controllers in iOS: The Definitive Guide](https://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other/)
 
+## Modular Architecture
+- [How to build a modular architecture in iOS](https://benoitpasquier.com/how-build-modular-architecture-ios/)
+
 # Design Patterns
 
 ## Type Erasure
