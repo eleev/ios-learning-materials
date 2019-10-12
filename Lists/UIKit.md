@@ -3,6 +3,8 @@
 ## Dark Mode
 - [How To Adopt Dark Mode In Your iOS App ](https://www.fivestars.blog/code/ios-dark-mode-how-to.html)
 - [Dark mode iOS 13 – How to enable Dark Mode for your iOS application? [iOS Tutorial]](https://www.spaceotechnologies.com/dark-mode-ios-13-tutorial/)
+- [Implementing Dark Mode in iOS 13](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)
+- [Supporting Dark Mode on iOS 13](https://schiavo.me/2019/implementing-dark-mode/)
 
 ## Context Menus
 - [How to Implement iOS 13 Context Menus](https://kylebashour.com/posts/ios-13-context-menus)
@@ -266,3 +268,4 @@
 - [iOS 11: Notable UIKit Additions](https://www.swiftjectivec.com/ios-11-notable-uikit-additions/)
 - [iOS 12: Notable UIKit Additions](https://www.swiftjectivec.com/ios-12-notable-uikit-additions/)
 - [iOS 13: Notable UIKit Additions](https://www.swiftjectivec.com/ios-13-notable-uikit-additions/)
+- [4 breaking changes to check before building your app for iOS 13](https://fluffy.es/4-ios13-breaking-changes/)
