@@ -41,6 +41,10 @@
 - [ViewModifiers in SwiftUI](https://mecid.github.io/2019/08/07/viewmodifiers-in-swiftui/)
 - [SwiftUI - The If Statement's Sharp Edges](https://jasonzurita.com/swiftui-if-statement/)
 - [Accessibility in SwiftUI](https://mecid.github.io/2019/09/10/accessibility-in-swiftui/)
+- [How to use SwiftUI in Swift Playgrounds](https://www.hackingwithswift.com/articles/203/how-to-use-swiftui-in-swift-playgrounds)
+- [Replicating the Apple Card Application using SwiftUI](https://exyte.com/blog/replicating-apple-card-application-using-swiftui)
+- [SwiftUI Tutorial for Liquid Slider Control](https://exyte.com/blog/swiftui-tutorial-slider-control)
+- [Dynamic Type in SwiftUI](https://mecid.github.io/2019/10/09/dynamic-type-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
