@@ -15,6 +15,9 @@
 - [MVVM with Combine Tutorial for iOS](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
 - [Reducers in Swift](https://www.swiftbysundell.com/articles/reducers-in-swift/)
 - [Combine first example](https://dev.to/gualtierofr/combine-first-example-3ie9)
+- [Using Combine to Supplement Delegates With Publishers](https://www.iamsim.me/using-combine-to-supplement-delegates-with-publishers/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B424)
+- [Combine's Sequence Publisher Missing First Element](https://www.iamsim.me/combines-sequence-publisher-missing-first-element/)
+- [Error Handling in Swift Combine Framework](https://www.vadimbulavin.com/error-handling-in-swift-combine-framework/)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
