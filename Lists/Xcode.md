@@ -15,6 +15,7 @@
 - [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up/)
 - [Xcode Hacks to Make Your Life Easier](https://medium.com/better-programming/xcode-hacks-cf32434cbc2)
 - [Improve your Xcode (Swift) Compile Time](https://medium.com/flawless-app-stories/improve-your-xcode-swift-compile-time-d9c1d3786473)
+- [5 Xcode breakpoints tips you might not yet know](https://www.avanderlee.com/debugging/xcode-breakpoints-tips/)
 
 ## What's New
 - [What's new in Xcode 11](https://www.hackingwithswift.com/articles/192/whats-new-in-xcode-11)
@@ -26,3 +27,4 @@
 - [Creating Custom Xcode Project Templates](https://useyourloaf.com/blog/creating-custom-xcode-project-templates/?source=post_page---------------------------)
 - [Create Xcode file templates and share them with your team](https://www.lordcodes.com/posts/create-xcode-file-templates)
 - [How to create a custom Xcode template for coordinators](https://www.hackingwithswift.com/articles/158/how-to-create-a-custom-xcode-template-for-coordinators)
+- [Create custom Xcode templates to speed up your development](https://zonneveld.dev/create-custom-xcode-templates-to-speed-up-your-development/)
