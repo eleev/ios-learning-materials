@@ -12,6 +12,8 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/)
 - [Shifting paradigms in Swift](https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift)
 - [Swift Property Wrappers](https://nshipster.com/propertywrapper/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B410)
+- [Swift 5.1 Two Quick Tips](https://useyourloaf.com/blog/swift-5.1-two-quick-tips/)
+- [What is Module Stability in Swift and why should you care?](https://www.donnywals.com/what-is-module-stability-in-swift-and-why-should-you-care/)
 
 ### Swift 5.0
 - [What will be new in Swift 5?](https://medium.com/developerinsider/what-will-be-new-in-swift-5-cee94f241b44)
@@ -115,6 +117,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Using protocols as composable extensions](https://mecid.github.io/2019/01/17/using-protocols-as-composable-extensions/)
 - [Refactoring With Protocols](https://useyourloaf.com/blog/refactoring-with-protocols/)
 - [Exploring Existential Types With Swift](https://medium.com/@dogwith1eye/exploring-existential-types-with-swift-c86142d7bd1c)
+- [Alternatives to protocols in Swift](https://www.swiftbysundell.com/articles/alternatives-to-protocols-in-swift/)
 
 ## Associated Types 
 - [Swift: What are Protocols with Associated Types?](https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/)
@@ -224,6 +227,7 @@ The section contains materials that are dedicated to specific versions of `Swift
  
 ## Closures
 - [Capturing Objects In Swift Closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
+- [Closures](https://www.swiftbysundell.com/basics/closures/)
 
 ## Weak, Strong and Unowned References
 - [Weak self and unowned self explained in Swift](https://www.avanderlee.com/swift/weak-self/)
@@ -316,6 +320,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## ARC
 - [Understand ARC](https://makeapppie.com/2019/05/08/understand-arc/)
 - [ARC and Memory Management in Swift](https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift)
+- [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
 
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
