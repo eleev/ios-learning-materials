@@ -45,6 +45,7 @@
 - [Replicating the Apple Card Application using SwiftUI](https://exyte.com/blog/replicating-apple-card-application-using-swiftui)
 - [SwiftUI Tutorial for Liquid Slider Control](https://exyte.com/blog/swiftui-tutorial-slider-control)
 - [Dynamic Type in SwiftUI](https://mecid.github.io/2019/10/09/dynamic-type-in-swiftui/)
+- [SwiftUI: Shake Animation](https://www.objc.io/blog/2019/10/01/swiftui-shake-animation/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
