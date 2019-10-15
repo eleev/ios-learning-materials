@@ -2,6 +2,7 @@
 
 ## Articles
 - [Beyond the Checkbox with Catalyst and AppKit](https://www.highcaffeinecontent.com/blog/20190607-Beyond-the-Checkbox-with-Catalyst-and-AppKit)
+- [Catalytic Converter](https://tla.systems/blog/2019/10/08/catalytic-converter/)
 
 ## Documentation
 - [Bring Your iPad App to Mac](https://developer.apple.com/ipad-apps-for-mac/)
