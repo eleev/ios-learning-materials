@@ -7,6 +7,7 @@
 - [Swift Package Manager vs CocoaPods vs Carthage for All Platforms](https://www.codementor.io/blog/swift-package-manager-5f85eqvygj)
 - [Swift Package Manager builds iOS frameworks](https://badootech.badoo.com/swift-package-manager-builds-ios-frameworks-updated-xcode-10-2-beta-19b3e6741bda)
 - [Creating Swift Packages in Xcode](https://useyourloaf.com/blog/creating-swift-packages-in-xcode/)
+- [Migrate from CocoaPods to Swift Package Manager](https://zonneveld.dev/swift-package-manager-to-cocoapods/)
 
 ## Videos
 
