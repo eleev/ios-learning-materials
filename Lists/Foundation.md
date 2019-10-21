@@ -2,6 +2,7 @@
 
 ## User Defaults
 - [The power of UserDefaults in Swift](https://www.swiftbysundell.com/posts/the-power-of-userdefaults-in-swift)
+- [Type-safe User Defaults](https://danieltull.co.uk//blog/2019/10/09/type-safe-user-defaults/)
 
 ## File Wrapper
 - [FileWrapper](https://developer.apple.com/documentation/foundation/filewrapper)
