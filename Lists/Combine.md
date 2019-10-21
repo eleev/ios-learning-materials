@@ -18,6 +18,7 @@
 - [Using Combine to Supplement Delegates With Publishers](https://www.iamsim.me/using-combine-to-supplement-delegates-with-publishers/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B424)
 - [Combine's Sequence Publisher Missing First Element](https://www.iamsim.me/combines-sequence-publisher-missing-first-element/)
 - [Error Handling in Swift Combine Framework](https://www.vadimbulavin.com/error-handling-in-swift-combine-framework/)
+- [Combine’s What Makes SwiftUI Really Shine](https://infinum.co/the-capsized-eight/combine-makes-swiftui-shine)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
