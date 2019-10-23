@@ -4,6 +4,9 @@ The list mostly constains Swift-related sections with a small exception related 
 ## What is new
 The section contains materials that are dedicated to specific versions of `Swift`
 
+### Swift 5.2
+- [New Diagnostic Architecture Overview](https://swift.org/blog/new-diagnostic-arch-overview/)
+
 ### Swift 5.1
 - [What’s new in Swift 5.1](https://www.hackingwithswift.com/articles/182/whats-new-in-swift-5-1)
 - [How to use opaque return types in Swift 5.1](https://www.hackingwithswift.com/articles/187/how-to-use-opaque-return-types-in-swift-5-1)
