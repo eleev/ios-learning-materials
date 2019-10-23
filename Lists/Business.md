@@ -7,3 +7,4 @@
 - [What recruiters won’t tell you about hiring managers](https://qz.com/1572530/what-recruiters-wont-tell-you-about-hiring-managers/)
 - [How to foster a culture of belonging at work](https://qz.com/work/1545508/how-to-foster-a-culture-of-belonging-at-work/)
 - [How to have conversations that make employees stay](https://qz.com/work/1583761/good-management-how-to-have-feedback-conversations-that-increase-employee-engagement/)
+- [Pick your poison](https://ruiper.es/2019/10/12/pick-your-poison/)
