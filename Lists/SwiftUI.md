@@ -48,6 +48,8 @@
 - [SwiftUI: Shake Animation](https://www.objc.io/blog/2019/10/01/swiftui-shake-animation/)
 - [SwiftUI Is Here to Knock UIKit out of Its Shoes](https://infinum.co/the-capsized-eight/swiftui-is-here-to-knock-uikit-out-of-its-shoes)
 - [Localization in SwiftUI](https://mecid.github.io/2019/10/16/localization-in-swiftui/)
+- [SwiftUI for UIKit developers](http://aplus.rs/2019/swiftui-for-uikit-developers/)
+- [How to use SwiftUI in UIKit: Using SwiftUI as UIView and UIViewController](https://sarunw.com/posts/swiftui-in-uikit/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
