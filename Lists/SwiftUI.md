@@ -50,6 +50,7 @@
 - [Localization in SwiftUI](https://mecid.github.io/2019/10/16/localization-in-swiftui/)
 - [SwiftUI for UIKit developers](http://aplus.rs/2019/swiftui-for-uikit-developers/)
 - [How to use SwiftUI in UIKit: Using SwiftUI as UIView and UIViewController](https://sarunw.com/posts/swiftui-in-uikit/)
+- [Custom UIHostingController](https://sarunw.com/posts/custom-uihostingcontroller/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
