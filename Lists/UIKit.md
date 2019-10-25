@@ -35,6 +35,8 @@
 - [UIDynamicItemBehavior](https://developer.apple.com/documentation/uikit/uidynamicitembehavior)
 - [UIKit Dynamics and Swift Tutorial: Tossing Views](https://www.raywenderlich.com/1860-uikit-dynamics-and-swift-tutorial-tossing-views)
 - [UIKit Dynamics: A Guide to Making Things Move](https://arvindravi.com/uikit-dynamics/)
+- [UIScrollView's Inertia, Bouncing and Rubber-Banding with UIKit Dynamics](https://holko.pl/2014/07/06/inertia-bouncing-rubber-banding-uikit-dynamics/)
+- [Using UIKit Dynamics in Swift to Animate Your Apps](https://www.sitepoint.com/using-uikit-dynamics-swift-animate-apps/)
 
 ## UIViewController
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
@@ -88,6 +90,7 @@
 - [Self-Sizing Table View Cells in Practice](https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/)
 - [Slot-based UI development in Swift](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
 - [Solving duplicated / repeating cells in Table view](https://fluffy.es/solve-duplicated-cells/)
+- [How To Make a Table View Drop-In Card Animation](https://www.raywenderlich.com/2315-how-to-make-a-table-view-drop-in-card-animation)
 
 ### Data Sources 
 - [A first look at the new diffable data sources for table views and collection views](https://wwdcbysundell.com/2019/diffable-data-sources-first-look/)
@@ -121,6 +124,7 @@
 
 ## UIScrollView
 - [Is it possible for UIStackView to UIScrollView?](https://stackoverflow.com/questions/31668970/is-it-possible-for-uistackview-to-scroll)
+- [Understanding UIScrollView](https://oleb.net/blog/2014/04/understanding-uiscrollview/)
 
 ## UIVisualEffectView
 - [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/167-uivisualeffectview-tutorial-getting-started)
@@ -269,3 +273,5 @@
 - [iOS 12: Notable UIKit Additions](https://www.swiftjectivec.com/ios-12-notable-uikit-additions/)
 - [iOS 13: Notable UIKit Additions](https://www.swiftjectivec.com/ios-13-notable-uikit-additions/)
 - [4 breaking changes to check before building your app for iOS 13](https://fluffy.es/4-ios13-breaking-changes/)
+- [HEIC Image Compression for iOS](https://www.raywenderlich.com/4726843-heic-image-compression-for-ios?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B424)
+
