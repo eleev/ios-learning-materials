@@ -2,12 +2,12 @@
 
 [![Language](https://img.shields.io/badge/language-Swift-green.svg)]()
 [![Founded](https://img.shields.io/badge/founded-August_2017-ff69b4.svg)]()
-[![Materials](https://img.shields.io/badge/materials-1627-important.svg)]()
-[![MajorTopics](https://img.shields.io/badge/major_topics-75-red.svg)]()
+[![Materials](https://img.shields.io/badge/materials-1631-important.svg)]()
+[![MajorTopics](https://img.shields.io/badge/major_topics-76-red.svg)]()
 [![Contributors](https://img.shields.io/badge/contributors-8-informational.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
-**Last Update: 25/October/2019.**
+**Last Update: 27/October/2019.**
 
 ![](logo-alternative.jpg)
 
@@ -39,6 +39,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [SiriKit](Lists/SiriKit.md)
 - [CallKit](Lists/CallKit.md)
 - [PushKit](Lists/PushKit.md)
+- [MetricKit](Lists/MetricKit.md)
 - [CoreML](Lists/CoreML.md)
 - [CreateML](Lists/CreateML.md)
 - [Core Animation](Lists/CoreAnimation.md)
