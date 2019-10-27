@@ -10,3 +10,4 @@
 - [Pick your poison](https://ruiper.es/2019/10/12/pick-your-poison/)
 - [10 lessons I learned from maintaining an open source community for 4 years](https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community)
 - [iOS Development Team in 2019](https://exyte.com/blog/ios-development-team-in-2019)
+- [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
