@@ -1,4 +1,6 @@
 # Core Graphics 
+
+## Articles/Tutorials
 - [Core Graphics Tutorial Part 1: Getting Started](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started)
 - [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts)
 - [Core Graphics Tutorial Part 3: Patterns and Playgrounds](https://www.raywenderlich.com/167352/core-graphics-tutorial-part-3-patterns-playgrounds)
@@ -18,3 +20,10 @@
 - [Core Graphics Tutorial: Arcs and Paths](https://www.raywenderlich.com/349664-core-graphics-tutorial-arcs-and-paths)
 - [Core Graphics Tutorial: Lines, Rectangles, and Gradients](https://www.raywenderlich.com/475829-core-graphics-tutorial-lines-rectangles-and-gradients)
 - [Core​Graphics Geometry Primitives and Functions](https://nshipster.com/cggeometry/)
+- [High performance drawing on iOS — Part 1](https://medium.com/@almalehdev/high-performance-drawing-on-ios-part-1-f3a24a0dcb31)
+- [High performance drawing on iOS — Part 2](https://medium.com/@almalehdev/high-performance-drawing-on-ios-part-2-2cb2bc957f6)
+- [Getting Pixels onto the Screen](https://www.objc.io/issues/3-views/moving-pixels-onto-the-screen/)
+- [Drawing into a Core Graphics context with UIGraphicsImageRenderer](https://www.hackingwithswift.com/read/27/3/drawing-into-a-core-graphics-context-with-uigraphicsimagerenderer)
+
+## Stack Overflow
+- [draw#rect core graphics, on top of a layer?](https://stackoverflow.com/questions/57364895/drawrect-core-graphics-on-top-of-a-layer)
