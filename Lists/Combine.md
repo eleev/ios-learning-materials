@@ -19,6 +19,7 @@
 - [Combine's Sequence Publisher Missing First Element](https://www.iamsim.me/combines-sequence-publisher-missing-first-element/)
 - [Error Handling in Swift Combine Framework](https://www.vadimbulavin.com/error-handling-in-swift-combine-framework/)
 - [Combine’s What Makes SwiftUI Really Shine](https://infinum.co/the-capsized-eight/combine-makes-swiftui-shine)
+- [Save that sink! A simple solution to a common Combine problem](https://www.appsdissected.com/save-sink-assign-subscriber-anycancellable/)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
