@@ -9,6 +9,7 @@
 - [Creating Swift Packages in Xcode](https://useyourloaf.com/blog/creating-swift-packages-in-xcode/)
 - [Migrate from CocoaPods to Swift Package Manager](https://zonneveld.dev/swift-package-manager-to-cocoapods/)
 - [Add Swift Package Dependency to an iOS Project With Xcode 11](https://medium.com/better-programming/add-swift-package-dependency-to-an-ios-project-with-xcode-11-remote-local-public-private-3a7577fac6b2)
+- [Dependency Heck](https://bartstechblog.blogspot.com/2019/10/dependency-heck.html)
 
 ## Videos
 
