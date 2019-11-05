@@ -51,6 +51,7 @@
 - [SwiftUI for UIKit developers](http://aplus.rs/2019/swiftui-for-uikit-developers/)
 - [How to use SwiftUI in UIKit: Using SwiftUI as UIView and UIViewController](https://sarunw.com/posts/swiftui-in-uikit/)
 - [Custom UIHostingController](https://sarunw.com/posts/custom-uihostingcontroller/)
+- [SwiftUI: Setting Environment Values](https://www.objc.io/blog/2019/10/29/swiftui-environment/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
