@@ -208,6 +208,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/)
 - [Filtering Object To Optionals](https://swiftforward.wordpress.com/2016/06/17/filtering-objects-to-optionals/)
 - [Optionals in Swift explained: 5 things you should know](https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/)
+- [All About Swift Optional](https://medium.com/swiftcairo/all-about-swift-optional-25a4a31e06f5)
  
 ## Collections
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
@@ -235,6 +236,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Weak, Strong and Unowned References
 - [Weak self and unowned self explained in Swift](https://www.avanderlee.com/swift/weak-self/)
+- [Discover Side Tables - Weak Reference Management Concept in Swift](https://maximeremenko.com/swift-arc-weak-references)
 
 ## Capture List
 - [Capture lists in Swift: what’s the difference between weak, strong, and unowned references?](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
