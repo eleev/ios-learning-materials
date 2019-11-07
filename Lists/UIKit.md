@@ -1,10 +1,15 @@
 # UIKit
 
+## Scene Delegate
+- [The Scene Delegate In Xcode 11 And iOS 13](https://learnappmaking.com/scene-delegate-app-delegate-xcode-11-ios-13/)
+- [Understanding the iOS 13 Scene Delegate](https://www.donnywals.com/understanding-the-ios-13-scene-delegate/)
+
 ## Dark Mode
 - [How To Adopt Dark Mode In Your iOS App ](https://www.fivestars.blog/code/ios-dark-mode-how-to.html)
 - [Dark mode iOS 13 – How to enable Dark Mode for your iOS application? [iOS Tutorial]](https://www.spaceotechnologies.com/dark-mode-ios-13-tutorial/)
 - [Implementing Dark Mode in iOS 13](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)
 - [Supporting Dark Mode on iOS 13](https://schiavo.me/2019/implementing-dark-mode/)
+- [Implementing iOS 13 Dark Mode in the new BigCommerce mobile app](https://www.bigeng.io/implementing-ios-13-dark-mode-in-the-new-bigcommerce-mobile-app/)
 
 ## Context Menus
 - [How to Implement iOS 13 Context Menus](https://kylebashour.com/posts/ios-13-context-menus)
@@ -41,6 +46,7 @@
 ## UIViewController
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 - [View Controller Lifecycle Explained: When to Use viewDidLayoutSubviews](https://www.appcoda.com/view-controller-lifecycle/)
+- [View Controllers Explained: Ultimate Guide For iOS & Swift](https://learnappmaking.com/view-controller-uiviewcontroller-ios-swift/#interactive-ui-with-view-controller-actions)
 
 ## UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
@@ -137,6 +143,10 @@
 
 ## UIMotionEffect
 - [UIMotionEffect: Easily adding depth to your UI](https://nachbaur.com/2019/04/24/uimotioneffects/)
+
+## UITextView
+- [CUSTOMIZE A TEXT VIEW](http://theapplady.net/customize-a-text-view/)
+- [How to limit the number of characters in a UITextField or UITextView](https://www.hackingwithswift.com/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview)
 
 ## Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
