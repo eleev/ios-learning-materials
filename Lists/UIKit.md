@@ -148,6 +148,10 @@
 - [CUSTOMIZE A TEXT VIEW](http://theapplady.net/customize-a-text-view/)
 - [How to limit the number of characters in a UITextField or UITextView](https://www.hackingwithswift.com/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview)
 
+## UINavigationBar
+- [Navigation Bar Customisation. Part 1 - The Basics.](https://dmtopolog.com/navigation-bar-customization/)
+- [Navigation Bar Customisation. Part 2 - UINavigationBarAppearance and proper view/model separation.](https://dmtopolog.com/navigation-bar-customisation-2/)
+
 ## Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
 - [Auto Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/160527/auto-layout-tutorial-ios-11-getting-started)
@@ -245,6 +249,9 @@
 - [Custom presentations using UIPresentationController in Swift](http://zappdesigntemplates.com/custom-presentations-using-uipresentationcontroller-swift/)
 - [UIPresentationController Tutorial: Getting Started](https://www.raywenderlich.com/915-uipresentationcontroller-tutorial-getting-started)
 - [UIPresentationController](https://developer.apple.com/documentation/uikit/uipresentationcontroller)
+
+## Interface Builder
+- [Interface Builder is declarative too. Where’s the love?](https://aplus.rs/2019/interface-builder-is-declarative-too/)
 
 ## Custom Components
 - [Creating a 3D Tag Cloud](https://iosguy.com/2010/11/17/creating-a-3d-tag-cloud/)
