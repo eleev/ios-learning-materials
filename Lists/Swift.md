@@ -103,6 +103,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Value Semantics
 - [Utilizing value semantics in Swift](https://www.swiftbysundell.com/posts/utilizing-value-semantics-in-swift)
 
+## Data Types
+- [Convert [UInt8] to Int](https://forums.swift.org/t/convert-uint8-to-int/30117)
+
 ## Structs
 - [Stop Using Structs!](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
@@ -180,6 +183,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Breaking Down Type Erasure in Swift](https://www.bignerdranch.com/blog/breaking-down-type-erasures-in-swift/)
 - [A “Type Erasure” Pattern that Works in Swift](https://blog.jayway.com/2017/05/12/a-type-erasure-pattern-that-works-in-swift/)
 - [Swift: Attempting to Understand Type Erasure](https://www.natashatherobot.com/swift-type-erasure/)
+- [How To Use Type Erasure For Better Model Abstractions](https://tech.okcupid.com/using-type-erasure/)
 
 ## Properties
 - [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
