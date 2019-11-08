@@ -20,6 +20,8 @@
 - [Error Handling in Swift Combine Framework](https://www.vadimbulavin.com/error-handling-in-swift-combine-framework/)
 - [Combine’s What Makes SwiftUI Really Shine](https://infinum.co/the-capsized-eight/combine-makes-swiftui-shine)
 - [Save that sink! A simple solution to a common Combine problem](https://www.appsdissected.com/save-sink-assign-subscriber-anycancellable/)
+- [The ultimate Combine framework tutorial in Swift](https://theswiftdev.com/2019/10/31/the-ultimate-combine-framework-tutorial-in-swift/)
+- [URLSession and the Combine framework](https://theswiftdev.com/2019/08/15/urlsession-and-the-combine-framework/)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
