@@ -22,6 +22,7 @@
 - [iOS — Start an app without a storyboard](https://medium.com/ios-os-x-development/ios-start-an-app-without-storyboard-5f57e3251a25)
 - [How Do Unwind Segues Work](https://cocoacasts.com/how-do-unwind-segues-work)
 - [Unwind Segues Step-by-Step (and 4 Reasons to Use Them)](https://matteomanferdini.com/unwind-segue/)
+- [Better dependency injection for Storyboards in iOS13](https://sarunw.com/posts/better-dependency-injection-for-storyboards-in-ios13/)
 
 ## UIKit Dynamics
 - [UIKit Dynamics in Swift 2.0](https://ahmedabdurrahman.com/2015/10/22/uikit-dynamics-tutorial-in-swift-2-0/)
@@ -144,7 +145,14 @@
 ## UIMotionEffect
 - [UIMotionEffect: Easily adding depth to your UI](https://nachbaur.com/2019/04/24/uimotioneffects/)
 
-## UITextView
+## Text
+- [String Rendering](https://www.objc.io/issues/9-strings/string-rendering/)
+
+### UILabel
+- [Multiple Font, Style for UILable Text using NSAttributed String.](https://medium.com/swift-india/multiple-font-style-for-uilable-text-using-nsattributed-string-3f121036a533)
+- [Animated UILabel with CADisplayLink](https://medium.com/@duwei199714/animated-uilabel-with-cadisplaylink-9a761d693ca5)
+
+### UITextView
 - [CUSTOMIZE A TEXT VIEW](http://theapplady.net/customize-a-text-view/)
 - [How to limit the number of characters in a UITextField or UITextView](https://www.hackingwithswift.com/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview)
 
@@ -249,6 +257,7 @@
 - [Custom presentations using UIPresentationController in Swift](http://zappdesigntemplates.com/custom-presentations-using-uipresentationcontroller-swift/)
 - [UIPresentationController Tutorial: Getting Started](https://www.raywenderlich.com/915-uipresentationcontroller-tutorial-getting-started)
 - [UIPresentationController](https://developer.apple.com/documentation/uikit/uipresentationcontroller)
+- [UIPresentationController Tutorial: Getting Started](https://www.raywenderlich.com/3636807-uipresentationcontroller-tutorial-getting-started)
 
 ## Interface Builder
 - [Interface Builder is declarative too. Where’s the love?](https://aplus.rs/2019/interface-builder-is-declarative-too/)
