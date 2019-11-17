@@ -1,5 +1,8 @@
 # UIKit
 
+## UIKeyCommand
+- [How to use UIKeyCommand to add keyboard shortcuts](https://www.hackingwithswift.com/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts)
+
 ## Scene Delegate
 - [The Scene Delegate In Xcode 11 And iOS 13](https://learnappmaking.com/scene-delegate-app-delegate-xcode-11-ios-13/)
 - [Understanding the iOS 13 Scene Delegate](https://www.donnywals.com/understanding-the-ios-13-scene-delegate/)
@@ -23,6 +26,9 @@
 - [How Do Unwind Segues Work](https://cocoacasts.com/how-do-unwind-segues-work)
 - [Unwind Segues Step-by-Step (and 4 Reasons to Use Them)](https://matteomanferdini.com/unwind-segue/)
 - [Better dependency injection for Storyboards in iOS13](https://sarunw.com/posts/better-dependency-injection-for-storyboards-in-ios13/)
+
+## UIScrollView
+- [Understanding UIScrollView](https://oleb.net/blog/2014/04/understanding-uiscrollview/)
 
 ## UIKit Dynamics
 - [UIKit Dynamics in Swift 2.0](https://ahmedabdurrahman.com/2015/10/22/uikit-dynamics-tutorial-in-swift-2-0/)
@@ -173,6 +179,8 @@
 - [Dynamic Text Resizing in Swift](https://medium.com/@joncardasis/dynamic-text-resizing-in-swift-3da55887beb3)
 - [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f)
 - [Demystifying iOS Layout](http://tech.gc.com/demystifying-ios-layout/)
+- [Animate Cell Shrinking On Touch](https://medium.com/@aunnnn/how-to-animate-cell-shrinking-on-touch-aa23dddf333a)
+- [Animate AutoLayout Constraints Separately](https://medium.com/@aunnnn/animate-autolayout-constraints-separately-52eeb989a5cc)
 
 ## UI & Design
 - [Replicating Apple Design Awarded Applications](https://blog.exyte.com/replicating-apple-design-awarded-applications-70e5df4c4b94)
@@ -234,6 +242,8 @@
 - [Animating changes in UITableView and UICollectionView](https://mecid.github.io/2019/03/13/animating-changes-in-uitableview-and-uicollectionview/)
 - [Adding a wiggle animation to a UIBarButtonItem](http://blog.hellocode.co/post/wiggle-animation-uibarbuttonitem/)
 - [THE DIFFERENCE BETWEEN ANIMATEWITHDURATION AND TRANSITIONWITHVIEW](http://www.developerdave.co.uk/2015/09/the-difference-between-animatewithduration-and-transitionwithview/)
+- [How to implement interactive animations with Swift’s UIViewPropertyAnimator](https://www.freecodecamp.org/news/interactive-animations-with-swifts-uiviewpropertyanimator-284262530a0a/)
+- [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/)
 
 ### Transitions
 - [Fantastic iOS Transitions Collection](https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/transition.md)
