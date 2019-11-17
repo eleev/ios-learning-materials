@@ -2,12 +2,12 @@
 
 [![Language](https://img.shields.io/badge/language-Swift-green.svg)]()
 [![Founded](https://img.shields.io/badge/founded-August_2017-ff69b4.svg)]()
-[![Materials](https://img.shields.io/badge/materials-1664-important.svg)]()
+[![Materials](https://img.shields.io/badge/materials-1681-important.svg)]()
 [![MajorTopics](https://img.shields.io/badge/major_topics-76-red.svg)]()
 [![Contributors](https://img.shields.io/badge/contributors-8-informational.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
-**Last Update: 14/November/2019.**
+**Last Update: 17/November/2019.**
 
 ![](logo-alternative.jpg)
 
