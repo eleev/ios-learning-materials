@@ -19,6 +19,9 @@
 - [XCTest​Case / XCTest​Expectation / measure​Block()](https://nshipster.com/xctestcase/)
 - [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
 
+## Snaphot
+- [Higher-Order Snapshot Testing](https://www.pointfree.co/blog/posts/31-higher-order-snapshot-testing)
+
 ## UIViewController, UICollectionView, UITableView Testing
 - [Unit Test - UICollectionView in UIViewController with example](https://zaccc123.github.io/blog/2017/unit-testing-uicollectionview-in-uiviewcontroller-with-example/)
 
