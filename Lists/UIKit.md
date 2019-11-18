@@ -165,6 +165,7 @@
 ## UINavigationBar
 - [Navigation Bar Customisation. Part 1 - The Basics.](https://dmtopolog.com/navigation-bar-customization/)
 - [Navigation Bar Customisation. Part 2 - UINavigationBarAppearance and proper view/model separation.](https://dmtopolog.com/navigation-bar-customisation-2/)
+- [Swift 4 recipe: Using attributed string in navigation bar title](https://medium.com/@dushyant_db/swift-4-recipe-using-attributed-string-in-navigation-bar-title-39f08f5cdb81)
 
 ## Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
@@ -291,6 +292,7 @@
 ## Drag & Drop
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
 - [Building a Trello-like iOS App with Drag & Drop API](https://www.appcoda.com/drag-and-drop-api/)
+- [Drag and Drop Tutorial for iOS](https://www.raywenderlich.com/3121851-drag-and-drop-tutorial-for-ios)
 
 ## UIFieldBehavior
 - [UIFieldBehavior - NSHipster](https://nshipster.com/uifieldbehavior/)
