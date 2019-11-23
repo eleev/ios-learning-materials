@@ -102,6 +102,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Value Semantics
 - [Utilizing value semantics in Swift](https://www.swiftbysundell.com/posts/utilizing-value-semantics-in-swift)
+- [Combining value and reference types in Swift](https://www.swiftbysundell.com/articles/combining-value-and-reference-types-in-swift/)
 
 ## Data Types
 - [Convert [UInt8] to Int](https://forums.swift.org/t/convert-uint8-to-int/30117)
@@ -273,6 +274,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Writing Custom Pattern Matching in Swift](https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift.html) 
 - [Pattern Matching with case let](https://mecid.github.io/2019/02/06/pattern-matching-with-case-let/)
 - [Pattern matching in Swift](https://www.swiftbysundell.com/posts/pattern-matching-in-swift)
+- [Defining custom patterns in Swift](https://www.swiftbysundell.com/articles/defining-custom-patterns-in-swift/)
  
 ## Assertion
 - [Swift asserts - the missing manual](https://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
