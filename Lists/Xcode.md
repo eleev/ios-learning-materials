@@ -29,3 +29,6 @@
 - [Create Xcode file templates and share them with your team](https://www.lordcodes.com/posts/create-xcode-file-templates)
 - [How to create a custom Xcode template for coordinators](https://www.hackingwithswift.com/articles/158/how-to-create-a-custom-xcode-template-for-coordinators)
 - [Create custom Xcode templates to speed up your development](https://zonneveld.dev/create-custom-xcode-templates-to-speed-up-your-development/)
+
+## Resources
+- [Xcode Tips](http://xcodetips.com)
