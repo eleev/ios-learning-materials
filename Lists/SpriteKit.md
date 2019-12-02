@@ -56,6 +56,8 @@
 - [SKWarpGeometryGrid](https://developer.apple.com/documentation/spritekit/skwarpgeometrygrid)
 - [Spritekit | Swift3 | Applying SKWarpGeometry to nodes](https://stackoverflow.com/questions/40250935/spritekit-swift3-applying-skwarpgeometry-to-nodes)
 - [How to warp a sprite using SKWarpGeometryGrid](https://www.hackingwithswift.com/example-code/games/how-to-warp-a-sprite-using-skwarpgeometrygrid)
+- [Demystifying SKWarpGeometry](https://medium.com/@nthState/demystify-skwarpgeometry-7e2ce1148de5)
+- [WarpTool with Video](https://medium.com/@nthState/warptool-with-video-4471704857f8)
 
 ### Shaders
 - [Understanding Shaders in SpriteKit](http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit)
