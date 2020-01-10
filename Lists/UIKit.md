@@ -2,6 +2,8 @@
 
 ## UIKeyCommand
 - [How to use UIKeyCommand to add keyboard shortcuts](https://www.hackingwithswift.com/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts)
+- [Adding Hardware Keyboard Shortcuts](https://useyourloaf.com/blog/adding-hardware-keyboard-shortcuts/)
+- [UIKeyCommands don't work when intermediary viewController contains two viewControllers](https://stackoverflow.com/questions/39216042/uikeycommands-dont-work-when-intermediary-viewcontroller-contains-two-viewcontr)
 
 ## Scene Delegate
 - [The Scene Delegate In Xcode 11 And iOS 13](https://learnappmaking.com/scene-delegate-app-delegate-xcode-11-ios-13/)
@@ -211,6 +213,8 @@
 - [Open URLs using the iOS UIResponder chain in Swift](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686)
 - [Using Responders and the Responder Chain to Handle Events](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events)
 - [Using The Responder Chain](https://useyourloaf.com/blog/using-the-responder-chain/)
+- [iOS Responder Chain: UIResponder, UIEvent, UIControl and uses](https://swiftrocks.com/understanding-the-ios-responder-chain.html)
+- [How to pass UI events through views in iOS](https://medium.com/@nguyenminhphuc/how-to-pass-ui-events-through-views-in-ios-c1be9ab1626b)
 
 ## Notifications Framework (Local & Remote) 
 - [Introduction to User Notifications Framework in iOS 10](https://www.appcoda.com/ios10-user-notifications-guide/)
