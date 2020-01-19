@@ -1,6 +1,5 @@
 # Xcode
 
-- [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/)
 - [Dividing and Conquering Your Xcode Projects with Targets](https://www.appcoda.com/xcode-targets/)
 - [Xcode Project vs. Xcode Workspace - Differences](https://stackoverflow.com/questions/21631313/xcode-project-vs-xcode-workspace-differences)
 - [Multi Project Setups](https://objectivetidbits.com/multi-project-setups-fee9d235d857)
@@ -9,7 +8,6 @@
 - [Cheat sheet examples for Xcode and Swift development](https://www.avanderlee.com/workflow/cheat-sheet-xcode-swift/)
 - [Using launch arguments / environment variables to simulate in-app purchase purchased and etc](https://fluffy.es/launch-arguments-environment-variables/)
 - [Fixing Vague Swift Error Logs](https://kristina.io/fixing-vague-swift-error-logs/)
-- [Xcode Build Configuration Files](https://nshipster.com/xcconfig/)
 - [How Xcode Indexing Works and How You Can Fix IDE Problems with Your Projects](https://pspdfkit.com/blog/2019/how-xcode-indexing-works-and-how-to-solve-problems/)
 - [one small change for xcode, one giant leap for productivity](https://mohsen.dev/2019/05/19/one-small-change-for-xcode-one-giant-leap-for-productivity.html?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B409)
 - [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up/)
@@ -29,6 +27,13 @@
 - [Create Xcode file templates and share them with your team](https://www.lordcodes.com/posts/create-xcode-file-templates)
 - [How to create a custom Xcode template for coordinators](https://www.hackingwithswift.com/articles/158/how-to-create-a-custom-xcode-template-for-coordinators)
 - [Create custom Xcode templates to speed up your development](https://zonneveld.dev/create-custom-xcode-templates-to-speed-up-your-development/)
+
+## Configuration/Settings
+- [Xcode Build Configuration Files](https://nshipster.com/xcconfig/)
+- [Xcode Environment Specific Configuration](https://benscheirman.com/2018/10/xcode-environment-specific-configuration/)
+- [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/)
+- [Xcode Build Settings in Depth](https://mgrebenets.github.io/xcode/2019/05/12/xcode-build-settings-in-depth)
+- [How to Use Xcode Targets to Manage Development and Production Builds](https://www.appcoda.com/using-xcode-targets)
 
 ## Resources
 - [Xcode Tips](http://xcodetips.com)
