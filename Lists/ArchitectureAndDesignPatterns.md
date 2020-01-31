@@ -9,6 +9,8 @@
 - [Krush iOS Architecture](https://www.teehanlax.com/blog/krush-ios-architecture/)
 - [Encapsulating Domain Data, Logic and Business Rules With Value Types in Swift](https://khawerkhaliq.com/blog/swift-domain-logic-business-rules-value-types/)
 - [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/)
+- [Passive View](https://martinfowler.com/eaaDev/PassiveScreen.html)
+- [Presentation Model](https://martinfowler.com/eaaDev/PresentationModel.html)
 
 ## Designing APIs
 - [Designing Swift APIs](https://www.swiftbysundell.com/posts/designing-swift-apis)
