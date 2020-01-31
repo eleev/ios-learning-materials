@@ -2,12 +2,12 @@
 
 [![Language](https://img.shields.io/badge/Language-Swift-green.svg)]()
 [![Founded](https://img.shields.io/badge/Founded-August_2017-ff69b4.svg)]()
-[![Materials](https://img.shields.io/badge/Materials-1699-important.svg)]()
-[![MajorTopics](https://img.shields.io/badge/Major_Topics-77-red.svg)]()
+[![Materials](https://img.shields.io/badge/Materials-1708-important.svg)]()
+[![MajorTopics](https://img.shields.io/badge/Major_Topics-78-red.svg)]()
 [![Contributors](https://img.shields.io/badge/Contributors-8-informational.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-**Last Update: 26/January/2020.**
+**Last Update: 31/January/2020.**
 
 ![](logo-alternative.jpg)
 
@@ -99,6 +99,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Accessibility](Lists/Accessibility.md)
 - [Interview](Lists/Interview.md)
 - [Business](Lists/Business.md)
+- [Project Management](Lists/ProjectManagement.md)
 
 # 👨‍💻 Author
 
