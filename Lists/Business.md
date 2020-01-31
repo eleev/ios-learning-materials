@@ -17,3 +17,4 @@
 - [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/)
 - [How To Maximize Value at Tech Conferences (as an Introvert)](https://dev.to/kimmaida/how-to-maximize-value-at-tech-conferences-as-an-introvert-3636)
 - [My Experience with Burnout as a Startup Founder](https://open.buffer.com/burnout/)
+- [The (not so) hidden cost of sharing code between iOS and Android](https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/)
