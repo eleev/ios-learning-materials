@@ -91,6 +91,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Dive deep into Swift String](https://flawlessapp.io/blog/dive-deep-into-swift-string/)
 - [String literals in Swift](https://www.swiftbysundell.com/posts/string-literals-in-swift)
 - [Empty Strings in Swift](https://useyourloaf.com/blog/empty-strings-in-swift/)
+- [How Strings and Substrings work in Swift](https://medium.com/@suragch/how-strings-and-substrings-work-in-swift-fd4dc43ee91d)
 
 ## Regular Expressions
 - [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
