@@ -267,6 +267,7 @@
 - [Custom Navigation Transitions, Part II: A Simple Modal](https://devsign.co/notes/navigation-transitions-2)
 - [Custom Navigation Transitions, Part III: A Complex Push/Pop Animation](https://devsign.co/notes/navigation-transitions-iii)
 - [Custom Navigation Transitions, Part IV: An Interactive Pop Transition](https://devsign.co/notes/navigation-transitions-iv)
+- [Learn iOS Custom View Controller Animation Transition once for all!](https://itnext.io/learn-ios-custom-view-controller-animation-transition-once-for-all-9db80ad447e)
 
 ## UIPresentationController
 - [Custom Presentations and Transitions](https://kylebashour.com/posts/custom-view-controller-presentation-tips)
