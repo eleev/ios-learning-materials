@@ -22,6 +22,8 @@
 - [Save that sink! A simple solution to a common Combine problem](https://www.appsdissected.com/save-sink-assign-subscriber-anycancellable/)
 - [The ultimate Combine framework tutorial in Swift](https://theswiftdev.com/2019/10/31/the-ultimate-combine-framework-tutorial-in-swift/)
 - [URLSession and the Combine framework](https://theswiftdev.com/2019/08/15/urlsession-and-the-combine-framework/)
+- [Understanding Combine’s publishers and subscribers](https://www.donnywals.com/understanding-combines-publishers-and-subscribers/)
+- [Swift Combine Framework Tutorial: Getting Started](https://www.vadimbulavin.com/swift-combine-framework-tutorial-getting-started/)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
