@@ -306,6 +306,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Defer
 - [guard & defer](https://nshipster.com/guard-and-defer/)
 - [Defer usage in Swift](https://github.com/jVirus/ios-learning-materials/edit/master/Lists/Swift.md)
+- [Cleaning Up With Swift Defer](https://useyourloaf.com/blog/cleaning-up-with-swift-defer/)
 
 ## Timer
 - [The ultimate guide to Timer](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
@@ -334,6 +335,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Understand ARC](https://makeapppie.com/2019/05/08/understand-arc/)
 - [ARC and Memory Management in Swift](https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift)
 - [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
+
+## Any & AnyObject
+- [Any & AnyObject in iOS](https://medium.com/flawless-app-stories/any-anyobject-in-ios-803515bd95a6)
 
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
