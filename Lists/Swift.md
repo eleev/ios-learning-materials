@@ -165,9 +165,11 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift Tip: Codable Enums](https://www.objc.io/blog/2018/01/23/codable-enums/)
 - [Indeterminate Types with Codable in Swift](https://medium.com/makingtuenti/indeterminate-types-with-codable-in-swift-5a1af0aa9f3d)
 - [Encode/Decode Array of Types conforming to protocol with JSONEncoder](https://stackoverflow.com/questions/44441223/encode-decode-array-of-types-conforming-to-protocol-with-jsonencoder)
+- [Dynamic Encodable with type erasure](https://medium.com/@sergey.gavrilyuk/dynamic-encodable-with-type-erasure-1875722b3171)
 
 ### Code 
 - [Swift Codable Examples](https://github.com/detroit-labs/swift-codable-examples)
+- [AnyCodable](https://github.com/Flight-School/AnyCodable)
 
 ### Documentation
 - [Encoding and Decoding Custom Types](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
