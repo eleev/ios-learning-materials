@@ -166,6 +166,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Indeterminate Types with Codable in Swift](https://medium.com/makingtuenti/indeterminate-types-with-codable-in-swift-5a1af0aa9f3d)
 - [Encode/Decode Array of Types conforming to protocol with JSONEncoder](https://stackoverflow.com/questions/44441223/encode-decode-array-of-types-conforming-to-protocol-with-jsonencoder)
 - [Dynamic Encodable with type erasure](https://medium.com/@sergey.gavrilyuk/dynamic-encodable-with-type-erasure-1875722b3171)
+- [Are KeyPaths Codable?](https://forums.swift.org/t/are-keypaths-codable/23920/6)
 
 ### Code 
 - [Swift Codable Examples](https://github.com/detroit-labs/swift-codable-examples)
