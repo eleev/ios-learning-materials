@@ -61,6 +61,9 @@
 ## UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 
+## UISearchBar
+- [New Search APIs in iOS 13](https://www.andyibanez.com/posts/ios13-new-search-apis/)
+
 ## UIApplication
 - [Open settings app using openSettingsURLString](https://fluffy.es/open-settings-app/)
 
@@ -164,6 +167,8 @@
 ### UITextView
 - [CUSTOMIZE A TEXT VIEW](http://theapplady.net/customize-a-text-view/)
 - [How to limit the number of characters in a UITextField or UITextView](https://www.hackingwithswift.com/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview)
+- [Scroll UITextView to specific text](https://stackoverflow.com/questions/50190942/scroll-uitextview-to-specific-text)
+- [Scroll text to specific point in UITextView depending on font size](https://stackoverflow.com/questions/52080711/scroll-text-to-specific-point-in-uitextview-depending-on-font-size)
 
 ## UINavigationBar
 - [Navigation Bar Customisation. Part 1 - The Basics.](https://dmtopolog.com/navigation-bar-customization/)
