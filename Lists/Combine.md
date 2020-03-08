@@ -24,6 +24,7 @@
 - [URLSession and the Combine framework](https://theswiftdev.com/2019/08/15/urlsession-and-the-combine-framework/)
 - [Understanding Combine’s publishers and subscribers](https://www.donnywals.com/understanding-combines-publishers-and-subscribers/)
 - [Swift Combine Framework Tutorial: Getting Started](https://www.vadimbulavin.com/swift-combine-framework-tutorial-getting-started/)
+- [How to create custom Publisher in Combine](https://medium.com/flawless-app-stories/swift-combine-custom-publisher-6d1cc3dc248f)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
