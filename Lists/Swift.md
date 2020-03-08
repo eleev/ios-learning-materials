@@ -197,6 +197,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/)
 - [Property observers in Swift](https://www.swiftbysundell.com/posts/property-observers-in-swift)
 - [Computed properties in Swift](https://www.swiftbysundell.com/posts/computed-properties-in-swift)
+- [Computed properties in Swift: A basic feature for safer and cleaner code](https://matteomanferdini.com/computed-property-swift/)
 
 ## Property Wrappers
 - [Property wrappers to remove boilerplate code in Swift](https://www.avanderlee.com/swift/property-wrappers/)
@@ -368,3 +369,4 @@ Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
 - [Inline types and functions in Swift](https://www.swiftbysundell.com/posts/inline-types-and-functions-in-swift)
 - [Chris Lattner on the origins of Swift](https://oleb.net/2019/chris-lattner-swift-origins/)
 - [Exploring the Swift standard library source code](https://useyourloaf.com/blog/exploring-the-swift-standard-library-source-code/)
+- [What makes code “Swifty”?](https://www.swiftbysundell.com/articles/what-makes-code-swifty/)
