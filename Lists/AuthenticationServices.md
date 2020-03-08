@@ -2,6 +2,7 @@
 
 ## Sign In With Apple 
 - [Sign in With Apple implementation tutorial](https://fluffy.es/sign-in-with-apple-tutorial-ios/)
+- [How to Use ASAuthorizationAppleIDButton in Storyboard](https://swiftsenpai.com/xcode/asauthorizationappleidbutton-in-storyboard/)
 
 ## Documentation 
 - [AuthenticationServices](https://developer.apple.com/documentation/authenticationservices)
