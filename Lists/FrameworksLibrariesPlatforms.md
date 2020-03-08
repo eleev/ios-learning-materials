@@ -6,6 +6,7 @@
 ## [Alamofire](https://github.com/Alamofire/Alamofire)
 - [Authentication with signed requests in Alamofire](https://www.avanderlee.com/swift/authentication-alamofire-request-adapter/)
 - [Alamofire 5: One Year in the Making, Now in Beta!](https://forums.swift.org/t/alamofire-5-one-year-in-the-making-now-in-beta/18865)
+- [Authentication with signed requests in Alamofire 5](https://www.avanderlee.com/swift/authentication-alamofire-request-adapter/)
 
 ## [Realm](https://github.com/realm/realm-cocoa) 
 - [Designing the schema of Realm effectively, and other Realm tips](https://hackernoon.com/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072)
