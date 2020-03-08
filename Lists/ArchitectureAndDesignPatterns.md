@@ -11,6 +11,7 @@
 - [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/)
 - [Passive View](https://martinfowler.com/eaaDev/PassiveScreen.html)
 - [Presentation Model](https://martinfowler.com/eaaDev/PresentationModel.html)
+- [ARCHITECTING AN ANALYTICS SERVICE FOR IOS APPS](https://andreaslydemann.com/architecting-an-analytics-service-for-ios-apps/)
 
 ## Designing APIs
 - [Designing Swift APIs](https://www.swiftbysundell.com/posts/designing-swift-apis)
@@ -196,6 +197,8 @@
 - [Dependency Injection on iOS — part 3/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-4-4-ce3723d819d)
 - [Dependency Injection in Swift with Protocols](https://mecid.github.io/2019/03/06/dependency-injection-in-swift-with-protocols/)
 - [Looser dependencies with Swift](https://juripakaste.fi/dependency_protocols_structs.html)
+- [A Swift-y Approach to Dependency Injection](https://danielhall.io/a-swift-y-approach-to-dependency-injection)
+- [Swift-y Dependency Injection, Part Two](https://www.danielhall.io/swift-y-dependency-injection-part-two)
 
 ## Iterator
 - [Design Patterns in Swift: Iterator Pattern](https://agostini.tech/2018/06/10/design-patterns-in-swift-iterator-pattern/)
