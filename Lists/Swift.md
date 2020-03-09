@@ -6,6 +6,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ### Swift 5.2
 - [New Diagnostic Architecture Overview](https://swift.org/blog/new-diagnostic-arch-overview/)
+- [Using KeyPaths as functions in Swift 5.2](https://www.donnywals.com/using-keypaths-as-functions-in-swift-5-2/)
+- [Adding default values to subscript arguments in Swift 5.2](https://www.donnywals.com/adding-default-values-to-subscripts-in-swift-5-2/)
+- [How and when to use callAsFunction in Swift 5.2](https://www.donnywals.com/how-and-when-to-use-callasfunction-in-swift-5-2/)
 
 ### Swift 5.1
 - [What’s new in Swift 5.1](https://www.hackingwithswift.com/articles/182/whats-new-in-swift-5-1)
