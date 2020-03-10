@@ -5,7 +5,6 @@
 - [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 - [Design Patterns in Swift #1: Factory Method and Singleton](https://www.appcoda.com/design-pattern-creational/)
-- [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [Krush iOS Architecture](https://www.teehanlax.com/blog/krush-ios-architecture/)
 - [Encapsulating Domain Data, Logic and Business Rules With Value Types in Swift](https://khawerkhaliq.com/blog/swift-domain-logic-business-rules-value-types/)
 - [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/)
@@ -232,6 +231,8 @@
 - [Why Model Objects Shouldn’t Implement Swift’s Decodable or Encodable Protocols](https://medium.com/better-programming/why-model-objects-shouldnt-implement-swift-s-decodable-or-encodable-protocols-1249cb44d4b3)
 
 # Architectural Patterns
+- [iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+- [The best architecture for the iOS app, does it even exist?](https://medium.com/flawless-app-stories/the-best-architecture-for-ios-app-does-it-even-exist-3af357ac62e7)
 
 ## MVC
 Model View Controller
@@ -249,6 +250,7 @@ Model View Controller
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-)
 - [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
 - [Model-View-Controller (MVC) in iOS: A Modern Approach](https://www.raywenderlich.com/sessions/new?return_path=%2F1073-model-view-controller-mvc-in-ios-a-modern-approach)
+- [MVC: Many View Controllers](https://rambo.codes/posts/2020-02-20-mvc-with-sugar)
 
 ### Video
 - [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
