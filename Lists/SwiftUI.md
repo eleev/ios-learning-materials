@@ -55,6 +55,7 @@
 - [SwiftUI Data Flow](https://troz.net/post/2019/swiftui-data-flow/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B429)
 - [How to use UIKit in SwiftUI](https://sarunw.com/posts/uikit-in-swiftui/)
 - [Configuring SwiftUI views](https://www.swiftbysundell.com/articles/configuring-swiftui-views/)
+- [Avoiding massive SwiftUI views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
