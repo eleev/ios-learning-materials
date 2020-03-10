@@ -33,6 +33,7 @@
 - [Extracting view controller actions in Swift](https://www.swiftbysundell.com/posts/extracting-view-controller-actions-in-swift)
 - [Configurable types in Swift](https://www.swiftbysundell.com/posts/configurable-types-in-swift)
 - [Layered Architecture to Design iOS Apps](https://www.vadimbulavin.com/layered-architecture-ios/)
+- [Splitting up Swift types](https://www.swiftbysundell.com/articles/splitting-up-swift-types/)
 
 ## Massive View Controller
 - [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers)
