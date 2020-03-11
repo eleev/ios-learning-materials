@@ -7,7 +7,7 @@
 [![Contributors](https://img.shields.io/badge/Contributors-8-informational.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-**Last Update: 10/March/2020.**
+**Last Update: 11/March/2020.**
 
 ![](logo-alternative.jpg)
 
