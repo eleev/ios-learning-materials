@@ -60,6 +60,9 @@
 - [How to create Activity Ring in SwiftUI](https://sarunw.com/posts/how-to-create-activity-ring-in-swiftui/)
 - [Building a state-driven app in SwiftUI using state machines](https://medium.com/eggs-design/building-a-state-driven-app-in-swiftui-using-state-machines-32379ca37283)
 - [Asynchronous Image Loading from URL in SwiftUI](https://www.vadimbulavin.com/asynchronous-swiftui-image-loading-from-url-with-combine-and-swift/)
+- [Data in SwiftUI, Part 1: Data](https://sarunw.com/posts/data-in-swiftui-1/)
+- [Data in SwiftUI, Part 2: Views as a function of data](https://sarunw.com/posts/data-in-swiftui-2/)
+- [Data in SwiftUI, Part 3: Tools](https://sarunw.com/posts/data-in-swiftui-3/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
