@@ -71,10 +71,12 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift: Using Enums to Write Safer Code — Part Two](https://bruno.ph/blog/articles/swift-enums-for-safer-code-part-2/)
 - [Advanced Enum (Enumerations) by Example - Swift Programming Language](https://developerinsider.co/advanced-enum-enumerations-by-example-swift-programming-language/)
 
-## Functional Builder (Swift 5.1)
+## Function Builder (Swift 5.1)
 
 ## Articles
 - [Digging deeper into the Swift behind SwiftUI](https://davidbeck.co/posts/2019-06-11-digging-deeper-into-the-swift-behind-swiftui)
+- [UIAlertController with Function Builders](https://felginep.github.io/2020-03-10/uialertcontroller-function-builders)
+- [Understanding Function Builders](https://www.andyibanez.com/posts/understanding-function-builders/)
 
 ### Videos
 - [The Swift Behind SwiftUI – Daniel Steinberg at Hacking with Swift Live 2019](https://swiftui.map4b.com/2019/07/the-swift-behind-swiftui-daniel-steinberg-at-hacking-with-swift-live-2019/)
