@@ -207,6 +207,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Property Wrappers
 - [Property wrappers to remove boilerplate code in Swift](https://www.avanderlee.com/swift/property-wrappers/)
 - [Property wrappers in Swift 5.1: the missing @Published implementation](https://medium.com/genetec-tech/property-wrappers-in-swift-5-1-the-missing-published-implementation-1a466ebcf660)
+- [Making properties overridable only in debug builds](https://www.swiftbysundell.com/tips/making-properties-overridable-only-in-debug-builds/)
 
 ## KVO and Bindings
 - [Bindings and KVO alternatives](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
