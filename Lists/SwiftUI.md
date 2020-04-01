@@ -77,6 +77,15 @@
 - [Gestures in SwiftUI](https://medium.com/better-programming/gestures-in-swiftui-e94b784ecc7)
 - [SwiftUI Tip: Drawing a Border with Rounded Corners for Buttons and Text](https://www.appcoda.com/swiftui-border/)
 - [How to layer views on top of each other using ZStack](https://www.hackingwithswift.com/quick-start/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack)
+- [How to make custom view modifiers in SwiftUI](https://www.simpleswiftguide.com/how-to-make-custom-view-modifiers-in-swiftui/)
+- [SwiftUI Drag Gesture Tutorial](https://www.ioscreator.com/tutorials/swiftui-drag-gesture-tutorial)
+- [SwiftUI’s built-in shapes](https://www.hackingwithswift.com/quick-start/swiftui/swiftuis-built-in-shapes)
+- [SwiftUI Layout System](https://kean.github.io/post/swiftui-layout-system)
+- [Trying to understand custom layouts in SwiftUI](https://alejandromp.com/blog/2019/06/12/custom-layouts-in-swiftui/)
+- [Working with SwiftUI Gestures and @GestureState](https://www.appcoda.com/swiftui-gestures/)
+- [How to return different view types](https://www.hackingwithswift.com/quick-start/swiftui/how-to-return-different-view-types)
+- [How to create a slider and read values from it](https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-slider-and-read-values-from-it)
+- [SwiftUI slider tutorial – how to create and use slider in SwiftUI](https://www.simpleswiftguide.com/swiftui-slider-tutorial-how-to-create-and-use-slider-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -97,6 +106,7 @@
 - [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)
 - [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)
 - [Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)
+- [Composing SwiftUI Gestures](https://developer.apple.com/documentation/swiftui/gestures/composing_swiftui_gestures)
 
 ### Other
 - [SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU)
