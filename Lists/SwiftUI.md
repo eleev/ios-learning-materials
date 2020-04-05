@@ -86,6 +86,12 @@
 - [How to return different view types](https://www.hackingwithswift.com/quick-start/swiftui/how-to-return-different-view-types)
 - [How to create a slider and read values from it](https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-slider-and-read-values-from-it)
 - [SwiftUI slider tutorial – how to create and use slider in SwiftUI](https://www.simpleswiftguide.com/swiftui-slider-tutorial-how-to-create-and-use-slider-in-swiftui/)
+- [How to group views together](https://www.hackingwithswift.com/quick-start/swiftui/how-to-group-views-together)
+- [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks)
+- [How to use @EnvironmentObject to share data between views](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-environmentobject-to-share-data-between-views)
+- [Disabling user interactivity with allowsHitTesting()](https://www.hackingwithswift.com/books/ios-swiftui/disabling-user-interactivity-with-allowshittesting)
+- [Custom modifiers](https://www.hackingwithswift.com/books/ios-swiftui/custom-modifiers)
+- [What is the @Environment property wrapper?](https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-environment-property-wrapper)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -93,6 +99,10 @@
 - [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
 - [SwiftUI Resources](https://developer.apple.com/tutorials/swiftui/resources)
 - [SwiftUI Framework Docs](https://developer.apple.com/documentation/swiftui)
+
+## Stackoverflow
+- [SwiftUI: Path's coordinateSpace](https://stackoverflow.com/questions/57015357/swiftui-paths-coordinatespace)
+- [Scroll SwiftUI List to new selection](https://stackoverflow.com/questions/57121782/scroll-swiftui-list-to-new-selection)
 
 ## Videos
 
