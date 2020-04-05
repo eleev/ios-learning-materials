@@ -92,6 +92,20 @@
 - [Disabling user interactivity with allowsHitTesting()](https://www.hackingwithswift.com/books/ios-swiftui/disabling-user-interactivity-with-allowshittesting)
 - [Custom modifiers](https://www.hackingwithswift.com/books/ios-swiftui/custom-modifiers)
 - [What is the @Environment property wrapper?](https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-environment-property-wrapper)
+- [Making real-world app with SwiftUI](https://swiftwithmajid.com/2019/06/05/swiftui-making-real-world-app/)
+- [Understanding Property Wrappers in SwiftUI](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
+- [Building forms with SwiftUI](https://swiftwithmajid.com/2019/06/19/building-forms-with-swiftui/)
+- [Animations in SwiftUI](https://swiftwithmajid.com/2019/06/26/animations-in-swiftui/)
+- [Managing Data Flow in SwiftUI](https://swiftwithmajid.com/2019/07/03/managing-data-flow-in-swiftui/)
+- [Gestures in SwiftUI](https://swiftwithmajid.com/2019/07/10/gestures-in-swiftui/)
+- [Navigation in SwiftUI](https://swiftwithmajid.com/2019/07/17/navigation-in-swiftui/)
+- [Introducing Container views in SwiftUI](https://swiftwithmajid.com/2019/07/31/introducing-container-views-in-swiftui/)
+- [Alerts, ActionSheets, Modals and Popovers in SwiftUI](https://swiftwithmajid.com/2019/07/24/alerts-actionsheets-modals-and-popovers-in-swiftui/)
+- [ViewModifiers in SwiftUI](https://swiftwithmajid.com/2019/08/07/viewmodifiers-in-swiftui/)
+- [Building BarChart with Shape API in SwiftUI](https://swiftwithmajid.com/2019/08/14/building-barchart-with-shape-api-in-swiftui/)
+- [The power of Environment in SwiftUI](https://swiftwithmajid.com/2019/08/21/the-power-of-environment-in-swiftui/)
+- [Composable styling in SwiftUI](https://swiftwithmajid.com/2019/08/28/composable-styling-in-swiftui/)
+- [Modeling app state using Store objects in SwiftUI](https://swiftwithmajid.com/2019/09/04/modeling-app-state-using-store-objects-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -99,6 +113,7 @@
 - [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
 - [SwiftUI Resources](https://developer.apple.com/tutorials/swiftui/resources)
 - [SwiftUI Framework Docs](https://developer.apple.com/documentation/swiftui)
+- [EnvironmentValues](https://developer.apple.com/documentation/swiftui/environmentvalues)
 
 ## Stackoverflow
 - [SwiftUI: Path's coordinateSpace](https://stackoverflow.com/questions/57015357/swiftui-paths-coordinatespace)
