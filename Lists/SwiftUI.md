@@ -106,6 +106,18 @@
 - [The power of Environment in SwiftUI](https://swiftwithmajid.com/2019/08/21/the-power-of-environment-in-swiftui/)
 - [Composable styling in SwiftUI](https://swiftwithmajid.com/2019/08/28/composable-styling-in-swiftui/)
 - [Modeling app state using Store objects in SwiftUI](https://swiftwithmajid.com/2019/09/04/modeling-app-state-using-store-objects-in-swiftui/)
+- [SwiftUI Performance Battle: AnyView vs Group](https://medium.com/swlh/swiftui-performance-battle-anyview-vs-group-55bf852158df)
+- [How to fix slow List updates in SwiftUI](https://www.hackingwithswift.com/articles/210/how-to-fix-slow-list-updates-in-swiftui)
+- [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts)
+- [Controlling the animation stack](https://www.hackingwithswift.com/books/ios-swiftui/controlling-the-animation-stack)
+- [GeometryReader to the Rescue](https://swiftui-lab.com/geometryreader-to-the-rescue/)
+- [SwiftUI: Create a Tinder-Style Swipeable Card View](https://medium.com/better-programming/swiftui-create-a-tinder-style-swipeable-card-view-283e257cb102)
+- [What is the @GestureState property wrapper?](https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-gesturestate-property-wrapper)
+- [Understanding frames and coordinates inside GeometryReader](https://www.hackingwithswift.com/books/ios-swiftui/understanding-frames-and-coordinates-inside-geometryreader)
+- [How to let users move rows in a list](https://www.hackingwithswift.com/quick-start/swiftui/how-to-let-users-move-rows-in-a-list)
+- [SwiftUI gestures: Composing gestures or how do add and handle multiple gestures.](https://dreamcraft.io/posts/swiftui-mixing-gesture)
+- [A deeper understanding of SwiftUI](https://www.egeniq.com/blog/deeper-understanding-swiftui)
+- [Custom @Environment keys in SwiftUI](https://sergdort.github.io/custom-environment-swift-ui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -118,6 +130,8 @@
 ## Stackoverflow
 - [SwiftUI: Path's coordinateSpace](https://stackoverflow.com/questions/57015357/swiftui-paths-coordinatespace)
 - [Scroll SwiftUI List to new selection](https://stackoverflow.com/questions/57121782/scroll-swiftui-list-to-new-selection)
+- [Passing data between two views](https://stackoverflow.com/questions/57415086/passing-data-between-two-views)
+- [swiftUI: detect intersection of two views embedded inside an array and swap their positions](https://stackoverflow.com/questions/59573320/swiftui-detect-intersection-of-two-views-embedded-inside-an-array-and-swap-thei)
 
 ## Videos
 
