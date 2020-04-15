@@ -118,6 +118,7 @@
 - [SwiftUI gestures: Composing gestures or how do add and handle multiple gestures.](https://dreamcraft.io/posts/swiftui-mixing-gesture)
 - [A deeper understanding of SwiftUI](https://www.egeniq.com/blog/deeper-understanding-swiftui)
 - [Custom @Environment keys in SwiftUI](https://sergdort.github.io/custom-environment-swift-ui/)
+- [How to hide and show the status bar](https://www.hackingwithswift.com/quick-start/swiftui/how-to-hide-and-show-the-status-bar)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -132,6 +133,7 @@
 - [Scroll SwiftUI List to new selection](https://stackoverflow.com/questions/57121782/scroll-swiftui-list-to-new-selection)
 - [Passing data between two views](https://stackoverflow.com/questions/57415086/passing-data-between-two-views)
 - [swiftUI: detect intersection of two views embedded inside an array and swap their positions](https://stackoverflow.com/questions/59573320/swiftui-detect-intersection-of-two-views-embedded-inside-an-array-and-swap-thei)
+- [SwiftUI: Status bar color](https://stackoverflow.com/questions/57063142/swiftui-status-bar-color)
 
 ## Videos
 
