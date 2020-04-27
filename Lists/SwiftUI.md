@@ -119,6 +119,10 @@
 - [A deeper understanding of SwiftUI](https://www.egeniq.com/blog/deeper-understanding-swiftui)
 - [Custom @Environment keys in SwiftUI](https://sergdort.github.io/custom-environment-swift-ui/)
 - [How to hide and show the status bar](https://www.hackingwithswift.com/quick-start/swiftui/how-to-hide-and-show-the-status-bar)
+- [The magic of view preferences in SwiftUI](https://swiftwithmajid.com/2020/01/15/the-magic-of-view-preferences-in-swiftui/)
+- [Anchor preferences in SwiftUI](https://swiftwithmajid.com/2020/03/18/anchor-preferences-in-swiftui/)
+- [Alignment guides in SwiftUI](https://swiftwithmajid.com/2020/03/11/alignment-guides-in-swiftui/)
+- [TextField in SwiftUI](https://swiftwithmajid.com/2020/02/26/textfield-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
