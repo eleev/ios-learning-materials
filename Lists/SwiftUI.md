@@ -123,6 +123,10 @@
 - [Anchor preferences in SwiftUI](https://swiftwithmajid.com/2020/03/18/anchor-preferences-in-swiftui/)
 - [Alignment guides in SwiftUI](https://swiftwithmajid.com/2020/03/11/alignment-guides-in-swiftui/)
 - [TextField in SwiftUI](https://swiftwithmajid.com/2020/02/26/textfield-in-swiftui/)
+- [Inspecting the View Tree – Part 1: PreferenceKey](https://swiftui-lab.com/communicating-with-the-view-tree-part-1/)
+- [Inspecting the View Tree – Part 2: AnchorPreferences](https://swiftui-lab.com/communicating-with-the-view-tree-part-2/)
+- [Inspecting the View Tree – Part 3: Nested Views](https://swiftui-lab.com/communicating-with-the-view-tree-part-3/)
+- [Building Bottom sheet in SwiftUI](https://swiftwithmajid.com/2019/12/11/building-bottom-sheet-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
