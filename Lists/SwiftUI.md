@@ -127,6 +127,15 @@
 - [Inspecting the View Tree – Part 2: AnchorPreferences](https://swiftui-lab.com/communicating-with-the-view-tree-part-2/)
 - [Inspecting the View Tree – Part 3: Nested Views](https://swiftui-lab.com/communicating-with-the-view-tree-part-3/)
 - [Building Bottom sheet in SwiftUI](https://swiftwithmajid.com/2019/12/11/building-bottom-sheet-in-swiftui/)
+- [Frame Behaviors with SwiftUI](https://swiftui-lab.com/frame-behaviors/)
+- [Alignment Guides in SwiftUI](https://swiftui-lab.com/alignment-guides/)
+- [Safely Updating The View State](https://swiftui-lab.com/state-changes/)
+- [id(_): Identifying SwiftUI Views](https://swiftui-lab.com/swiftui-id/)
+- [A deeper understanding of SwiftUI](https://www.egeniq.com/blog/deeper-understanding-swiftui)
+- [SwiftUI: How to get content offset from ScrollView](https://medium.com/@maxnatchanon/swiftui-how-to-get-content-offset-from-scrollview-5ce1f84603ec)
+- [A guide to the SwiftUI layout system - Part 1](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-1/)
+- [A guide to the SwiftUI layout system - Part 2](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-2/)
+- [A guide to the SwiftUI layout system - Part 3](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-3/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
