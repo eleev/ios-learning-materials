@@ -15,3 +15,4 @@
 - [Huge Images, Small Phone](https://medium.com/frame-io-engineering/huge-images-small-phone-15414b30d39e)
 - [Particle systems: a Christmas story](https://badootech.badoo.com/ios-particle-systems-a-christmas-story-270c1844fd50)
 - [Animated Gradients on iOS](https://medium.com/@rwbutler/animated-gradients-on-ios-aa117551e533)
+- [Animated gradient layers in Swift](https://medium.com/flawless-app-stories/animated-gradient-layers-in-swift-bad094496644)
