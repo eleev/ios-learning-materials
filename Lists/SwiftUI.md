@@ -136,6 +136,7 @@
 - [A guide to the SwiftUI layout system - Part 1](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-1/)
 - [A guide to the SwiftUI layout system - Part 2](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-2/)
 - [A guide to the SwiftUI layout system - Part 3](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-3/)
+- [The magic of fixed size modifier in SwiftUI](https://swiftwithmajid.com/2020/04/29/the-magic-of-fixed-size-modifier-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
