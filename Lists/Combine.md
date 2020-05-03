@@ -35,6 +35,7 @@
 
 ## Code 
 - [CombineSwiftPlayground](https://github.com/AvdLee/CombineSwiftPlayground)
+- [CombinePlaygrounds](https://github.com/denisPoifol/CombinePlaygrounds)
 
 ## Videos
 ### WWDC
