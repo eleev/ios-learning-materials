@@ -80,7 +80,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [App Extensions](Lists/AppExtensions.md)
 - [WWDC](Lists/WWDC.md)
 - [Git](Lists/Git.md)
-- [iOS Development](Lists/iOSDevelopment.md)
+- [Development](Lists/Development.md)
 - [Algorithms and Data Structures](Lists/AlgorithmsAndDataStructures.md)
 - [Asynchronous Programming](Lists/AsynchronousProgramming.md)
 - [Functional Programming](Lists/FunctionalProgramming.md)
