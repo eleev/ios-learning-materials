@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-Swift-green.svg)]()
 [![Founded](https://img.shields.io/badge/Founded-August_2017-ff69b4.svg)]()
-[![Materials](https://img.shields.io/badge/Materials-1837-important.svg)]()
+[![Materials](https://img.shields.io/badge/Materials-1847-important.svg)]()
 [![MajorTopics](https://img.shields.io/badge/Major_Topics-80-red.svg)]()
 [![Contributors](https://img.shields.io/badge/Contributors-8-informational.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
