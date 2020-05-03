@@ -14,6 +14,7 @@
 - [Cancelling Background Tasks](http://jordansmith.io/cancelling-background-tasks/)
 - [DispatchGroup vs. OperationQueue in Swift](https://agostini.tech/2017/08/20/dispatchgroup-vs-operationqueue-in-swift/)
 - [Introduction to Multithreading and DispatchQueue](https://fluffy.es/help-my-app-freezes/)
+- [Discovering which DispatchQueue a method is running on](https://swiftrocks.com/discovering-which-dispatchqueue-a-method-is-running-on)
 
 ### Futures & Promises
 - [Back To The Futures](https://academy.realm.io/posts/swift-summit-javier-soto-futures/)
