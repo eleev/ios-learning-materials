@@ -3,11 +3,11 @@
 [![Language](https://img.shields.io/badge/Language-Swift-green.svg)]()
 [![Founded](https://img.shields.io/badge/Founded-August_2017-ff69b4.svg)]()
 [![Materials](https://img.shields.io/badge/Materials-1837-important.svg)]()
-[![MajorTopics](https://img.shields.io/badge/Major_Topics-79-red.svg)]()
+[![MajorTopics](https://img.shields.io/badge/Major_Topics-80-red.svg)]()
 [![Contributors](https://img.shields.io/badge/Contributors-8-informational.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-**Last Update: 02/May/2020.**
+**Last Update: 03/May/2020.**
 
 ![](logo-alternative.jpg)
 
@@ -55,6 +55,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [AVFoundation](Lists/AVFoundation.md)
 - [AppKit](Lists/AppKit.md)
 - [SearchKit](Lists/SearchKit.md)
+- [Auto Layout](Lists/AutoLayout.md)
 - [AuthenticationServices](Lists/AuthenticationServices.md)
 - [Project Catalyst](Lists/ProjectCatalyst.md)
 - [Asset Catalog](Lists/AssetCatalog.md)
