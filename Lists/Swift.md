@@ -275,6 +275,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ### @inline
 - [The Forbidden @inline Attribute in Swift](https://swiftrocks.com/the-forbidden-inline-attribute-in-swift.html)
+- [[swift-users] inline best practices?](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20170227/004886.html)
  
 ## Pattern Matching
 - [Pattern Matching, Part 1: switch, enums & where clauses](http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/)
