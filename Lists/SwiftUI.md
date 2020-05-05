@@ -137,6 +137,10 @@
 - [A guide to the SwiftUI layout system - Part 2](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-2/)
 - [A guide to the SwiftUI layout system - Part 3](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-3/)
 - [The magic of fixed size modifier in SwiftUI](https://swiftwithmajid.com/2020/04/29/the-magic-of-fixed-size-modifier-in-swiftui/)
+- [Dynamic Environments ¶ SwiftUI Rules](http://www.alwaysrightinstitute.com/swiftuirules/)
+- [Customizing Toggle in SwiftUI](https://swiftwithmajid.com/2020/03/04/customizing-toggle-in-swiftui/)
+- [Keyboard Avoidance for SwiftUI Views](https://www.vadimbulavin.com/how-to-move-swiftui-view-when-keyboard-covers-text-field/`)
+- [How To Prevent The Keyboard From Hiding Your SwiftUI View](https://blckbirds.com/post/prevent-the-keyboard-from-hiding-swiftui-view/#)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
