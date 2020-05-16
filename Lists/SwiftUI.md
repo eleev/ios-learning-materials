@@ -141,6 +141,14 @@
 - [Customizing Toggle in SwiftUI](https://swiftwithmajid.com/2020/03/04/customizing-toggle-in-swiftui/)
 - [Keyboard Avoidance for SwiftUI Views](https://www.vadimbulavin.com/how-to-move-swiftui-view-when-keyboard-covers-text-field/`)
 - [How To Prevent The Keyboard From Hiding Your SwiftUI View](https://blckbirds.com/post/prevent-the-keyboard-from-hiding-swiftui-view/#)
+- [The Mystery Behind View Equality](https://swiftui-lab.com/equatableview/)
+- [Optimizing views in SwiftUI using EquatableView](https://swiftwithmajid.com/2020/01/22/optimizing-views-in-swiftui-using-equatableview/)
+- [Template-view pattern in SwiftUI](https://swiftwithmajid.com/2020/05/13/template-view-pattern-in-swiftui/)
+- [Building calendar without UICollectionView in SwiftUI](https://swiftwithmajid.com/2020/05/06/building-calendar-without-uicollectionview-in-swiftui/)
+- [Performance Battle: AnyView vs Group](https://nalexn.github.io/anyview-vs-group/)
+- [Why I quit using the ObservableObject](https://nalexn.github.io/swiftui-observableobject/)
+- [Catch SwiftUI model updates from bad threads before they crash your app](https://www.appsdissected.com/swiftui-updates-main-thread-debug-crash/)
+- [What is the @Published property wrapper?](https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-published-property-wrapper)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -156,6 +164,7 @@
 - [Passing data between two views](https://stackoverflow.com/questions/57415086/passing-data-between-two-views)
 - [swiftUI: detect intersection of two views embedded inside an array and swap their positions](https://stackoverflow.com/questions/59573320/swiftui-detect-intersection-of-two-views-embedded-inside-an-array-and-swap-thei)
 - [SwiftUI: Status bar color](https://stackoverflow.com/questions/57063142/swiftui-status-bar-color)
+- [How to update a single child view in SwiftUI?](https://stackoverflow.com/questions/56506591/how-to-update-a-single-child-view-in-swiftui)
 
 ## Videos
 
