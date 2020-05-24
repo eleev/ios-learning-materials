@@ -149,6 +149,9 @@
 - [Why I quit using the ObservableObject](https://nalexn.github.io/swiftui-observableobject/)
 - [Catch SwiftUI model updates from bad threads before they crash your app](https://www.appsdissected.com/swiftui-updates-main-thread-debug-crash/)
 - [What is the @Published property wrapper?](https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-published-property-wrapper)
+- [Advanced SwiftUI Animations – Part 1: Paths](https://swiftui-lab.com/swiftui-animations-part1/)
+- [Advanced SwiftUI Animations – Part 2: GeometryEffect](https://swiftui-lab.com/swiftui-animations-part2/)
+- [Advanced SwiftUI Animations – Part 3: AnimatableModifier](https://swiftui-lab.com/swiftui-animations-part3/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -157,6 +160,7 @@
 - [SwiftUI Resources](https://developer.apple.com/tutorials/swiftui/resources)
 - [SwiftUI Framework Docs](https://developer.apple.com/documentation/swiftui)
 - [EnvironmentValues](https://developer.apple.com/documentation/swiftui/environmentvalues)
+- [What are SwiftUI Transitions and How Do You Use Them?](https://www.bigmountainstudio.com/members/posts/14750-what-are-swiftui-transitions-and-how-do-you-use-them)
 
 ## Stackoverflow
 - [SwiftUI: Path's coordinateSpace](https://stackoverflow.com/questions/57015357/swiftui-paths-coordinatespace)
@@ -165,6 +169,8 @@
 - [swiftUI: detect intersection of two views embedded inside an array and swap their positions](https://stackoverflow.com/questions/59573320/swiftui-detect-intersection-of-two-views-embedded-inside-an-array-and-swap-thei)
 - [SwiftUI: Status bar color](https://stackoverflow.com/questions/57063142/swiftui-status-bar-color)
 - [How to update a single child view in SwiftUI?](https://stackoverflow.com/questions/56506591/how-to-update-a-single-child-view-in-swiftui)
+- [How to change the background color for a Form in SwiftUI?](https://stackoverflow.com/questions/57254461/how-to-change-the-background-color-for-a-form-in-swiftui)
+- [How to animate/transition text value change in SwiftUI](https://stackoverflow.com/questions/59157595/how-to-animate-transition-text-value-change-in-swiftui)
 
 ## Videos
 
@@ -203,4 +209,5 @@
 - [SwiftUI lets us build declarative user interfaces in Swift](https://www.hackingwithswift.com/articles/191/swiftui-lets-us-build-declarative-user-interfaces-in-swift)
 - [SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)
 - [SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)
+- [SwiftUI Scroll Animation using GeometryReade](https://www.youtube.com/watch?v=EBbhIbI2Hg8)
 
