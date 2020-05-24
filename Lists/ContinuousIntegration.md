@@ -13,6 +13,10 @@
 - [Xcode Server with Xcode 10](https://medium.com/xcblog/xcode-server-with-xcode-10-124013cbedbc)
 - [iOS Continuous Integration with Xcode Server Explained](https://www.toptal.com/xcode/ios-continuous-integration-xcode-server)
 
+## GitHub Actions
+- [Github Actions for iOS projects](https://sarunw.com/posts/github-actions-for-ios-projects/)
+- [GitHub Actions Documentation](https://help.github.com/en/actions)
+
 ### Official Docs
 - [Xcode Server and Continuous Integration Guide](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/index.html#//apple_ref/doc/uid/TP40013292-CH1-SW1)
 
