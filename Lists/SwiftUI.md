@@ -172,6 +172,11 @@
 - [How to change the background color for a Form in SwiftUI?](https://stackoverflow.com/questions/57254461/how-to-change-the-background-color-for-a-form-in-swiftui)
 - [How to animate/transition text value change in SwiftUI](https://stackoverflow.com/questions/59157595/how-to-animate-transition-text-value-change-in-swiftui)
 
+## Interoperating with CoreData
+- [How to combine Core Data and SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/how-to-combine-core-data-and-swiftui)
+- [Setting up Core Data in SwiftUI 🛠](https://blckbirds.com/post/core-data-and-swiftui/)
+- [Core Data with SwiftUI Tutorial: Getting Started](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
+
 ## Videos
 
 ### WWDC
