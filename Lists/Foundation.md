@@ -21,6 +21,9 @@
 ## NSCache
 - [iOS - Best practice to save Images locally - NSCache vs Save in Document Directory](https://stackoverflow.com/questions/29434617/ios-best-practice-to-save-images-locally-nscache-vs-save-in-document-directo)
 
+## NSPredicate
+- [Swift Filtering With Predicates](https://useyourloaf.com/blog/swift-filtering-with-predicates/)
+
 ## App Extension Support 
 
 ### NSItemProvider
