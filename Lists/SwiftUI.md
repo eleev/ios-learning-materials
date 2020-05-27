@@ -152,6 +152,7 @@
 - [Advanced SwiftUI Animations – Part 1: Paths](https://swiftui-lab.com/swiftui-animations-part1/)
 - [Advanced SwiftUI Animations – Part 2: GeometryEffect](https://swiftui-lab.com/swiftui-animations-part2/)
 - [Advanced SwiftUI Animations – Part 3: AnimatableModifier](https://swiftui-lab.com/swiftui-animations-part3/)
+- [How to Create Checkbox in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-checkbox-in-swiftui-ad08e285ab3d)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
