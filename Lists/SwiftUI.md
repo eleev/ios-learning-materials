@@ -153,6 +153,9 @@
 - [Advanced SwiftUI Animations – Part 2: GeometryEffect](https://swiftui-lab.com/swiftui-animations-part2/)
 - [Advanced SwiftUI Animations – Part 3: AnimatableModifier](https://swiftui-lab.com/swiftui-animations-part3/)
 - [How to Create Checkbox in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-checkbox-in-swiftui-ad08e285ab3d)
+- [SwiftUI and the Missing Environment Object](https://medium.com/swlh/swiftui-and-the-missing-environment-object-1a4bf8913ba7)
+- [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/)
+- [Multi Select Picker for SwiftUI](https://www.pawelmadej.com/post/multi-select-picker-for-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
