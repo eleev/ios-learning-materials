@@ -14,6 +14,7 @@
 - [Tips and tricks on unit testing iOS apps](https://www.kairadiagne.com/2019/05/31/ios-testing-tips-and-tricks)
 - [XCTest Error Handling Improvements](https://useyourloaf.com/blog/xctest-error-handling-improvements)
 - [Testing private methods and variables in Swift](https://www.avanderlee.com/swift/testing-private-methods-variables/)
+- [Effective Unit Testing](https://kean.github.io/post/unit-testing)
 
 ## Expectations / Async Testing
 - [INVERTED EXPECTATIONS](https://pfandrade.me/blog/inverted-expectations/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B392)
