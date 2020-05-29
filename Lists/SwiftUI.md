@@ -156,6 +156,8 @@
 - [SwiftUI and the Missing Environment Object](https://medium.com/swlh/swiftui-and-the-missing-environment-object-1a4bf8913ba7)
 - [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/)
 - [Multi Select Picker for SwiftUI](https://www.pawelmadej.com/post/multi-select-picker-for-swiftui/)
+- [Fitting and filling views in SwiftUI](https://swiftwithmajid.com/2020/05/20/fitting-and-filling-view-in-swiftui/)
+- [SwiftUI: Interactive Custom Sheet](https://liquidcoder.com/swiftui-interactive-custom-sheet/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
