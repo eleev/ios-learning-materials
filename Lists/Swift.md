@@ -310,6 +310,7 @@ The section contains materials that are dedicated to specific versions of `Swift
  
 ## Copy-On-Write
 - [Use Copy-On-Write With Swift Value Types](https://marcosantadev.com/copy-write-swift-value-types/)
+- [Understand Copy-on-Write in Swift 5](https://medium.com/better-programming/understand-copy-on-write-in-swift-5-52a4716165a3)
 
 ## KeyPath
 - [Swift 4 KeyPaths and You](https://www.klundberg.com/blog/swift-4-keypaths-and-you/)
@@ -353,6 +354,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Any & AnyObject
 - [Any & AnyObject in iOS](https://medium.com/flawless-app-stories/any-anyobject-in-ios-803515bd95a6)
+
+## Result Type
+- [Using Result in Swift 5](https://www.donnywals.com/using-result-in-swift-5/)
 
 ## Dynamic Swift
 Keywords: `Reflection`, `Introspection`, `Mirror`, `CustomReflectable`
