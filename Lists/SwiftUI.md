@@ -158,6 +158,11 @@
 - [Multi Select Picker for SwiftUI](https://www.pawelmadej.com/post/multi-select-picker-for-swiftui/)
 - [Fitting and filling views in SwiftUI](https://swiftwithmajid.com/2020/05/20/fitting-and-filling-view-in-swiftui/)
 - [SwiftUI: Interactive Custom Sheet](https://liquidcoder.com/swiftui-interactive-custom-sheet/)
+- [View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/)
+- [Exploring SwiftUI Apple Watch Performance](https://david-smith.org/blog/2020/01/07/exploring-swiftui-apple-watch-performance/)
+- [Frustrated by missing features in SwiftUI? Using UIViewRepresentable to wrap UIKit controls](https://www.appsdissected.com/missing-features-swiftui-uiviewrepresentable-wrap-uikit-controls/)
+- [The Power of the Hosting+Representable Combo](https://swiftui-lab.com/a-powerful-combo/)
+- [What are SwiftUI Transitions and How Do You Use Them?](https://www.bigmountainstudio.com/members/posts/14750-what-are-swiftui-transitions-and-how-do-you-use-them)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -166,7 +171,6 @@
 - [SwiftUI Resources](https://developer.apple.com/tutorials/swiftui/resources)
 - [SwiftUI Framework Docs](https://developer.apple.com/documentation/swiftui)
 - [EnvironmentValues](https://developer.apple.com/documentation/swiftui/environmentvalues)
-- [What are SwiftUI Transitions and How Do You Use Them?](https://www.bigmountainstudio.com/members/posts/14750-what-are-swiftui-transitions-and-how-do-you-use-them)
 
 ## Stackoverflow
 - [SwiftUI: Path's coordinateSpace](https://stackoverflow.com/questions/57015357/swiftui-paths-coordinatespace)
@@ -177,6 +181,7 @@
 - [How to update a single child view in SwiftUI?](https://stackoverflow.com/questions/56506591/how-to-update-a-single-child-view-in-swiftui)
 - [How to change the background color for a Form in SwiftUI?](https://stackoverflow.com/questions/57254461/how-to-change-the-background-color-for-a-form-in-swiftui)
 - [How to animate/transition text value change in SwiftUI](https://stackoverflow.com/questions/59157595/how-to-animate-transition-text-value-change-in-swiftui)
+- [SwiftUI - ObservableObject performance issues](https://stackoverflow.com/questions/59039475/swiftui-observableobject-performance-issues)
 
 ## Interoperating with CoreData
 - [How to combine Core Data and SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/how-to-combine-core-data-and-swiftui)
