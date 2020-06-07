@@ -25,6 +25,9 @@
 - [Understanding Combine’s publishers and subscribers](https://www.donnywals.com/understanding-combines-publishers-and-subscribers/)
 - [Swift Combine Framework Tutorial: Getting Started](https://www.vadimbulavin.com/swift-combine-framework-tutorial-getting-started/)
 - [How to create custom Publisher in Combine](https://medium.com/flawless-app-stories/swift-combine-custom-publisher-6d1cc3dc248f)
+- [Persist Business Logic With Swift Combine](https://medium.com/better-programming/persist-business-logic-with-swift-combine-519efb3a7e37)
+- [Persist Filtering Logic With Swift Combine](https://medium.com/better-programming/persist-filtering-logics-with-swift-combine-6c3594be77cc)
+- [How to Persist Transforming Logic with Swift Combine](https://medium.com/better-programming/persist-transforming-logic-with-swift-combine-84238accf1fa)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)
