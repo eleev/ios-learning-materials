@@ -163,6 +163,11 @@
 - [Frustrated by missing features in SwiftUI? Using UIViewRepresentable to wrap UIKit controls](https://www.appsdissected.com/missing-features-swiftui-uiviewrepresentable-wrap-uikit-controls/)
 - [The Power of the Hosting+Representable Combo](https://swiftui-lab.com/a-powerful-combo/)
 - [What are SwiftUI Transitions and How Do You Use Them?](https://www.bigmountainstudio.com/members/posts/14750-what-are-swiftui-transitions-and-how-do-you-use-them)
+- [Visualize Combine Magic with SwiftUI Part 1](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-1-3a56e2a461b3)
+- [Visualize Combine Magic with SwiftUI – Part 2](https://medium.com/better-programming/visualize-combine-magic-with-swiftui-part-2-2c613370388b)
+- [Visualize Combine Magic with SwiftUI Part 3](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-3-a3f0cc42bcc8)
+- [Visualize Combine Magic with SwiftUI — Part 4](https://medium.com/@kevinminority/visualize-combine-magic-with-swiftui-part-4-6d0c5678f89e)
+- [Visualize Combine Magic with SwiftUI — Part 5](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-5-2783adddbd1d)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
