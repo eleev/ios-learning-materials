@@ -48,6 +48,12 @@
 - [Creating a Generic Node Component in SpriteKit](http://simonfairbairn.com/generic-node-component-spritekit/)
 - [Refactoring Components in SpriteKit](http://simonfairbairn.com/refactoring-components-in-spritekit/)
 - [15 tips to optimize your SpriteKit game](https://www.hackingwithswift.com/articles/184/tips-to-optimize-your-spritekit-game)
+- [5 approach to implement SpriteKit drag](http://eppz.eu/blog/spritekit-drag/)
+- [Drag and Drop Sprites in SpriteKit](https://lukasjoswiak.com/drag-and-drop-sprites-in-spritekit/)
+- [Sprite Kit Tutorial: Drag and Drop Sprites](https://www.raywenderlich.com/1748-sprite-kit-tutorial-drag-and-drop-sprites)
+
+## Stack Overflow
+- [How do I drag and drop a sprite in Swift 3.0?](https://stackoverflow.com/questions/39004565/how-do-i-drag-and-drop-a-sprite-in-swift-3-0/39020344)
 
 #### Kinematics
 - [SpriteKit and Inverse Kinematics with Swift](https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2)
