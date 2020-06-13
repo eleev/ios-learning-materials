@@ -14,6 +14,7 @@
 - [How to make a copy of a Core Data SQLite database](https://oleb.net/blog/2018/03/core-data-sqlite-backup/)
 - [Core Data on iOS 10, a brief overview with an Example](https://revs.runtime-revolution.com/core-data-on-ios-10-a-brief-overview-with-an-example-dc6e0ce844a5)
 - [Moving Core Data Files](https://useyourloaf.com/blog/moving-core-data-files/)
+- [Core Data Performance: 6 tips you should know](https://www.avanderlee.com/swift/core-data-performance/)
 
 ## Integration with CloudKit
 - [Apple’s New CloudKit-Based Core Data Sync](https://medium.com/@drewmccormack/apples-new-cloudkit-based-core-data-sync-4c1f334044bc)
