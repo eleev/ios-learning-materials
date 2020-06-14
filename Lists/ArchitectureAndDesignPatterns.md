@@ -252,6 +252,7 @@ Model View Controller
 - [Model View Whatever](http://khanlou.com/2014/03/model-view-whatever/)
 - [Model-View-Controller (MVC) in iOS: A Modern Approach](https://www.raywenderlich.com/sessions/new?return_path=%2F1073-model-view-controller-mvc-in-ios-a-modern-approach)
 - [MVC: Many View Controllers](https://rambo.codes/posts/2020-02-20-mvc-with-sugar)
+- [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
 
 ### Video
 - [A Better MVC](https://www.youtube.com/watch?v=YWVzCd5FYbs)
