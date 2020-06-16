@@ -168,6 +168,9 @@
 - [Visualize Combine Magic with SwiftUI Part 3](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-3-a3f0cc42bcc8)
 - [Visualize Combine Magic with SwiftUI — Part 4](https://medium.com/@kevinminority/visualize-combine-magic-with-swiftui-part-4-6d0c5678f89e)
 - [Visualize Combine Magic with SwiftUI — Part 5](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-5-2783adddbd1d)
+- [Expand and Collapse List Rows with Animation in SwiftUI](https://www.vadimbulavin.com/expand-and-collapse-list-with-animation-in-swiftui/)
+- [Add, Edit, Move, and Drag and Drop List Rows with SwiftUI](https://www.vadimbulavin.com/add-edit-move-and-drag-and-drop-in-swiftui-list/)
+- [Mastering buttons in SwiftUI](https://swiftwithmajid.com/2020/02/19/mastering-buttons-in-swiftui/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
