@@ -176,6 +176,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Encode/Decode Array of Types conforming to protocol with JSONEncoder](https://stackoverflow.com/questions/44441223/encode-decode-array-of-types-conforming-to-protocol-with-jsonencoder)
 - [Dynamic Encodable with type erasure](https://medium.com/@sergey.gavrilyuk/dynamic-encodable-with-type-erasure-1875722b3171)
 - [Are KeyPaths Codable?](https://forums.swift.org/t/are-keypaths-codable/23920/6)
+- [GOING DEEP WITH DECODABLE](https://martiancraft.com/blog/2020/03/going-deep-with-decodable/)
 
 ### Code 
 - [Swift Codable Examples](https://github.com/detroit-labs/swift-codable-examples)
@@ -315,6 +316,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## KeyPath
 - [Swift 4 KeyPaths and You](https://www.klundberg.com/blog/swift-4-keypaths-and-you/)
 - [The power of key paths in Swift](https://www.swiftbysundell.com/articles/the-power-of-key-paths-in-swift/)
+- [Using KeyPaths as functions in Swift 5.2](https://www.donnywals.com/using-keypaths-as-functions-in-swift-5-2/)
 
 ## Subscripts
 - [Handling Index Out of Range Exception the Swift Way](http://www.vadimbulavin.com/handling-out-of-bounds-exception/)
