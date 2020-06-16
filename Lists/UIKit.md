@@ -110,6 +110,7 @@
 - [Slot-based UI development in Swift](https://www.swiftbysundell.com/posts/slot-based-ui-development-in-swift)
 - [Solving duplicated / repeating cells in Table view](https://fluffy.es/solve-duplicated-cells/)
 - [How To Make a Table View Drop-In Card Animation](https://www.raywenderlich.com/2315-how-to-make-a-table-view-drop-in-card-animation)
+- [How to expand and contract height of a UITableView cell when tapped](https://fluffy.es/how-to-expand-tableview-cell/)
 
 ### Data Sources 
 - [A first look at the new diffable data sources for table views and collection views](https://wwdcbysundell.com/2019/diffable-data-sources-first-look/)
