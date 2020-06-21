@@ -324,4 +324,5 @@
 - [iOS 13: Notable UIKit Additions](https://www.swiftjectivec.com/ios-13-notable-uikit-additions/)
 - [4 breaking changes to check before building your app for iOS 13](https://fluffy.es/4-ios13-breaking-changes/)
 - [HEIC Image Compression for iOS](https://www.raywenderlich.com/4726843-heic-image-compression-for-ios?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B424)
+- [iOS Lifecycle When Dismissing a Modal View With .pageSheet in iOS 13](https://medium.com/better-programming/the-lifecycle-and-control-when-dismissing-a-modal-view-with-pagesheet-in-ios-13-4bbd1e3e1ec7)
 
