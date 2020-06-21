@@ -171,6 +171,8 @@
 - [Expand and Collapse List Rows with Animation in SwiftUI](https://www.vadimbulavin.com/expand-and-collapse-list-with-animation-in-swiftui/)
 - [Add, Edit, Move, and Drag and Drop List Rows with SwiftUI](https://www.vadimbulavin.com/add-edit-move-and-drag-and-drop-in-swiftui-list/)
 - [Mastering buttons in SwiftUI](https://swiftwithmajid.com/2020/02/19/mastering-buttons-in-swiftui/)
+- [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow)
+- [Custom Environment Values in SwiftUI](https://lostmoa.com/blog/CustomEnvironmentValuesInSwiftUI/)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
