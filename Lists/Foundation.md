@@ -4,6 +4,9 @@
 - [The power of UserDefaults in Swift](https://www.swiftbysundell.com/posts/the-power-of-userdefaults-in-swift)
 - [Type-safe User Defaults](https://danieltull.co.uk//blog/2019/10/09/type-safe-user-defaults/)
 
+## Property Lists
+- [How to read a Property List (plist) into the code](https://sarunw.com/posts/how-to-read-plist-file/)
+
 ## File Wrapper
 - [FileWrapper](https://developer.apple.com/documentation/foundation/filewrapper)
 - [Using FileWrappers as File Containers](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileWrappers/FileWrappers.html)
