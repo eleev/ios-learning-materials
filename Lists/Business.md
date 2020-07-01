@@ -7,7 +7,6 @@
 - [What recruiters won’t tell you about hiring managers](https://qz.com/1572530/what-recruiters-wont-tell-you-about-hiring-managers/)
 - [How to foster a culture of belonging at work](https://qz.com/work/1545508/how-to-foster-a-culture-of-belonging-at-work/)
 - [How to have conversations that make employees stay](https://qz.com/work/1583761/good-management-how-to-have-feedback-conversations-that-increase-employee-engagement/)
-- [Pick your poison](https://ruiper.es/2019/10/12/pick-your-poison/)
 - [10 lessons I learned from maintaining an open source community for 4 years](https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community)
 - [iOS Development Team in 2019](https://exyte.com/blog/ios-development-team-in-2019)
 - [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
