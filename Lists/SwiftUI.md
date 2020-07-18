@@ -192,6 +192,9 @@
 - [How to change the background color for a Form in SwiftUI?](https://stackoverflow.com/questions/57254461/how-to-change-the-background-color-for-a-form-in-swiftui)
 - [How to animate/transition text value change in SwiftUI](https://stackoverflow.com/questions/59157595/how-to-animate-transition-text-value-change-in-swiftui)
 - [SwiftUI - ObservableObject performance issues](https://stackoverflow.com/questions/59039475/swiftui-observableobject-performance-issues)
+- [SwiftUI GeometryReader does not layout custom subviews in center](https://stackoverflow.com/questions/60373719/swiftui-geometryreader-does-not-layout-custom-subviews-in-center)
+- [Alignment changes after adding a GeometryReader](https://stackoverflow.com/questions/59915446/alignment-changes-after-adding-a-geometryreader)
+- [SwiftUI - Using GeometryReader Without Modifying The View Size](https://stackoverflow.com/questions/56859095/swiftui-using-geometryreader-without-modifying-the-view-size)
 
 ## Interoperating with CoreData
 - [How to combine Core Data and SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/how-to-combine-core-data-and-swiftui)
