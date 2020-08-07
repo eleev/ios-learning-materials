@@ -173,6 +173,18 @@
 - [Mastering buttons in SwiftUI](https://swiftwithmajid.com/2020/02/19/mastering-buttons-in-swiftui/)
 - [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow)
 - [Custom Environment Values in SwiftUI](https://lostmoa.com/blog/CustomEnvironmentValuesInSwiftUI/)
+- [Replicating UITableView cell selection with a SwiftUI List](https://www.lukecsmith.co.uk/2020/05/25/replicating-didselectrowatindexpath-with-a-swiftui-list/)
+- [Mastering grids in SwiftUI](https://swiftwithmajid.com/2020/07/08/mastering-grids-in-swiftui/)
+- [Drag and drop in SwiftUI](https://swiftwithmajid.com/2020/04/01/drag-and-drop-in-swiftui/)
+- [All SwiftUI property wrappers explained and compared](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
+- [SwiftUI Property Wrappers](https://swiftuipropertywrappers.com)
+- [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture](https://www.fivestars.blog/code/section-title-index-swiftui.html)
+- [Custom navigation bar title view in SwiftUI](https://sarunw.com/posts/custom-navigation-bar-title-view-in-swiftui/)
+- [matchedGeometryEffect and lists in SwiftUI](https://medium.com/@literalpie/matched-geometry-effect-in-swiftui-93b92110209)
+
+## Code 
+- [SwiftUI 2.0 Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
+- [SwiftUI Guide](https://github.com/fzhlee/SwiftUI-Guide)
 
 ## Documentation
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -239,4 +251,4 @@
 - [SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)
 - [SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)
 - [SwiftUI Scroll Animation using GeometryReade](https://www.youtube.com/watch?v=EBbhIbI2Hg8)
-
+- [Onboarding Screens in SwiftUI 2](https://www.youtube.com/watch?v=xMYAJv42SzA&feature=youtu.be)
