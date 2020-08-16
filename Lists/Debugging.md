@@ -23,6 +23,7 @@
 - [Discovering & using OSLog output console with SwiftyBeaver on iOS](https://medium.com/back-market-engineering/discovering-using-oslog-output-console-with-swiftybeaver-on-ios-54d7bfbe3b97)
 - [Advanced lldb tricks for Swift - Injecting and changing code on the fly](https://swiftrocks.com/using-lldb-manually-xcode-console-tricks.html?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B416)
 - [Fast Method Stubbing From LLDB](https://bryce.co/lldb-method-stubbing/)
+- [Explore Apple's new Swift logging API for iOS 14](https://www.tanaschita.com/posts/20200705-explore-apples-recommended-swift-logging-api-wwdc-2020/)
 
 ## Documentation 
 - [GDB and LLDB Command Examples](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-command-examples.html#//apple_ref/doc/uid/TP40012917-CH3-SW1)

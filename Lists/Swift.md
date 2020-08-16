@@ -6,6 +6,8 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ### Swift 5.3
 - [What’s new in Swift 5.3?](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3)
+- [How Do I Write Multiple Trailing Closures in Swift?](https://goshdarnmultipletrailingclosuresyntax.com)
+- [What's new in Swift](https://engineering.monstar-lab.com/2020/06/29/Whats-new-in-Swift)
 
 ### Swift 5.2
 - [New Diagnostic Architecture Overview](https://swift.org/blog/new-diagnostic-arch-overview/)
