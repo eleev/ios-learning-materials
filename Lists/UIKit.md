@@ -16,8 +16,9 @@
 - [Supporting Dark Mode on iOS 13](https://schiavo.me/2019/implementing-dark-mode/)
 - [Implementing iOS 13 Dark Mode in the new BigCommerce mobile app](https://www.bigeng.io/implementing-ios-13-dark-mode-in-the-new-bigcommerce-mobile-app/)
 
-## Context Menus
+## Context Menus / UIMenu
 - [How to Implement iOS 13 Context Menus](https://kylebashour.com/posts/ios-13-context-menus)
+- [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/)
 
 ## Storyboards
 - [Storyboards Tutorial for iOS: Part 1](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
@@ -61,8 +62,17 @@
 ## UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 
+## UISegmentedControl
+- [Exploring the New UISegmentedControl Initializer Available in iOS 14](https://prathamesh.xyz/blog/2020/6/25/exploring-the-new-uisegmentedcontrol-initializer-available-in-ios-14)
+
 ## UISearchBar
 - [New Search APIs in iOS 13](https://www.andyibanez.com/posts/ios13-new-search-apis/)
+
+## UIColorWheel
+- [iOS 14: Quick dive into the new UIColorWell](https://nemecek.be/blog/34/ios-14-quick-dive-into-the-new-uicolorwell)
+
+## UIColorPickerViewController
+- [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14)
 
 ## UIApplication
 - [Open settings app using openSettingsURLString](https://fluffy.es/open-settings-app/)
@@ -86,6 +96,12 @@
 - [UICollectionView with autosizing cell using autolayout in iOS 9 & 10](https://medium.com/@wasinwiwongsak/uicollectionview-with-autosizing-cell-using-autolayout-in-ios-9-10-84ab5cdf35a2)
 - [UICollectionView Self Sizing Cells with Auto Layout](https://stackoverflow.com/questions/25895311/uicollectionview-self-sizing-cells-with-auto-layout)
 - [An easier way to dequeue cells in iOS](https://medium.com/over-engineering/an-easier-way-to-dequeue-cells-in-ios-5c8b8de4dfed)
+
+#### UICollectionViewListCell
+- [How to add custom swipe actions to a UICollectionViewListCell?](https://www.donnywals.com/how-to-add-custom-swipe-actions-to-a-uicollectionviewlistcell/)
+
+#### Cell Registration
+- [Configure collection view cells with UICollectionView.CellRegistration](https://www.donnywals.com/configure-collection-view-cells-with-uicollectionview-cellregistration/)
 
 #### UICollectionViewLayout & UICollectionViewFlowLayout
 - [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
