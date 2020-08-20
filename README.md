@@ -1,13 +1,12 @@
 # ios-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/jvirus/ios-learning-materials?label=Last%20Commit)
 [![Language](https://img.shields.io/badge/Language-Swift-green.svg)]()
 [![Founded](https://img.shields.io/badge/Founded-August_2017-ff69b4.svg)]()
-[![Materials](https://img.shields.io/badge/Materials-1990-important.svg)]()
+[![Materials](https://img.shields.io/badge/Materials-1994-important.svg)]()
 [![MajorTopics](https://img.shields.io/badge/Major_Topics-80-red.svg)]()
-[![Contributors](https://img.shields.io/badge/Contributors-8-informational.svg)]()
+![GitHub contributors](https://img.shields.io/github/contributors/jvirus/ios-learning-materials)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
-
-**Last Update: 16/August/2020.**
 
 ![](logo-alternative.jpg)
 
