@@ -210,6 +210,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Property observers in Swift](https://www.swiftbysundell.com/posts/property-observers-in-swift)
 - [Computed properties in Swift](https://www.swiftbysundell.com/posts/computed-properties-in-swift)
 - [Computed properties in Swift: A basic feature for safer and cleaner code](https://matteomanferdini.com/computed-property-swift/)
+- [Lazy Properties in Structs](https://oleb.net/blog/2015/12/lazy-properties-in-structs-swift/)
 
 ## Property Wrappers
 - [Property wrappers to remove boilerplate code in Swift](https://www.avanderlee.com/swift/property-wrappers/)

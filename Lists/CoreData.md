@@ -1,4 +1,6 @@
 # Core Data
+
+## Articles
 - [Getting Started With Core Data](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
 - [Multiple Managed Object Context With Code Data](https://www.raywenderlich.com/174082/multiple-managed-object-contexts-with-core-data-tutorial)
 - [NSIncrementalStore Tutorial for iOS: Getting Started](https://www.raywenderlich.com/171045/using-nsincrementalstore-custom-core-data-storage)
@@ -15,6 +17,8 @@
 - [Core Data on iOS 10, a brief overview with an Example](https://revs.runtime-revolution.com/core-data-on-ios-10-a-brief-overview-with-an-example-dc6e0ce844a5)
 - [Moving Core Data Files](https://useyourloaf.com/blog/moving-core-data-files/)
 - [Core Data Performance: 6 tips you should know](https://www.avanderlee.com/swift/core-data-performance/)
+- [10 core principles to use CoreData without blowing your head off](https://medium.com/ios-os-x-development/10-core-principles-to-use-coredata-without-blowing-your-head-off-5ed11c623c6b)
+- [Core Data Debugging in Xcode using launch arguments](https://www.avanderlee.com/debugging/core-data-debugging-xcode/)
 
 ## Integration with CloudKit
 - [Apple’s New CloudKit-Based Core Data Sync](https://medium.com/@drewmccormack/apples-new-cloudkit-based-core-data-sync-4c1f334044bc)
