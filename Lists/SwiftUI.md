@@ -191,6 +191,10 @@
 - [Scroll to Newly Added Item using ScrollViewReader and onChange Modifier](https://lostmoa.com/blog/ScrollToNewlyAddedItemUsingScrollViewReaderAndOnChangeModifier/)
 - [Using SceneStorage for State Restoration in SwiftUI Apps](https://lostmoa.com/blog/UsingSceneStorageForStateRestorationInSwiftUIApps/)
 - [Add custom SwiftUI view to View Library with LibraryContentProvider](https://sarunw.com/posts/add-custom-swiftui-view-to-view-library/)
+- [How to create a toolbar and add buttons to it](https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-toolbar-and-add-buttons-to-it)
+- [How to add an AppDelegate to a SwiftUI app](https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-an-appdelegate-to-a-swiftui-app)
+- [Using an AppDelegate with the new SwiftUI-based app lifecycle](https://www.swiftbysundell.com/tips/using-an-app-delegate-with-swiftui-app-lifecycle/)
+- [SwiftUI - Determining Current Device and Orientation](https://developer.apple.com/forums/thread/126878)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
