@@ -19,6 +19,8 @@
 - [Core Data Performance: 6 tips you should know](https://www.avanderlee.com/swift/core-data-performance/)
 - [10 core principles to use CoreData without blowing your head off](https://medium.com/ios-os-x-development/10-core-principles-to-use-coredata-without-blowing-your-head-off-5ed11c623c6b)
 - [Core Data Debugging in Xcode using launch arguments](https://www.avanderlee.com/debugging/core-data-debugging-xcode/)
+- [Group by, Count and Sum in CoreData](https://www.cocoanetics.com/2017/04/group-by-count-and-sum-in-coredata/)
+- [Stranger things with Core Data Stacks comparison](https://medium.com/@dmitryivanov_54099/stranger-things-with-core-data-stacks-comparison-28d723fc6daf)
 
 ## Integration with CloudKit
 - [Apple’s New CloudKit-Based Core Data Sync](https://medium.com/@drewmccormack/apples-new-cloudkit-based-core-data-sync-4c1f334044bc)
