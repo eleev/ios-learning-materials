@@ -52,6 +52,11 @@
 - [Enum-Driven TableView Development](https://www.raywenderlich.com/5542-enum-driven-tableview-development)
 - [Maintaining State in Your ViewControllers](https://mecid.github.io/2019/01/23/maintaining-state-in-view-controllers/)
 - [Modeling State In Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift)
+- [The Comprehensive Guide to the State Management in iOS](https://www.appcoda.com/state-management-ios/)
+- [The easiest State Machine in Swift](https://albertodebortoli.com/2018/12/16/the-easiest-state-machine-in-swift/)
+- [State Machines in Swift using enums](http://www.splinter.com.au/2019/04/10/swift-state-machines-with-enums/)
+- [Modelling state in Swift](https://www.swiftbysundell.com/articles/modelling-state-in-swift/)
+- [Maintaining State in Your Apps](https://developer.apple.com/documentation/swift/maintaining_state_in_your_apps)
 
 ## Legacy Code / Backward Compatability
 - [Writing backward compatible Swift code](https://www.swiftbysundell.com/posts/writing-backward-compatible-swift-code)

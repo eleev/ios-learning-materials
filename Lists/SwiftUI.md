@@ -195,6 +195,16 @@
 - [How to add an AppDelegate to a SwiftUI app](https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-an-appdelegate-to-a-swiftui-app)
 - [Using an AppDelegate with the new SwiftUI-based app lifecycle](https://www.swiftbysundell.com/tips/using-an-app-delegate-with-swiftui-app-lifecycle/)
 - [SwiftUI - Determining Current Device and Orientation](https://developer.apple.com/forums/thread/126878)
+- [PageViewer in SwiftUI aka PageViewController](https://itnext.io/pageviewer-is-swiftui-aka-pageviewcontroller-8a53b1c37970)
+- [Recreating the latest design fad in SwiftUI](https://blog.hal.codes/swiftui-neumorphism-button)
+- [SwiftUI tutorial: replicating the Activity application](https://exyte.com/blog/swiftui-tutorial-replicating-activity-application)
+- [How to Create a Neumorphic Design With SwiftUI](https://www.raywenderlich.com/7589178-how-to-create-a-neumorphic-design-with-swiftui)
+- [Creating A Simple Stopwatch In SwiftUI](https://blckbirds.com/post/creating-a-simple-stopwatch-in-swiftui/)
+- [How To Detect Shake Gestures In SwiftUI](https://blckbirds.com/post/how-to-detect-shake-gestures-in-swiftui/#)
+- [Video Based Onboarding Screen In SwiftUI](https://blckbirds.com/post/video-based-onboarding-screen-in-swiftui/)
+- [How To Use Local Notifications In SwiftUI](https://blckbirds.com/post/local-notifications-swiftui/)
+- [Impossible Grids with SwiftUI](https://swiftui-lab.com/impossible-grids/)
+- [Avoiding massive SwiftUI views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
@@ -202,6 +212,7 @@
 - [MatchedGeometryEffect – Part 1 (Hero Animations)](https://swiftui-lab.com/matchedgeometryeffect-part1/)
 - [MatchedGeometryEffect – Part 2](https://swiftui-lab.com/matchedgeometryeffect-part2/)
 - [Expand and Collapse List Rows with Animation in SwiftUI](https://www.vadimbulavin.com/expand-and-collapse-list-with-animation-in-swiftui/)
+- [Getting Started with SwiftUI Animations](https://www.raywenderlich.com/5815412-getting-started-with-swiftui-animations)
 
 ### Architecture
 - [Avoiding massive SwiftUI views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)

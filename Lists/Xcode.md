@@ -24,6 +24,7 @@
 ## What's New
 - [What's new in Xcode 11](https://www.hackingwithswift.com/articles/192/whats-new-in-xcode-11)
 - [What’s new in Xcode 11?](https://medium.com/developerinsider/whats-new-in-xcode-11-7f52e8d22295)
+- [Xcode 12 – All New Features And Improvements](https://blckbirds.com/post/xcode-12-whats-new/0)
 
 ## Templates
 - [Xcode 9 File Templates](http://jeanetienne.net/2017/09/10/xcode-templates.html?source=post_page---------------------------)
