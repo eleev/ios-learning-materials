@@ -101,7 +101,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Interview](Lists/Interview.md)
 - [Business](Lists/Business.md)
 - [Project Management](Lists/ProjectManagement.md)
-- [Product](Lists/Productmd)
+- [Product](Lists/Product.md)
 
 # 👨‍💻 Author
 
