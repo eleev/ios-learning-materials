@@ -107,6 +107,11 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Regular Expressions
 - [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
 - [Regular Expressions in Swift](https://nshipster.com/swift-regular-expressions/)
+- [NSRegularExpression](https://developer.apple.com/documentation/foundation/nsregularexpression)
+- [Regular Expressions in Swift](https://nshipster.com/swift-regular-expressions/)
+- [Regular Expressions in Swift](https://medium.com/@dkw5877/regular-expressions-in-swift-928561ad55c8)
+- [Regular Expressions Tutorial: Getting Started](https://www.raywenderlich.com/5765-regular-expressions-tutorial-getting-started)
+- [An Introduction to Regular Expressions](https://www.raywenderlich.com/5767-an-introduction-to-regular-expressions)
 
 ## Standard Data Structures
 - [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html)

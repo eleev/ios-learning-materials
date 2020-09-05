@@ -28,6 +28,11 @@
 - [Persist Business Logic With Swift Combine](https://medium.com/better-programming/persist-business-logic-with-swift-combine-519efb3a7e37)
 - [Persist Filtering Logic With Swift Combine](https://medium.com/better-programming/persist-filtering-logics-with-swift-combine-6c3594be77cc)
 - [How to Persist Transforming Logic with Swift Combine](https://medium.com/better-programming/persist-transforming-logic-with-swift-combine-84238accf1fa)
+- [Asynchronous Programming with Futures and Promises in Swift with Combine Framework](https://www.vadimbulavin.com/asynchronous-programming-with-future-and-promise-in-swift-with-combine-framework/)
+- [Using Promises and Futures in Combine](https://www.donnywals.com/using-promises-and-futures-in-combine/)
+
+## Stackoverflow
+- [How to replicate PromiseKit-style chained async flow using Combine + Swift](https://stackoverflow.com/questions/59428026/how-to-replicate-promisekit-style-chained-async-flow-using-combine-swift)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)

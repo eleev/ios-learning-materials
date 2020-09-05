@@ -1,10 +1,10 @@
-## Asynchronous Programming
+# Asynchronous Programming
 
-### Operation & OperationQueue
+## Operation & OperationQueue
 - [Operation and OperationQueue Tutorial in Swift](https://www.raywenderlich.com/190008/operation-and-operationqueue-tutorial-in-swift)
 - [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0)
 
-### GCD
+## GCD
 - [Grand Central Dispatch Tutorial for Swift 4: Part 1/2](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
 - [Grand Central Dispatch Tutorial for Swift 4: Part 2/2](https://www.raywenderlich.com/5371-grand-central-dispatch-tutorial-for-swift-4-part-2-2)
 - [Dispatch Barriers in Swift 3](https://medium.com/@oyalhi/dispatch-barriers-in-swift-3-6c4a295215d6)
@@ -15,19 +15,23 @@
 - [DispatchGroup vs. OperationQueue in Swift](https://agostini.tech/2017/08/20/dispatchgroup-vs-operationqueue-in-swift/)
 - [Introduction to Multithreading and DispatchQueue](https://fluffy.es/help-my-app-freezes/)
 - [Discovering which DispatchQueue a method is running on](https://swiftrocks.com/discovering-which-dispatchqueue-a-method-is-running-on)
+- [Using Dispatch Group & Semaphore to Group iOS Async Tasks](https://medium.com/swift2go/using-dispatch-group-semaphore-to-group-ios-async-tasks-alfian-losari-81335fa6e92e)
 
-### Futures & Promises
+### Documentation
+- [DispatchGroup](https://developer.apple.com/documentation/dispatch/dispatchgroup)
+
+## Futures & Promises
 - [Back To The Futures](https://academy.realm.io/posts/swift-summit-javier-soto-futures/)
 - [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
 - [Chaining Async Requests in iOS](https://medium.com/@nrewik/chaining-async-requests-in-ios-b492ad9d9b4a)
 
-### Tasks
+## Tasks
 - [Task-based concurrency in Swift](https://www.swiftbysundell.com/posts/task-based-concurrency-in-swift)
 
-### Syncronization Primitives
+## Syncronization Primitives
 - [Concurrency in Swift: Reader Writer Lock](https://medium.com/@dmytro.anokhin/concurrency-in-swift-reader-writer-lock-4f255ae73422)
 
-### Other
+## Other
 - [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Reducers: Dealing With Asynchrony](http://chris.eidhof.nl/post/reducers/)
 - [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
