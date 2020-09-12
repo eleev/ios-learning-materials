@@ -205,6 +205,15 @@
 - [How To Use Local Notifications In SwiftUI](https://blckbirds.com/post/local-notifications-swiftui/)
 - [Impossible Grids with SwiftUI](https://swiftui-lab.com/impossible-grids/)
 - [Avoiding massive SwiftUI views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
+- [Displaying recursive data using OutlineGroup in SwiftUI](https://swiftwithmajid.com/2020/09/02/displaying-recursive-data-using-outlinegroup-in-swiftui/)
+- [Sidebar navigation in SwiftUI](https://swiftwithmajid.com/2020/07/21/sidebar-navigation-in-swiftui/)
+- [SwiftUI ScrollView offset](https://fivestars.blog/swiftui/scrollview-offset.html)
+- [PreferenceKey's reduce method demystified](https://fivestars.blog/swiftui/preferencekey-reduce.html)
+- [iOS 14 UISplitViewController: 5 Issues That You May Run Into](https://medium.com/swlh/ios-14-uisplitviewcontroller-5-issues-that-you-may-run-into-65b09601b3fb)
+- [Conditional view modifiers](https://fivestars.blog/swiftui/conditional-modifiers.html)
+- [Turning the ChibiStudio canvas into an App Clip for iOS 14](https://rambo.codes/posts/2020-08-29-turning-the-chibistudio-canvas-into-an-app-clip)
+- [SF Symbols Changes in iOS 14](https://medium.com/@hacknicity/sf-symbols-changes-in-ios-14-4731937c5dc7)
+- [Save Custom Codable Types in AppStorage or SceneStorage](https://lostmoa.com/blog/SaveCustomCodableTypesInAppStorageOrSceneStorage/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B472)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
