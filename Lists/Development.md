@@ -9,6 +9,7 @@
 - [Get Your iOS App Featured on the App Store with These 11 Tips](https://appfigures.com/resources/get-your-ios-app-featured-on-the-app-store)
 - [Phased vs Regular Update Adoption Rates](https://david-smith.org/blog/2019/01/22/phased-vs-regular-update-adoption-rates/)
 - [Practicing the Coding Challenges](https://inessential.com/2020/04/26/practicing_the_coding_challenges)
+- [A tale of third-parties or how to stop using my code](https://hkellaway.github.io/blog/2020/08/30/tale-of-third-parties)
 
 ## Documentation
 - [Generate & Host your iOS Documentation](https://medium.com/@jonathan2457/generate-host-your-ios-documentation-39e21b382ce8)
