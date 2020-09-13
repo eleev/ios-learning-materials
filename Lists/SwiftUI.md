@@ -214,6 +214,8 @@
 - [Turning the ChibiStudio canvas into an App Clip for iOS 14](https://rambo.codes/posts/2020-08-29-turning-the-chibistudio-canvas-into-an-app-clip)
 - [SF Symbols Changes in iOS 14](https://medium.com/@hacknicity/sf-symbols-changes-in-ios-14-4731937c5dc7)
 - [Save Custom Codable Types in AppStorage or SceneStorage](https://lostmoa.com/blog/SaveCustomCodableTypesInAppStorageOrSceneStorage/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B472)
+- [Flexible layouts in SwiftUI](https://fivestars.blog/swiftui/flexible-swiftui.html)
+- [Sharing layout information in SwiftUI](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
@@ -275,6 +277,7 @@
 - [SwiftUI GeometryReader does not layout custom subviews in center](https://stackoverflow.com/questions/60373719/swiftui-geometryreader-does-not-layout-custom-subviews-in-center)
 - [Alignment changes after adding a GeometryReader](https://stackoverflow.com/questions/59915446/alignment-changes-after-adding-a-geometryreader)
 - [SwiftUI - Using GeometryReader Without Modifying The View Size](https://stackoverflow.com/questions/56859095/swiftui-using-geometryreader-without-modifying-the-view-size)
+- [SwiftUI Asymmetric Transition delay is not working](https://stackoverflow.com/questions/61050131/swiftui-asymmetric-transition-delay-is-not-working)
 
 ## Interoperating with CoreData
 - [How to combine Core Data and SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/how-to-combine-core-data-and-swiftui)

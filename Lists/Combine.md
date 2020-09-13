@@ -33,6 +33,7 @@
 
 ## Stackoverflow
 - [How to replicate PromiseKit-style chained async flow using Combine + Swift](https://stackoverflow.com/questions/59428026/how-to-replicate-promisekit-style-chained-async-flow-using-combine-swift)
+- [Wait for all publishers](https://stackoverflow.com/questions/59615078/swift-combine-wait-for-all-publishers)
 
 ## Documentation
 - [Combine Framework](https://developer.apple.com/documentation/combine)

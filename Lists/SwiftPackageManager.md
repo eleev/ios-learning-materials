@@ -12,6 +12,11 @@
 - [Dependency Heck](https://bartstechblog.blogspot.com/2019/10/dependency-heck.html)
 - [The Ultimate Guide To Swift Executables ](https://www.fivestars.blog/code/ultimate-guide-swift-executables.html)
 - [Creating a command line tool using the Swift Package Manager](https://www.avanderlee.com/swift/command-line-tool-package-manager/)
+- [Creating Swift Packages in Xcode](https://useyourloaf.com/blog/creating-swift-packages-in-xcode/)
+- [Add resources to Swift packages](https://useyourloaf.com/blog/add-resources-to-swift-packages/)
+
+## Stackoverflow
+- [Excluding files in Swift Packages](https://stackoverflow.com/questions/57619273/excluding-files-in-swift-packages)
 
 ## Videos
 
