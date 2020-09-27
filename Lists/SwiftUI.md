@@ -216,6 +216,15 @@
 - [Save Custom Codable Types in AppStorage or SceneStorage](https://lostmoa.com/blog/SaveCustomCodableTypesInAppStorageOrSceneStorage/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B472)
 - [Flexible layouts in SwiftUI](https://fivestars.blog/swiftui/flexible-swiftui.html)
 - [Sharing layout information in SwiftUI](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
+- [Building widgets in SwiftUI](https://swiftwithmajid.com/2020/09/09/building-widgets-in-swiftui/)
+- [Mastering ScrollView in SwiftUI](https://swiftwithmajid.com/2020/09/24/mastering-scrollview-in-swiftui/)
+- [Tabs and pages in SwiftUI](https://swiftwithmajid.com/2020/09/16/tabs-and-pages-in-swiftui/)
+- [The State of SwiftUI](https://steipete.com/posts/state-of-swiftui/)
+- [SwiftUI 2.0: The Future is Declarative](https://infinum.com/the-capsized-eight/swiftUI-2)
+- [How Swift 5.3 enhances SwiftUI’s DSL](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/)
+- [Impossible SwiftUI views](https://fivestars.blog/swiftui/impossible-swiftui-views.html)
+- [App Onboarding with SwiftUI](https://medium.com/zendesk-engineering/app-onboarding-with-swiftui-23d970ab24d4)
+- [Disabling Keyboard Avoidance in SwiftUI's UIHostingController](https://steipete.com/posts/disabling-keyboard-avoidance-in-swiftui-uihostingcontroller/)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
