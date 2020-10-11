@@ -225,6 +225,9 @@
 - [Impossible SwiftUI views](https://fivestars.blog/swiftui/impossible-swiftui-views.html)
 - [App Onboarding with SwiftUI](https://medium.com/zendesk-engineering/app-onboarding-with-swiftui-23d970ab24d4)
 - [Disabling Keyboard Avoidance in SwiftUI's UIHostingController](https://steipete.com/posts/disabling-keyboard-avoidance-in-swiftui-uihostingcontroller/)
+- [How to create expanding lists](https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-expanding-lists)
+- [Building Expandable List with OutlineGroup & DisclosureGroup in SwiftUI 2.0](https://medium.com/@alfianlosari/building-expandable-list-with-outlinegroup-disclosuregroup-in-swiftui-2-0-aa9dda14bbab)
+- [Building an Expandable List View with Inset Grouped Style Using SwiftUI](https://www.appcoda.com/swiftui-expandable-list-view/)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
@@ -287,6 +290,9 @@
 - [Alignment changes after adding a GeometryReader](https://stackoverflow.com/questions/59915446/alignment-changes-after-adding-a-geometryreader)
 - [SwiftUI - Using GeometryReader Without Modifying The View Size](https://stackoverflow.com/questions/56859095/swiftui-using-geometryreader-without-modifying-the-view-size)
 - [SwiftUI Asymmetric Transition delay is not working](https://stackoverflow.com/questions/61050131/swiftui-asymmetric-transition-delay-is-not-working)
+
+## Official Forum
+- [Launch Screen in SwiftUI](https://developer.apple.com/forums/thread/651549)
 
 ## Interoperating with CoreData
 - [How to combine Core Data and SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/how-to-combine-core-data-and-swiftui)

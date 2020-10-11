@@ -25,6 +25,11 @@
 - [Fast Method Stubbing From LLDB](https://bryce.co/lldb-method-stubbing/)
 - [Explore Apple's new Swift logging API for iOS 14](https://www.tanaschita.com/posts/20200705-explore-apples-recommended-swift-logging-api-wwdc-2020/)
 
+## Logger
+- [OSLog and Unified logging as recommended by Apple](https://www.avanderlee.com/debugging/oslog-unified-logging/)
+- [Migrating to Unified Logging: Console and Instruments](https://www.raywenderlich.com/605079-migrating-to-unified-logging-console-and-instruments)
+- [Swift Logging](https://nshipster.com/swift-log/)
+
 ## Documentation 
 - [GDB and LLDB Command Examples](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-command-examples.html#//apple_ref/doc/uid/TP40012917-CH3-SW1)
 
