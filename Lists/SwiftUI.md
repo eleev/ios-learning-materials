@@ -228,6 +228,17 @@
 - [How to create expanding lists](https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-expanding-lists)
 - [Building Expandable List with OutlineGroup & DisclosureGroup in SwiftUI 2.0](https://medium.com/@alfianlosari/building-expandable-list-with-outlinegroup-disclosuregroup-in-swiftui-2-0-aa9dda14bbab)
 - [Building an Expandable List View with Inset Grouped Style Using SwiftUI](https://www.appcoda.com/swiftui-expandable-list-view/)
+- [Commands in SwiftUI](https://swiftwithmajid.com/2020/11/24/commands-in-swiftui/)
+- [Focus management in SwiftUI](https://swiftwithmajid.com/2020/12/02/focus-management-in-swiftui/)
+- [SwiftUI View Lifecycle](https://www.vadimbulavin.com/swiftui-view-lifecycle/)
+- [Keyboard shortcuts in SwiftUI](https://swiftwithmajid.com/2020/11/17/keyboard-shortcuts-in-swiftui/)
+- [The magic of redacted modifier in SwiftUI](https://swiftwithmajid.com/2020/10/22/the-magic-of-redacted-modifier-in-swiftui/)
+- [Transactions in SwiftUI](https://swiftwithmajid.com/2020/10/07/transactions-in-swiftui/)
+- [Mastering GroupBox in SwiftUI](https://swiftwithmajid.com/2020/10/15/mastering-groupbox-in-swiftui/)
+- [How to use GeometryReader without breaking SwiftUI layout](https://swiftwithmajid.com/2020/11/04/how-to-use-geometryreader-without-breaking-swiftui-layout/)
+- [Handle Press And Release Events in SwiftUI](https://serialcoder.dev/ios-swift-tutorials/swiftui/handle-press-and-release-events-in-swiftui/?utm_campaign=%20SwiftUI%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+- [Handle Press And Release Events in SwiftUI](https://redalemeden.com/blog/2020/debugging-swiftui-trials-and-tribulations/)
+- [Styling custom SwiftUI views using environment](https://swiftwithmajid.com/2020/12/09/styling-custom-swiftui-views-using-environment/)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
