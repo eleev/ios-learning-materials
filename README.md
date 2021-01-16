@@ -104,19 +104,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Product](Lists/Product.md)
 
 # 👨‍💻 Author
-
 [Astemir Eleev](https://github.com/jVirus)
-
-# 🙋‍♀️🙋‍♂️ Contributors
-
-- [Zakaria Braksa](https://github.com/nsbraksa)
-- [Lisa Dziuba](https://github.com/LisaDziuba)
-- [Semen Zhydenko](https://github.com/ss18)
-- [V8tr](https://github.com/V8tr)
-- [YUAMING](https://github.com/yuaming)
-- [Ozgur Sahin](https://github.com/ozgurshn)
-- [Jr. Ken J.](https://github.com/kenjonesjr)
-- [Umar Haroon](https://github.com/Umar-M-Haroon)
 
 # 🔖 Licence
 The project is availabe under [MIT Licence](https://github.com/jVirus/ios-learning-materials/blob/master/LICENSE)
