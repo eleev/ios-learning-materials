@@ -5,7 +5,10 @@
 [![Founded](https://img.shields.io/badge/Founded-August_2017-ff69b4.svg)]()
 [![Materials](https://img.shields.io/badge/Materials-2078-important.svg)]()
 [![MajorTopics](https://img.shields.io/badge/Major_Topics-81-red.svg)]()
-![GitHub contributors](https://img.shields.io/github/contributors/jvirus/ios-learning-materials)
+[![Last Commit](https://img.shields.io/github/last-commit/jvirus/ios-learning-materials)]()
+[![NLOC](https://img.shields.io/tokei/lines/github/jvirus/ios-learning-materials)]()
+[![Contributors](https://img.shields.io/github/contributors/jvirus/ios-learning-materials)]()
+[![Repo Size](https://img.shields.io/github/repo-size/jvirus/ios-learning-materials)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
 ![](logo-alternative.jpg)
