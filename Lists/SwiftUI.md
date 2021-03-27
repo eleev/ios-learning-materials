@@ -239,6 +239,11 @@
 - [Handle Press And Release Events in SwiftUI](https://serialcoder.dev/ios-swift-tutorials/swiftui/handle-press-and-release-events-in-swiftui/?utm_campaign=%20SwiftUI%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 - [Handle Press And Release Events in SwiftUI](https://redalemeden.com/blog/2020/debugging-swiftui-trials-and-tribulations/)
 - [Styling custom SwiftUI views using environment](https://swiftwithmajid.com/2020/12/09/styling-custom-swiftui-views-using-environment/)
+- [Mastering SwiftUI previews](https://swiftwithmajid.com/2021/03/10/mastering-swiftui-previews/)
+- [Lazy navigation in SwiftUI](https://swiftwithmajid.com/2021/01/27/lazy-navigation-in-swiftui/)
+- [How to use Alert with SwiftUI](https://kristaps.me/blog/swiftui-alert/)
+- [How to show and hide content with DisclosureGroup using SwiftUI](https://kristaps.me/blog/swiftui-disclosure-group/)
+- [Quick guide to using Core Data with SwiftUI](https://tanaschita.com/20210320-using-core-data-with-swiftui)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
@@ -260,6 +265,7 @@
 - [Redux-like state container in SwiftUI. Basics.](https://swiftwithmajid.com/2019/09/18/redux-like-state-container-in-swiftui/)
 - [Redux-like state container in SwiftUI. Best practices.](https://swiftwithmajid.com/2019/09/25/redux-like-state-container-in-swiftui-part2/)
 - [Redux-like state container in SwiftUI. Container Views.](https://swiftwithmajid.com/2019/10/02/redux-like-state-container-in-swiftui-part3/)
+- [Redux-like state container in SwiftUI. Connectors.](https://swiftwithmajid.com/2021/02/03/redux-like-state-container-in-swiftui-part4/)
 
 ### App
 - [Managing app in SwiftUI](https://swiftwithmajid.com/2020/08/19/managing-app-in-swiftui/)
