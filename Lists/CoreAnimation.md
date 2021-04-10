@@ -16,3 +16,19 @@
 - [Particle systems: a Christmas story](https://badootech.badoo.com/ios-particle-systems-a-christmas-story-270c1844fd50)
 - [Animated Gradients on iOS](https://medium.com/@rwbutler/animated-gradients-on-ios-aa117551e533)
 - [Animated gradient layers in Swift](https://medium.com/flawless-app-stories/animated-gradient-layers-in-swift-bad094496644)
+
+## CADisplayLink
+- [Animations with CADisplayLink](http://mokagio.github.io/tech-journal/2015/02/23/ios-animating-with-cadisplaylink.html)
+- [Creating smooth frame-by-frame animations on iOS by calculating the live time interval between frames.](http://www.paulwrightapps.com/blog/2014/8/20/creating-smooth-frame-by-frame-animations-on-ios-based-on-the-time-passed-between-frames)
+- [Basic understanding of CADisplayLink](https://medium.com/@AybekCan/basic-understanding-of-cadisplaylink-ae78a5efe976)
+- [CADisplayLink and its applications](https://medium.com/@dmitryivanov_54099/cadisplaylink-and-its-applications-bfafb760d738)
+- [Animating Views with CADisplayLink](https://ashfurrow.com/blog/animating-views-with-cadisplaylink/)
+- [More CADisplayLink](https://zearfoss.wordpress.com/2011/09/02/more-cadisplaylink/)
+- [Animating Views with NSTimer and dispatch_after](https://ashfurrow.com/blog/animating-views-with-nstimer-and-dispatch_after/)
+- [Animated UILabel with CADisplayLink](https://medium.com/@duwei199714/animated-uilabel-with-cadisplaylink-9a761d693ca5)
+
+### Docs
+- [CADisplayLink](https://developer.apple.com/documentation/quartzcore/cadisplaylink)
+
+### Videos
+- [Swift Animations: Custom Counting Label - CADisplayLink](https://www.youtube.com/watch?v=b3kZH1vfG2U&t=873s)
