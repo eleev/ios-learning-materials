@@ -15,6 +15,7 @@
 - [XCTest Error Handling Improvements](https://useyourloaf.com/blog/xctest-error-handling-improvements)
 - [Testing private methods and variables in Swift](https://www.avanderlee.com/swift/testing-private-methods-variables/)
 - [Effective Unit Testing](https://kean.github.io/post/unit-testing)
+- [XCTest tips and tricks that can level up your Swift testing](https://masilotti.com/xctest-tips-and-tricks/)
 
 ## Expectations / Async Testing
 - [INVERTED EXPECTATIONS](https://pfandrade.me/blog/inverted-expectations/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B392)
@@ -43,3 +44,5 @@
 - [An introduction to UI Testing on iOS](https://medium.com/exploring-ios/an-introduction-to-ui-testing-on-ios-697526fa0fa9)
 - [UI Testing Quick Guide](https://useyourloaf.com/blog/ui-testing-quick-guide/)
 - [Easy UITests for your iOS app](https://treatwell.engineering/easy-uitests-for-your-ios-app-6af7aa3457)
+- [UI Testing using Page Object pattern in Swift](https://swiftwithmajid.com/2021/03/24/ui-testing-using-page-object-pattern-in-swift/)
+- [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/)
