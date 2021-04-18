@@ -328,6 +328,18 @@
 - [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671)
 - [Building a Trello-like iOS App with Drag & Drop API](https://www.appcoda.com/drag-and-drop-api/)
 - [Drag and Drop Tutorial for iOS](https://www.raywenderlich.com/3121851-drag-and-drop-tutorial-for-ios)
+- [Drag and Drop on iOS using Swift](https://jayeshkawli.ghost.io/drag-and-drop-on-ios-using-swift/)
+- [Drag & Drop](https://www.raywenderlich.com/books/catalyst-by-tutorials/v2.0/chapters/3-drag-drop)
+- [Drag UIView between UIViews](https://stackoverflow.com/questions/3842447/drag-uiview-between-uiviews)
+
+### Docs
+- [Drag and Drop](https://developer.apple.com/documentation/uikit/drag_and_drop)
+- [Adopting Drag and Drop in a Custom View](https://developer.apple.com/documentation/uikit/drag_and_drop/adopting_drag_and_drop_in_a_custom_view)
+- [Making a View into a Drop Destination](https://developer.apple.com/documentation/uikit/drag_and_drop/making_a_view_into_a_drop_destination)
+- [Making a View into a Drag Source](https://developer.apple.com/documentation/uikit/drag_and_drop/making_a_view_into_a_drag_source)
+
+### Videos
+- [UIView -1.How to drag and drop a view](https://www.youtube.com/watch?v=gQVcIEbBIck)
 
 ## UIFieldBehavior
 - [UIFieldBehavior - NSHipster](https://nshipster.com/uifieldbehavior/)
