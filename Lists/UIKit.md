@@ -4,6 +4,7 @@
 - [How to use UIKeyCommand to add keyboard shortcuts](https://www.hackingwithswift.com/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts)
 - [Adding Hardware Keyboard Shortcuts](https://useyourloaf.com/blog/adding-hardware-keyboard-shortcuts/)
 - [UIKeyCommands don't work when intermediary viewController contains two viewControllers](https://stackoverflow.com/questions/39216042/uikeycommands-dont-work-when-intermediary-viewcontroller-contains-two-viewcontr)
+- [Discoverable Key Commands](https://indiestack.com/2021/03/discoverable-key-commands/)
 
 ## Scene Delegate
 - [The Scene Delegate In Xcode 11 And iOS 13](https://learnappmaking.com/scene-delegate-app-delegate-xcode-11-ios-13/)
@@ -19,6 +20,7 @@
 ## Context Menus / UIMenu
 - [How to Implement iOS 13 Context Menus](https://kylebashour.com/posts/ios-13-context-menus)
 - [UIMenu Improvements in iOS 14](https://www.andyibanez.com/posts/uimenu-improvements-ios14/)
+- [UIMenu: Comprehensive guide](https://nemecek.be/blog/88/uimenu-comprehensive-guide)
 
 ## Storyboards
 - [Storyboards Tutorial for iOS: Part 1](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
@@ -33,6 +35,7 @@
 
 ## UIScrollView
 - [Understanding UIScrollView](https://oleb.net/blog/2014/04/understanding-uiscrollview/)
+- [Scrolling Stack Views](https://useyourloaf.com/blog/scrolling-stack-views/)
 
 ## UIKit Dynamics
 - [UIKit Dynamics in Swift 2.0](https://ahmedabdurrahman.com/2015/10/22/uikit-dynamics-tutorial-in-swift-2-0/)
@@ -53,6 +56,7 @@
 - [UIKit Dynamics: A Guide to Making Things Move](https://arvindravi.com/uikit-dynamics/)
 - [UIScrollView's Inertia, Bouncing and Rubber-Banding with UIKit Dynamics](https://holko.pl/2014/07/06/inertia-bouncing-rubber-banding-uikit-dynamics/)
 - [Using UIKit Dynamics in Swift to Animate Your Apps](https://www.sitepoint.com/using-uikit-dynamics-swift-animate-apps/)
+- [Collision Detection with UIKit Dynamics iOS Tutorial](https://www.ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial)
 
 ## UIViewController
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
@@ -230,6 +234,9 @@
 - [Stopping Tap Gesture from bubbling to child controls](https://bencoding.com/2017/02/27/stopping-tap-gesture-from-bubbling-to-child-controls/)
 - [Why is there a "lag" in iOS gesture detection near the edges of the screen?](https://blog.kulman.sk/why-ios-gestures-lag-at-the-screen-edges/)
 - [Drag Views with Gestures iOS Tutorial](https://www.ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)
+- [Move UIView within parent view using pangesture](https://stackoverflow.com/questions/41032492/move-uiview-within-parent-view-using-pangesture)
+- [How to resize UIView by dragging from its edges?](https://stackoverflow.com/questions/8460119/how-to-resize-uiview-by-dragging-from-its-edges)
+- [Working With Pan Gesture Recognizers In Swift](https://cocoacasts.com/swift-fundamentals-working-with-pan-gesture-recognizers-in-swift)
 
 ## UIResponder / Responder Chain
 - [Open URLs using the iOS UIResponder chain in Swift](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686)
@@ -328,6 +335,9 @@
 ## State Restoration
 - [Restoring Your UI With State Restoration](https://agostini.tech/2018/11/25/restoring-your-ui-with-state-restoration/)
 - [State Restoration With Swift Structs](https://useyourloaf.com/blog/state-restoration-with-swift-structs/)
+
+## UIBezierPath
+- [UIBezierPath Lesson: How to draw Cuphead on layers](https://medium.com/flawless-app-stories/uibezierpath-lesson-how-to-draw-cuphead-on-layers-d164fd23cf61)
 
 ## Other 
 - [iOS 12: Notable UIKit Additions](https://medium.com/the-traveled-ios-developers-guide/ios-12-notable-uikit-additions-b50beb0e3729)
