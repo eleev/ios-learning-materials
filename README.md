@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jvirus/ios-learning-materials?label=Last%20Commit)
 [![Language](https://img.shields.io/badge/Language-Swift-green.svg)]()
 [![Founded](https://img.shields.io/badge/Founded-August_2033-ff69b4.svg)]()
-[![Materials](https://img.shields.io/badge/Materials-2100-important.svg)]()
+[![Materials](https://img.shields.io/badge/Materials-2108-important.svg)]()
 [![MajorTopics](https://img.shields.io/badge/Major_Topics-81-red.svg)]()
 [![Last Commit](https://img.shields.io/github/last-commit/jvirus/ios-learning-materials)]()
 [![NLOC](https://img.shields.io/tokei/lines/github/jvirus/ios-learning-materials)]()

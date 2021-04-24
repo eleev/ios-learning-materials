@@ -244,6 +244,10 @@
 - [How to use Alert with SwiftUI](https://kristaps.me/blog/swiftui-alert/)
 - [How to show and hide content with DisclosureGroup using SwiftUI](https://kristaps.me/blog/swiftui-disclosure-group/)
 - [Quick guide to using Core Data with SwiftUI](https://tanaschita.com/20210320-using-core-data-with-swiftui)
+- [Every SwiftUI protocol explained](https://www.fivestars.blog/articles/swiftui-protocols/)
+- [4 Xcode shortcuts to boost your productivity for SwiftUI](https://sarunw.com/posts/xcode-shortcuts-for-swiftui/)
+- [Top-Level Menu Visibility in SwiftUI for macOS](https://steipete.com/posts/top-level-menu-visibility-in-swiftui/)
+- [How to resize an image view to fit a container view in SwiftUI](https://sarunw.com/posts/how-to-resize-an-image-to-fit-a-container-view-in-swiftui/)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
