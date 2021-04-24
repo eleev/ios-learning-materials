@@ -33,6 +33,10 @@
 - [Using Combine’s futures and subjects](https://swiftbysundell.com/articles/using-combine-futures-and-subjects/)
 - [Published properties in Swift](https://swiftbysundell.com/articles/published-properties-in-swift/)
 - [Using self, weak, and unowned in Combine](https://trycombine.com/posts/self-weak-unowned/)
+- [Understanding Schedulers in Swift Combine Framework](https://www.vadimbulavin.com/understanding-schedulers-in-swift-combine-framework/)
+- [Modern Networking in Swift 5 with URLSession, Combine and Codable](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/)
+- [Debugging with Swift Combine Framework](https://www.vadimbulavin.com/debugging-with-combine-swift-framework/)
+- [Transforming Operators in Swift Combine Framework: Map vs FlatMap vs SwitchToLatest](https://www.vadimbulavin.com/map-flatmap-switchtolatest-in-combine-framework/)
 
 ## Stackoverflow
 - [How to replicate PromiseKit-style chained async flow using Combine + Swift](https://stackoverflow.com/questions/59428026/how-to-replicate-promisekit-style-chained-async-flow-using-combine-swift)
