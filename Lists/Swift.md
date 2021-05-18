@@ -4,6 +4,14 @@ The list mostly constains Swift-related sections with a small exception related 
 ## What is new
 The section contains materials that are dedicated to specific versions of `Swift`
 
+### Swift 5.4
+- [What’s New in Swift 5.4?](https://betterprogramming.pub/whats-new-in-swift-5-4-88949071d538)
+- [Swift 5.4 Released!](https://swift.org/blog/swift-5-4-released/)
+- [What’s new in Swift 5.4?](https://www.hackingwithswift.com/articles/228/whats-new-in-swift-5-4)
+
+#### GitHub
+- [What’s new in Swift 5.4?](https://github.com/twostraws/whats-new-in-swift-5-4)
+
 ### Swift 5.3
 - [What’s new in Swift 5.3?](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3)
 - [How Do I Write Multiple Trailing Closures in Swift?](https://goshdarnmultipletrailingclosuresyntax.com)
