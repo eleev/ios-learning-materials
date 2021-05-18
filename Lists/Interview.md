@@ -13,7 +13,7 @@
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
 - [How to get the first job as an iOS developer](https://medium.com/flawless-app-stories/14-resources-to-help-you-get-your-ios-engineering-job-1cca22cedafe)
 
-## Preperation
+## Preparation
 - [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [Ninety-Nine Swift Problems](https://www.enekoalonso.com/projects/99-swift-problems/)
 
