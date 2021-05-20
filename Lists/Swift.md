@@ -66,6 +66,21 @@ The section contains materials that are dedicated to specific versions of `Swift
 ### Swift 4.0
 - [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/)
 
+## Actors
+- [Swift Actors: A practical example, part 1](https://trycombine.com/posts/swift-actors/)
+- [Swift Actors: A practical example, part 2](https://trycombine.com/posts/swift-actors-combine/)
+- [0306-actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md)
+
+## Structured Concurrency / async/await
+- [Introduction to structured concurrency in Swift: continuations, tasks, and cancellation](https://desiatov.com/swift-structured-concurrency-introduction/)
+- [Swift async/await, Structured concurrency, @asyncHandler](https://cagankiraz.medium.com/swift-async-await-structured-concurrency-asynchandler-bb649eb21bde)
+- [0304-structured-concurrency](https://github.com/apple/swift-evolution/blob/main/proposals/0304-structured-concurrency.md)
+- [0296-async-await](https://github.com/apple/swift-evolution/blob/main/proposals/0296-async-await.md)
+- [Getting started with async/await in Swift](https://www.enekoalonso.com/articles/getting-started-with-async-await-in-swift)
+- [Async and Await in Swift 5.5](https://betterprogramming.pub/async-and-await-in-swift-5-5-5c8abb9f4f85)
+- [Async/Await in Swift – Rethinking Callbacks and Escaping the Pyramid of Doom](https://qvik.com/news/async-await-in-swift-rethinking-callbacks-and-escaping-the-pyramid-of-doom/)
+- [Using async/await in SwiftUI](https://peterfriese.dev/async-await-in-swiftui/)
+
 ## Initialization
 - [Swift init patterns](https://theswiftdev.com/2017/10/10/swift-4-init-patterns/)
 
