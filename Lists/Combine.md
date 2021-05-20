@@ -38,6 +38,10 @@
 - [Debugging with Swift Combine Framework](https://www.vadimbulavin.com/debugging-with-combine-swift-framework/)
 - [Transforming Operators in Swift Combine Framework: Map vs FlatMap vs SwitchToLatest](https://www.vadimbulavin.com/map-flatmap-switchtolatest-in-combine-framework/)
 
+## subscribe(on:) and receive(on:)
+- [https://trycombine.com/posts/subscribe-on-receive-on/](subscribe(on:) vs receive(on:))
+- [RunLoop.main or DispatchQueue.main when using Combine scheduler?](https://forums.swift.org/t/runloop-main-or-dispatchqueue-main-when-using-combine-scheduler/26635)
+
 ## Stackoverflow
 - [How to replicate PromiseKit-style chained async flow using Combine + Swift](https://stackoverflow.com/questions/59428026/how-to-replicate-promisekit-style-chained-async-flow-using-combine-swift)
 - [Wait for all publishers](https://stackoverflow.com/questions/59615078/swift-combine-wait-for-all-publishers)
