@@ -15,6 +15,7 @@
 - [Become more productive and efficient in Xcode](https://medium.com/flawless-app-stories/become-more-productive-and-efficient-in-xcode-e2b5bc29f1ab)
 - [How to create code snippets in Xcode](https://sarunw.com/posts/how-to-create-code-snippets-in-xcode/)
 - [Xcode 11 Git Stashing](https://useyourloaf.com/blog/xcode-11-git-stashing/)
+- [How to set up iOS environments: develop, staging, and production](https://sarunw.com/posts/how-to-set-up-ios-environments/)
 
 ## Settings
 - [Using launch arguments / environment variables to simulate in-app purchase purchased and etc](https://fluffy.es/launch-arguments-environment-variables/)
