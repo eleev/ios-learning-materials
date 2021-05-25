@@ -99,13 +99,21 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift: Using Enums to Write Safer Code — Part Two](https://bruno.ph/blog/articles/swift-enums-for-safer-code-part-2/)
 - [Advanced Enum (Enumerations) by Example - Swift Programming Language](https://developerinsider.co/advanced-enum-enumerations-by-example-swift-programming-language/)
 
-## Function Builder (Swift 5.1)
+## Formatters 
+- [Exploring some of the lesser-known, built-in Formatter types](https://swiftbysundell.com/articles/exploring-some-of-the-lesser-known-formatter-types/)
+- [Formatter](https://nshipster.com/formatter/)
+- [Formatting numbers in Swift](https://www.swiftbysundell.com/articles/formatting-numbers-in-swift/)
+- [Nicely Formatted Lists with ListFormatter](https://emptytheory.com/2020/03/29/nicely-formatted-lists-with-listformatter/)
 
-## Articles
+## Result Builder (Function Builder) (Swift 5.1)
+
+### Articles
 - [Digging deeper into the Swift behind SwiftUI](https://davidbeck.co/posts/2019-06-11-digging-deeper-into-the-swift-behind-swiftui)
 - [UIAlertController with Function Builders](https://felginep.github.io/2020-03-10/uialertcontroller-function-builders)
 - [Understanding Function Builders](https://www.andyibanez.com/posts/understanding-function-builders/)
 - [Crash course in Swift's 'function builders' with SwiftUI](https://blog.vihan.org/swift-function-builders/)
+- [A deep dive into Swift’s result builders](https://swiftbysundell.com/articles/deep-dive-into-swift-function-builders/)
+- [Annotating properties with result builder attributes](https://swiftbysundell.com/tips/annotating-properties-with-result-builder-attributes/)
 
 ### Videos
 - [The Swift Behind SwiftUI – Daniel Steinberg at Hacking with Swift Live 2019](https://swiftui.map4b.com/2019/07/the-swift-behind-swiftui-daniel-steinberg-at-hacking-with-swift-live-2019/)
