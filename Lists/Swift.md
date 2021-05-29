@@ -4,6 +4,9 @@ The list mostly constains Swift-related sections with a small exception related 
 ## What is new
 The section contains materials that are dedicated to specific versions of `Swift`
 
+### Swift 5.5
+- [What's new in Swift 5.5?](https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5)
+
 ### Swift 5.4
 - [What’s New in Swift 5.4?](https://betterprogramming.pub/whats-new-in-swift-5-4-88949071d538)
 - [Swift 5.4 Released!](https://swift.org/blog/swift-5-4-released/)
@@ -86,9 +89,7 @@ The section contains materials that are dedicated to specific versions of `Swift
 
 ## Enumeration Type
 - [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
-- [Indirect Enums - Swift 3.0](https://jayeshkawli.ghost.io/indirect-enums-swift-3-0/)
-- [Indirect Enums And Structs](https://stackoverflow.com/questions/37533006/indirect-enums-and-structs)
-- [https://www.avanderlee.com/swift/enumerations/](https://www.avanderlee.com/swift/enumerations/)
+- [Enumerations](https://www.avanderlee.com/swift/enumerations/)
 - [Unknown Enum Cases](https://www.latenightswift.com/2019/02/04/unknown-enum-cases/)
 - [SERIALISATION OF ENUM WITH ASSOCIATED TYPE](https://dmtopolog.com/serialisation-of-enum-with-associated-type/)
 - [@unknown default usage with enums in Swift](https://www.avanderlee.com/swift/unknown-default-enums-in-swift/)
@@ -98,6 +99,17 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift: Using Enums to Write Safer Code](https://bruno.ph/blog/articles/swift-enums-for-safer-code/)
 - [Swift: Using Enums to Write Safer Code — Part Two](https://bruno.ph/blog/articles/swift-enums-for-safer-code-part-2/)
 - [Advanced Enum (Enumerations) by Example - Swift Programming Language](https://developerinsider.co/advanced-enum-enumerations-by-example-swift-programming-language/)
+
+## Indirect Keyword
+- [Indirect Enums - Swift 3.0](https://jayeshkawli.ghost.io/indirect-enums-swift-3-0/)
+- [Indirect Enums And Structs](https://stackoverflow.com/questions/37533006/indirect-enums-and-structs)
+- [What are indirect enums?](https://www.hackingwithswift.com/example-code/language/what-are-indirect-enums)
+- [Indirect Enums on practice](https://medium.com/flawless-app-stories/indirect-enums-on-practice-58610c9db2ac)
+
+### Q&A
+- [indirect enums and structs](https://stackoverflow.com/questions/37533006/indirect-enums-and-structs/37533442)
+- [Using `indirect` modifier for `struct` properties](https://forums.swift.org/t/using-indirect-modifier-for-struct-properties/37600)
+- [Who benefits from the `indirect` keyword?](https://forums.swift.org/t/who-benefits-from-the-indirect-keyword/20167)
 
 ## Formatters 
 - [Exploring some of the lesser-known, built-in Formatter types](https://swiftbysundell.com/articles/exploring-some-of-the-lesser-known-formatter-types/)
