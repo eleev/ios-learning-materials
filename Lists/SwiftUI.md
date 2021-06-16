@@ -248,6 +248,9 @@
 - [4 Xcode shortcuts to boost your productivity for SwiftUI](https://sarunw.com/posts/xcode-shortcuts-for-swiftui/)
 - [Top-Level Menu Visibility in SwiftUI for macOS](https://steipete.com/posts/top-level-menu-visibility-in-swiftui/)
 - [How to resize an image view to fit a container view in SwiftUI](https://sarunw.com/posts/how-to-resize-an-image-to-fit-a-container-view-in-swiftui/)
+- [What is new in SwiftUI after WWDC21](https://swiftwithmajid.com/2021/06/08/what-is-new-in-swiftui-after-wwdc21/)
+- [Frames in SwiftUI](https://swiftwithmajid.com/2021/06/02/frames-in-swiftui/)
+- [SwiftUI Introspect](https://www.fivestars.blog/articles/swiftui-introspect/)
 
 ### Animation 
 - [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/)
