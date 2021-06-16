@@ -1,5 +1,8 @@
 # UIKit
 
+## iOS/iPadOS 15
+- [iOS 15: Notable UIKit Additions](https://www.swiftjectivec.com/ios-15-notable-uikit-additions/)
+
 ## UIKeyCommand
 - [How to use UIKeyCommand to add keyboard shortcuts](https://www.hackingwithswift.com/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts)
 - [Adding Hardware Keyboard Shortcuts](https://useyourloaf.com/blog/adding-hardware-keyboard-shortcuts/)
@@ -63,6 +66,9 @@
 - [View Controller Lifecycle Explained: When to Use viewDidLayoutSubviews](https://www.appcoda.com/view-controller-lifecycle/)
 - [View Controllers Explained: Ultimate Guide For iOS & Swift](https://learnappmaking.com/view-controller-uiviewcontroller-ios-swift/#interactive-ui-with-view-controller-actions)
 
+### Modals
+- [Meet the new bottom sheet in iOS 15](https://nemecek.be/blog/108/meet-the-new-bottom-sheet-in-ios-15)
+
 ## UISearchController
 - [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 
@@ -87,6 +93,9 @@
 - [View Lifecycle](https://theswiftpost.co/view-lifecycle/)
 - [Advanced UIView shadow effects using shadowPath](https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath)
 - [UIView styling with functions](https://felginep.github.io/2019-02-19/uiview-styling-with-functions)
+
+## UIButton
+- [Taking UIKit’s new button configuration API for a spin](https://wwdcbysundell.com/2021/uikits-new-button-configuration-api/)
 
 ## UITextInput
 - [https://nshipster.com/uitextinputpasswordrules/](https://nshipster.com/uitextinputpasswordrules/)
@@ -195,6 +204,9 @@
 - [Navigation Bar Customisation. Part 1 - The Basics.](https://dmtopolog.com/navigation-bar-customization/)
 - [Navigation Bar Customisation. Part 2 - UINavigationBarAppearance and proper view/model separation.](https://dmtopolog.com/navigation-bar-customisation-2/)
 - [Swift 4 recipe: Using attributed string in navigation bar title](https://medium.com/@dushyant_db/swift-4-recipe-using-attributed-string-in-navigation-bar-title-39f08f5cdb81)
+
+# Layout 
+- [Manual UIKit Layout](https://www.highcaffeinecontent.com/blog/20210513-Manual-UIKit-Layout)
 
 ## Auto Layout 
 - [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
@@ -363,4 +375,5 @@
 - [4 breaking changes to check before building your app for iOS 13](https://fluffy.es/4-ios13-breaking-changes/)
 - [HEIC Image Compression for iOS](https://www.raywenderlich.com/4726843-heic-image-compression-for-ios?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B424)
 - [iOS Lifecycle When Dismissing a Modal View With .pageSheet in iOS 13](https://medium.com/better-programming/the-lifecycle-and-control-when-dismissing-a-modal-view-with-pagesheet-in-ios-13-4bbd1e3e1ec7)
+- [Automatic Keyboard Avoidance for UIKit](https://swiftsenpai.com/development/uikit-keyboard-avoidance/)
 
