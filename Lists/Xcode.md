@@ -21,6 +21,8 @@
 - [Using launch arguments / environment variables to simulate in-app purchase purchased and etc](https://fluffy.es/launch-arguments-environment-variables/)
 - [Improve your Xcode (Swift) Compile Time](https://medium.com/flawless-app-stories/improve-your-xcode-swift-compile-time-d9c1d3786473)
 - [Analyzing and Improving Build times in iOS](https://medium.com/flawless-app-stories/analyzing-and-improving-build-times-in-ios-5e2b77ef408e)
+- [Build performance analysis for speeding up Xcode builds](https://www.avanderlee.com/optimization/analysing-build-performance-xcode/)
+- [Measuring Swift compile times in Xcode 9](https://www.jessesquires.com/blog/2017/09/18/measuring-compile-times-xcode9/)
 
 ## What's New
 - [What's new in Xcode 11](https://www.hackingwithswift.com/articles/192/whats-new-in-xcode-11)
