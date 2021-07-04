@@ -1,4 +1,6 @@
 # Business
+
+## Articles
 - [How to Not Suck at Remote Working](http://www.vanschneider.com/remote-working)
 - [Why you can’t manage humans like they’re software](https://qz.com/work/1493875/why-you-cant-manage-humans-like-theyre-software/)
 - [Launching an app: from exciting to firefighting](https://medium.com/@heidi_helen/launching-an-app-from-exciting-to-firefighting-e21d020d9ef5)
@@ -16,3 +18,8 @@
 - [How To Maximize Value at Tech Conferences (as an Introvert)](https://dev.to/kimmaida/how-to-maximize-value-at-tech-conferences-as-an-introvert-3636)
 - [My Experience with Burnout as a Startup Founder](https://open.buffer.com/burnout/)
 - [The (not so) hidden cost of sharing code between iOS and Android](https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/)
+
+## Competitive Analysis
+- [Competitive Analysis: How To Conduct A Comprehensive Competitive Analysis](https://www.mykpono.com/how-to-conduct-competitive-analysis/)
+- [How to Perform a Best-in-Class Competitor Analysis (w/ Template)](https://buffer.com/library/competitor-analysis/)
+- [How Do You Stack Up? Competitor Analysis](https://www.bostondigital.com/insights/how-do-you-stack-competitor-analysis)
