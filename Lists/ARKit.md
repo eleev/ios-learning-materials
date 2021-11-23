@@ -42,6 +42,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 
 ## Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
+- [ARHeadsetKit: Using $5 Google Cardboard to replicate Hololens](https://github.com/philipturner/ARHeadsetKit)
 
 ## Documentation 📃
 - [ARKit Official Documentation](https://developer.apple.com/documentation/arkit)
@@ -49,6 +50,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Building a Basic AR Experience](https://developer.apple.com/documentation/arkit/building_a_basic_ar_experience)
 - [Displaying an AR experience with Metal](https://developer.apple.com/documentation/arkit/displaying_an_ar_experience_with_metal)
 - [Official Human Interface Design Guidelines For Augmented Reality](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
+- [ARHeadsetKit Tutorials: Guide to a high-level framework for experimenting with AR](https://github.com/philipturner/arheadsetkit#tutorial-series)
 
 ## Code 💻
 - [Lava Project](https://github.com/arirawr/ARKit-FloorIsLava)
@@ -97,6 +99,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [Reimagining the power of Xcode's View Debugger for live debugging of AR or SceneKit apps](https://github.com/p-sun/ARPowerPanels)
 - [Building a Museum App with ARKit 2](https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2)
 - [A crash course in Augmented Reality on iOS with ARKit](https://infinum.co/the-capsized-eight/crash-course-in-augmented-reality-on-ios-with-arkit)
+- [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum)
 
 ## Video 📹
 - [Learn how to place objects in the world such as a cube and cup using ARKit, we go over the basics of ARKit](https://www.youtube.com/watch?v=tgPV_cRf2hA)
