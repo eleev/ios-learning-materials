@@ -29,6 +29,7 @@
 - [Keras - Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.](https://github.com/fchollet/keras)
 - [coremltools is a python package for creating, examining, and testing models in the .mlmodel format. ](https://pypi.python.org/pypi/coremltools)
 - [5 Genius Python Deep Learning Libraries](https://elitedatascience.com/python-deep-learning-libraries#keras)
+- [DL4S - successor to Swift for TensorFlow](https://github.com/palle-k/DL4S)
 
 ## Video 📹
 - [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
