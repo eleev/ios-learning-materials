@@ -39,6 +39,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 - [BUILDING VOICE RESPONSIVE AR APPS](https://martinmitrevski.com/2018/12/16/building-voice-responsive-ar-apps/)
 - [AUGMENTED REALITY ON IOS WITH ARKIT](https://martinmitrevski.com/2017/11/22/augmented-reality-on-ios-with-arkit/)
 - [Getting Started with ARKit](https://blog.novoda.com/getting-started-with-arkit/)
+- [Creating the First Affordable AR Headset Experience](https://philipturner.github.io/first-affordable-ar-headset)
 
 ## Resources
 - [Hand-picked curation of the coolest stuff made with Apple's ARKit](http://www.madewitharkit.com)
