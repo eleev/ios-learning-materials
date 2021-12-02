@@ -84,6 +84,14 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Async/Await in Swift – Rethinking Callbacks and Escaping the Pyramid of Doom](https://qvik.com/news/async-await-in-swift-rethinking-callbacks-and-escaping-the-pyramid-of-doom/)
 - [Using async/await in SwiftUI](https://peterfriese.dev/async-await-in-swiftui/)
 
+### Videos
+- [Swift Concurrency Essentials: Getting Started](https://www.youtube.com/watch?v=pvtWLmSRimk)
+- [How do Actors work in Swift?](https://www.youtube.com/watch?v=8jvtHCXJ4Ow)
+- [Understanding Actors in Swift](https://www.youtube.com/watch?v=I8y1fg1P-nI)
+- [Getting Started with Swift Concurrency (Async Await, Actors, Continuations, Tasks)](https://www.youtube.com/watch?v=U6lQustiTGE)
+- [Swift Concurrency Manifesto | Chris Lattner and Lex Fridman](https://www.youtube.com/watch?v=s1AiBi5gf1s)
+- [How to download images in parallel with Swift Concurrency](https://www.youtube.com/watch?v=MjfEpYs5XA4)
+
 ## Initialization
 - [Swift init patterns](https://theswiftdev.com/2017/10/10/swift-4-init-patterns/)
 
