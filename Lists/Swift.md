@@ -83,6 +83,10 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Async and Await in Swift 5.5](https://betterprogramming.pub/async-and-await-in-swift-5-5-5c8abb9f4f85)
 - [Async/Await in Swift – Rethinking Callbacks and Escaping the Pyramid of Doom](https://qvik.com/news/async-await-in-swift-rethinking-callbacks-and-escaping-the-pyramid-of-doom/)
 - [Using async/await in SwiftUI](https://peterfriese.dev/async-await-in-swiftui/)
+- [What are generators and why Swift needs them?](https://desiatov.com/swift-generators/#title)
+- [Event loops, building smooth UIs, and handling high server load](https://desiatov.com/event-loops/#title)
+- [Coroutines and “yield” expressions in Swift](https://desiatov.com/swift-coroutines/#title)
+- [Introduction to structured concurrency in Swift: continuations, tasks, and cancellation](https://desiatov.com/swift-structured-concurrency-introduction/)
 
 ### Videos
 - [Swift Concurrency Essentials: Getting Started](https://www.youtube.com/watch?v=pvtWLmSRimk)
