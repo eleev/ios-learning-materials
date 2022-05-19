@@ -46,3 +46,11 @@
 - [Easy UITests for your iOS app](https://treatwell.engineering/easy-uitests-for-your-ios-app-6af7aa3457)
 - [UI Testing using Page Object pattern in Swift](https://swiftwithmajid.com/2021/03/24/ui-testing-using-page-object-pattern-in-swift/)
 - [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/)
+
+## Test Plans
+- [Xcode Test Plans](https://useyourloaf.com/blog/xcode-test-plans/)
+- [Xcode Test Plans for iOS: Getting Started](https://www.raywenderlich.com/10212963-xcode-test-plans-for-ios-getting-started)
+
+## WWDC
+- [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
+- [Diagnose unreliable code with test repetitions](https://developer.apple.com/videos/play/wwdc2021/10296/)
