@@ -5,7 +5,6 @@
 [![Founded](https://img.shields.io/badge/Founded-August_2017-ff69b4.svg)]()
 [![Materials](https://img.shields.io/badge/Materials-2181-important.svg)]()
 [![MajorTopics](https://img.shields.io/badge/Major_Topics-82-red.svg)]()
-[![Last Commit](https://img.shields.io/github/last-commit/jvirus/ios-learning-materials)]()
 [![NLOC](https://img.shields.io/tokei/lines/github/jvirus/ios-learning-materials)]()
 [![Contributors](https://img.shields.io/github/contributors/jvirus/ios-learning-materials)]()
 [![Repo Size](https://img.shields.io/github/repo-size/jvirus/ios-learning-materials)]()
@@ -106,6 +105,9 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 - [Business](Lists/Business.md)
 - [Project Management](Lists/ProjectManagement.md)
 - [Product](Lists/Product.md)
+
+# ⚠️ Disclamer
+**Please** note that some materials may not provide ***the best possible or the most optimal*** recommendations, solutions or source codes. Try to be open minded and take everything as a `step` in the `learning process`. If you encounter something to improve in the materials, **please** write your suggestions to the respected authors. 
 
 # 👨‍💻 Author
 [Astemir Eleev](https://github.com/jVirus)
