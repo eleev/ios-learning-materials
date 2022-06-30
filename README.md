@@ -109,7 +109,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 # ⚠️ Disclamer
 **Please** note that some materials may not provide ***the best possible or the most optimal*** recommendations, solutions or source codes. Try to be open minded and take everything as a `step` in the `learning process`. If you encounter something to improve in the materials, **please** write your suggestions to the respected authors. 
 
-# 🤩 Stargazers over time
+# 🤩 Stargazers
 [![Stargazers over time](https://starchart.cc/jVirus/ios-learning-materials.svg)](https://starchart.cc/jVirus/ios-learning-materials)
 
 # 👨‍💻 Author
