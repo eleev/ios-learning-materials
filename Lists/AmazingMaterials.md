@@ -134,6 +134,7 @@ Unfortunately `GitHub` does not allow to follow orginizations, so we need to sto
 - [David Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA)
 - [Devslopes](https://www.youtube.com/channel/UClLXKYEEM8OBBx85DOa6-cg)
 - [CodeWithChris](https://www.youtube.com/user/CodeWithChris/featured)
+- [Essential Developer](https://www.youtube.com/c/EssentialDeveloper)
 
 ## Assets 
 
