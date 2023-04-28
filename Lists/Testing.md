@@ -46,6 +46,10 @@
 - [Easy UITests for your iOS app](https://treatwell.engineering/easy-uitests-for-your-ios-app-6af7aa3457)
 - [UI Testing using Page Object pattern in Swift](https://swiftwithmajid.com/2021/03/24/ui-testing-using-page-object-pattern-in-swift/)
 - [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/)
+- [Improving iOS UI Testing](https://medium.com/expedia-group-tech/improving-ios-ui-testing-ad55470825b4)
+- [Introduction to UI Testing in SwiftUI Using XCTest Framework](https://www.appcoda.com/ui-testing-swiftui-xctest/)
+- [Getting started with UI testing for SwiftUI](https://tanaschita.com/20220530-getting-started-with-ui-testing-for-swiftui-with-xctest-framework/)
+- [Writing testable code when using SwiftUI](https://www.swiftbysundell.com/articles/writing-testable-code-when-using-swiftui/)
 
 ## Test Plans
 - [Xcode Test Plans](https://useyourloaf.com/blog/xcode-test-plans/)
