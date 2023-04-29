@@ -4,6 +4,23 @@ The list mostly constains Swift-related sections with a small exception related 
 ## What is new
 The section contains materials that are dedicated to specific versions of `Swift`
 
+### Swift 5.8
+- [What's new in Swift 5.8](https://www.hackingwithswift.com/articles/256/whats-new-in-swift-5-8)
+- [Swift 5.8 Released!](https://www.swift.org/blog/swift-5.8-released/)
+- [What's New in Swift 5.8](https://sarunw.com/posts/whats-new-in-swift-5-8/)
+- [What's New in Swift 5.8](https://byby.dev/swift-58)
+
+### Swift 5.7
+- [What’s new in Swift 5.7](https://www.hackingwithswift.com/articles/249/whats-new-in-swift-5-7)
+- [Swift 5.7 Released!](https://www.swift.org/blog/swift-5.7-released/)
+- [What’s new in Swift 5.7?](https://blog.devgenius.io/whats-new-in-swift-5-7-8e3f06e93e30)
+- [What’s new in Swift 5.7](https://blog.swiftify.com/whats-new-in-swift-5-7-e0a2ba39fb78)
+
+### Swift 5.6
+- [What’s New in Swift 5.6](https://www.swiftlyrush.com/whats-new-in-swift-5-6/)
+- [Swift 5.6 Released!](https://www.swift.org/blog/swift-5.6-released/)
+- [What’s new in Swift 5.6?](https://www.hackingwithswift.com/articles/247/whats-new-in-swift-5-6)
+
 ### Swift 5.5
 - [What's new in Swift 5.5?](https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5)
 
@@ -380,6 +397,9 @@ The section contains materials that are dedicated to specific versions of `Swift
 - [Swift 4 KeyPaths and You](https://www.klundberg.com/blog/swift-4-keypaths-and-you/)
 - [The power of key paths in Swift](https://www.swiftbysundell.com/articles/the-power-of-key-paths-in-swift/)
 - [Using KeyPaths as functions in Swift 5.2](https://www.donnywals.com/using-keypaths-as-functions-in-swift-5-2/)
+- [The power of key paths in Swift](https://www.swiftbysundell.com/articles/the-power-of-key-paths-in-swift/)
+- [Keypaths in Swift Explained](https://www.appypie.com/swift-keypath-how-to)
+- [Understanding KeyPaths in Swift](https://www.andyibanez.com/posts/understanding-keypaths-swift/)
 
 ## Subscripts
 - [Handling Index Out of Range Exception the Swift Way](http://www.vadimbulavin.com/handling-out-of-bounds-exception/)
