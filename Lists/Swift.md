@@ -169,12 +169,13 @@ The section contains materials that are dedicated to specific versions of `Swift
 ## Directives 
 - [#warning It seems that Swift can’t do this!](https://medium.com/rocknnull/warning-it-seems-that-swift-cant-do-this-def0c9c9d0f7)
 
-## Strings
+## String
 - [Strings In Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
 - [Dive deep into Swift String](https://flawlessapp.io/blog/dive-deep-into-swift-string/)
 - [String literals in Swift](https://www.swiftbysundell.com/posts/string-literals-in-swift)
 - [Empty Strings in Swift](https://useyourloaf.com/blog/empty-strings-in-swift/)
 - [How Strings and Substrings work in Swift](https://medium.com/@suragch/how-strings-and-substrings-work-in-swift-fd4dc43ee91d)
+- [Different ways to check if a string contains another string in Swift](https://sarunw.com/posts/different-ways-to-check-if-string-contains-another-string-in-swift/)
 
 ## Regular Expressions
 - [How to use regular expressions in Swift](https://www.hackingwithswift.com/articles/108/how-to-use-regular-expressions-in-swift)
