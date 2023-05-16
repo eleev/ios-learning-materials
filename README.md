@@ -10,7 +10,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/eleev/ios-learning-materials)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-![](logo-alternative.jpg)
+![](eleev-midjourney-infinite-library.jpeg)
 
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
 
