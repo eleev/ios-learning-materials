@@ -6,8 +6,8 @@
 [![Materials](https://img.shields.io/badge/Materials-2194-important.svg)]()
 [![MajorTopics](https://img.shields.io/badge/Major_Topics-83-red.svg)]()
 [![NLOC](https://img.shields.io/tokei/lines/github/jvirus/ios-learning-materials)]()
-[![Contributors](https://img.shields.io/github/contributors/jvirus/ios-learning-materials)]()
-[![Repo Size](https://img.shields.io/github/repo-size/jvirus/ios-learning-materials)]()
+[![Contributors](https://img.shields.io/github/contributors/eleev/ios-learning-materials)]()
+[![Repo Size](https://img.shields.io/github/repo-size/eleev/ios-learning-materials)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
 ![](logo-alternative.jpg)
@@ -111,10 +111,10 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 **Please** note that some materials may not provide ***the best possible or the most optimal*** recommendations, solutions or source codes. Try to be open minded and take everything as a `step` in the `learning process`. If you encounter something to improve in the materials, **please** write your suggestions to the respected authors. 
 
 # 🤩 Stargazers
-[![Stargazers over time](https://starchart.cc/jVirus/ios-learning-materials.svg)](https://starchart.cc/jVirus/ios-learning-materials)
+[![Stargazers over time](https://starchart.cc/eleev/ios-learning-materials.svg)](https://starchart.cc/eleev/ios-learning-materials)
 
 # 👨‍💻 Author
-[Astemir Eleev](https://github.com/jVirus)
+[Astemir Eleev](https://github.com/eleev)
 
 # 🔖 Licence
-The project is availabe under [MIT Licence](https://github.com/jVirus/ios-learning-materials/blob/master/LICENSE)
+The project is availabe under [MIT Licence](https://github.com/eleev/ios-learning-materials/blob/master/LICENSE)
