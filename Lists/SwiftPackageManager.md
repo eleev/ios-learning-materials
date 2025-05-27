@@ -14,6 +14,7 @@
 - [Creating a command line tool using the Swift Package Manager](https://www.avanderlee.com/swift/command-line-tool-package-manager/)
 - [Creating Swift Packages in Xcode](https://useyourloaf.com/blog/creating-swift-packages-in-xcode/)
 - [Add resources to Swift packages](https://useyourloaf.com/blog/add-resources-to-swift-packages/)
+- [Packaging and Sharing Custom Fonts](https://jacobzivandesign.com/technology/custom-fonts-from-swift-package/)
 
 ## Stackoverflow
 - [Excluding files in Swift Packages](https://stackoverflow.com/questions/57619273/excluding-files-in-swift-packages)
