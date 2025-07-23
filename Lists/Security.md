@@ -5,3 +5,4 @@
 - [iOS Security](https://www.apple.com/business/site/docs/iOS_Security_Guide.pdf)
 - [Popular note-taking apps share these security flaws: security tips for developers](https://medium.com/@vixentael/popular-note-taking-apps-share-these-security-flaws-security-tips-for-developers-326180e41329)
 - - [iOS Inspection using Frida Series ](https://8ksec.io/advanced-frida-usage-part-1-ios-encryption-libraries-8ksec-blogs/)
+- [8kSec Battlegrounds](https://8ksec.io/battle/)
