@@ -71,3 +71,6 @@ For Scaledrone Swift, please follow the [specified link](https://github.com/Scal
 
 ## Protocol Buffers
 - [Introduction to Protocol Buffers on iOS](https://www.raywenderlich.com/749-introduction-to-protocol-buffers-on-ios)
+
+## [FluidAudio](https://github.com/FluidInference/FluidAudio)
+- [FluidAudio - On-device speech processing for iOS and macOS: ASR, TTS, VAD, and speaker diarization](https://github.com/FluidInference/FluidAudio)
